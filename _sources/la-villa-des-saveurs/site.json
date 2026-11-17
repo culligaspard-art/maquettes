@@ -1,0 +1,13 @@
+{
+  "fonts": [
+    {"key": "shrikhand", "family": "shrikhand", "weight": 400},
+    {"key": "barlow400", "family": "barlow", "weight": 400},
+    {"key": "barlow500", "family": "barlow", "weight": 500},
+    {"key": "cond500", "family": "barlow-condensed", "weight": 500},
+    {"key": "cond600", "family": "barlow-condensed", "weight": 600}
+  ],
+  "horaires": {
+    "lundi": [], "mardi": ["17:00-20:30"], "mercredi": ["17:00-20:30"], "jeudi": ["17:00-20:30"],
+    "vendredi": ["17:00-20:30"], "samedi": [], "dimanche": ["17:00-20:30"]
+  }
+}
