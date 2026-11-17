@@ -12,7 +12,8 @@ Le dossier du chantier contient :
                   {{hours_js}}   horaires au format JS {0:[["18:00","21:00"]], ...} (0 = dimanche)
     img/        les photos (déjà recadrées si besoin)
     site.json   {"fonts": [{"key": "titre", "family": "grenze-gotisch", "weight": 600},
-                           {"key": "texte", "family": "schibsted-grotesk", "variable": true}],
+                           {"key": "texte", "family": "schibsted-grotesk", "variable": true},
+                           {"key": "titre-it", "family": "bodoni-moda", "variable": true, "style": "italic"}],
                  "horaires": {"lundi": ["18:00-21:00"], "mardi": [], ...}}
 """
 import base64, io, json, re, subprocess, sys, tarfile, tempfile
@@ -25,8 +26,8 @@ JOURS = [("lundi", "Lundi", 1), ("mardi", "Mardi", 2), ("mercredi", "Mercredi", 
 
 
 def font_file(spec):
-    fam, var = spec["family"], spec.get("variable", False)
-    name = f"{fam}-latin-wght-normal.woff2" if var else f"{fam}-latin-{spec.get('weight', 400)}-normal.woff2"
+    fam, var, st = spec["family"], spec.get("variable", False), spec.get("style", "normal")
+    name = f"{fam}-latin-wght-{st}.woff2" if var else f"{fam}-latin-{spec.get('weight', 400)}-{st}.woff2"
     CACHE.mkdir(parents=True, exist_ok=True)
     out = CACHE / name
     if out.exists():

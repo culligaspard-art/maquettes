@@ -1,0 +1,10 @@
+{
+  "fonts": [
+    {"key": "bodoni-it", "family": "bodoni-moda", "variable": true, "style": "italic"},
+    {"key": "jost", "family": "jost", "variable": true}
+  ],
+  "horaires": {
+    "lundi": [], "mardi": ["09:00-18:30"], "mercredi": ["09:00-18:30"], "jeudi": ["09:00-18:30"],
+    "vendredi": ["09:00-18:30"], "samedi": ["09:00-16:00"], "dimanche": []
+  }
+}

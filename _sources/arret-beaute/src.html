@@ -1,0 +1,433 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Arrêt Beauté Institut – Maquette de site</title>
+<meta name="description" content="Institut de beauté à Volgelsheim : onglerie, maquillage, épilations, soins du visage et du corps. 8 rue de l'Ancienne Ferme, 68600 Volgelsheim.">
+<meta name="theme-color" content="#F8E4EC">
+<link rel="icon" href="{{img:monogramme}}">
+<script>
+  (function () {
+    var d = document.documentElement;
+    d.classList.add("js");
+    if (!window.matchMedia("(prefers-reduced-motion: reduce)").matches) d.classList.add("js-intro");
+  })();
+</script>
+<style>
+@font-face{font-family:"Bodoni Moda";font-style:italic;font-weight:400 900;font-display:swap;src:url({{font:bodoni-it}}) format("woff2")}
+@font-face{font-family:"Jost";font-style:normal;font-weight:100 900;font-display:swap;src:url({{font:jost}}) format("woff2")}
+
+:root{
+  --rose:#F8E4EC;
+  --rose-pale:#FDF4F7;
+  --blanc:#FFFBFC;
+  --magenta:#BE1D6B;
+  --magenta-vif:#D4267D;
+  --prune:#3B1230;
+  --mauve:#74445F;
+  --trait:rgba(59,18,48,.14);
+  --f-titre:"Bodoni Moda", "Didot", Georgia, serif;
+  --f-texte:"Jost", system-ui, sans-serif;
+  --nail:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 160' preserveAspectRatio='none'%3E%3Cpath d='M50 0C74 6 100 42 100 84V128C100 146 80 160 50 160C20 160 0 146 0 128V84C0 42 26 6 50 0Z'/%3E%3C/svg%3E");
+  --ease-out:cubic-bezier(.16,1,.3,1);
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%;scroll-behavior:smooth;scroll-padding-top:5rem}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+body{margin:0;background:var(--blanc);color:var(--prune);font:400 1rem/1.6 var(--f-texte);overflow-x:hidden}
+img{display:block;max-width:100%}
+a{color:inherit}
+:focus-visible{outline:3px solid var(--magenta);outline-offset:3px;border-radius:4px}
+h1,h2,h3{font-family:var(--f-titre);font-style:italic;font-weight:500;line-height:1.1;margin:0}
+p{margin:0}
+.page{width:100%;max-width:1280px;margin-inline:auto;padding-inline:clamp(20px,5vw,56px)}
+
+/* ---------- Bandeau maquette ---------- */
+.demo{background:var(--prune);color:#F6E9EF;font-size:.875rem;line-height:1.45;text-align:center;padding:.6rem 1rem}
+.demo strong{font-weight:500}
+
+/* ---------- En-tête ---------- */
+.top{position:sticky;top:0;z-index:40;background:transparent;transition:background-color .2s ease,box-shadow .2s ease}
+.top.is-solid{background:rgba(253,244,247,.97);box-shadow:0 1px 0 var(--trait)}
+.top__in{display:flex;align-items:center;gap:1.25rem;min-height:4.5rem}
+.brand{display:flex;align-items:center;gap:.7rem;text-decoration:none;margin-right:auto;min-height:44px}
+.brand img{width:3.4rem;height:auto}
+.brand span{font-family:var(--f-titre);font-style:italic;font-weight:500;font-size:1.3rem;white-space:nowrap}
+.nav{display:none;gap:1.75rem}
+.nav a{text-decoration:none;font-weight:500;padding:.6rem 0;border-bottom:1.5px solid transparent}
+.nav a:hover{border-bottom-color:var(--magenta)}
+.top .btn{display:none}
+.menu-btn{display:inline-grid;place-items:center;width:44px;height:44px;border:0;border-radius:50%;background:var(--prune);color:#fff;cursor:pointer}
+.menu-btn svg{width:22px;height:22px}
+.nav-panel{display:none;flex-direction:column;padding:.5rem clamp(20px,5vw,56px) 1.25rem;background:var(--rose-pale);border-bottom:1px solid var(--trait)}
+.nav-panel.is-open{display:flex}
+.nav-panel a{padding:.85rem 0;text-decoration:none;font-weight:500;border-bottom:1px solid var(--trait)}
+@media (min-width:900px){
+  .nav{display:flex}.top .btn{display:inline-flex}.menu-btn{display:none}.nav-panel,.nav-panel.is-open{display:none}
+}
+
+/* ---------- Boutons ---------- */
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:.55rem;min-height:48px;padding:.8rem 1.35rem;border-radius:999px;font:500 1rem/1.2 var(--f-texte);text-decoration:none;border:0;cursor:pointer;transition:background-color .15s ease,color .15s ease}
+.btn svg{width:1.15em;height:1.15em;flex:none}
+.btn--lac{background:var(--magenta);color:#fff}
+.btn--lac:hover{background:#A3165B}
+.btn--trait{box-shadow:inset 0 0 0 1.5px var(--prune);color:var(--prune);background:transparent}
+.btn--trait:hover{background:var(--prune);color:#fff}
+.actions{display:flex;flex-wrap:wrap;gap:.75rem}
+
+/* ---------- Hero ---------- */
+.hero{background:linear-gradient(180deg,var(--rose) 0%,var(--rose-pale) 100%);margin-top:-4.5rem;padding-top:4.5rem;overflow:hidden}
+.hero__grid{display:grid;gap:1.75rem;padding-top:2.5rem;padding-bottom:3rem;align-items:center}
+@media (min-width:900px){.hero__grid{grid-template-columns:1.05fr 1fr;gap:3rem;min-height:min(86vh,760px);padding-top:3rem}}
+.hero__kicker{color:var(--mauve);font-size:1rem;margin-bottom:1rem}
+.hero__title{font-size:clamp(3.4rem,10vw,7.4rem);line-height:.95;letter-spacing:-.02em;font-weight:500}
+.hero__title .ln{display:block;white-space:nowrap}
+.hero__title .ln + .ln{padding-left:.6em}
+.hero__tag{font-family:var(--f-titre);font-style:italic;font-size:clamp(1.25rem,1.2vw + 1rem,1.6rem);line-height:1.3;color:var(--magenta);margin:1.25rem 0 1.5rem}
+.status{display:none;align-items:center;gap:.6rem;font-weight:500;margin-bottom:1.5rem}
+.status.is-ready{display:inline-flex}
+.status__dot{flex:none;width:.7rem;height:.7rem;border-radius:50%;background:#B4485E}
+.status[data-open="1"] .status__dot{background:#2E9F62;box-shadow:0 0 0 .3rem rgba(46,159,98,.2)}
+.hero__proof{margin-top:1.5rem;color:var(--mauve);font-size:.875rem}
+
+/* Éventail d'ongles */
+.fan{position:relative;width:min(100%,560px);aspect-ratio:1.45/1;margin-inline:auto}
+@media (min-width:900px){.fan{aspect-ratio:1/1}.fan figure{width:36%;bottom:14%}}
+.fan figure{position:absolute;bottom:6%;left:50%;width:31%;aspect-ratio:5/8;margin:0;transform-origin:50% 120%;filter:drop-shadow(0 18px 24px rgba(59,18,48,.18))}
+.fan .f1{transform:translateX(-50%) rotate(-24deg) translateX(-62%)}
+.fan .f2{transform:translateX(-50%) translateY(-6%)}
+.fan .f3{transform:translateX(-50%) rotate(24deg) translateX(62%)}
+.nail{position:relative;width:100%;height:100%;-webkit-mask:var(--nail) center/100% 100% no-repeat;mask:var(--nail) center/100% 100% no-repeat;background:var(--rose)}
+.nail img{width:100%;height:100%;object-fit:cover}
+.nail::after{content:"";position:absolute;inset:0;background:linear-gradient(115deg,rgba(255,255,255,0) 30%,rgba(255,255,255,.38) 42%,rgba(255,255,255,0) 54%);pointer-events:none}
+
+/* ---------- Sections ---------- */
+.sec{padding:clamp(4rem,8vw,7rem) 0}
+.sec h2{font-size:clamp(2.4rem,4vw + 1rem,4rem);letter-spacing:-.01em}
+.lead{color:var(--mauve);max-width:52ch;margin-top:1rem;font-size:1.0625rem}
+
+/* Soins */
+.soins__grid{display:grid;gap:2.5rem}
+@media (min-width:900px){.soins__grid{grid-template-columns:1fr 1.4fr;gap:5rem}}
+.soins__list{list-style:none;margin:0;padding:0;display:grid}
+.soins__list li{display:grid;grid-template-columns:1.1rem 1fr;gap:1.1rem;padding:1.5rem 0;border-top:1px solid var(--trait)}
+.soins__list li:last-child{border-bottom:1px solid var(--trait)}
+.soins__list li::before{content:"";width:1.1rem;height:1.75rem;margin-top:.2rem;background:var(--magenta);-webkit-mask:var(--nail) center/100% 100% no-repeat;mask:var(--nail) center/100% 100% no-repeat}
+.soins__list li:nth-child(2)::before{background:#E58BA9}
+.soins__list li:nth-child(3)::before{background:#8E2A57}
+.soins__list li:nth-child(4)::before{background:#F2B8C8}
+.soins__list h3{font-size:1.6rem;margin-bottom:.35rem}
+.soins__list p{color:var(--mauve)}
+.soins__note{margin-top:1.75rem;font-weight:500}
+.soins__note a{color:var(--magenta);text-underline-offset:3px}
+
+/* Nuancier */
+.nuancier{background:var(--rose-pale)}
+.nuancier__head{display:grid;gap:1rem;margin-bottom:3rem}
+@media (min-width:900px){.nuancier__head{grid-template-columns:1fr 1fr;align-items:end}}
+.rack{list-style:none;margin:0;padding:0 0 1rem;display:flex;gap:1rem;overflow-x:auto;scroll-snap-type:x mandatory;-webkit-overflow-scrolling:touch}
+.rack li{flex:0 0 44%;scroll-snap-align:start}
+@media (min-width:640px){.rack li{flex-basis:28%}}
+@media (min-width:1000px){.rack{display:grid;grid-template-columns:repeat(7,1fr);gap:1.25rem;overflow:visible;padding:0}.rack li{min-width:0}}
+.rack figure{margin:0}
+.rack .nail{aspect-ratio:5/8;height:auto;filter:none}
+.rack .flacon{filter:drop-shadow(0 12px 16px rgba(59,18,48,.14));transition:transform .2s var(--ease-out)}
+@media (hover:hover){.rack li:hover .flacon{transform:translateY(-6px)}}
+.rack figcaption{margin-top:.9rem;font-size:.875rem;line-height:1.4;color:var(--mauve);text-align:center}
+.rack figcaption strong{display:block;color:var(--prune);font-weight:500;font-size:1rem}
+.rack__hint{margin-top:.75rem;font-size:.875rem;color:var(--mauve)}
+@media (min-width:1000px){.rack__hint{display:none}}
+
+/* Regard */
+.regard{background:var(--prune);color:#F7E9EF}
+.regard__grid{display:grid;gap:2rem;align-items:center}
+@media (min-width:900px){.regard__grid{grid-template-columns:.8fr 1.6fr;gap:4rem}}
+.regard h2{color:#fff}
+.regard .lead{color:#E5C9D6}
+.regard figure{margin:0}
+.regard img{width:100%;border-radius:1.25rem}
+.regard figcaption{display:flex;justify-content:space-between;margin-top:.75rem;font-size:.875rem;color:#E5C9D6}
+
+/* Horaires et accès */
+.visite__grid{display:grid;gap:3rem}
+@media (min-width:900px){.visite__grid{grid-template-columns:1fr 1fr;gap:5rem}}
+.hours{width:100%;border-collapse:collapse;margin-top:1.75rem;font-size:1.0625rem}
+.hours th,.hours td{text-align:left;padding:.8rem .9rem;border-bottom:1px solid var(--trait);font-weight:400}
+.hours th{width:9.5rem}
+.hours td{font-variant-numeric:tabular-nums}
+.hours tr.is-today{background:var(--rose)}
+.hours tr.is-today th,.hours tr.is-today td{font-weight:500}
+.carte{background:var(--rose);border-radius:1.5rem;padding:clamp(1.5rem,4vw,2.5rem);margin-top:1.75rem}
+.carte address{font-style:normal;font-size:1.25rem;line-height:1.45;margin-bottom:1rem}
+.carte .contact{margin-bottom:1.5rem;line-height:1.9}
+.carte .contact a{text-underline-offset:3px;overflow-wrap:anywhere}
+.carte__proof{margin-top:1.5rem;font-size:.875rem;color:var(--mauve)}
+
+/* Pied de page */
+.foot{background:var(--rose);padding:3.5rem 0 6rem}
+.foot__grid{display:grid;gap:1.75rem;align-items:start}
+@media (min-width:900px){.foot__grid{grid-template-columns:auto 1fr 1.2fr;gap:3rem;align-items:center}.foot{padding-bottom:3.5rem}}
+.foot img{width:7rem}
+.foot__links{display:flex;gap:1.25rem;margin-top:.6rem}
+.foot__links a{display:inline-flex;align-items:center;min-height:44px;font-weight:500}
+.foot__demo{font-size:.875rem;color:var(--mauve);max-width:52ch}
+
+/* Barre mobile */
+.mbar{position:fixed;left:0;right:0;bottom:0;z-index:45;display:flex;gap:.6rem;padding:.7rem clamp(12px,4vw,20px) calc(.7rem + env(safe-area-inset-bottom));background:rgba(253,244,247,.97);box-shadow:0 -1px 0 var(--trait);transform:translateY(110%);transition:transform .2s var(--ease-out)}
+.mbar.is-on{transform:none}
+.mbar .btn{flex:1}
+@media (min-width:900px){.mbar{display:none}}
+
+/* ---------- Ouverture : un ongle qui se vernit ---------- */
+.intro{display:none}
+.js-intro .intro{display:block;position:fixed;inset:0;z-index:100;cursor:pointer}
+.intro svg{position:absolute;inset:0;width:100%;height:100%}
+.intro__veil{transform-origin:50% 50%;animation:veil .9s cubic-bezier(.7,0,.84,0) 1.7s both}
+.intro__nail{animation:fadeOut .3s ease-in 1.55s both}
+.i-outline{opacity:0;animation:fadeIn .25s ease-out .05s both}
+.i-lacquer{transform-box:fill-box;transform:translateY(100%);animation:lacquer .8s cubic-bezier(.65,0,.35,1) .25s both}
+.i-gloss{transform-box:fill-box;transform:translateX(0);opacity:.0;animation:gloss .55s ease-in-out .95s both}
+.i-mono{opacity:0;animation:fadeIn .4s ease-out 1.05s both}
+.intro__skip{position:absolute;left:0;right:0;bottom:2.2rem;text-align:center;color:var(--mauve);font-size:.875rem;opacity:0;animation:fadeIn .3s ease-out .4s both,fadeOut .2s ease-in 1.5s forwards}
+@keyframes fadeIn{to{opacity:1}}
+@keyframes fadeOut{to{opacity:0}}
+@keyframes lacquer{to{transform:translateY(0)}}
+@keyframes gloss{0%{transform:translateX(0);opacity:0}20%{opacity:.9}100%{transform:translateX(320%);opacity:0}}
+@keyframes veil{to{transform:scale(18)}}
+.intro-skip .intro{opacity:0;pointer-events:none;transition:opacity .15s ease-in}
+.intro-skip .intro *{animation:none}
+@media (prefers-reduced-motion:reduce){.intro{display:none!important}}
+</style>
+</head>
+<body>
+
+<div class="intro" id="intro" aria-hidden="true">
+  <svg class="intro__veil" viewBox="0 0 1000 1000" preserveAspectRatio="xMidYMid slice">
+    <defs>
+      <mask id="trou" maskUnits="userSpaceOnUse" x="-3000" y="-3000" width="7000" height="7000">
+        <rect x="-3000" y="-3000" width="7000" height="7000" fill="#fff"/>
+        <path transform="translate(435 396) scale(1.3)" d="M50 0C74 6 100 42 100 84V128C100 146 80 160 50 160C20 160 0 146 0 128V84C0 42 26 6 50 0Z" fill="#000"/>
+      </mask>
+    </defs>
+    <rect x="-3000" y="-3000" width="7000" height="7000" fill="#F8E4EC" mask="url(#trou)"/>
+  </svg>
+  <svg class="intro__nail" viewBox="0 0 1000 1000" preserveAspectRatio="xMidYMid slice">
+    <defs>
+      <clipPath id="ongle"><path transform="translate(435 396) scale(1.3)" d="M50 0C74 6 100 42 100 84V128C100 146 80 160 50 160C20 160 0 146 0 128V84C0 42 26 6 50 0Z"/></clipPath>
+      <linearGradient id="laque" x1="0" y1="0" x2="1" y2="1">
+        <stop offset="0" stop-color="#E0479A"/><stop offset=".55" stop-color="#BE1D6B"/><stop offset="1" stop-color="#7E1046"/>
+      </linearGradient>
+      <linearGradient id="brille" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".85"/><stop offset="1" stop-color="#fff" stop-opacity="0"/>
+      </linearGradient>
+    </defs>
+    <g clip-path="url(#ongle)">
+      <rect x="435" y="396" width="130" height="208" fill="#F1D3DC"/>
+      <rect class="i-lacquer" x="435" y="396" width="130" height="208" fill="url(#laque)"/>
+      <polygon class="i-gloss" points="395,380 425,380 385,620 355,620" fill="url(#brille)"/>
+      <image class="i-mono" href="{{img:monogramme-blanc}}" x="452" y="478" width="96" height="46"/>
+    </g>
+    <path class="i-outline" transform="translate(435 396) scale(1.3)" d="M50 0C74 6 100 42 100 84V128C100 146 80 160 50 160C20 160 0 146 0 128V84C0 42 26 6 50 0Z" fill="none" stroke="#BE1D6B" stroke-width="1.2"/>
+  </svg>
+  <p class="intro__skip">Cliquer pour passer</p>
+</div>
+
+<div class="demo" role="note"><strong>Maquette réalisée par Gaspard Culli</strong> pour Arrêt Beauté Institut. Ce site n'est pas encore en ligne.</div>
+
+<header class="top" id="top">
+  <div class="page top__in">
+    <a class="brand" href="#accueil"><img src="{{img:monogramme}}" alt=""><span>Arrêt Beauté</span></a>
+    <nav class="nav" aria-label="Navigation principale">
+      <a href="#soins">Les soins</a>
+      <a href="#nuancier">Le nuancier</a>
+      <a href="#horaires">Horaires et accès</a>
+    </nav>
+    <a class="btn btn--lac" href="tel:+33685565430">Prendre rendez-vous</a>
+    <button class="menu-btn" id="menu-btn" aria-expanded="false" aria-controls="nav-panel" aria-label="Ouvrir le menu">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+    </button>
+  </div>
+  <nav class="nav-panel" id="nav-panel" aria-label="Menu">
+    <a href="#soins">Les soins</a>
+    <a href="#nuancier">Le nuancier</a>
+    <a href="#horaires">Horaires et accès</a>
+    <a href="tel:+33685565430">Appeler le 06 85 56 54 30</a>
+  </nav>
+</header>
+
+<main>
+  <section class="hero" id="accueil">
+    <div class="page hero__grid">
+      <div class="hero__text">
+        <p class="hero__kicker">Institut de beauté à Volgelsheim</p>
+        <h1 class="hero__title"><span class="ln">Arrêt</span><span class="ln">Beauté</span></h1>
+        <p class="hero__tag">Votre bien-être de la tête aux pieds.</p>
+        <p class="status" data-status><span class="status__dot"></span><span data-status-text></span></p>
+        <div class="actions">
+          <a class="btn btn--lac" href="tel:+33685565430">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2"/></svg>
+            Appeler le 06 85 56 54 30</a>
+          <a class="btn btn--trait" href="mailto:arret.beaute@yahoo.fr">Écrire un mail</a>
+        </div>
+        <p class="hero__proof">Noté 4,6 sur 5 sur Google (36 avis), recommandé à 96 % sur Facebook.</p>
+      </div>
+      <div class="fan">
+        <figure class="f1"><div class="nail"><img src="{{img:citrons}}" alt="Ongles crème décorés de citrons et de feuilles"></div></figure>
+        <figure class="f3"><div class="nail"><img src="{{img:leopard-bleu}}" alt="Ongles bleus et motif léopard"></div></figure>
+        <figure class="f2"><div class="nail"><img src="{{img:rose-fluo}}" alt="Ongles rose fluo avec un liseré pailleté" style="object-position:50% 65%"></div></figure>
+      </div>
+    </div>
+  </section>
+
+  <section class="sec" id="soins">
+    <div class="page soins__grid">
+      <div>
+        <h2>Les soins</h2>
+        <p class="lead">Un institut à taille humaine, où l'on prend le temps. Des ongles au visage, on s'occupe de vous de la tête aux pieds.</p>
+      </div>
+      <div>
+        <ul class="soins__list">
+          <li><div><h3>Onglerie</h3><p>Couleur unie, french ou nail art : des ongles soignés, du plus sobre au plus coloré.</p></div></li>
+          <li><div><h3>Maquillage</h3><p>Pour un événement, une soirée ou simplement pour se faire plaisir.</p></div></li>
+          <li><div><h3>Épilations</h3><p>Visage et corps, dans un cadre calme et discret.</p></div></li>
+          <li><div><h3>Soins du visage et du corps</h3><p>Un moment rien que pour vous, pour prendre soin de votre peau et souffler un peu.</p></div></li>
+        </ul>
+        <p class="soins__note">Pour connaître les prestations et les tarifs, appelez-nous au <a href="tel:+33685565430">06 85 56 54 30</a>.</p>
+      </div>
+    </div>
+  </section>
+
+  <section class="sec nuancier" id="nuancier">
+    <div class="page">
+      <div class="nuancier__head">
+        <h2>Le nuancier</h2>
+        <p class="lead">Quelques poses réalisées à l'institut. Chaque cliente repart avec ses couleurs, de la french fleurie au rose fluo.</p>
+      </div>
+      <ul class="rack">
+        <li><figure><div class="flacon"><div class="nail"><img src="{{img:rose-fluo}}" alt="Ongles rose fluo avec un liseré pailleté" style="object-position:50% 70%"></div></div><figcaption><strong>Rose fluo</strong>liseré pailleté</figcaption></figure></li>
+        <li><figure><div class="flacon"><div class="nail"><img src="{{img:citrons}}" alt="Ongles crème décorés de citrons" style="object-position:42% 50%"></div></div><figcaption><strong>Citrons</strong>et feuillage</figcaption></figure></li>
+        <li><figure><div class="flacon"><div class="nail"><img src="{{img:graphique}}" alt="Ongles turquoise à lignes néon jaunes, roses et orange" style="object-position:40% 45%"></div></div><figcaption><strong>Lignes néon</strong>sur turquoise</figcaption></figure></li>
+        <li><figure><div class="flacon"><div class="nail"><img src="{{img:leopard-bleu}}" alt="Ongles bleus et motif léopard" style="object-position:50% 60%"></div></div><figcaption><strong>Léopard</strong>bleu et noir</figcaption></figure></li>
+        <li><figure><div class="flacon"><div class="nail"><img src="{{img:bleu-fleurs}}" alt="French blanche à petites fleurs bleues" style="object-position:55% 30%"></div></div><figcaption><strong>French fleurie</strong>bleu ciel</figcaption></figure></li>
+        <li><figure><div class="flacon"><div class="nail"><img src="{{img:noel}}" alt="Ongles de Noël : rouge pailleté, houx et sucre d'orge" style="object-position:60% 40%"></div></div><figcaption><strong>Noël</strong>houx et sucre d'orge</figcaption></figure></li>
+        <li><figure><div class="flacon"><div class="nail"><img src="{{img:vert-noel}}" alt="Ongles vert sapin et paillettes" style="object-position:50% 70%"></div></div><figcaption><strong>Vert sapin</strong>et paillettes</figcaption></figure></li>
+      </ul>
+      <p class="rack__hint">Faites glisser pour voir toutes les couleurs.</p>
+    </div>
+  </section>
+
+  <section class="sec regard">
+    <div class="page regard__grid">
+      <div>
+        <h2>Le regard</h2>
+        <p class="lead">Cils et sourcils mis en valeur, pour un regard net sans maquillage.</p>
+      </div>
+      <figure>
+        <img src="{{img:regard}}" alt="Le regard d'une cliente avant et après : cils recourbés et sourcils dessinés">
+        <figcaption><span>Avant</span><span>Après</span></figcaption>
+      </figure>
+    </div>
+  </section>
+
+  <section class="sec" id="horaires">
+    <div class="page visite__grid">
+      <div>
+        <h2>Horaires</h2>
+        <table class="hours">
+          {{hours}}
+        </table>
+      </div>
+      <div id="acces">
+        <h2>Nous trouver</h2>
+        <div class="carte">
+          <address>8 rue de l'Ancienne Ferme<br>68600 Volgelsheim</address>
+          <p class="contact"><a href="tel:+33685565430">06 85 56 54 30</a><br><a href="mailto:arret.beaute@yahoo.fr">arret.beaute@yahoo.fr</a></p>
+          <div class="actions">
+            <a class="btn btn--lac" href="tel:+33685565430">Appeler</a>
+            <a class="btn btn--trait" href="https://www.google.com/maps/dir/?api=1&amp;destination=Arr%C3%AAt%20Beaut%C3%A9%20Institut%2C%208%20Rue%20de%20l%27Ancienne%20Ferme%2C%2068600%20Volgelsheim" target="_blank" rel="noopener">Calculer l'itinéraire</a>
+          </div>
+          <p class="carte__proof">Noté 4,6 sur 5 sur Google, 36 avis.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="page foot__grid">
+    <img src="{{img:monogramme}}" alt="Monogramme AB d'Arrêt Beauté Institut">
+    <div>
+      <p><strong>Arrêt Beauté Institut</strong><br>8 rue de l'Ancienne Ferme, 68600 Volgelsheim<br><a href="tel:+33685565430">06 85 56 54 30</a></p>
+      <div class="foot__links"><a href="https://www.facebook.com/ArretBeauteInstitut" target="_blank" rel="noopener">Facebook</a></div>
+    </div>
+    <p class="foot__demo">Maquette réalisée par Gaspard Culli pour présenter un projet de site à Arrêt Beauté Institut. Photos issues des pages publiques de l'établissement. Ce site n'est pas encore en ligne.</p>
+  </div>
+</footer>
+
+<div class="mbar" id="mbar">
+  <a class="btn btn--lac" href="tel:+33685565430">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2"/></svg>Appeler</a>
+  <a class="btn btn--trait" href="https://www.google.com/maps/dir/?api=1&amp;destination=Arr%C3%AAt%20Beaut%C3%A9%20Institut%2C%208%20Rue%20de%20l%27Ancienne%20Ferme%2C%2068600%20Volgelsheim" target="_blank" rel="noopener">Itinéraire</a>
+</div>
+
+<script>
+(function () {
+  var root = document.documentElement;
+
+  /* ---- Ouverture : passer au clic / clavier, puis retirer ---- */
+  var intro = document.getElementById("intro");
+  function skip() { root.classList.add("intro-skip"); setTimeout(function(){ intro.style.display = "none"; }, 200); }
+  if (root.classList.contains("js-intro")) {
+    intro.addEventListener("click", skip);
+    window.addEventListener("keydown", function once() { skip(); window.removeEventListener("keydown", once); });
+    setTimeout(function () { intro.style.display = "none"; }, 2700);
+  }
+
+  /* ---- Horaires : statut ouvert / fermé et jour courant ---- */
+  var H = {{hours_js}};
+  var JOURS = ["dimanche","lundi","mardi","mercredi","jeudi","vendredi","samedi"];
+  function m(s){var p=s.split(":");return (+p[0])*60+(+p[1]);}
+  function f(s){var p=s.split(":");return (+p[0])+"h"+(p[1]==="00"?"":p[1]);}
+  var now=new Date(), d=now.getDay(), t=now.getHours()*60+now.getMinutes();
+  var row=document.querySelector('.hours tr[data-day="'+d+'"]'); if(row) row.classList.add("is-today");
+  var label=null, open=false;
+  (H[d]||[]).forEach(function(r){ if(t>=m(r[0]) && t<m(r[1])){open=true; label="Ouvert maintenant, jusqu'à "+f(r[1]);} });
+  if(!open){
+    for(var i=0;i<8 && !label;i++){
+      var dd=(d+i)%7, slots=H[dd]||[];
+      for(var k=0;k<slots.length;k++){
+        if(i>0 || m(slots[k][0])>t){ label="Fermé pour l'instant, ouvre "+(i===0?"aujourd'hui":(i===1?"demain":JOURS[dd]))+" à "+f(slots[k][0]); break; }
+      }
+    }
+  }
+  if(label){
+    document.querySelectorAll("[data-status]").forEach(function(el){
+      el.setAttribute("data-open", open?"1":"0");
+      el.querySelector("[data-status-text]").textContent=label;
+      el.classList.add("is-ready");
+    });
+  }
+
+  /* ---- Menu mobile ---- */
+  var mb=document.getElementById("menu-btn"), panel=document.getElementById("nav-panel");
+  function setMenu(o){ panel.classList.toggle("is-open",o); mb.setAttribute("aria-expanded",o?"true":"false"); mb.setAttribute("aria-label",o?"Fermer le menu":"Ouvrir le menu"); }
+  mb.addEventListener("click",function(){ setMenu(!panel.classList.contains("is-open")); });
+  panel.addEventListener("click",function(e){ if(e.target.closest("a")) setMenu(false); });
+  document.addEventListener("keydown",function(e){ if(e.key==="Escape" && panel.classList.contains("is-open")){ setMenu(false); mb.focus(); } });
+
+  /* ---- En-tête opaque et barre mobile après le haut de page ---- */
+  var top=document.getElementById("top"), mbar=document.getElementById("mbar"), ticking=false;
+  function onScroll(){
+    var y=window.scrollY||0;
+    top.classList.toggle("is-solid", y > 40);
+    mbar.classList.toggle("is-on", y > window.innerHeight*0.7);
+    ticking=false;
+  }
+  window.addEventListener("scroll",function(){ if(!ticking){ ticking=true; requestAnimationFrame(onScroll);} },{passive:true});
+  onScroll();
+})();
+</script>
+</body>
+</html>
