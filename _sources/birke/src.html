@@ -1,0 +1,427 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Birké Pâtisserie – Maquette de site</title>
+<meta name="description" content="Pâtisserie et salon de thé sur la place d'Armes de Neuf-Brisach, depuis 1936. Ouvert du mardi au dimanche, de 7h à 18h.">
+<meta name="theme-color" content="#FFF8EC">
+<script>
+  (function () {
+    var d = document.documentElement;
+    d.classList.add("js");
+    if (!window.matchMedia("(prefers-reduced-motion: reduce)").matches) d.classList.add("js-intro");
+  })();
+</script>
+<style>
+@font-face{font-family:"Yeseva One";font-weight:400;font-style:normal;font-display:swap;src:url({{font:yeseva}}) format("woff2")}
+@font-face{font-family:"Pinyon Script";font-weight:400;font-style:normal;font-display:swap;src:url({{font:pinyon}}) format("woff2")}
+@font-face{font-family:"Figtree";font-weight:300 900;font-style:normal;font-display:swap;src:url({{font:figtree}}) format("woff2")}
+
+:root{
+  --creme:#FFF8EC;
+  --facade:#EDC664;
+  --facade-pale:#F8E7B4;
+  --tuile:#B8502B;
+  --serviette:#C41E2E;
+  --or:#B8913A;
+  --or-clair:#E3C77E;
+  --chocolat:#3A2219;
+  --cacao:#6E4A3A;
+  --trait:rgba(58,34,25,.15);
+  --vichy:linear-gradient(90deg,rgba(196,30,46,.55) 50%,transparent 50%),linear-gradient(rgba(196,30,46,.55) 50%,transparent 50%);
+  --f-titre:"Yeseva One", Georgia, serif;
+  --f-script:"Pinyon Script", "Snell Roundhand", cursive;
+  --f-texte:"Figtree", system-ui, sans-serif;
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%;scroll-behavior:smooth;scroll-padding-top:5rem}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+body{margin:0;background:var(--creme);color:var(--chocolat);font:400 1rem/1.6 var(--f-texte);overflow-x:hidden}
+img{display:block;max-width:100%}
+a{color:inherit}
+:focus-visible{outline:3px solid var(--serviette);outline-offset:3px;border-radius:4px}
+h1,h2,h3{font-family:var(--f-titre);font-weight:400;line-height:1.12;margin:0}
+p{margin:0}
+.page{width:100%;max-width:1280px;margin-inline:auto;padding-inline:clamp(20px,5vw,56px)}
+.vichy{background-color:#fff;background-image:var(--vichy);background-size:22px 22px}
+
+/* ---------- Plaque Birké (la plaque posée sur chaque gâteau) ---------- */
+.plaque{display:inline-grid;place-items:center;aspect-ratio:2.1/1;border-radius:50%;background:#fff;box-shadow:inset 0 0 0 .14em var(--or),inset 0 0 0 .22em #fff,inset 0 0 0 .27em var(--or-clair),0 .25em .6em rgba(58,34,25,.18)}
+.plaque span{font-family:var(--f-script);color:var(--or);line-height:1;transform:translateY(.06em)}
+
+/* ---------- Bandeau maquette ---------- */
+.demo{background:var(--chocolat);color:#F6EADB;font-size:.875rem;line-height:1.45;text-align:center;padding:.6rem 1rem}
+.demo strong{font-weight:500}
+
+/* ---------- En-tête ---------- */
+.top{position:sticky;top:0;z-index:40;background:rgba(255,248,236,0);transition:background-color .2s ease,box-shadow .2s ease}
+.top.is-solid{background:rgba(255,248,236,.97);box-shadow:0 1px 0 var(--trait)}
+.top__in{display:flex;align-items:center;gap:1.25rem;min-height:4.5rem}
+.brand{display:flex;align-items:center;text-decoration:none;margin-right:auto;min-height:44px}
+.brand .plaque{width:6.2rem;font-size:1.6rem}
+.nav{display:none;gap:1.75rem}
+.nav a{text-decoration:none;font-weight:500;padding:.6rem 0;border-bottom:2px solid transparent}
+.nav a:hover{border-bottom-color:var(--serviette)}
+.top .btn{display:none}
+.menu-btn{display:inline-grid;place-items:center;width:44px;height:44px;border:0;border-radius:50%;background:var(--chocolat);color:#fff;cursor:pointer}
+.menu-btn svg{width:22px;height:22px}
+.nav-panel{display:none;flex-direction:column;padding:.5rem clamp(20px,5vw,56px) 1.25rem;background:var(--creme);border-bottom:1px solid var(--trait)}
+.nav-panel.is-open{display:flex}
+.nav-panel a{padding:.85rem 0;text-decoration:none;font-weight:500;border-bottom:1px solid var(--trait)}
+@media (min-width:900px){.nav{display:flex}.top .btn{display:inline-flex}.menu-btn{display:none}.nav-panel,.nav-panel.is-open{display:none}}
+
+/* ---------- Boutons ---------- */
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:.55rem;min-height:48px;padding:.8rem 1.35rem;border-radius:.5rem;font:500 1rem/1.2 var(--f-texte);text-decoration:none;border:0;cursor:pointer;transition:background-color .15s ease,color .15s ease}
+.btn svg{width:1.15em;height:1.15em;flex:none}
+.btn--rouge{background:var(--serviette);color:#fff}
+.btn--rouge:hover{background:#A31724}
+.btn--trait{box-shadow:inset 0 0 0 2px var(--chocolat);background:transparent;color:var(--chocolat)}
+.btn--trait:hover{background:var(--chocolat);color:var(--creme)}
+.actions{display:flex;flex-wrap:wrap;gap:.75rem}
+
+/* ---------- Hero ---------- */
+.hero{margin-top:-4.5rem;padding-top:4.5rem;background:var(--creme)}
+.hero__grid{display:grid;gap:2.5rem;padding-top:2rem;padding-bottom:3.5rem;align-items:center}
+@media (min-width:900px){.hero__grid{grid-template-columns:1fr 1fr;gap:4rem;min-height:min(84vh,760px)}}
+.hero__kicker{color:var(--cacao);font-weight:500;margin-bottom:1.25rem}
+.hero__title{display:block}
+.hero__title .plaque{width:min(100%,25rem);font-size:clamp(5rem,13vw,8.6rem)}
+.hero__title .sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0)}
+.hero__tag{font-family:var(--f-titre);font-size:clamp(1.4rem,1.4vw + 1rem,2rem);line-height:1.25;margin:1.75rem 0 1.25rem;max-width:22ch}
+.status{display:none;align-items:center;gap:.6rem;font-weight:500;margin-bottom:1.5rem}
+.status.is-ready{display:inline-flex}
+.status__dot{flex:none;width:.7rem;height:.7rem;border-radius:50%;background:var(--serviette)}
+.status[data-open="1"] .status__dot{background:#2F8A4F;box-shadow:0 0 0 .3rem rgba(47,138,79,.2)}
+.hero__proof{margin-top:1.5rem;font-size:.875rem;color:var(--cacao)}
+.arche{position:relative;margin:0}
+.arche img{width:100%;aspect-ratio:4/5;object-fit:cover;object-position:46% 60%;border-radius:999px 999px 0 0}
+@media (max-width:899px){.arche img{aspect-ratio:5/4;border-radius:50vw 50vw 0 0 / 30vw 30vw 0 0}}
+.arche::after{content:"";display:block;height:18px;background-color:#fff;background-image:var(--vichy);background-size:18px 18px}
+.arche figcaption{position:absolute;left:1rem;bottom:2rem;background:rgba(255,248,236,.95);padding:.4rem .8rem;border-radius:.4rem;font-size:.875rem}
+
+/* ---------- Sections ---------- */
+.sec{padding:clamp(4rem,8vw,7rem) 0}
+.sec h2{font-size:clamp(2.3rem,3vw + 1rem,3.6rem)}
+.lead{color:var(--cacao);max-width:54ch;margin-top:1rem;font-size:1.0625rem}
+.band{height:22px;background-color:#fff;background-image:var(--vichy);background-size:22px 22px}
+
+/* La vitrine */
+.vitrine{background:var(--facade-pale)}
+.vitrine__head{display:grid;gap:1rem;margin-bottom:3rem}
+@media (min-width:900px){.vitrine__head{grid-template-columns:1fr 1fr;align-items:end}}
+.gateaux{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(2,1fr);gap:clamp(1rem,2.5vw,2rem)}
+@media (min-width:900px){.gateaux{grid-template-columns:repeat(3,1fr)}}
+.gateaux figure{margin:0;position:relative}
+.gateaux img{width:100%;aspect-ratio:1;object-fit:cover;border-radius:1rem}
+.gateaux figcaption{display:flex;justify-content:center;margin-top:-1.4rem;position:relative}
+.gateaux figcaption span{background:#fff;border-radius:999px;padding:.55rem 1.1rem;font-size:.9375rem;font-weight:500;line-height:1.3;text-align:center;box-shadow:inset 0 0 0 1.5px var(--or),0 4px 10px rgba(58,34,25,.12)}
+.vitrine__wide{display:grid;gap:2rem;margin-top:clamp(2.5rem,5vw,4rem);align-items:center}
+@media (min-width:900px){.vitrine__wide{grid-template-columns:1.3fr 1fr;gap:4rem}}
+.vitrine__wide img{width:100%;aspect-ratio:16/10;object-fit:cover;border-radius:1rem}
+.vitrine__wide h3{font-size:1.75rem;margin-bottom:.75rem}
+.vitrine__wide p{color:var(--cacao)}
+.vitrine__wide p + p{margin-top:.75rem}
+
+/* Le salon */
+.salon__grid{display:grid;gap:2.5rem;align-items:center}
+@media (min-width:900px){.salon__grid{grid-template-columns:1fr 1.1fr;gap:5rem}}
+.salon__photo{position:relative}
+.salon__photo img{width:100%;aspect-ratio:1;object-fit:cover;border-radius:1rem}
+.salon__photo .plaque{position:absolute;right:-.5rem;bottom:-1.5rem;width:9rem;font-size:2.6rem;transform:rotate(-6deg)}
+.faits{list-style:none;margin:2rem 0 0;padding:0;display:grid;gap:0}
+.faits li{display:grid;grid-template-columns:7rem 1fr;gap:1rem;padding:1rem 0;border-top:1px solid var(--trait)}
+.faits li:last-child{border-bottom:1px solid var(--trait)}
+.faits strong{font-family:var(--f-titre);font-weight:400;font-size:1.25rem;color:var(--serviette)}
+
+/* Commande */
+.commande{background:var(--chocolat);color:#F6EADB}
+.commande__grid{display:grid;gap:2.5rem;align-items:center}
+@media (min-width:900px){.commande__grid{grid-template-columns:1.1fr 1fr;gap:5rem}}
+.commande h2{color:#fff}
+.commande .lead{color:#E2D0C0}
+.commande img{width:100%;aspect-ratio:1;object-fit:cover;border-radius:50%;border:10px solid #fff;box-shadow:0 0 0 2px var(--or)}
+.commande .actions{margin-top:2rem}
+.commande .btn--trait{box-shadow:inset 0 0 0 2px #F6EADB;color:#F6EADB}
+.commande .btn--trait:hover{background:#F6EADB;color:var(--chocolat)}
+
+/* Horaires et accès */
+.visite__grid{display:grid;gap:3rem}
+@media (min-width:900px){.visite__grid{grid-template-columns:1fr 1fr;gap:5rem}}
+.hours{width:100%;border-collapse:collapse;margin-top:1.75rem;font-size:1.0625rem}
+.hours th,.hours td{text-align:left;padding:.8rem .9rem;border-bottom:1px solid var(--trait);font-weight:400}
+.hours th{width:9.5rem}
+.hours td{font-variant-numeric:tabular-nums}
+.hours tr.is-today{background:var(--facade-pale)}
+.hours tr.is-today th,.hours tr.is-today td{font-weight:500}
+.adresse{margin-top:1.75rem;background:#fff;border-radius:1rem;padding:clamp(1.5rem,4vw,2.5rem);box-shadow:inset 0 0 0 1.5px var(--or)}
+.adresse address{font-style:normal;font-size:1.25rem;line-height:1.45;margin-bottom:1rem}
+.adresse .contact{margin-bottom:1.5rem}
+.adresse .contact a{text-underline-offset:3px}
+.adresse__proof{margin-top:1.5rem;font-size:.875rem;color:var(--cacao)}
+
+/* Pied de page */
+.foot{background:var(--facade);padding:3.5rem 0 6rem}
+.foot__grid{display:grid;gap:1.75rem;align-items:start}
+@media (min-width:900px){.foot__grid{grid-template-columns:auto 1fr 1.2fr;gap:3rem;align-items:center}.foot{padding-bottom:3.5rem}}
+.foot .plaque{width:8rem;font-size:2.4rem}
+.foot__links{display:flex;gap:1.25rem;margin-top:.6rem}
+.foot__links a{display:inline-flex;align-items:center;min-height:44px;font-weight:500}
+.foot__demo{font-size:.875rem;color:#5A3A2C;max-width:52ch}
+
+/* Barre mobile */
+.mbar{position:fixed;left:0;right:0;bottom:0;z-index:45;display:flex;gap:.6rem;padding:.7rem clamp(12px,4vw,20px) calc(.7rem + env(safe-area-inset-bottom));background:rgba(255,248,236,.97);box-shadow:0 -1px 0 var(--trait);transform:translateY(110%);transition:transform .2s cubic-bezier(.16,1,.3,1)}
+.mbar.is-on{transform:none}
+.mbar .btn{flex:1}
+@media (min-width:900px){.mbar{display:none}}
+
+/* ---------- Ouverture : la plaque Birké sur la nappe à carreaux ---------- */
+.intro{display:none}
+.js-intro .intro{display:block;position:fixed;inset:0;z-index:100;cursor:pointer;overflow:hidden}
+.nappe{position:absolute;left:0;right:0;height:50.5%;background-color:#fff;background-image:var(--vichy);background-size:clamp(26px,4vw,44px) clamp(26px,4vw,44px)}
+.nappe--haut{top:0;background-position:0 0;animation:hautSort .75s cubic-bezier(.7,0,.84,0) 1.8s both}
+.nappe--bas{bottom:0;background-position:0 100%;animation:basSort .75s cubic-bezier(.7,0,.84,0) 1.8s both}
+.intro__centre{position:absolute;inset:0;display:grid;place-items:center;align-content:center;gap:1rem;animation:centreSort .45s ease-in 1.75s both}
+.intro__plaque{position:relative;width:min(70vw,440px);aspect-ratio:2.1/1;opacity:0;transform:scale(.9);animation:plaqueIn .5s cubic-bezier(.16,1,.3,1) .15s both}
+.intro__plaque svg{position:absolute;inset:0;width:100%;height:100%}
+.intro__plaque .fond{fill:#fff}
+.intro__plaque .bord{fill:none;stroke:#B8913A;stroke-width:6;stroke-dasharray:1000;stroke-dashoffset:1000;animation:trace .8s cubic-bezier(.65,0,.35,1) .3s both}
+.intro__plaque .bord2{fill:none;stroke:#E3C77E;stroke-width:2;opacity:0;animation:fadeIn .3s ease-out .95s both}
+.intro__mot{position:absolute;inset:0;display:grid;place-items:center;font-family:var(--f-script);font-size:min(17vw,7.4rem);color:var(--or);opacity:0;animation:fadeIn .45s ease-out .75s both;overflow:hidden;border-radius:50%}
+.intro__mot::after{content:"";position:absolute;top:0;bottom:0;left:-40%;width:30%;background:linear-gradient(100deg,rgba(255,255,255,0),rgba(255,255,255,.85),rgba(255,255,255,0));transform:translateX(0);animation:reflet .6s ease-in-out 1.15s both}
+.intro__depuis{font-family:var(--f-titre);color:#fff;font-size:clamp(1.1rem,2.6vw,1.6rem);background:var(--serviette);padding:.3rem 1rem;border-radius:.3rem;opacity:0;animation:fadeIn .35s ease-out 1.05s both}
+.intro__skip{position:absolute;left:0;right:0;bottom:1.75rem;text-align:center;font-size:.875rem;color:var(--chocolat)}
+.intro__skip span{background:#fff;padding:.2rem .6rem;border-radius:.3rem}
+@keyframes plaqueIn{to{opacity:1;transform:scale(1)}}
+@keyframes trace{to{stroke-dashoffset:0}}
+@keyframes fadeIn{to{opacity:1}}
+@keyframes reflet{to{transform:translateX(560%)}}
+@keyframes hautSort{to{transform:translateY(-101%)}}
+@keyframes basSort{to{transform:translateY(101%)}}
+@keyframes centreSort{to{opacity:0;transform:scale(1.06)}}
+.intro-skip .intro{opacity:0;pointer-events:none;transition:opacity .15s ease-in}
+.intro-skip .intro *{animation:none}
+@media (prefers-reduced-motion:reduce){.intro{display:none!important}}
+</style>
+</head>
+<body>
+
+<div class="intro" id="intro" aria-hidden="true">
+  <div class="nappe nappe--haut"></div>
+  <div class="nappe nappe--bas"></div>
+  <div class="intro__centre">
+    <div class="intro__plaque">
+      <svg viewBox="0 0 420 200"><ellipse class="fond" cx="210" cy="100" rx="205" ry="95"/><ellipse class="bord" cx="210" cy="100" rx="200" ry="90" pathLength="1000"/><ellipse class="bord2" cx="210" cy="100" rx="186" ry="78"/></svg>
+      <div class="intro__mot">Birké</div>
+    </div>
+    <p class="intro__depuis">depuis 1936</p>
+  </div>
+  <p class="intro__skip"><span>Cliquer pour passer</span></p>
+</div>
+
+<div class="demo" role="note"><strong>Maquette réalisée par Gaspard Culli</strong> pour Birké Pâtisserie. Ce site n'est pas encore en ligne.</div>
+
+<header class="top" id="top">
+  <div class="page top__in">
+    <a class="brand" href="#accueil" aria-label="Birké, retour en haut de page"><span class="plaque"><span>Birké</span></span></a>
+    <nav class="nav" aria-label="Navigation principale">
+      <a href="#vitrine">La vitrine</a>
+      <a href="#salon">Le salon de thé</a>
+      <a href="#commande">Commander un gâteau</a>
+      <a href="#horaires">Horaires</a>
+    </nav>
+    <a class="btn btn--rouge" href="tel:+33389725792">Appeler</a>
+    <button class="menu-btn" id="menu-btn" aria-expanded="false" aria-controls="nav-panel" aria-label="Ouvrir le menu">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+    </button>
+  </div>
+  <nav class="nav-panel" id="nav-panel" aria-label="Menu">
+    <a href="#vitrine">La vitrine</a>
+    <a href="#salon">Le salon de thé</a>
+    <a href="#commande">Commander un gâteau</a>
+    <a href="#horaires">Horaires</a>
+  </nav>
+</header>
+
+<main>
+  <section class="hero" id="accueil">
+    <div class="page hero__grid">
+      <div>
+        <p class="hero__kicker">Pâtisserie et salon de thé à Neuf-Brisach</p>
+        <h1 class="hero__title"><span class="plaque"><span>Birké</span></span><span class="sr">Birké Pâtisserie</span></h1>
+        <p class="hero__tag">Sur la place d'Armes depuis 1936.</p>
+        <p class="status" data-status><span class="status__dot"></span><span data-status-text></span></p>
+        <div class="actions">
+          <a class="btn btn--rouge" href="tel:+33389725792">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2"/></svg>
+            03 89 72 57 92</a>
+          <a class="btn btn--trait" href="https://www.google.com/maps/dir/?api=1&amp;destination=48.0180685,7.5291993" target="_blank" rel="noopener">Itinéraire</a>
+        </div>
+        <p class="hero__proof">Noté 4,4 sur 5 sur Google (888 avis).</p>
+      </div>
+      <figure class="arche">
+        <img src="{{img:facade}}" alt="La façade jaune de la pâtisserie Birké sur la place d'Armes, avec son salon de thé et sa terrasse">
+      </figure>
+    </div>
+  </section>
+
+  <div class="band" aria-hidden="true"></div>
+
+  <section class="sec vitrine" id="vitrine">
+    <div class="page">
+      <div class="vitrine__head">
+        <h2>La vitrine</h2>
+        <p class="lead">Chaque gâteau porte la plaque Birké. Quelques-uns de ceux qu'on trouve en vitrine :</p>
+      </div>
+      <ul class="gateaux">
+        <li><figure><img src="{{img:dome}}" alt="Un dôme rouge à la framboise, surmonté d'une framboise et d'un carré de chocolat blanc"><figcaption><span>Dôme framboise</span></figcaption></figure></li>
+        <li><figure><img src="{{img:citron}}" alt="Une tarte au citron meringuée, avec une rondelle de citron vert et la plaque Birké"><figcaption><span>Tarte citron meringuée</span></figcaption></figure></li>
+        <li><figure><img src="{{img:macaron-violet}}" alt="Un grand macaron violet garni de crème, servi sur une serviette rouge"><figcaption><span>Grand macaron</span></figcaption></figure></li>
+        <li><figure><img src="{{img:macaron-jaune}}" alt="Un grand macaron jaune garni de crème, avec la plaque Birké"><figcaption><span>Grand macaron jaune</span></figcaption></figure></li>
+        <li><figure><img src="{{img:fraises}}" alt="Une tarte aux fraises et aux framboises"><figcaption><span>Tarte fraises et framboises</span></figcaption></figure></li>
+        <li><figure><img src="{{img:croissant}}" alt="Un croissant bien doré"><figcaption><span>Croissant du matin</span></figcaption></figure></li>
+      </ul>
+      <div class="vitrine__wide">
+        <img src="{{img:vitrine}}" alt="La vitrine des entremets individuels, avec leurs étiquettes de prix">
+        <div>
+          <h3>Les entremets du moment</h3>
+          <p>Mousse mangue-passion, mousse poire-chocolat, fruits rouges : les entremets changent avec les saisons.</p>
+          <p>Chaque étiquette indique deux prix : au salon ou à emporter.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="sec" id="salon">
+    <div class="page salon__grid">
+      <div class="salon__photo">
+        <img src="{{img:macaron-violet}}" alt="Un grand macaron servi au salon de thé, avec une petite cuillère" style="object-position:50% 40%">
+        <span class="plaque" aria-hidden="true"><span>Birké</span></span>
+      </div>
+      <div>
+        <h2>Le salon de thé</h2>
+        <p class="lead">Un café, une part de gâteau, et la place d'Armes sous les yeux. On s'installe en salle ou en terrasse.</p>
+        <ul class="faits">
+          <li><strong>1936</strong><span>L'année où la pâtisserie a ouvert ses portes.</span></li>
+          <li><strong>7h</strong><span>Ouverture tous les matins, du mardi au dimanche.</span></li>
+          <li><strong>Salle</strong><span>Un salon de thé climatisé, et une terrasse aux beaux jours.</span></li>
+        </ul>
+      </div>
+    </div>
+  </section>
+
+  <section class="sec commande" id="commande">
+    <div class="page commande__grid">
+      <div>
+        <h2>Commander un gâteau</h2>
+        <p class="lead">Pour un anniversaire ou une fête, commandez votre gâteau par téléphone et venez le chercher en boutique. Votre message peut être écrit sur la plaque.</p>
+        <div class="actions">
+          <a class="btn btn--rouge" href="tel:+33389725792">Appeler le 03 89 72 57 92</a>
+          <a class="btn btn--trait" href="#horaires">Voir les horaires</a>
+        </div>
+      </div>
+      <img src="{{img:fraises}}" alt="Une tarte aux fruits rouges commandée, avec une plaque où est écrit « Papa »">
+    </div>
+  </section>
+
+  <section class="sec" id="horaires">
+    <div class="page visite__grid">
+      <div>
+        <h2>Horaires</h2>
+        <table class="hours">
+          {{hours}}
+        </table>
+      </div>
+      <div id="acces">
+        <h2>Nous trouver</h2>
+        <div class="adresse">
+          <address>22 place d'Armes Général de Gaulle<br>68600 Neuf-Brisach</address>
+          <p class="contact"><a href="tel:+33389725792">03 89 72 57 92</a></p>
+          <div class="actions">
+            <a class="btn btn--rouge" href="tel:+33389725792">Appeler</a>
+            <a class="btn btn--trait" href="https://www.google.com/maps/dir/?api=1&amp;destination=48.0180685,7.5291993" target="_blank" rel="noopener">Calculer l'itinéraire</a>
+          </div>
+          <p class="adresse__proof">Noté 4,4 sur 5 sur Google, 888 avis.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="page foot__grid">
+    <span class="plaque" aria-hidden="true"><span>Birké</span></span>
+    <div>
+      <p><strong>Birké Pâtisserie</strong><br>22 place d'Armes Général de Gaulle, 68600 Neuf-Brisach<br><a href="tel:+33389725792">03 89 72 57 92</a></p>
+      <div class="foot__links"><a href="https://www.facebook.com/patisseriebirke/" target="_blank" rel="noopener">Facebook</a></div>
+    </div>
+    <p class="foot__demo">Maquette réalisée par Gaspard Culli pour présenter un projet de site à Birké Pâtisserie. Photos issues des pages publiques de l'établissement et de sa fiche Google. Ce site n'est pas encore en ligne.</p>
+  </div>
+</footer>
+
+<div class="mbar" id="mbar">
+  <a class="btn btn--rouge" href="tel:+33389725792">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2"/></svg>Appeler</a>
+  <a class="btn btn--trait" href="https://www.google.com/maps/dir/?api=1&amp;destination=48.0180685,7.5291993" target="_blank" rel="noopener">Itinéraire</a>
+</div>
+
+<script>
+(function () {
+  var root = document.documentElement;
+
+  /* ---- Ouverture : passer au clic / clavier, puis retirer ---- */
+  var intro = document.getElementById("intro");
+  function skip() { root.classList.add("intro-skip"); setTimeout(function(){ intro.style.display = "none"; }, 200); }
+  if (root.classList.contains("js-intro")) {
+    intro.addEventListener("click", skip);
+    window.addEventListener("keydown", function once() { skip(); window.removeEventListener("keydown", once); });
+    setTimeout(function () { intro.style.display = "none"; }, 2650);
+  }
+
+  /* ---- Horaires : statut ouvert / fermé et jour courant ---- */
+  var H = {{hours_js}};
+  var JOURS = ["dimanche","lundi","mardi","mercredi","jeudi","vendredi","samedi"];
+  function m(s){var p=s.split(":");return (+p[0])*60+(+p[1]);}
+  function f(s){var p=s.split(":");return (+p[0])+"h"+(p[1]==="00"?"":p[1]);}
+  var now=new Date(), d=now.getDay(), t=now.getHours()*60+now.getMinutes();
+  var row=document.querySelector('.hours tr[data-day="'+d+'"]'); if(row) row.classList.add("is-today");
+  var label=null, open=false;
+  (H[d]||[]).forEach(function(r){ if(t>=m(r[0]) && t<m(r[1])){open=true; label="Ouvert maintenant, jusqu'à "+f(r[1]);} });
+  if(!open){
+    for(var i=0;i<8 && !label;i++){
+      var dd=(d+i)%7, slots=H[dd]||[];
+      for(var k=0;k<slots.length;k++){
+        if(i>0 || m(slots[k][0])>t){ label="Fermé pour l'instant, ouvre "+(i===0?"aujourd'hui":(i===1?"demain":JOURS[dd]))+" à "+f(slots[k][0]); break; }
+      }
+    }
+  }
+  if(label){
+    document.querySelectorAll("[data-status]").forEach(function(el){
+      el.setAttribute("data-open", open?"1":"0");
+      el.querySelector("[data-status-text]").textContent=label;
+      el.classList.add("is-ready");
+    });
+  }
+
+  /* ---- Menu mobile ---- */
+  var mb=document.getElementById("menu-btn"), panel=document.getElementById("nav-panel");
+  function setMenu(o){ panel.classList.toggle("is-open",o); mb.setAttribute("aria-expanded",o?"true":"false"); mb.setAttribute("aria-label",o?"Fermer le menu":"Ouvrir le menu"); }
+  mb.addEventListener("click",function(){ setMenu(!panel.classList.contains("is-open")); });
+  panel.addEventListener("click",function(e){ if(e.target.closest("a")) setMenu(false); });
+  document.addEventListener("keydown",function(e){ if(e.key==="Escape" && panel.classList.contains("is-open")){ setMenu(false); mb.focus(); } });
+
+  /* ---- En-tête et barre mobile ---- */
+  var top=document.getElementById("top"), mbar=document.getElementById("mbar"), ticking=false;
+  function onScroll(){
+    var y=window.scrollY||0;
+    top.classList.toggle("is-solid", y > 40);
+    mbar.classList.toggle("is-on", y > window.innerHeight*0.7);
+    ticking=false;
+  }
+  window.addEventListener("scroll",function(){ if(!ticking){ ticking=true; requestAnimationFrame(onScroll);} },{passive:true});
+  onScroll();
+})();
+</script>
+</body>
+</html>

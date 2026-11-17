@@ -1,0 +1,11 @@
+{
+  "fonts": [
+    {"key": "yeseva", "family": "yeseva-one", "weight": 400},
+    {"key": "pinyon", "family": "pinyon-script", "weight": 400},
+    {"key": "figtree", "family": "figtree", "variable": true}
+  ],
+  "horaires": {
+    "lundi": [], "mardi": ["07:00-18:00"], "mercredi": ["07:00-18:00"], "jeudi": ["07:00-18:00"],
+    "vendredi": ["07:00-18:00"], "samedi": ["07:00-18:00"], "dimanche": ["07:00-18:00"]
+  }
+}
