@@ -1,0 +1,14821 @@
+[
+{
+"code": "68066",
+"nom": "Colmar",
+"dep": "68",
+"cp": "68000",
+"pop": 66970
+},
+{
+"code": "68297",
+"nom": "Saint-Louis",
+"dep": "68",
+"cp": "68300",
+"pop": 22805
+},
+{
+"code": "68376",
+"nom": "Wittenheim",
+"dep": "68",
+"cp": "68270",
+"pop": 15553
+},
+{
+"code": "68154",
+"nom": "Illzach",
+"dep": "68",
+"cp": "68110",
+"pop": 14923
+},
+{
+"code": "68278",
+"nom": "Rixheim",
+"dep": "68",
+"cp": "68170",
+"pop": 14380
+},
+{
+"code": "68166",
+"nom": "Kingersheim",
+"dep": "68",
+"cp": "68260",
+"pop": 13354
+},
+{
+"code": "68271",
+"nom": "Riedisheim",
+"dep": "68",
+"cp": "68400",
+"pop": 12200
+},
+{
+"code": "68063",
+"nom": "Cernay",
+"dep": "68",
+"cp": "68700",
+"pop": 12057
+},
+{
+"code": "68112",
+"nom": "Guebwiller",
+"dep": "68",
+"cp": "68500",
+"pop": 11243
+},
+{
+"code": "68375",
+"nom": "Wittelsheim",
+"dep": "68",
+"cp": "68310",
+"pop": 10645
+},
+{
+"code": "68256",
+"nom": "Pfastatt",
+"dep": "68",
+"cp": "68120",
+"pop": 10314
+},
+{
+"code": "68056",
+"nom": "Brunstatt-Didenheim",
+"dep": "68",
+"cp": "68350",
+"pop": 8259
+},
+{
+"code": "68374",
+"nom": "Wintzenheim",
+"dep": "68",
+"cp": "68124",
+"pop": 8059
+},
+{
+"code": "68334",
+"nom": "Thann",
+"dep": "68",
+"cp": "68800",
+"pop": 7762
+},
+{
+"code": "68149",
+"nom": "Huningue",
+"dep": "68",
+"cp": "68330",
+"pop": 7487
+},
+{
+"code": "68082",
+"nom": "Ensisheim",
+"dep": "68",
+"cp": "68190",
+"pop": 7306
+},
+{
+"code": "68315",
+"nom": "Soultz-Haut-Rhin",
+"dep": "68",
+"cp": "68360",
+"pop": 7012
+},
+{
+"code": "68195",
+"nom": "Lutterbach",
+"dep": "68",
+"cp": "68460",
+"pop": 6851
+},
+{
+"code": "68145",
+"nom": "Horbourg-Wihr",
+"dep": "68",
+"cp": "68180",
+"pop": 6199
+},
+{
+"code": "68163",
+"nom": "Kembs",
+"dep": "68",
+"cp": "68680",
+"pop": 5834
+},
+{
+"code": "68004",
+"nom": "Altkirch",
+"dep": "68",
+"cp": "68130",
+"pop": 5687
+},
+{
+"code": "68300",
+"nom": "Sausheim",
+"dep": "68",
+"cp": "68390",
+"pop": 5666
+},
+{
+"code": "68042",
+"nom": "Blotzheim",
+"dep": "68",
+"cp": "68730",
+"pop": 5282
+},
+{
+"code": "68118",
+"nom": "Habsheim",
+"dep": "68",
+"cp": "68440",
+"pop": 5076
+},
+{
+"code": "67180",
+"nom": "Haguenau",
+"dep": "67",
+"cp": "67500",
+"pop": 36391
+},
+{
+"code": "67447",
+"nom": "Schiltigheim",
+"dep": "67",
+"cp": "67300",
+"pop": 34708
+},
+{
+"code": "67218",
+"nom": "Illkirch-Graffenstaden",
+"dep": "67",
+"cp": "67400",
+"pop": 27872
+},
+{
+"code": "67267",
+"nom": "Lingolsheim",
+"dep": "67",
+"cp": "67380",
+"pop": 20826
+},
+{
+"code": "67462",
+"nom": "Sélestat",
+"dep": "67",
+"cp": "67600",
+"pop": 19589
+},
+{
+"code": "67043",
+"nom": "Bischheim",
+"dep": "67",
+"cp": "67800",
+"pop": 18558
+},
+{
+"code": "67365",
+"nom": "Ostwald",
+"dep": "67",
+"cp": "67540",
+"pop": 13946
+},
+{
+"code": "67348",
+"nom": "Obernai",
+"dep": "67",
+"cp": "67210",
+"pop": 12587
+},
+{
+"code": "67046",
+"nom": "Bischwiller",
+"dep": "67",
+"cp": "67240",
+"pop": 12242
+},
+{
+"code": "67204",
+"nom": "Hœnheim",
+"dep": "67",
+"cp": "67800",
+"pop": 11742
+},
+{
+"code": "67437",
+"nom": "Saverne",
+"dep": "67",
+"cp": "67700",
+"pop": 11460
+},
+{
+"code": "67130",
+"nom": "Erstein",
+"dep": "67",
+"cp": "67150",
+"pop": 10790
+},
+{
+"code": "67067",
+"nom": "Brumath",
+"dep": "67",
+"cp": "67170",
+"pop": 10499
+},
+{
+"code": "67300",
+"nom": "Molsheim",
+"dep": "67",
+"cp": "67120",
+"pop": 9318
+},
+{
+"code": "67471",
+"nom": "Souffelweyersheim",
+"dep": "67",
+"cp": "67460",
+"pop": 8239
+},
+{
+"code": "67152",
+"nom": "Geispolsheim",
+"dep": "67",
+"cp": "67118",
+"pop": 7919
+},
+{
+"code": "67544",
+"nom": "Wissembourg",
+"dep": "67",
+"cp": "67160",
+"pop": 7566
+},
+{
+"code": "67118",
+"nom": "Eckbolsheim",
+"dep": "67",
+"cp": "67201",
+"pop": 7157
+},
+{
+"code": "67021",
+"nom": "Barr",
+"dep": "67",
+"cp": "67140",
+"pop": 7057
+},
+{
+"code": "67506",
+"nom": "Vendenheim",
+"dep": "67",
+"cp": "67550",
+"pop": 6137
+},
+{
+"code": "67313",
+"nom": "Mutzig",
+"dep": "67",
+"cp": "67190",
+"pop": 6087
+},
+{
+"code": "67028",
+"nom": "Benfeld",
+"dep": "67",
+"cp": "67230",
+"pop": 5973
+},
+{
+"code": "67131",
+"nom": "Eschau",
+"dep": "67",
+"cp": "67114",
+"pop": 5878
+},
+{
+"code": "67519",
+"nom": "La Wantzenau",
+"dep": "67",
+"cp": "67610",
+"pop": 5864
+},
+{
+"code": "67343",
+"nom": "Oberhausbergen",
+"dep": "67",
+"cp": "67205",
+"pop": 5857
+},
+{
+"code": "67137",
+"nom": "Fegersheim",
+"dep": "67",
+"cp": "67640",
+"pop": 5780
+},
+{
+"code": "67520",
+"nom": "Wasselonne",
+"dep": "67",
+"cp": "67310",
+"pop": 5780
+},
+{
+"code": "67411",
+"nom": "Rosheim",
+"dep": "67",
+"cp": "67560",
+"pop": 5457
+},
+{
+"code": "67388",
+"nom": "Reichshoffen",
+"dep": "67",
+"cp": "67110",
+"pop": 5418
+},
+{
+"code": "67106",
+"nom": "Drusenheim",
+"dep": "67",
+"cp": "67410",
+"pop": 5388
+},
+{
+"code": "67309",
+"nom": "Mundolsheim",
+"dep": "67",
+"cp": "67450",
+"pop": 5322
+},
+{
+"code": "67151",
+"nom": "Gambsheim",
+"dep": "67",
+"cp": "67760",
+"pop": 5312
+},
+{
+"code": "67458",
+"nom": "Schweighouse-sur-Moder",
+"dep": "67",
+"cp": "67590",
+"pop": 5182
+},
+{
+"code": "67372",
+"nom": "Val-de-Moder",
+"dep": "67",
+"cp": "67350",
+"pop": 5102
+},
+{
+"code": "01053",
+"nom": "Bourg-en-Bresse",
+"dep": "01",
+"cp": "01000",
+"pop": 42372
+},
+{
+"code": "01283",
+"nom": "Oyonnax",
+"dep": "01",
+"cp": "01100",
+"pop": 22480
+},
+{
+"code": "01033",
+"nom": "Valserhône",
+"dep": "01",
+"cp": "01200",
+"pop": 16712
+},
+{
+"code": "01004",
+"nom": "Ambérieu-en-Bugey",
+"dep": "01",
+"cp": "01500",
+"pop": 15934
+},
+{
+"code": "01354",
+"nom": "Saint-Genis-Pouilly",
+"dep": "01",
+"cp": "01630",
+"pop": 14432
+},
+{
+"code": "01173",
+"nom": "Gex",
+"dep": "01",
+"cp": "01170",
+"pop": 13627
+},
+{
+"code": "01160",
+"nom": "Ferney-Voltaire",
+"dep": "01",
+"cp": "01210",
+"pop": 12094
+},
+{
+"code": "01143",
+"nom": "Divonne-les-Bains",
+"dep": "01",
+"cp": "01220",
+"pop": 10464
+},
+{
+"code": "01249",
+"nom": "Miribel",
+"dep": "01",
+"cp": "01700",
+"pop": 10395
+},
+{
+"code": "01034",
+"nom": "Belley",
+"dep": "01",
+"cp": "01300",
+"pop": 9388
+},
+{
+"code": "01313",
+"nom": "Prévessin-Moëns",
+"dep": "01",
+"cp": "01280",
+"pop": 9153
+},
+{
+"code": "01244",
+"nom": "Meximieux",
+"dep": "01",
+"cp": "01800",
+"pop": 8247
+},
+{
+"code": "01202",
+"nom": "Lagnieu",
+"dep": "01",
+"cp": "01150",
+"pop": 7411
+},
+{
+"code": "01451",
+"nom": "Viriat",
+"dep": "01",
+"cp": "01440",
+"pop": 7102
+},
+{
+"code": "01427",
+"nom": "Trévoux",
+"dep": "01",
+"cp": "01600",
+"pop": 7013
+},
+{
+"code": "01262",
+"nom": "Montluel",
+"dep": "01",
+"cp": "01120",
+"pop": 6895
+},
+{
+"code": "01419",
+"nom": "Thoiry",
+"dep": "01",
+"cp": "01710",
+"pop": 6569
+},
+{
+"code": "01289",
+"nom": "Péronnas",
+"dep": "01",
+"cp": "01960",
+"pop": 6444
+},
+{
+"code": "01194",
+"nom": "Jassans-Riottier",
+"dep": "01",
+"cp": "01480",
+"pop": 6247
+},
+{
+"code": "01344",
+"nom": "Saint-Denis-lès-Bourg",
+"dep": "01",
+"cp": "01000",
+"pop": 6160
+},
+{
+"code": "01071",
+"nom": "Cessy",
+"dep": "01",
+"cp": "01170",
+"pop": 5832
+},
+{
+"code": "01322",
+"nom": "Reyrieux",
+"dep": "01",
+"cp": "01600",
+"pop": 5358
+},
+{
+"code": "01093",
+"nom": "Châtillon-sur-Chalaronne",
+"dep": "01",
+"cp": "01400",
+"pop": 5250
+},
+{
+"code": "01043",
+"nom": "Beynost",
+"dep": "01",
+"cp": "01700",
+"pop": 5198
+},
+{
+"code": "01443",
+"nom": "Villars-les-Dombes",
+"dep": "01",
+"cp": "01330",
+"pop": 5163
+},
+{
+"code": "01281",
+"nom": "Ornex",
+"dep": "01",
+"cp": "01210",
+"pop": 5082
+},
+{
+"code": "02691",
+"nom": "Saint-Quentin",
+"dep": "02",
+"cp": "02100",
+"pop": 52813
+},
+{
+"code": "02722",
+"nom": "Soissons",
+"dep": "02",
+"cp": "02200",
+"pop": 28046
+},
+{
+"code": "02408",
+"nom": "Laon",
+"dep": "02",
+"cp": "02000",
+"pop": 24220
+},
+{
+"code": "02168",
+"nom": "Château-Thierry",
+"dep": "02",
+"cp": "02400",
+"pop": 15097
+},
+{
+"code": "02738",
+"nom": "Tergnier",
+"dep": "02",
+"cp": "02700",
+"pop": 13045
+},
+{
+"code": "02173",
+"nom": "Chauny",
+"dep": "02",
+"cp": "02300",
+"pop": 11596
+},
+{
+"code": "02810",
+"nom": "Villers-Cotterêts",
+"dep": "02",
+"cp": "02600",
+"pop": 10489
+},
+{
+"code": "02381",
+"nom": "Hirson",
+"dep": "02",
+"cp": "02500",
+"pop": 8469
+},
+{
+"code": "02095",
+"nom": "Bohain-en-Vermandois",
+"dep": "02",
+"cp": "02110",
+"pop": 5605
+},
+{
+"code": "02340",
+"nom": "Gauchy",
+"dep": "02",
+"cp": "02430",
+"pop": 5183
+},
+{
+"code": "03185",
+"nom": "Montluçon",
+"dep": "03",
+"cp": "03100",
+"pop": 33147
+},
+{
+"code": "03310",
+"nom": "Vichy",
+"dep": "03",
+"cp": "03200",
+"pop": 25115
+},
+{
+"code": "03190",
+"nom": "Moulins",
+"dep": "03",
+"cp": "03000",
+"pop": 19206
+},
+{
+"code": "03095",
+"nom": "Cusset",
+"dep": "03",
+"cp": "03300",
+"pop": 13316
+},
+{
+"code": "03321",
+"nom": "Yzeure",
+"dep": "03",
+"cp": "03400",
+"pop": 12897
+},
+{
+"code": "03023",
+"nom": "Bellerive-sur-Allier",
+"dep": "03",
+"cp": "03700",
+"pop": 8943
+},
+{
+"code": "03101",
+"nom": "Domérat",
+"dep": "03",
+"cp": "03410",
+"pop": 8622
+},
+{
+"code": "03082",
+"nom": "Commentry",
+"dep": "03",
+"cp": "03600",
+"pop": 6017
+},
+{
+"code": "03118",
+"nom": "Gannat",
+"dep": "03",
+"cp": "03800",
+"pop": 5610
+},
+{
+"code": "04112",
+"nom": "Manosque",
+"dep": "04",
+"cp": "04100",
+"pop": 22718
+},
+{
+"code": "04070",
+"nom": "Digne-les-Bains",
+"dep": "04",
+"cp": "04000",
+"pop": 17979
+},
+{
+"code": "04209",
+"nom": "Sisteron",
+"dep": "04",
+"cp": "04200",
+"pop": 7850
+},
+{
+"code": "04143",
+"nom": "Oraison",
+"dep": "04",
+"cp": "04700",
+"pop": 6155
+},
+{
+"code": "04088",
+"nom": "Forcalquier",
+"dep": "04",
+"cp": "04300",
+"pop": 5222
+},
+{
+"code": "04049",
+"nom": "Château-Arnoux-Saint-Auban",
+"dep": "04",
+"cp": "04160",
+"pop": 5107
+},
+{
+"code": "05061",
+"nom": "Gap",
+"dep": "05",
+"cp": "05000",
+"pop": 41293
+},
+{
+"code": "05023",
+"nom": "Briançon",
+"dep": "05",
+"cp": "05100",
+"pop": 11411
+},
+{
+"code": "05046",
+"nom": "Embrun",
+"dep": "05",
+"cp": "05200",
+"pop": 6412
+},
+{
+"code": "06004",
+"nom": "Antibes",
+"dep": "06",
+"cp": "06160",
+"pop": 77637
+},
+{
+"code": "06029",
+"nom": "Cannes",
+"dep": "06",
+"cp": "06150",
+"pop": 74350
+},
+{
+"code": "06027",
+"nom": "Cagnes-sur-Mer",
+"dep": "06",
+"cp": "06800",
+"pop": 53354
+},
+{
+"code": "06069",
+"nom": "Grasse",
+"dep": "06",
+"cp": "06130",
+"pop": 50970
+},
+{
+"code": "06030",
+"nom": "Le Cannet",
+"dep": "06",
+"cp": "06110",
+"pop": 41938
+},
+{
+"code": "06123",
+"nom": "Saint-Laurent-du-Var",
+"dep": "06",
+"cp": "06700",
+"pop": 32172
+},
+{
+"code": "06083",
+"nom": "Menton",
+"dep": "06",
+"cp": "06500",
+"pop": 30604
+},
+{
+"code": "06155",
+"nom": "Vallauris",
+"dep": "06",
+"cp": "06220",
+"pop": 29259
+},
+{
+"code": "06079",
+"nom": "Mandelieu-la-Napoule",
+"dep": "06",
+"cp": "06210",
+"pop": 21640
+},
+{
+"code": "06157",
+"nom": "Vence",
+"dep": "06",
+"cp": "06140",
+"pop": 19917
+},
+{
+"code": "06085",
+"nom": "Mougins",
+"dep": "06",
+"cp": "06250",
+"pop": 19782
+},
+{
+"code": "06161",
+"nom": "Villeneuve-Loubet",
+"dep": "06",
+"cp": "06270",
+"pop": 17548
+},
+{
+"code": "06033",
+"nom": "Carros",
+"dep": "06",
+"cp": "06510",
+"pop": 13803
+},
+{
+"code": "06104",
+"nom": "Roquebrune-Cap-Martin",
+"dep": "06",
+"cp": "06190",
+"pop": 12037
+},
+{
+"code": "06152",
+"nom": "Valbonne",
+"dep": "06",
+"cp": "06560",
+"pop": 11939
+},
+{
+"code": "06012",
+"nom": "Beausoleil",
+"dep": "06",
+"cp": "06240",
+"pop": 11936
+},
+{
+"code": "06084",
+"nom": "Mouans-Sartoux",
+"dep": "06",
+"cp": "06370",
+"pop": 11015
+},
+{
+"code": "06149",
+"nom": "La Trinité",
+"dep": "06",
+"cp": "06340",
+"pop": 10602
+},
+{
+"code": "06018",
+"nom": "Biot",
+"dep": "06",
+"cp": "06410",
+"pop": 10511
+},
+{
+"code": "06095",
+"nom": "Peymeinade",
+"dep": "06",
+"cp": "06530",
+"pop": 8514
+},
+{
+"code": "06090",
+"nom": "Pégomas",
+"dep": "06",
+"cp": "06580",
+"pop": 8240
+},
+{
+"code": "06044",
+"nom": "La Colle-sur-Loup",
+"dep": "06",
+"cp": "06480",
+"pop": 8202
+},
+{
+"code": "06048",
+"nom": "Contes",
+"dep": "06",
+"cp": "06390",
+"pop": 7897
+},
+{
+"code": "06105",
+"nom": "Roquefort-les-Pins",
+"dep": "06",
+"cp": "06330",
+"pop": 7292
+},
+{
+"code": "06065",
+"nom": "La Gaude",
+"dep": "06",
+"cp": "06610",
+"pop": 7265
+},
+{
+"code": "06114",
+"nom": "Saint-André-de-la-Roche",
+"dep": "06",
+"cp": "06730",
+"pop": 5896
+},
+{
+"code": "06108",
+"nom": "La Roquette-sur-Siagne",
+"dep": "06",
+"cp": "06550",
+"pop": 5669
+},
+{
+"code": "06054",
+"nom": "Drap",
+"dep": "06",
+"cp": "06340",
+"pop": 5484
+},
+{
+"code": "06075",
+"nom": "Levens",
+"dep": "06",
+"cp": "06670",
+"pop": 5377
+},
+{
+"code": "06159",
+"nom": "Villefranche-sur-Mer",
+"dep": "06",
+"cp": "06230",
+"pop": 5008
+},
+{
+"code": "07010",
+"nom": "Annonay",
+"dep": "07",
+"cp": "07100",
+"pop": 17274
+},
+{
+"code": "07019",
+"nom": "Aubenas",
+"dep": "07",
+"cp": "07200",
+"pop": 12416
+},
+{
+"code": "07324",
+"nom": "Tournon-sur-Rhône",
+"dep": "07",
+"cp": "07300",
+"pop": 11279
+},
+{
+"code": "07102",
+"nom": "Guilherand-Granges",
+"dep": "07",
+"cp": "07500",
+"pop": 11235
+},
+{
+"code": "07319",
+"nom": "Le Teil",
+"dep": "07",
+"cp": "07400",
+"pop": 8726
+},
+{
+"code": "07186",
+"nom": "Privas",
+"dep": "07",
+"cp": "07000",
+"pop": 8538
+},
+{
+"code": "07042",
+"nom": "Bourg-Saint-Andéol",
+"dep": "07",
+"cp": "07700",
+"pop": 7661
+},
+{
+"code": "07281",
+"nom": "Saint-Péray",
+"dep": "07",
+"cp": "07130",
+"pop": 7580
+},
+{
+"code": "08105",
+"nom": "Charleville-Mézières",
+"dep": "08",
+"cp": "08000",
+"pop": 45560
+},
+{
+"code": "08409",
+"nom": "Sedan",
+"dep": "08",
+"cp": "08200",
+"pop": 16667
+},
+{
+"code": "08362",
+"nom": "Rethel",
+"dep": "08",
+"cp": "08300",
+"pop": 7444
+},
+{
+"code": "08190",
+"nom": "Givet",
+"dep": "08",
+"cp": "08600",
+"pop": 6364
+},
+{
+"code": "08363",
+"nom": "Revin",
+"dep": "08",
+"cp": "08500",
+"pop": 5716
+},
+{
+"code": "08328",
+"nom": "Nouzonville",
+"dep": "08",
+"cp": "08700",
+"pop": 5523
+},
+{
+"code": "09225",
+"nom": "Pamiers",
+"dep": "09",
+"cp": "09100",
+"pop": 16473
+},
+{
+"code": "09122",
+"nom": "Foix",
+"dep": "09",
+"cp": "09000",
+"pop": 9934
+},
+{
+"code": "09261",
+"nom": "Saint-Girons",
+"dep": "09",
+"cp": "09200",
+"pop": 6008
+},
+{
+"code": "09160",
+"nom": "Lavelanet",
+"dep": "09",
+"cp": "09300",
+"pop": 5987
+},
+{
+"code": "10387",
+"nom": "Troyes",
+"dep": "10",
+"cp": "10000",
+"pop": 62088
+},
+{
+"code": "10323",
+"nom": "Romilly-sur-Seine",
+"dep": "10",
+"cp": "10100",
+"pop": 14959
+},
+{
+"code": "10333",
+"nom": "Saint-André-les-Vergers",
+"dep": "10",
+"cp": "10120",
+"pop": 12806
+},
+{
+"code": "10081",
+"nom": "La Chapelle-Saint-Luc",
+"dep": "10",
+"cp": "10600",
+"pop": 12648
+},
+{
+"code": "10362",
+"nom": "Sainte-Savine",
+"dep": "10",
+"cp": "10300",
+"pop": 10289
+},
+{
+"code": "10343",
+"nom": "Saint-Julien-les-Villas",
+"dep": "10",
+"cp": "10800",
+"pop": 6760
+},
+{
+"code": "10268",
+"nom": "Nogent-sur-Seine",
+"dep": "10",
+"cp": "10400",
+"pop": 5537
+},
+{
+"code": "10297",
+"nom": "Pont-Sainte-Marie",
+"dep": "10",
+"cp": "10150",
+"pop": 5249
+},
+{
+"code": "11262",
+"nom": "Narbonne",
+"dep": "11",
+"cp": "11100",
+"pop": 57587
+},
+{
+"code": "11069",
+"nom": "Carcassonne",
+"dep": "11",
+"cp": "11000",
+"pop": 46080
+},
+{
+"code": "11076",
+"nom": "Castelnaudary",
+"dep": "11",
+"cp": "11400",
+"pop": 12151
+},
+{
+"code": "11206",
+"nom": "Limoux",
+"dep": "11",
+"cp": "11300",
+"pop": 10532
+},
+{
+"code": "11203",
+"nom": "Lézignan-Corbières",
+"dep": "11",
+"cp": "11200",
+"pop": 10343
+},
+{
+"code": "11266",
+"nom": "Port-la-Nouvelle",
+"dep": "11",
+"cp": "11210",
+"pop": 5852
+},
+{
+"code": "11106",
+"nom": "Coursan",
+"dep": "11",
+"cp": "11110",
+"pop": 5737
+},
+{
+"code": "11379",
+"nom": "Sigean",
+"dep": "11",
+"cp": "11130",
+"pop": 5657
+},
+{
+"code": "11397",
+"nom": "Trèbes",
+"dep": "11",
+"cp": "11800",
+"pop": 5361
+},
+{
+"code": "11170",
+"nom": "Gruissan",
+"dep": "11",
+"cp": "11430",
+"pop": 5032
+},
+{
+"code": "12202",
+"nom": "Rodez",
+"dep": "12",
+"cp": "12000",
+"pop": 23981
+},
+{
+"code": "12145",
+"nom": "Millau",
+"dep": "12",
+"cp": "12100",
+"pop": 22044
+},
+{
+"code": "12176",
+"nom": "Onet-le-Château",
+"dep": "12",
+"cp": "12000",
+"pop": 12080
+},
+{
+"code": "12300",
+"nom": "Villefranche-de-Rouergue",
+"dep": "12",
+"cp": "12200",
+"pop": 11271
+},
+{
+"code": "12208",
+"nom": "Saint-Affrique",
+"dep": "12",
+"cp": "12400",
+"pop": 7941
+},
+{
+"code": "12133",
+"nom": "Luc-la-Primaube",
+"dep": "12",
+"cp": "12450",
+"pop": 6046
+},
+{
+"code": "12089",
+"nom": "Decazeville",
+"dep": "12",
+"cp": "12300",
+"pop": 5020
+},
+{
+"code": "13004",
+"nom": "Arles",
+"dep": "13",
+"cp": "13104",
+"pop": 51811
+},
+{
+"code": "13056",
+"nom": "Martigues",
+"dep": "13",
+"cp": "13117",
+"pop": 48298
+},
+{
+"code": "13005",
+"nom": "Aubagne",
+"dep": "13",
+"cp": "13400",
+"pop": 47529
+},
+{
+"code": "13047",
+"nom": "Istres",
+"dep": "13",
+"cp": "13118",
+"pop": 44292
+},
+{
+"code": "13103",
+"nom": "Salon-de-Provence",
+"dep": "13",
+"cp": "13300",
+"pop": 44194
+},
+{
+"code": "13028",
+"nom": "La Ciotat",
+"dep": "13",
+"cp": "13600",
+"pop": 38477
+},
+{
+"code": "13117",
+"nom": "Vitrolles",
+"dep": "13",
+"cp": "13127",
+"pop": 36758
+},
+{
+"code": "13054",
+"nom": "Marignane",
+"dep": "13",
+"cp": "13700",
+"pop": 33692
+},
+{
+"code": "13063",
+"nom": "Miramas",
+"dep": "13",
+"cp": "13140",
+"pop": 26203
+},
+{
+"code": "13071",
+"nom": "Les Pennes-Mirabeau",
+"dep": "13",
+"cp": "13170",
+"pop": 22537
+},
+{
+"code": "13041",
+"nom": "Gardanne",
+"dep": "13",
+"cp": "13120",
+"pop": 21597
+},
+{
+"code": "13002",
+"nom": "Allauch",
+"dep": "13",
+"cp": "13190",
+"pop": 21443
+},
+{
+"code": "13026",
+"nom": "Châteauneuf-les-Martigues",
+"dep": "13",
+"cp": "13220",
+"pop": 18455
+},
+{
+"code": "13027",
+"nom": "Châteaurenard",
+"dep": "13",
+"cp": "13160",
+"pop": 16545
+},
+{
+"code": "13039",
+"nom": "Fos-sur-Mer",
+"dep": "13",
+"cp": "13270",
+"pop": 15862
+},
+{
+"code": "13077",
+"nom": "Port-de-Bouc",
+"dep": "13",
+"cp": "13110",
+"pop": 15802
+},
+{
+"code": "13108",
+"nom": "Tarascon",
+"dep": "13",
+"cp": "13150",
+"pop": 15396
+},
+{
+"code": "13015",
+"nom": "Bouc-Bel-Air",
+"dep": "13",
+"cp": "13320",
+"pop": 15381
+},
+{
+"code": "13097",
+"nom": "Saint-Martin-de-Crau",
+"dep": "13",
+"cp": "13310",
+"pop": 14145
+},
+{
+"code": "13014",
+"nom": "Berre-l'Étang",
+"dep": "13",
+"cp": "13130",
+"pop": 13832
+},
+{
+"code": "13007",
+"nom": "Auriol",
+"dep": "13",
+"cp": "13390",
+"pop": 13037
+},
+{
+"code": "13081",
+"nom": "Rognac",
+"dep": "13",
+"cp": "13340",
+"pop": 12576
+},
+{
+"code": "13106",
+"nom": "Septèmes-les-Vallons",
+"dep": "13",
+"cp": "13240",
+"pop": 11995
+},
+{
+"code": "13075",
+"nom": "Plan-de-Cuques",
+"dep": "13",
+"cp": "13380",
+"pop": 11632
+},
+{
+"code": "13069",
+"nom": "Pélissanne",
+"dep": "13",
+"cp": "13330",
+"pop": 11085
+},
+{
+"code": "13110",
+"nom": "Trets",
+"dep": "13",
+"cp": "13530",
+"pop": 10946
+},
+{
+"code": "13043",
+"nom": "Gignac-la-Nerthe",
+"dep": "13",
+"cp": "13180",
+"pop": 10343
+},
+{
+"code": "13040",
+"nom": "Fuveau",
+"dep": "13",
+"cp": "13710",
+"pop": 10337
+},
+{
+"code": "13019",
+"nom": "Cabriès",
+"dep": "13",
+"cp": "13480",
+"pop": 10240
+},
+{
+"code": "13050",
+"nom": "Lambesc",
+"dep": "13",
+"cp": "13410",
+"pop": 10024
+},
+{
+"code": "13051",
+"nom": "Lançon-Provence",
+"dep": "13",
+"cp": "13680",
+"pop": 9915
+},
+{
+"code": "13100",
+"nom": "Saint-Rémy-de-Provence",
+"dep": "13",
+"cp": "13210",
+"pop": 9599
+},
+{
+"code": "13037",
+"nom": "La Fare-les-Oliviers",
+"dep": "13",
+"cp": "13580",
+"pop": 9039
+},
+{
+"code": "13112",
+"nom": "Velaux",
+"dep": "13",
+"cp": "13880",
+"pop": 8941
+},
+{
+"code": "13086",
+"nom": "Roquevaire",
+"dep": "13",
+"cp": "13360",
+"pop": 8915
+},
+{
+"code": "13092",
+"nom": "Saint-Chamas",
+"dep": "13",
+"cp": "13250",
+"pop": 8676
+},
+{
+"code": "13078",
+"nom": "Port-Saint-Louis-du-Rhône",
+"dep": "13",
+"cp": "13230",
+"pop": 8573
+},
+{
+"code": "13032",
+"nom": "Éguilles",
+"dep": "13",
+"cp": "13510",
+"pop": 8479
+},
+{
+"code": "13113",
+"nom": "Venelles",
+"dep": "13",
+"cp": "13770",
+"pop": 8418
+},
+{
+"code": "13104",
+"nom": "Sausset-les-Pins",
+"dep": "13",
+"cp": "13960",
+"pop": 7574
+},
+{
+"code": "13035",
+"nom": "Eyguières",
+"dep": "13",
+"cp": "13430",
+"pop": 7119
+},
+{
+"code": "13105",
+"nom": "Sénas",
+"dep": "13",
+"cp": "13560",
+"pop": 6925
+},
+{
+"code": "13119",
+"nom": "Carnoux-en-Provence",
+"dep": "13",
+"cp": "13470",
+"pop": 6873
+},
+{
+"code": "13060",
+"nom": "Meyreuil",
+"dep": "13",
+"cp": "13590",
+"pop": 6747
+},
+{
+"code": "13102",
+"nom": "Saint-Victoret",
+"dep": "13",
+"cp": "13730",
+"pop": 6730
+},
+{
+"code": "13022",
+"nom": "Cassis",
+"dep": "13",
+"cp": "13260",
+"pop": 6661
+},
+{
+"code": "13070",
+"nom": "La Penne-sur-Huveaune",
+"dep": "13",
+"cp": "13821",
+"pop": 6605
+},
+{
+"code": "13042",
+"nom": "Gémenos",
+"dep": "13",
+"cp": "13420",
+"pop": 6579
+},
+{
+"code": "13016",
+"nom": "La Bouilladisse",
+"dep": "13",
+"cp": "13720",
+"pop": 6547
+},
+{
+"code": "13030",
+"nom": "Cuges-les-Pins",
+"dep": "13",
+"cp": "13780",
+"pop": 6236
+},
+{
+"code": "13098",
+"nom": "Saint-Mitre-les-Remparts",
+"dep": "13",
+"cp": "13920",
+"pop": 6175
+},
+{
+"code": "13053",
+"nom": "Mallemort",
+"dep": "13",
+"cp": "13370",
+"pop": 6166
+},
+{
+"code": "13091",
+"nom": "Saint-Cannat",
+"dep": "13",
+"cp": "13760",
+"pop": 6097
+},
+{
+"code": "13066",
+"nom": "Noves",
+"dep": "13",
+"cp": "13550",
+"pop": 6080
+},
+{
+"code": "13080",
+"nom": "Le Puy-Sainte-Réparade",
+"dep": "13",
+"cp": "13610",
+"pop": 5935
+},
+{
+"code": "13114",
+"nom": "Ventabren",
+"dep": "13",
+"cp": "13122",
+"pop": 5839
+},
+{
+"code": "13085",
+"nom": "Roquefort-la-Bédoule",
+"dep": "13",
+"cp": "13830",
+"pop": 5798
+},
+{
+"code": "13107",
+"nom": "Simiane-Collongue",
+"dep": "13",
+"cp": "13109",
+"pop": 5780
+},
+{
+"code": "13073",
+"nom": "Peypin",
+"dep": "13",
+"cp": "13124",
+"pop": 5771
+},
+{
+"code": "13033",
+"nom": "Ensuès-la-Redonne",
+"dep": "13",
+"cp": "13820",
+"pop": 5757
+},
+{
+"code": "13021",
+"nom": "Carry-le-Rouet",
+"dep": "13",
+"cp": "13620",
+"pop": 5702
+},
+{
+"code": "13044",
+"nom": "Grans",
+"dep": "13",
+"cp": "13450",
+"pop": 5489
+},
+{
+"code": "13084",
+"nom": "La Roque-d'Anthéron",
+"dep": "13",
+"cp": "13640",
+"pop": 5459
+},
+{
+"code": "13087",
+"nom": "Rousset",
+"dep": "13",
+"cp": "13790",
+"pop": 5425
+},
+{
+"code": "13074",
+"nom": "Peyrolles-en-Provence",
+"dep": "13",
+"cp": "13860",
+"pop": 5409
+},
+{
+"code": "13088",
+"nom": "Le Rove",
+"dep": "13",
+"cp": "13740",
+"pop": 5246
+},
+{
+"code": "14327",
+"nom": "Hérouville-Saint-Clair",
+"dep": "14",
+"cp": "14200",
+"pop": 23470
+},
+{
+"code": "14366",
+"nom": "Lisieux",
+"dep": "14",
+"cp": "14100",
+"pop": 19645
+},
+{
+"code": "14762",
+"nom": "Vire Normandie",
+"dep": "14",
+"cp": "14500",
+"pop": 17457
+},
+{
+"code": "14047",
+"nom": "Bayeux",
+"dep": "14",
+"cp": "14400",
+"pop": 12659
+},
+{
+"code": "14341",
+"nom": "Ifs",
+"dep": "14",
+"cp": "14123",
+"pop": 11937
+},
+{
+"code": "14437",
+"nom": "Mondeville",
+"dep": "14",
+"cp": "14120",
+"pop": 10331
+},
+{
+"code": "14431",
+"nom": "Mézidon Vallée d'Auge",
+"dep": "14",
+"cp": "14140",
+"pop": 9766
+},
+{
+"code": "14488",
+"nom": "Ouistreham",
+"dep": "14",
+"cp": "14150",
+"pop": 9212
+},
+{
+"code": "14061",
+"nom": "Souleuvre en Bocage",
+"dep": "14",
+"cp": "14260",
+"pop": 8629
+},
+{
+"code": "14258",
+"nom": "Falaise",
+"dep": "14",
+"cp": "14700",
+"pop": 7680
+},
+{
+"code": "14167",
+"nom": "Colombelles",
+"dep": "14",
+"cp": "14460",
+"pop": 7243
+},
+{
+"code": "14654",
+"nom": "Saint-Pierre-en-Auge",
+"dep": "14",
+"cp": "14140",
+"pop": 7100
+},
+{
+"code": "14333",
+"nom": "Honfleur",
+"dep": "14",
+"cp": "14600",
+"pop": 6640
+},
+{
+"code": "14371",
+"nom": "Livarot-Pays-d'Auge",
+"dep": "14",
+"cp": "14140",
+"pop": 6207
+},
+{
+"code": "14098",
+"nom": "Thue et Mue",
+"dep": "14",
+"cp": "14210",
+"pop": 6182
+},
+{
+"code": "14076",
+"nom": "Blainville-sur-Orne",
+"dep": "14",
+"cp": "14550",
+"pop": 6106
+},
+{
+"code": "14174",
+"nom": "Condé-en-Normandie",
+"dep": "14",
+"cp": "14110",
+"pop": 5985
+},
+{
+"code": "14271",
+"nom": "Fleury-sur-Orne",
+"dep": "14",
+"cp": "14123",
+"pop": 5941
+},
+{
+"code": "14726",
+"nom": "Valdallière",
+"dep": "14",
+"cp": "14350",
+"pop": 5696
+},
+{
+"code": "14181",
+"nom": "Cormelles-le-Royal",
+"dep": "14",
+"cp": "14123",
+"pop": 5377
+},
+{
+"code": "14514",
+"nom": "Pont-l'Évêque",
+"dep": "14",
+"cp": "14130",
+"pop": 5145
+},
+{
+"code": "14228",
+"nom": "Douvres-la-Délivrande",
+"dep": "14",
+"cp": "14440",
+"pop": 5143
+},
+{
+"code": "14225",
+"nom": "Dives-sur-Mer",
+"dep": "14",
+"cp": "14160",
+"pop": 5122
+},
+{
+"code": "14301",
+"nom": "Giberville",
+"dep": "14",
+"cp": "14730",
+"pop": 5077
+},
+{
+"code": "15014",
+"nom": "Aurillac",
+"dep": "15",
+"cp": "15000",
+"pop": 26214
+},
+{
+"code": "15187",
+"nom": "Saint-Flour",
+"dep": "15",
+"cp": "15100",
+"pop": 6391
+},
+{
+"code": "15012",
+"nom": "Arpajon-sur-Cère",
+"dep": "15",
+"cp": "15130",
+"pop": 6361
+},
+{
+"code": "16015",
+"nom": "Angoulême",
+"dep": "16",
+"cp": "16000",
+"pop": 41908
+},
+{
+"code": "16102",
+"nom": "Cognac",
+"dep": "16",
+"cp": "16100",
+"pop": 18532
+},
+{
+"code": "16374",
+"nom": "Soyaux",
+"dep": "16",
+"cp": "16800",
+"pop": 10087
+},
+{
+"code": "16113",
+"nom": "La Couronne",
+"dep": "16",
+"cp": "16400",
+"pop": 7765
+},
+{
+"code": "16358",
+"nom": "Saint-Yrieix-sur-Charente",
+"dep": "16",
+"cp": "16710",
+"pop": 7539
+},
+{
+"code": "16291",
+"nom": "Ruelle-sur-Touvre",
+"dep": "16",
+"cp": "16600",
+"pop": 7408
+},
+{
+"code": "16154",
+"nom": "Gond-Pontouvre",
+"dep": "16",
+"cp": "16160",
+"pop": 5862
+},
+{
+"code": "16166",
+"nom": "L'Isle-d'Espagnac",
+"dep": "16",
+"cp": "16340",
+"pop": 5682
+},
+{
+"code": "16078",
+"nom": "Champniers",
+"dep": "16",
+"cp": "16430",
+"pop": 5281
+},
+{
+"code": "17300",
+"nom": "La Rochelle",
+"dep": "17",
+"cp": "17000",
+"pop": 79851
+},
+{
+"code": "17415",
+"nom": "Saintes",
+"dep": "17",
+"cp": "17100",
+"pop": 25363
+},
+{
+"code": "17299",
+"nom": "Rochefort",
+"dep": "17",
+"cp": "17300",
+"pop": 23460
+},
+{
+"code": "17306",
+"nom": "Royan",
+"dep": "17",
+"cp": "17200",
+"pop": 19425
+},
+{
+"code": "17028",
+"nom": "Aytré",
+"dep": "17",
+"cp": "17440",
+"pop": 9746
+},
+{
+"code": "17274",
+"nom": "Périgny",
+"dep": "17",
+"cp": "17180",
+"pop": 8877
+},
+{
+"code": "17449",
+"nom": "Tonnay-Charente",
+"dep": "17",
+"cp": "17430",
+"pop": 8289
+},
+{
+"code": "17200",
+"nom": "Lagord",
+"dep": "17",
+"cp": "17140",
+"pop": 7802
+},
+{
+"code": "17421",
+"nom": "Saujon",
+"dep": "17",
+"cp": "17600",
+"pop": 7440
+},
+{
+"code": "17434",
+"nom": "Surgères",
+"dep": "17",
+"cp": "17700",
+"pop": 6897
+},
+{
+"code": "17347",
+"nom": "Saint-Jean-d'Angély",
+"dep": "17",
+"cp": "17400",
+"pop": 6784
+},
+{
+"code": "17291",
+"nom": "Puilboreau",
+"dep": "17",
+"cp": "17138",
+"pop": 6765
+},
+{
+"code": "17094",
+"nom": "Châtelaillon-Plage",
+"dep": "17",
+"cp": "17340",
+"pop": 6653
+},
+{
+"code": "17385",
+"nom": "Saint-Pierre-d'Oléron",
+"dep": "17",
+"cp": "17310",
+"pop": 6633
+},
+{
+"code": "17142",
+"nom": "Dompierre-sur-Mer",
+"dep": "17",
+"cp": "17139",
+"pop": 6315
+},
+{
+"code": "17219",
+"nom": "Marennes-Hiers-Brouage",
+"dep": "17",
+"cp": "17320",
+"pop": 6163
+},
+{
+"code": "17264",
+"nom": "Nieul-sur-Mer",
+"dep": "17",
+"cp": "17137",
+"pop": 5811
+},
+{
+"code": "17414",
+"nom": "Saint-Xandre",
+"dep": "17",
+"cp": "17138",
+"pop": 5677
+},
+{
+"code": "17333",
+"nom": "Saint-Georges-de-Didonne",
+"dep": "17",
+"cp": "17110",
+"pop": 5092
+},
+{
+"code": "17407",
+"nom": "Sainte-Soulle",
+"dep": "17",
+"cp": "17220",
+"pop": 5034
+},
+{
+"code": "18033",
+"nom": "Bourges",
+"dep": "18",
+"cp": "18000",
+"pop": 64186
+},
+{
+"code": "18279",
+"nom": "Vierzon",
+"dep": "18",
+"cp": "18100",
+"pop": 25068
+},
+{
+"code": "18197",
+"nom": "Saint-Amand-Montrond",
+"dep": "18",
+"cp": "18200",
+"pop": 9899
+},
+{
+"code": "18205",
+"nom": "Saint-Doulchard",
+"dep": "18",
+"cp": "18230",
+"pop": 9647
+},
+{
+"code": "18207",
+"nom": "Saint-Florent-sur-Cher",
+"dep": "18",
+"cp": "18400",
+"pop": 6463
+},
+{
+"code": "18141",
+"nom": "Mehun-sur-Yèvre",
+"dep": "18",
+"cp": "18500",
+"pop": 6380
+},
+{
+"code": "18015",
+"nom": "Aubigny-sur-Nère",
+"dep": "18",
+"cp": "18700",
+"pop": 5451
+},
+{
+"code": "19031",
+"nom": "Brive-la-Gaillarde",
+"dep": "19",
+"cp": "19100",
+"pop": 47095
+},
+{
+"code": "19272",
+"nom": "Tulle",
+"dep": "19",
+"cp": "19000",
+"pop": 13401
+},
+{
+"code": "19275",
+"nom": "Ussel",
+"dep": "19",
+"cp": "19200",
+"pop": 9187
+},
+{
+"code": "19123",
+"nom": "Malemort",
+"dep": "19",
+"cp": "19360",
+"pop": 8239
+},
+{
+"code": "19229",
+"nom": "Saint-Pantaléon-de-Larche",
+"dep": "19",
+"cp": "19600",
+"pop": 5091
+},
+{
+"code": "21054",
+"nom": "Beaune",
+"dep": "21",
+"cp": "21200",
+"pop": 20352
+},
+{
+"code": "21166",
+"nom": "Chenôve",
+"dep": "21",
+"cp": "21300",
+"pop": 14244
+},
+{
+"code": "21617",
+"nom": "Talant",
+"dep": "21",
+"cp": "21240",
+"pop": 11896
+},
+{
+"code": "21171",
+"nom": "Chevigny-Saint-Sauveur",
+"dep": "21",
+"cp": "21800",
+"pop": 11108
+},
+{
+"code": "21278",
+"nom": "Fontaine-lès-Dijon",
+"dep": "21",
+"cp": "21121",
+"pop": 9252
+},
+{
+"code": "21515",
+"nom": "Quetigny",
+"dep": "21",
+"cp": "21800",
+"pop": 8971
+},
+{
+"code": "21355",
+"nom": "Longvic",
+"dep": "21",
+"cp": "21600",
+"pop": 8896
+},
+{
+"code": "21038",
+"nom": "Auxonne",
+"dep": "21",
+"cp": "21130",
+"pop": 7581
+},
+{
+"code": "21540",
+"nom": "Saint-Apollinaire",
+"dep": "21",
+"cp": "21850",
+"pop": 7544
+},
+{
+"code": "21154",
+"nom": "Châtillon-sur-Seine",
+"dep": "21",
+"cp": "21400",
+"pop": 5443
+},
+{
+"code": "21390",
+"nom": "Marsannay-la-Côte",
+"dep": "21",
+"cp": "21160",
+"pop": 5433
+},
+{
+"code": "21464",
+"nom": "Nuits-Saint-Georges",
+"dep": "21",
+"cp": "21700",
+"pop": 5235
+},
+{
+"code": "21292",
+"nom": "Genlis",
+"dep": "21",
+"cp": "21110",
+"pop": 5093
+},
+{
+"code": "22278",
+"nom": "Saint-Brieuc",
+"dep": "22",
+"cp": "22000",
+"pop": 44364
+},
+{
+"code": "22113",
+"nom": "Lannion",
+"dep": "22",
+"cp": "22300",
+"pop": 20315
+},
+{
+"code": "22093",
+"nom": "Lamballe-Armor",
+"dep": "22",
+"cp": "22400",
+"pop": 17241
+},
+{
+"code": "22050",
+"nom": "Dinan",
+"dep": "22",
+"cp": "22100",
+"pop": 14764
+},
+{
+"code": "22187",
+"nom": "Plérin",
+"dep": "22",
+"cp": "22190",
+"pop": 14425
+},
+{
+"code": "22215",
+"nom": "Ploufragan",
+"dep": "22",
+"cp": "22440",
+"pop": 11507
+},
+{
+"code": "22136",
+"nom": "Loudéac",
+"dep": "22",
+"cp": "22600",
+"pop": 9987
+},
+{
+"code": "22360",
+"nom": "Trégueux",
+"dep": "22",
+"cp": "22950",
+"pop": 8450
+},
+{
+"code": "22106",
+"nom": "Langueux",
+"dep": "22",
+"cp": "22360",
+"pop": 7939
+},
+{
+"code": "22251",
+"nom": "Pordic",
+"dep": "22",
+"cp": "22590",
+"pop": 7454
+},
+{
+"code": "22162",
+"nom": "Paimpol",
+"dep": "22",
+"cp": "22500",
+"pop": 7341
+},
+{
+"code": "22168",
+"nom": "Perros-Guirec",
+"dep": "22",
+"cp": "22700",
+"pop": 7336
+},
+{
+"code": "22070",
+"nom": "Guingamp",
+"dep": "22",
+"cp": "22200",
+"pop": 7111
+},
+{
+"code": "22055",
+"nom": "Binic-Étables-sur-Mer",
+"dep": "22",
+"cp": "22520",
+"pop": 7041
+},
+{
+"code": "22176",
+"nom": "Plédran",
+"dep": "22",
+"cp": "22960",
+"pop": 6933
+},
+{
+"code": "22046",
+"nom": "Le Mené",
+"dep": "22",
+"cp": "22330",
+"pop": 6556
+},
+{
+"code": "22225",
+"nom": "Ploumagoar",
+"dep": "22",
+"cp": "22970",
+"pop": 5414
+},
+{
+"code": "22389",
+"nom": "Yffiniac",
+"dep": "22",
+"cp": "22120",
+"pop": 5074
+},
+{
+"code": "23096",
+"nom": "Guéret",
+"dep": "23",
+"cp": "23000",
+"pop": 12955
+},
+{
+"code": "24322",
+"nom": "Périgueux",
+"dep": "24",
+"cp": "24000",
+"pop": 29055
+},
+{
+"code": "24037",
+"nom": "Bergerac",
+"dep": "24",
+"cp": "24100",
+"pop": 27110
+},
+{
+"code": "24053",
+"nom": "Boulazac Isle Manoire",
+"dep": "24",
+"cp": "24330",
+"pop": 10759
+},
+{
+"code": "24520",
+"nom": "Sarlat-la-Canéda",
+"dep": "24",
+"cp": "24200",
+"pop": 8763
+},
+{
+"code": "24138",
+"nom": "Coulounieix-Chamiers",
+"dep": "24",
+"cp": "24660",
+"pop": 7832
+},
+{
+"code": "24557",
+"nom": "Trélissac",
+"dep": "24",
+"cp": "24750",
+"pop": 7372
+},
+{
+"code": "24547",
+"nom": "Terrasson-Lavilledieu",
+"dep": "24",
+"cp": "24120",
+"pop": 6218
+},
+{
+"code": "24294",
+"nom": "Montpon-Ménestérol",
+"dep": "24",
+"cp": "24700",
+"pop": 5866
+},
+{
+"code": "24372",
+"nom": "Saint-Astier",
+"dep": "24",
+"cp": "24110",
+"pop": 5376
+},
+{
+"code": "25388",
+"nom": "Montbéliard",
+"dep": "25",
+"cp": "25200",
+"pop": 24672
+},
+{
+"code": "25462",
+"nom": "Pontarlier",
+"dep": "25",
+"cp": "25300",
+"pop": 18067
+},
+{
+"code": "25031",
+"nom": "Audincourt",
+"dep": "25",
+"cp": "25400",
+"pop": 14071
+},
+{
+"code": "25580",
+"nom": "Valentigney",
+"dep": "25",
+"cp": "25700",
+"pop": 10501
+},
+{
+"code": "25411",
+"nom": "Morteau",
+"dep": "25",
+"cp": "25500",
+"pop": 6953
+},
+{
+"code": "25284",
+"nom": "Grand-Charmont",
+"dep": "25",
+"cp": "25200",
+"pop": 5873
+},
+{
+"code": "25539",
+"nom": "Seloncourt",
+"dep": "25",
+"cp": "25230",
+"pop": 5854
+},
+{
+"code": "25578",
+"nom": "Valdahon",
+"dep": "25",
+"cp": "25800",
+"pop": 5705
+},
+{
+"code": "25057",
+"nom": "Bethoncourt",
+"dep": "25",
+"cp": "25200",
+"pop": 5308
+},
+{
+"code": "25321",
+"nom": "Villers-le-Lac",
+"dep": "25",
+"cp": "25130",
+"pop": 5292
+},
+{
+"code": "25047",
+"nom": "Baume-les-Dames",
+"dep": "25",
+"cp": "25110",
+"pop": 5155
+},
+{
+"code": "25527",
+"nom": "Saint-Vit",
+"dep": "25",
+"cp": "25410",
+"pop": 5133
+},
+{
+"code": "26362",
+"nom": "Valence",
+"dep": "26",
+"cp": "26000",
+"pop": 64458
+},
+{
+"code": "26198",
+"nom": "Montélimar",
+"dep": "26",
+"cp": "26200",
+"pop": 40595
+},
+{
+"code": "26281",
+"nom": "Romans-sur-Isère",
+"dep": "26",
+"cp": "26100",
+"pop": 33464
+},
+{
+"code": "26058",
+"nom": "Bourg-lès-Valence",
+"dep": "26",
+"cp": "26500",
+"pop": 19992
+},
+{
+"code": "26235",
+"nom": "Pierrelatte",
+"dep": "26",
+"cp": "26700",
+"pop": 13756
+},
+{
+"code": "26252",
+"nom": "Portes-lès-Valence",
+"dep": "26",
+"cp": "26800",
+"pop": 10477
+},
+{
+"code": "26057",
+"nom": "Bourg-de-Péage",
+"dep": "26",
+"cp": "26300",
+"pop": 9921
+},
+{
+"code": "26165",
+"nom": "Livron-sur-Drôme",
+"dep": "26",
+"cp": "26250",
+"pop": 9329
+},
+{
+"code": "26324",
+"nom": "Saint-Paul-Trois-Châteaux",
+"dep": "26",
+"cp": "26130",
+"pop": 8981
+},
+{
+"code": "26108",
+"nom": "Crest",
+"dep": "26",
+"cp": "26400",
+"pop": 8658
+},
+{
+"code": "26325",
+"nom": "Saint-Rambert-d'Albon",
+"dep": "26",
+"cp": "26140",
+"pop": 7001
+},
+{
+"code": "26064",
+"nom": "Chabeuil",
+"dep": "26",
+"cp": "26120",
+"pop": 6833
+},
+{
+"code": "26220",
+"nom": "Nyons",
+"dep": "26",
+"cp": "26110",
+"pop": 6816
+},
+{
+"code": "26166",
+"nom": "Loriol-sur-Drôme",
+"dep": "26",
+"cp": "26270",
+"pop": 6614
+},
+{
+"code": "26088",
+"nom": "Chatuzange-le-Goubet",
+"dep": "26",
+"cp": "26300",
+"pop": 6523
+},
+{
+"code": "26313",
+"nom": "Saint-Marcel-lès-Valence",
+"dep": "26",
+"cp": "26320",
+"pop": 6176
+},
+{
+"code": "26116",
+"nom": "Donzère",
+"dep": "26",
+"cp": "26290",
+"pop": 6008
+},
+{
+"code": "26347",
+"nom": "Tain-l'Hermitage",
+"dep": "26",
+"cp": "26600",
+"pop": 5915
+},
+{
+"code": "26124",
+"nom": "Étoile-sur-Rhône",
+"dep": "26",
+"cp": "26800",
+"pop": 5468
+},
+{
+"code": "27229",
+"nom": "Évreux",
+"dep": "27",
+"cp": "27000",
+"pop": 49360
+},
+{
+"code": "27681",
+"nom": "Vernon",
+"dep": "27",
+"cp": "27200",
+"pop": 25290
+},
+{
+"code": "27375",
+"nom": "Louviers",
+"dep": "27",
+"cp": "27400",
+"pop": 18705
+},
+{
+"code": "27701",
+"nom": "Val-de-Reuil",
+"dep": "27",
+"cp": "27100",
+"pop": 13245
+},
+{
+"code": "27284",
+"nom": "Gisors",
+"dep": "27",
+"cp": "27140",
+"pop": 12410
+},
+{
+"code": "27467",
+"nom": "Pont-Audemer",
+"dep": "27",
+"cp": "27500",
+"pop": 10023
+},
+{
+"code": "27056",
+"nom": "Bernay",
+"dep": "27",
+"cp": "27300",
+"pop": 9765
+},
+{
+"code": "27016",
+"nom": "Les Andelys",
+"dep": "27",
+"cp": "27700",
+"pop": 7706
+},
+{
+"code": "27679",
+"nom": "Verneuil d'Avre et d'Iton",
+"dep": "27",
+"cp": "27130",
+"pop": 7193
+},
+{
+"code": "27275",
+"nom": "Gaillon",
+"dep": "27",
+"cp": "27600",
+"pop": 6746
+},
+{
+"code": "27198",
+"nom": "Mesnils-sur-Iton",
+"dep": "27",
+"cp": "27160",
+"pop": 6078
+},
+{
+"code": "27213",
+"nom": "Vexin-sur-Epte",
+"dep": "27",
+"cp": "27420",
+"pop": 6015
+},
+{
+"code": "27602",
+"nom": "Saint-Sébastien-de-Morsent",
+"dep": "27",
+"cp": "27180",
+"pop": 5524
+},
+{
+"code": "27022",
+"nom": "Le Val d'Hazey",
+"dep": "27",
+"cp": "27600",
+"pop": 5111
+},
+{
+"code": "27448",
+"nom": "Pacy-sur-Eure",
+"dep": "27",
+"cp": "27120",
+"pop": 5027
+},
+{
+"code": "28085",
+"nom": "Chartres",
+"dep": "28",
+"cp": "28000",
+"pop": 38324
+},
+{
+"code": "28134",
+"nom": "Dreux",
+"dep": "28",
+"cp": "28100",
+"pop": 31543
+},
+{
+"code": "28218",
+"nom": "Lucé",
+"dep": "28",
+"cp": "28110",
+"pop": 15921
+},
+{
+"code": "28088",
+"nom": "Châteaudun",
+"dep": "28",
+"cp": "28200",
+"pop": 12830
+},
+{
+"code": "28404",
+"nom": "Vernouillet",
+"dep": "28",
+"cp": "28500",
+"pop": 12310
+},
+{
+"code": "28229",
+"nom": "Mainvilliers",
+"dep": "28",
+"cp": "28300",
+"pop": 10629
+},
+{
+"code": "28280",
+"nom": "Nogent-le-Rotrou",
+"dep": "28",
+"cp": "28400",
+"pop": 9292
+},
+{
+"code": "28220",
+"nom": "Luisant",
+"dep": "28",
+"cp": "28600",
+"pop": 6945
+},
+{
+"code": "28015",
+"nom": "Auneau-Bleury-Saint-Symphorien",
+"dep": "28",
+"cp": "28700",
+"pop": 6419
+},
+{
+"code": "28140",
+"nom": "Épernon",
+"dep": "28",
+"cp": "28230",
+"pop": 5715
+},
+{
+"code": "28209",
+"nom": "Lèves",
+"dep": "28",
+"cp": "28300",
+"pop": 5685
+},
+{
+"code": "28103",
+"nom": "Cloyes-les-Trois-Rivières",
+"dep": "28",
+"cp": "28220",
+"pop": 5607
+},
+{
+"code": "29232",
+"nom": "Quimper",
+"dep": "29",
+"cp": "29000",
+"pop": 64385
+},
+{
+"code": "29039",
+"nom": "Concarneau",
+"dep": "29",
+"cp": "29900",
+"pop": 20845
+},
+{
+"code": "29103",
+"nom": "Landerneau",
+"dep": "29",
+"cp": "29800",
+"pop": 16363
+},
+{
+"code": "29075",
+"nom": "Guipavas",
+"dep": "29",
+"cp": "29490",
+"pop": 15538
+},
+{
+"code": "29151",
+"nom": "Morlaix",
+"dep": "29",
+"cp": "29600",
+"pop": 15194
+},
+{
+"code": "29046",
+"nom": "Douarnenez",
+"dep": "29",
+"cp": "29100",
+"pop": 14068
+},
+{
+"code": "29212",
+"nom": "Plouzané",
+"dep": "29",
+"cp": "29280",
+"pop": 13567
+},
+{
+"code": "29189",
+"nom": "Plougastel-Daoulas",
+"dep": "29",
+"cp": "29470",
+"pop": 13434
+},
+{
+"code": "29233",
+"nom": "Quimperlé",
+"dep": "29",
+"cp": "29300",
+"pop": 12469
+},
+{
+"code": "29235",
+"nom": "Le Relecq-Kerhuon",
+"dep": "29",
+"cp": "29480",
+"pop": 11897
+},
+{
+"code": "29058",
+"nom": "Fouesnant",
+"dep": "29",
+"cp": "29170",
+"pop": 10436
+},
+{
+"code": "29105",
+"nom": "Landivisiau",
+"dep": "29",
+"cp": "29400",
+"pop": 9426
+},
+{
+"code": "29160",
+"nom": "Plabennec",
+"dep": "29",
+"cp": "29860",
+"pop": 8686
+},
+{
+"code": "29051",
+"nom": "Ergué-Gabéric",
+"dep": "29",
+"cp": "29500",
+"pop": 8606
+},
+{
+"code": "29260",
+"nom": "Saint-Renan",
+"dep": "29",
+"cp": "29290",
+"pop": 8577
+},
+{
+"code": "29220",
+"nom": "Pont-l'Abbé",
+"dep": "29",
+"cp": "29120",
+"pop": 8484
+},
+{
+"code": "29069",
+"nom": "Guilers",
+"dep": "29",
+"cp": "29820",
+"pop": 8268
+},
+{
+"code": "29124",
+"nom": "Lesneven",
+"dep": "29",
+"cp": "29260",
+"pop": 7566
+},
+{
+"code": "29241",
+"nom": "Rosporden",
+"dep": "29",
+"cp": "29140",
+"pop": 7550
+},
+{
+"code": "29042",
+"nom": "Crozon",
+"dep": "29",
+"cp": "29160",
+"pop": 7499
+},
+{
+"code": "29024",
+"nom": "Carhaix-Plouguer",
+"dep": "29",
+"cp": "29270",
+"pop": 7412
+},
+{
+"code": "29293",
+"nom": "Trégunc",
+"dep": "29",
+"cp": "29910",
+"pop": 7148
+},
+{
+"code": "29259",
+"nom": "Saint-Pol-de-Léon",
+"dep": "29",
+"cp": "29250",
+"pop": 6941
+},
+{
+"code": "29195",
+"nom": "Plouguerneau",
+"dep": "29",
+"cp": "29880",
+"pop": 6755
+},
+{
+"code": "29150",
+"nom": "Moëlan-sur-Mer",
+"dep": "29",
+"cp": "29350",
+"pop": 6749
+},
+{
+"code": "29178",
+"nom": "Ploudalmézeau",
+"dep": "29",
+"cp": "29830",
+"pop": 6522
+},
+{
+"code": "29061",
+"nom": "Gouesnou",
+"dep": "29",
+"cp": "29850",
+"pop": 6501
+},
+{
+"code": "29174",
+"nom": "Plonéour-Lanvern",
+"dep": "29",
+"cp": "29720",
+"pop": 6452
+},
+{
+"code": "29020",
+"nom": "Briec",
+"dep": "29",
+"cp": "29510",
+"pop": 5816
+},
+{
+"code": "29004",
+"nom": "Bannalec",
+"dep": "29",
+"cp": "29380",
+"pop": 5725
+},
+{
+"code": "29117",
+"nom": "Lannilis",
+"dep": "29",
+"cp": "29870",
+"pop": 5709
+},
+{
+"code": "29158",
+"nom": "Penmarch",
+"dep": "29",
+"cp": "29760",
+"pop": 5508
+},
+{
+"code": "29274",
+"nom": "Scaër",
+"dep": "29",
+"cp": "29390",
+"pop": 5178
+},
+{
+"code": "29130",
+"nom": "Locmaria-Plouzané",
+"dep": "29",
+"cp": "29280",
+"pop": 5130
+},
+{
+"code": "29026",
+"nom": "Châteaulin",
+"dep": "29",
+"cp": "29150",
+"pop": 5085
+},
+{
+"code": "29199",
+"nom": "Plouigneau",
+"dep": "29",
+"cp": "29610",
+"pop": 5014
+},
+{
+"code": "2A004",
+"nom": "Ajaccio",
+"dep": "2A",
+"cp": "20000",
+"pop": 76320
+},
+{
+"code": "2A247",
+"nom": "Porto-Vecchio",
+"dep": "2A",
+"cp": "20137",
+"pop": 11198
+},
+{
+"code": "2B033",
+"nom": "Bastia",
+"dep": "2B",
+"cp": "20200",
+"pop": 46867
+},
+{
+"code": "2B042",
+"nom": "Borgo",
+"dep": "2B",
+"cp": "20290",
+"pop": 10311
+},
+{
+"code": "2B096",
+"nom": "Corte",
+"dep": "2B",
+"cp": "20250",
+"pop": 7819
+},
+{
+"code": "2B037",
+"nom": "Biguglia",
+"dep": "2B",
+"cp": "20620",
+"pop": 7642
+},
+{
+"code": "2B148",
+"nom": "Lucciana",
+"dep": "2B",
+"cp": "20290",
+"pop": 6923
+},
+{
+"code": "2B120",
+"nom": "Furiani",
+"dep": "2B",
+"cp": "20600",
+"pop": 6585
+},
+{
+"code": "2B050",
+"nom": "Calvi",
+"dep": "2B",
+"cp": "20260",
+"pop": 5788
+},
+{
+"code": "30007",
+"nom": "Alès",
+"dep": "30",
+"cp": "30100",
+"pop": 46125
+},
+{
+"code": "30028",
+"nom": "Bagnols-sur-Cèze",
+"dep": "30",
+"cp": "30200",
+"pop": 18112
+},
+{
+"code": "30032",
+"nom": "Beaucaire",
+"dep": "30",
+"cp": "30300",
+"pop": 15692
+},
+{
+"code": "30258",
+"nom": "Saint-Gilles",
+"dep": "30",
+"cp": "30800",
+"pop": 14734
+},
+{
+"code": "30351",
+"nom": "Villeneuve-lès-Avignon",
+"dep": "30",
+"cp": "30400",
+"pop": 13148
+},
+{
+"code": "30341",
+"nom": "Vauvert",
+"dep": "30",
+"cp": "30600",
+"pop": 11671
+},
+{
+"code": "30202",
+"nom": "Pont-Saint-Esprit",
+"dep": "30",
+"cp": "30130",
+"pop": 10958
+},
+{
+"code": "30011",
+"nom": "Les Angles",
+"dep": "30",
+"cp": "30133",
+"pop": 8908
+},
+{
+"code": "30003",
+"nom": "Aigues-Mortes",
+"dep": "30",
+"cp": "30220",
+"pop": 8699
+},
+{
+"code": "30133",
+"nom": "Le Grau-du-Roi",
+"dep": "30",
+"cp": "30240",
+"pop": 8588
+},
+{
+"code": "30334",
+"nom": "Uzès",
+"dep": "30",
+"cp": "30700",
+"pop": 8519
+},
+{
+"code": "30156",
+"nom": "Marguerittes",
+"dep": "30",
+"cp": "30320",
+"pop": 8346
+},
+{
+"code": "30217",
+"nom": "Rochefort-du-Gard",
+"dep": "30",
+"cp": "30650",
+"pop": 8117
+},
+{
+"code": "30034",
+"nom": "Bellegarde",
+"dep": "30",
+"cp": "30127",
+"pop": 8035
+},
+{
+"code": "30243",
+"nom": "Saint-Christol-lez-Alès",
+"dep": "30",
+"cp": "30380",
+"pop": 7310
+},
+{
+"code": "30155",
+"nom": "Manduel",
+"dep": "30",
+"cp": "30129",
+"pop": 7044
+},
+{
+"code": "30141",
+"nom": "Laudun-l'Ardoise",
+"dep": "30",
+"cp": "30290",
+"pop": 6835
+},
+{
+"code": "30062",
+"nom": "Calvisson",
+"dep": "30",
+"cp": "30420",
+"pop": 6486
+},
+{
+"code": "30169",
+"nom": "Milhaud",
+"dep": "30",
+"cp": "30540",
+"pop": 6297
+},
+{
+"code": "30047",
+"nom": "Bouillargues",
+"dep": "30",
+"cp": "30230",
+"pop": 6070
+},
+{
+"code": "30033",
+"nom": "Beauvoisin",
+"dep": "30",
+"cp": "30640",
+"pop": 6066
+},
+{
+"code": "30344",
+"nom": "Vergèze",
+"dep": "30",
+"cp": "30310",
+"pop": 5788
+},
+{
+"code": "30006",
+"nom": "Aimargues",
+"dep": "30",
+"cp": "30470",
+"pop": 5705
+},
+{
+"code": "30294",
+"nom": "Saint-Privat-des-Vieux",
+"dep": "30",
+"cp": "30340",
+"pop": 5703
+},
+{
+"code": "30221",
+"nom": "Roquemaure",
+"dep": "30",
+"cp": "30150",
+"pop": 5529
+},
+{
+"code": "30125",
+"nom": "Garons",
+"dep": "30",
+"cp": "30128",
+"pop": 5381
+},
+{
+"code": "30321",
+"nom": "Sommières",
+"dep": "30",
+"cp": "30250",
+"pop": 5073
+},
+{
+"code": "31149",
+"nom": "Colomiers",
+"dep": "31",
+"cp": "31770",
+"pop": 40882
+},
+{
+"code": "31557",
+"nom": "Tournefeuille",
+"dep": "31",
+"cp": "31170",
+"pop": 30168
+},
+{
+"code": "31069",
+"nom": "Blagnac",
+"dep": "31",
+"cp": "31700",
+"pop": 27604
+},
+{
+"code": "31395",
+"nom": "Muret",
+"dep": "31",
+"cp": "31600",
+"pop": 26079
+},
+{
+"code": "31424",
+"nom": "Plaisance-du-Touch",
+"dep": "31",
+"cp": "31830",
+"pop": 21079
+},
+{
+"code": "31157",
+"nom": "Cugnaux",
+"dep": "31",
+"cp": "31270",
+"pop": 20662
+},
+{
+"code": "31044",
+"nom": "Balma",
+"dep": "31",
+"cp": "31130",
+"pop": 17772
+},
+{
+"code": "31113",
+"nom": "Castanet-Tolosan",
+"dep": "31",
+"cp": "31320",
+"pop": 15317
+},
+{
+"code": "31446",
+"nom": "Ramonville-Saint-Agne",
+"dep": "31",
+"cp": "31520",
+"pop": 15158
+},
+{
+"code": "31506",
+"nom": "Saint-Orens-de-Gameville",
+"dep": "31",
+"cp": "31650",
+"pop": 14646
+},
+{
+"code": "31187",
+"nom": "Fonsorbes",
+"dep": "31",
+"cp": "31470",
+"pop": 12954
+},
+{
+"code": "31561",
+"nom": "L'Union",
+"dep": "31",
+"cp": "31240",
+"pop": 12638
+},
+{
+"code": "31483",
+"nom": "Saint-Gaudens",
+"dep": "31",
+"cp": "31800",
+"pop": 12139
+},
+{
+"code": "31116",
+"nom": "Castelginest",
+"dep": "31",
+"cp": "31780",
+"pop": 11271
+},
+{
+"code": "31488",
+"nom": "Saint-Jean",
+"dep": "31",
+"cp": "31240",
+"pop": 11261
+},
+{
+"code": "31588",
+"nom": "Villeneuve-Tolosane",
+"dep": "31",
+"cp": "31270",
+"pop": 11044
+},
+{
+"code": "31547",
+"nom": "Seysses",
+"dep": "31",
+"cp": "31600",
+"pop": 10539
+},
+{
+"code": "31033",
+"nom": "Auterive",
+"dep": "31",
+"cp": "31190",
+"pop": 10456
+},
+{
+"code": "31291",
+"nom": "Léguevin",
+"dep": "31",
+"cp": "31490",
+"pop": 9945
+},
+{
+"code": "31499",
+"nom": "Saint-Lys",
+"dep": "31",
+"cp": "31470",
+"pop": 9892
+},
+{
+"code": "31203",
+"nom": "Frouzins",
+"dep": "31",
+"cp": "31270",
+"pop": 9805
+},
+{
+"code": "31433",
+"nom": "Portet-sur-Garonne",
+"dep": "31",
+"cp": "31120",
+"pop": 9782
+},
+{
+"code": "31451",
+"nom": "Revel",
+"dep": "31",
+"cp": "31250",
+"pop": 9762
+},
+{
+"code": "31022",
+"nom": "Aucamville",
+"dep": "31",
+"cp": "31140",
+"pop": 9623
+},
+{
+"code": "31282",
+"nom": "Launaguet",
+"dep": "31",
+"cp": "31140",
+"pop": 9173
+},
+{
+"code": "31232",
+"nom": "Grenade",
+"dep": "31",
+"cp": "31330",
+"pop": 9062
+},
+{
+"code": "31150",
+"nom": "Cornebarrieu",
+"dep": "31",
+"cp": "31700",
+"pop": 8978
+},
+{
+"code": "31417",
+"nom": "Pibrac",
+"dep": "31",
+"cp": "31820",
+"pop": 8977
+},
+{
+"code": "31056",
+"nom": "Beauzelle",
+"dep": "31",
+"cp": "31700",
+"pop": 8713
+},
+{
+"code": "31490",
+"nom": "Saint-Jory",
+"dep": "31",
+"cp": "31790",
+"pop": 8662
+},
+{
+"code": "31526",
+"nom": "La Salvetat-Saint-Gilles",
+"dep": "31",
+"cp": "31880",
+"pop": 8511
+},
+{
+"code": "31032",
+"nom": "Aussonne",
+"dep": "31",
+"cp": "31840",
+"pop": 7997
+},
+{
+"code": "31118",
+"nom": "Castelnau-d'Estrétefonds",
+"dep": "31",
+"cp": "31620",
+"pop": 7003
+},
+{
+"code": "31169",
+"nom": "Escalquens",
+"dep": "31",
+"cp": "31750",
+"pop": 6924
+},
+{
+"code": "31341",
+"nom": "Merville",
+"dep": "31",
+"cp": "31330",
+"pop": 6760
+},
+{
+"code": "31202",
+"nom": "Fronton",
+"dep": "31",
+"cp": "31620",
+"pop": 6671
+},
+{
+"code": "31248",
+"nom": "Labarthe-sur-Lèze",
+"dep": "31",
+"cp": "31860",
+"pop": 6585
+},
+{
+"code": "31165",
+"nom": "Eaunes",
+"dep": "31",
+"cp": "31600",
+"pop": 6539
+},
+{
+"code": "31467",
+"nom": "Saint-Alban",
+"dep": "31",
+"cp": "31140",
+"pop": 6534
+},
+{
+"code": "31584",
+"nom": "Villemur-sur-Tarn",
+"dep": "31",
+"cp": "31340",
+"pop": 6345
+},
+{
+"code": "31091",
+"nom": "Bruguières",
+"dep": "31",
+"cp": "31150",
+"pop": 6202
+},
+{
+"code": "31445",
+"nom": "Quint-Fonsegrives",
+"dep": "31",
+"cp": "31130",
+"pop": 6133
+},
+{
+"code": "31351",
+"nom": "Mondonville",
+"dep": "31",
+"cp": "31700",
+"pop": 6060
+},
+{
+"code": "31188",
+"nom": "Fontenilles",
+"dep": "31",
+"cp": "31470",
+"pop": 5906
+},
+{
+"code": "31182",
+"nom": "Fenouillet",
+"dep": "31",
+"cp": "31150",
+"pop": 5784
+},
+{
+"code": "31107",
+"nom": "Carbonne",
+"dep": "31",
+"cp": "31390",
+"pop": 5563
+},
+{
+"code": "31458",
+"nom": "Roques",
+"dep": "31",
+"cp": "31120",
+"pop": 5436
+},
+{
+"code": "31582",
+"nom": "Villefranche-de-Lauragais",
+"dep": "31",
+"cp": "31290",
+"pop": 5072
+},
+{
+"code": "32013",
+"nom": "Auch",
+"dep": "32",
+"cp": "32000",
+"pop": 22428
+},
+{
+"code": "32160",
+"nom": "L'Isle-Jourdain",
+"dep": "32",
+"cp": "32600",
+"pop": 9537
+},
+{
+"code": "32107",
+"nom": "Condom",
+"dep": "32",
+"cp": "32100",
+"pop": 6473
+},
+{
+"code": "32132",
+"nom": "Fleurance",
+"dep": "32",
+"cp": "32500",
+"pop": 6247
+},
+{
+"code": "33281",
+"nom": "Mérignac",
+"dep": "33",
+"cp": "33700",
+"pop": 78090
+},
+{
+"code": "33318",
+"nom": "Pessac",
+"dep": "33",
+"cp": "33600",
+"pop": 67339
+},
+{
+"code": "33522",
+"nom": "Talence",
+"dep": "33",
+"cp": "33400",
+"pop": 46338
+},
+{
+"code": "33550",
+"nom": "Villenave-d'Ornon",
+"dep": "33",
+"cp": "33140",
+"pop": 42545
+},
+{
+"code": "33449",
+"nom": "Saint-Médard-en-Jalles",
+"dep": "33",
+"cp": "33160",
+"pop": 32910
+},
+{
+"code": "33039",
+"nom": "Bègles",
+"dep": "33",
+"cp": "33130",
+"pop": 31831
+},
+{
+"code": "33529",
+"nom": "La Teste-de-Buch",
+"dep": "33",
+"cp": "33115",
+"pop": 27566
+},
+{
+"code": "33192",
+"nom": "Gradignan",
+"dep": "33",
+"cp": "33170",
+"pop": 26952
+},
+{
+"code": "33119",
+"nom": "Cenon",
+"dep": "33",
+"cp": "33150",
+"pop": 26834
+},
+{
+"code": "33249",
+"nom": "Lormont",
+"dep": "33",
+"cp": "33310",
+"pop": 25769
+},
+{
+"code": "33069",
+"nom": "Le Bouscat",
+"dep": "33",
+"cp": "33110",
+"pop": 25081
+},
+{
+"code": "33243",
+"nom": "Libourne",
+"dep": "33",
+"cp": "33500",
+"pop": 25036
+},
+{
+"code": "33162",
+"nom": "Eysines",
+"dep": "33",
+"cp": "33320",
+"pop": 24825
+},
+{
+"code": "33199",
+"nom": "Gujan-Mestras",
+"dep": "33",
+"cp": "33470",
+"pop": 22153
+},
+{
+"code": "33075",
+"nom": "Bruges",
+"dep": "33",
+"cp": "33520",
+"pop": 20020
+},
+{
+"code": "33167",
+"nom": "Floirac",
+"dep": "33",
+"cp": "33270",
+"pop": 18300
+},
+{
+"code": "33003",
+"nom": "Ambarès-et-Lagrave",
+"dep": "33",
+"cp": "33440",
+"pop": 17644
+},
+{
+"code": "33056",
+"nom": "Blanquefort",
+"dep": "33",
+"cp": "33290",
+"pop": 17215
+},
+{
+"code": "33122",
+"nom": "Cestas",
+"dep": "33",
+"cp": "33610",
+"pop": 16666
+},
+{
+"code": "33005",
+"nom": "Andernos-les-Bains",
+"dep": "33",
+"cp": "33510",
+"pop": 12710
+},
+{
+"code": "33366",
+"nom": "Saint-André-de-Cubzac",
+"dep": "33",
+"cp": "33240",
+"pop": 12626
+},
+{
+"code": "33284",
+"nom": "Mios",
+"dep": "33",
+"cp": "33380",
+"pop": 12043
+},
+{
+"code": "33051",
+"nom": "Biganos",
+"dep": "33",
+"cp": "33380",
+"pop": 11431
+},
+{
+"code": "33200",
+"nom": "Le Haillan",
+"dep": "33",
+"cp": "33185",
+"pop": 11392
+},
+{
+"code": "33009",
+"nom": "Arcachon",
+"dep": "33",
+"cp": "33120",
+"pop": 11092
+},
+{
+"code": "33519",
+"nom": "Le Taillan-Médoc",
+"dep": "33",
+"cp": "33320",
+"pop": 11073
+},
+{
+"code": "33312",
+"nom": "Parempuyre",
+"dep": "33",
+"cp": "33290",
+"pop": 10672
+},
+{
+"code": "33238",
+"nom": "Léognan",
+"dep": "33",
+"cp": "33850",
+"pop": 10670
+},
+{
+"code": "33433",
+"nom": "Saint-Loubès",
+"dep": "33",
+"cp": "33450",
+"pop": 10027
+},
+{
+"code": "33422",
+"nom": "Saint-Jean-d'Illac",
+"dep": "33",
+"cp": "33127",
+"pop": 9616
+},
+{
+"code": "33019",
+"nom": "Audenge",
+"dep": "33",
+"cp": "33980",
+"pop": 9596
+},
+{
+"code": "33527",
+"nom": "Le Teich",
+"dep": "33",
+"cp": "33470",
+"pop": 9180
+},
+{
+"code": "33013",
+"nom": "Artigues-près-Bordeaux",
+"dep": "33",
+"cp": "33370",
+"pop": 8687
+},
+{
+"code": "33138",
+"nom": "Coutras",
+"dep": "33",
+"cp": "33230",
+"pop": 8678
+},
+{
+"code": "33032",
+"nom": "Bassens",
+"dep": "33",
+"cp": "33530",
+"pop": 8435
+},
+{
+"code": "33096",
+"nom": "Carbon-Blanc",
+"dep": "33",
+"cp": "33560",
+"pop": 8331
+},
+{
+"code": "33498",
+"nom": "Salles",
+"dep": "33",
+"cp": "33770",
+"pop": 8208
+},
+{
+"code": "33273",
+"nom": "Martignas-sur-Jalle",
+"dep": "33",
+"cp": "33127",
+"pop": 8056
+},
+{
+"code": "33236",
+"nom": "Lège-Cap-Ferret",
+"dep": "33",
+"cp": "33950",
+"pop": 7909
+},
+{
+"code": "33376",
+"nom": "Saint-Aubin-de-Médoc",
+"dep": "33",
+"cp": "33160",
+"pop": 7769
+},
+{
+"code": "33227",
+"nom": "Langon",
+"dep": "33",
+"cp": "33210",
+"pop": 7674
+},
+{
+"code": "33229",
+"nom": "Lanton",
+"dep": "33",
+"cp": "33138",
+"pop": 7337
+},
+{
+"code": "33322",
+"nom": "Le Pian-Médoc",
+"dep": "33",
+"cp": "33290",
+"pop": 7292
+},
+{
+"code": "33080",
+"nom": "Cadaujac",
+"dep": "33",
+"cp": "33140",
+"pop": 6909
+},
+{
+"code": "33011",
+"nom": "Arès",
+"dep": "33",
+"cp": "33740",
+"pop": 6482
+},
+{
+"code": "33207",
+"nom": "Izon",
+"dep": "33",
+"cp": "33450",
+"pop": 6374
+},
+{
+"code": "33042",
+"nom": "Belin-Béliet",
+"dep": "33",
+"cp": "33830",
+"pop": 6275
+},
+{
+"code": "33393",
+"nom": "Saint-Denis-de-Pile",
+"dep": "33",
+"cp": "33910",
+"pop": 5955
+},
+{
+"code": "33240",
+"nom": "Lesparre-Médoc",
+"dep": "33",
+"cp": "33340",
+"pop": 5872
+},
+{
+"code": "33029",
+"nom": "Le Barp",
+"dep": "33",
+"cp": "33114",
+"pop": 5806
+},
+{
+"code": "33090",
+"nom": "Canéjan",
+"dep": "33",
+"cp": "33610",
+"pop": 5756
+},
+{
+"code": "33214",
+"nom": "Lacanau",
+"dep": "33",
+"cp": "33680",
+"pop": 5739
+},
+{
+"code": "33555",
+"nom": "Marcheprime",
+"dep": "33",
+"cp": "33380",
+"pop": 5696
+},
+{
+"code": "33256",
+"nom": "Ludon-Médoc",
+"dep": "33",
+"cp": "33290",
+"pop": 5578
+},
+{
+"code": "33535",
+"nom": "Tresses",
+"dep": "33",
+"cp": "33370",
+"pop": 5290
+},
+{
+"code": "33314",
+"nom": "Pauillac",
+"dep": "33",
+"cp": "33250",
+"pop": 5190
+},
+{
+"code": "33058",
+"nom": "Blaye",
+"dep": "33",
+"cp": "33390",
+"pop": 5066
+},
+{
+"code": "34032",
+"nom": "Béziers",
+"dep": "34",
+"cp": "34500",
+"pop": 81545
+},
+{
+"code": "34301",
+"nom": "Sète",
+"dep": "34",
+"cp": "34200",
+"pop": 45337
+},
+{
+"code": "34003",
+"nom": "Agde",
+"dep": "34",
+"cp": "34300",
+"pop": 29939
+},
+{
+"code": "34145",
+"nom": "Lunel",
+"dep": "34",
+"cp": "34400",
+"pop": 26623
+},
+{
+"code": "34057",
+"nom": "Castelnau-le-Lez",
+"dep": "34",
+"cp": "34170",
+"pop": 26058
+},
+{
+"code": "34108",
+"nom": "Frontignan",
+"dep": "34",
+"cp": "34110",
+"pop": 24136
+},
+{
+"code": "34129",
+"nom": "Lattes",
+"dep": "34",
+"cp": "34970",
+"pop": 17351
+},
+{
+"code": "34154",
+"nom": "Mauguio",
+"dep": "34",
+"cp": "34130",
+"pop": 16522
+},
+{
+"code": "34123",
+"nom": "Juvignac",
+"dep": "34",
+"cp": "34990",
+"pop": 14055
+},
+{
+"code": "34270",
+"nom": "Saint-Jean-de-Védas",
+"dep": "34",
+"cp": "34430",
+"pop": 13328
+},
+{
+"code": "34157",
+"nom": "Mèze",
+"dep": "34",
+"cp": "34140",
+"pop": 12669
+},
+{
+"code": "34337",
+"nom": "Villeneuve-lès-Maguelone",
+"dep": "34",
+"cp": "34750",
+"pop": 10872
+},
+{
+"code": "34255",
+"nom": "Saint-Gély-du-Fesc",
+"dep": "34",
+"cp": "34980",
+"pop": 10472
+},
+{
+"code": "34198",
+"nom": "Pérols",
+"dep": "34",
+"cp": "34470",
+"pop": 9615
+},
+{
+"code": "34079",
+"nom": "Clermont-l'Hérault",
+"dep": "34",
+"cp": "34800",
+"pop": 9461
+},
+{
+"code": "34090",
+"nom": "Le Crès",
+"dep": "34",
+"cp": "34920",
+"pop": 9226
+},
+{
+"code": "34116",
+"nom": "Grabels",
+"dep": "34",
+"cp": "34790",
+"pop": 9092
+},
+{
+"code": "34299",
+"nom": "Sérignan",
+"dep": "34",
+"cp": "34410",
+"pop": 8588
+},
+{
+"code": "34344",
+"nom": "La Grande-Motte",
+"dep": "34",
+"cp": "34280",
+"pop": 8440
+},
+{
+"code": "34202",
+"nom": "Pignan",
+"dep": "34",
+"cp": "34570",
+"pop": 8431
+},
+{
+"code": "34150",
+"nom": "Marseillan",
+"dep": "34",
+"cp": "34340",
+"pop": 8414
+},
+{
+"code": "34022",
+"nom": "Baillargues",
+"dep": "34",
+"cp": "34670",
+"pop": 7829
+},
+{
+"code": "34199",
+"nom": "Pézenas",
+"dep": "34",
+"cp": "34120",
+"pop": 7797
+},
+{
+"code": "34095",
+"nom": "Fabrègues",
+"dep": "34",
+"cp": "34690",
+"pop": 7447
+},
+{
+"code": "34088",
+"nom": "Cournonterral",
+"dep": "34",
+"cp": "34660",
+"pop": 7359
+},
+{
+"code": "34327",
+"nom": "Vendargues",
+"dep": "34",
+"cp": "34740",
+"pop": 7262
+},
+{
+"code": "34142",
+"nom": "Lodève",
+"dep": "34",
+"cp": "34700",
+"pop": 7251
+},
+{
+"code": "34023",
+"nom": "Balaruc-les-Bains",
+"dep": "34",
+"cp": "34540",
+"pop": 7139
+},
+{
+"code": "34151",
+"nom": "Marsillargues",
+"dep": "34",
+"cp": "34590",
+"pop": 6988
+},
+{
+"code": "34120",
+"nom": "Jacou",
+"dep": "34",
+"cp": "34830",
+"pop": 6924
+},
+{
+"code": "34058",
+"nom": "Castries",
+"dep": "34",
+"cp": "34160",
+"pop": 6883
+},
+{
+"code": "34213",
+"nom": "Poussan",
+"dep": "34",
+"cp": "34560",
+"pop": 6797
+},
+{
+"code": "34114",
+"nom": "Gignac",
+"dep": "34",
+"cp": "34150",
+"pop": 6651
+},
+{
+"code": "34113",
+"nom": "Gigean",
+"dep": "34",
+"cp": "34770",
+"pop": 6639
+},
+{
+"code": "34239",
+"nom": "Saint-André-de-Sangonis",
+"dep": "34",
+"cp": "34725",
+"pop": 6427
+},
+{
+"code": "34217",
+"nom": "Prades-le-Lez",
+"dep": "34",
+"cp": "34730",
+"pop": 6184
+},
+{
+"code": "34192",
+"nom": "Palavas-les-Flots",
+"dep": "34",
+"cp": "34250",
+"pop": 6133
+},
+{
+"code": "34077",
+"nom": "Clapiers",
+"dep": "34",
+"cp": "34830",
+"pop": 6006
+},
+{
+"code": "34332",
+"nom": "Vias",
+"dep": "34",
+"cp": "34450",
+"pop": 5952
+},
+{
+"code": "34031",
+"nom": "Bessan",
+"dep": "34",
+"cp": "34550",
+"pop": 5838
+},
+{
+"code": "34028",
+"nom": "Bédarieux",
+"dep": "34",
+"cp": "34600",
+"pop": 5804
+},
+{
+"code": "34259",
+"nom": "Saint-Georges-d'Orques",
+"dep": "34",
+"cp": "34680",
+"pop": 5676
+},
+{
+"code": "34298",
+"nom": "Sauvian",
+"dep": "34",
+"cp": "34410",
+"pop": 5608
+},
+{
+"code": "34300",
+"nom": "Servian",
+"dep": "34",
+"cp": "34290",
+"pop": 5517
+},
+{
+"code": "34069",
+"nom": "Cazouls-lès-Béziers",
+"dep": "34",
+"cp": "34370",
+"pop": 5261
+},
+{
+"code": "34101",
+"nom": "Florensac",
+"dep": "34",
+"cp": "34510",
+"pop": 5254
+},
+{
+"code": "34247",
+"nom": "Saint-Clément-de-Rivière",
+"dep": "34",
+"cp": "34980",
+"pop": 5218
+},
+{
+"code": "35288",
+"nom": "Saint-Malo",
+"dep": "35",
+"cp": "35400",
+"pop": 47439
+},
+{
+"code": "35115",
+"nom": "Fougères",
+"dep": "35",
+"cp": "35300",
+"pop": 20307
+},
+{
+"code": "35047",
+"nom": "Bruz",
+"dep": "35",
+"cp": "35170",
+"pop": 19683
+},
+{
+"code": "35360",
+"nom": "Vitré",
+"dep": "35",
+"cp": "35500",
+"pop": 19365
+},
+{
+"code": "35051",
+"nom": "Cesson-Sévigné",
+"dep": "35",
+"cp": "35510",
+"pop": 18761
+},
+{
+"code": "35281",
+"nom": "Saint-Jacques-de-la-Lande",
+"dep": "35",
+"cp": "35136",
+"pop": 13800
+},
+{
+"code": "35024",
+"nom": "Betton",
+"dep": "35",
+"cp": "35830",
+"pop": 12964
+},
+{
+"code": "35210",
+"nom": "Pacé",
+"dep": "35",
+"cp": "35740",
+"pop": 11703
+},
+{
+"code": "35069",
+"nom": "Châteaugiron",
+"dep": "35",
+"cp": "35410",
+"pop": 10845
+},
+{
+"code": "35093",
+"nom": "Dinard",
+"dep": "35",
+"cp": "35800",
+"pop": 10772
+},
+{
+"code": "35055",
+"nom": "Chantepie",
+"dep": "35",
+"cp": "35135",
+"pop": 10670
+},
+{
+"code": "35278",
+"nom": "Saint-Grégoire",
+"dep": "35",
+"cp": "35760",
+"pop": 9957
+},
+{
+"code": "35240",
+"nom": "Le Rheu",
+"dep": "35",
+"cp": "35650",
+"pop": 9839
+},
+{
+"code": "35236",
+"nom": "Redon",
+"dep": "35",
+"cp": "35600",
+"pop": 9542
+},
+{
+"code": "35126",
+"nom": "Guichen",
+"dep": "35",
+"cp": "35580",
+"pop": 9412
+},
+{
+"code": "35152",
+"nom": "Liffré",
+"dep": "35",
+"cp": "35340",
+"pop": 9339
+},
+{
+"code": "35066",
+"nom": "Chartres-de-Bretagne",
+"dep": "35",
+"cp": "35131",
+"pop": 8880
+},
+{
+"code": "35334",
+"nom": "Thorigné-Fouillard",
+"dep": "35",
+"cp": "35235",
+"pop": 8667
+},
+{
+"code": "35136",
+"nom": "Janzé",
+"dep": "35",
+"cp": "35150",
+"pop": 8649
+},
+{
+"code": "35206",
+"nom": "Noyal-Châtillon-sur-Seiche",
+"dep": "35",
+"cp": "35230",
+"pop": 8359
+},
+{
+"code": "35352",
+"nom": "Vern-sur-Seiche",
+"dep": "35",
+"cp": "35770",
+"pop": 8207
+},
+{
+"code": "35196",
+"nom": "Mordelles",
+"dep": "35",
+"cp": "35310",
+"pop": 7911
+},
+{
+"code": "35012",
+"nom": "Bain-de-Bretagne",
+"dep": "35",
+"cp": "35470",
+"pop": 7674
+},
+{
+"code": "35173",
+"nom": "Melesse",
+"dep": "35",
+"cp": "35520",
+"pop": 7541
+},
+{
+"code": "35068",
+"nom": "Châteaubourg",
+"dep": "35",
+"cp": "35220",
+"pop": 7533
+},
+{
+"code": "35176",
+"nom": "Guipry-Messac",
+"dep": "35",
+"cp": "35480",
+"pop": 7354
+},
+{
+"code": "35228",
+"nom": "Pleurtuit",
+"dep": "35",
+"cp": "35730",
+"pop": 7167
+},
+{
+"code": "35001",
+"nom": "Acigné",
+"dep": "35",
+"cp": "35690",
+"pop": 6874
+},
+{
+"code": "35188",
+"nom": "Montfort-sur-Meu",
+"dep": "35",
+"cp": "35160",
+"pop": 6810
+},
+{
+"code": "35184",
+"nom": "Montauban-de-Bretagne",
+"dep": "35",
+"cp": "35360",
+"pop": 6597
+},
+{
+"code": "35353",
+"nom": "Vezin-le-Coquet",
+"dep": "35",
+"cp": "35132",
+"pop": 6471
+},
+{
+"code": "35085",
+"nom": "Combourg",
+"dep": "35",
+"cp": "35270",
+"pop": 6411
+},
+{
+"code": "35037",
+"nom": "Bréal-sous-Montfort",
+"dep": "35",
+"cp": "35310",
+"pop": 6391
+},
+{
+"code": "35207",
+"nom": "Noyal-sur-Vilaine",
+"dep": "35",
+"cp": "35530",
+"pop": 6269
+},
+{
+"code": "35120",
+"nom": "Gévezé",
+"dep": "35",
+"cp": "35850",
+"pop": 6061
+},
+{
+"code": "35095",
+"nom": "Dol-de-Bretagne",
+"dep": "35",
+"cp": "35120",
+"pop": 5829
+},
+{
+"code": "35208",
+"nom": "Orgères",
+"dep": "35",
+"cp": "35230",
+"pop": 5732
+},
+{
+"code": "35049",
+"nom": "Cancale",
+"dep": "35",
+"cp": "35260",
+"pop": 5672
+},
+{
+"code": "35275",
+"nom": "Saint-Gilles",
+"dep": "35",
+"cp": "35590",
+"pop": 5576
+},
+{
+"code": "35139",
+"nom": "Laillé",
+"dep": "35",
+"cp": "35890",
+"pop": 5225
+},
+{
+"code": "35257",
+"nom": "Maen Roch",
+"dep": "35",
+"cp": "35460",
+"pop": 5088
+},
+{
+"code": "35177",
+"nom": "La Mézière",
+"dep": "35",
+"cp": "35520",
+"pop": 5033
+},
+{
+"code": "36044",
+"nom": "Châteauroux",
+"dep": "36",
+"cp": "36000",
+"pop": 42963
+},
+{
+"code": "36088",
+"nom": "Issoudun",
+"dep": "36",
+"cp": "36100",
+"pop": 11159
+},
+{
+"code": "36063",
+"nom": "Déols",
+"dep": "36",
+"cp": "36130",
+"pop": 7600
+},
+{
+"code": "36018",
+"nom": "Le Blanc",
+"dep": "36",
+"cp": "36300",
+"pop": 6164
+},
+{
+"code": "36159",
+"nom": "Le Poinçonnet",
+"dep": "36",
+"cp": "36330",
+"pop": 5855
+},
+{
+"code": "37122",
+"nom": "Joué-lès-Tours",
+"dep": "37",
+"cp": "37300",
+"pop": 38423
+},
+{
+"code": "37214",
+"nom": "Saint-Cyr-sur-Loire",
+"dep": "37",
+"cp": "37540",
+"pop": 17029
+},
+{
+"code": "37233",
+"nom": "Saint-Pierre-des-Corps",
+"dep": "37",
+"cp": "37700",
+"pop": 15898
+},
+{
+"code": "37208",
+"nom": "Saint-Avertin",
+"dep": "37",
+"cp": "37550",
+"pop": 14999
+},
+{
+"code": "37003",
+"nom": "Amboise",
+"dep": "37",
+"cp": "37400",
+"pop": 12937
+},
+{
+"code": "37050",
+"nom": "Chambray-lès-Tours",
+"dep": "37",
+"cp": "37170",
+"pop": 12720
+},
+{
+"code": "37156",
+"nom": "Montlouis-sur-Loire",
+"dep": "37",
+"cp": "37270",
+"pop": 11335
+},
+{
+"code": "37109",
+"nom": "Fondettes",
+"dep": "37",
+"cp": "37230",
+"pop": 10954
+},
+{
+"code": "37195",
+"nom": "La Riche",
+"dep": "37",
+"cp": "37520",
+"pop": 10487
+},
+{
+"code": "37018",
+"nom": "Ballan-Miré",
+"dep": "37",
+"cp": "37510",
+"pop": 8477
+},
+{
+"code": "37072",
+"nom": "Chinon",
+"dep": "37",
+"cp": "37500",
+"pop": 8144
+},
+{
+"code": "37159",
+"nom": "Monts",
+"dep": "37",
+"cp": "37260",
+"pop": 8080
+},
+{
+"code": "37266",
+"nom": "Veigné",
+"dep": "37",
+"cp": "37250",
+"pop": 6865
+},
+{
+"code": "37104",
+"nom": "Esvres",
+"dep": "37",
+"cp": "37320",
+"pop": 6294
+},
+{
+"code": "37132",
+"nom": "Loches",
+"dep": "37",
+"cp": "37600",
+"pop": 6234
+},
+{
+"code": "37273",
+"nom": "La Ville-aux-Dames",
+"dep": "37",
+"cp": "37700",
+"pop": 5606
+},
+{
+"code": "37027",
+"nom": "Bléré",
+"dep": "37",
+"cp": "37150",
+"pop": 5352
+},
+{
+"code": "37139",
+"nom": "Luynes",
+"dep": "37",
+"cp": "37230",
+"pop": 5062
+},
+{
+"code": "38421",
+"nom": "Saint-Martin-d'Hères",
+"dep": "38",
+"cp": "38400",
+"pop": 37695
+},
+{
+"code": "38151",
+"nom": "Échirolles",
+"dep": "38",
+"cp": "38130",
+"pop": 37491
+},
+{
+"code": "38544",
+"nom": "Vienne",
+"dep": "38",
+"cp": "38200",
+"pop": 31778
+},
+{
+"code": "38053",
+"nom": "Bourgoin-Jallieu",
+"dep": "38",
+"cp": "38300",
+"pop": 30151
+},
+{
+"code": "38169",
+"nom": "Fontaine",
+"dep": "38",
+"cp": "38600",
+"pop": 22020
+},
+{
+"code": "38563",
+"nom": "Voiron",
+"dep": "38",
+"cp": "38500",
+"pop": 21847
+},
+{
+"code": "38553",
+"nom": "Villefontaine",
+"dep": "38",
+"cp": "38090",
+"pop": 19445
+},
+{
+"code": "38229",
+"nom": "Meylan",
+"dep": "38",
+"cp": "38240",
+"pop": 18770
+},
+{
+"code": "38382",
+"nom": "Saint-Égrève",
+"dep": "38",
+"cp": "38120",
+"pop": 17986
+},
+{
+"code": "38193",
+"nom": "L'Isle-d'Abeau",
+"dep": "38",
+"cp": "38080",
+"pop": 17515
+},
+{
+"code": "38485",
+"nom": "Seyssinet-Pariset",
+"dep": "38",
+"cp": "38170",
+"pop": 11739
+},
+{
+"code": "38474",
+"nom": "Sassenage",
+"dep": "38",
+"cp": "38360",
+"pop": 11646
+},
+{
+"code": "38317",
+"nom": "Le Pont-de-Claix",
+"dep": "38",
+"cp": "38800",
+"pop": 10956
+},
+{
+"code": "38085",
+"nom": "Charvieu-Chavagneux",
+"dep": "38",
+"cp": "38230",
+"pop": 10547
+},
+{
+"code": "38158",
+"nom": "Eybens",
+"dep": "38",
+"cp": "38320",
+"pop": 10493
+},
+{
+"code": "38565",
+"nom": "Voreppe",
+"dep": "38",
+"cp": "38340",
+"pop": 9922
+},
+{
+"code": "38140",
+"nom": "Crolles",
+"dep": "38",
+"cp": "38920",
+"pop": 8609
+},
+{
+"code": "38344",
+"nom": "Roussillon",
+"dep": "38",
+"cp": "38150",
+"pop": 8595
+},
+{
+"code": "38524",
+"nom": "Varces-Allières-et-Risset",
+"dep": "38",
+"cp": "38760",
+"pop": 8542
+},
+{
+"code": "38545",
+"nom": "Vif",
+"dep": "38",
+"cp": "38450",
+"pop": 8530
+},
+{
+"code": "38509",
+"nom": "La Tour-du-Pin",
+"dep": "38",
+"cp": "38110",
+"pop": 8111
+},
+{
+"code": "38486",
+"nom": "Seyssins",
+"dep": "38",
+"cp": "38180",
+"pop": 8092
+},
+{
+"code": "38507",
+"nom": "Tignieu-Jameyzieu",
+"dep": "38",
+"cp": "38230",
+"pop": 8031
+},
+{
+"code": "38111",
+"nom": "Claix",
+"dep": "38",
+"cp": "38640",
+"pop": 7836
+},
+{
+"code": "38239",
+"nom": "Moirans",
+"dep": "38",
+"cp": "38430",
+"pop": 7818
+},
+{
+"code": "38537",
+"nom": "La Verpillière",
+"dep": "38",
+"cp": "38290",
+"pop": 7786
+},
+{
+"code": "38416",
+"nom": "Saint-Marcellin",
+"dep": "38",
+"cp": "38160",
+"pop": 7700
+},
+{
+"code": "38022",
+"nom": "Les Avenières Veyrins-Thuellin",
+"dep": "38",
+"cp": "38630",
+"pop": 7698
+},
+{
+"code": "38517",
+"nom": "Tullins",
+"dep": "38",
+"cp": "38210",
+"pop": 7624
+},
+{
+"code": "38547",
+"nom": "Villard-Bonnot",
+"dep": "38",
+"cp": "38190",
+"pop": 7509
+},
+{
+"code": "38179",
+"nom": "Gières",
+"dep": "38",
+"cp": "38610",
+"pop": 7376
+},
+{
+"code": "38314",
+"nom": "Pontcharra",
+"dep": "38",
+"cp": "38530",
+"pop": 7350
+},
+{
+"code": "38562",
+"nom": "Vizille",
+"dep": "38",
+"cp": "38220",
+"pop": 7292
+},
+{
+"code": "38397",
+"nom": "Saint-Ismier",
+"dep": "38",
+"cp": "38330",
+"pop": 7165
+},
+{
+"code": "38425",
+"nom": "Saint-Maurice-l'Exil",
+"dep": "38",
+"cp": "38550",
+"pop": 6889
+},
+{
+"code": "38001",
+"nom": "Les Abrets en Dauphiné",
+"dep": "38",
+"cp": "38490",
+"pop": 6850
+},
+{
+"code": "38150",
+"nom": "Domène",
+"dep": "38",
+"cp": "38420",
+"pop": 6835
+},
+{
+"code": "38298",
+"nom": "Le Péage-de-Roussillon",
+"dep": "38",
+"cp": "38550",
+"pop": 6718
+},
+{
+"code": "38087",
+"nom": "Chasse-sur-Rhône",
+"dep": "38",
+"cp": "38670",
+"pop": 6588
+},
+{
+"code": "38337",
+"nom": "Rives",
+"dep": "38",
+"cp": "38140",
+"pop": 6549
+},
+{
+"code": "38516",
+"nom": "La Tronche",
+"dep": "38",
+"cp": "38700",
+"pop": 6424
+},
+{
+"code": "38316",
+"nom": "Pont-de-Chéruy",
+"dep": "38",
+"cp": "38230",
+"pop": 6302
+},
+{
+"code": "38318",
+"nom": "Pont-Évêque",
+"dep": "38",
+"cp": "38780",
+"pop": 6213
+},
+{
+"code": "38449",
+"nom": "Saint-Quentin-Fallavier",
+"dep": "38",
+"cp": "38070",
+"pop": 6189
+},
+{
+"code": "38423",
+"nom": "Saint-Martin-le-Vinoux",
+"dep": "38",
+"cp": "38950",
+"pop": 6078
+},
+{
+"code": "38249",
+"nom": "Montbonnot-Saint-Martin",
+"dep": "38",
+"cp": "38330",
+"pop": 5698
+},
+{
+"code": "38422",
+"nom": "Saint-Martin-d'Uriage",
+"dep": "38",
+"cp": "38410",
+"pop": 5587
+},
+{
+"code": "38133",
+"nom": "Coublevie",
+"dep": "38",
+"cp": "38500",
+"pop": 5520
+},
+{
+"code": "38557",
+"nom": "Villette-d'Anthon",
+"dep": "38",
+"cp": "38280",
+"pop": 5268
+},
+{
+"code": "38097",
+"nom": "Chavanoz",
+"dep": "38",
+"cp": "38230",
+"pop": 5126
+},
+{
+"code": "38034",
+"nom": "Beaurepaire",
+"dep": "38",
+"cp": "38270",
+"pop": 5010
+},
+{
+"code": "39198",
+"nom": "Dole",
+"dep": "39",
+"cp": "39100",
+"pop": 23840
+},
+{
+"code": "39300",
+"nom": "Lons-le-Saunier",
+"dep": "39",
+"cp": "39000",
+"pop": 16618
+},
+{
+"code": "39478",
+"nom": "Saint-Claude",
+"dep": "39",
+"cp": "39200",
+"pop": 8386
+},
+{
+"code": "39097",
+"nom": "Champagnole",
+"dep": "39",
+"cp": "39300",
+"pop": 8036
+},
+{
+"code": "39368",
+"nom": "Hauts de Bienne",
+"dep": "39",
+"cp": "39400",
+"pop": 5032
+},
+{
+"code": "40192",
+"nom": "Mont-de-Marsan",
+"dep": "40",
+"cp": "40000",
+"pop": 31592
+},
+{
+"code": "40088",
+"nom": "Dax",
+"dep": "40",
+"cp": "40100",
+"pop": 22109
+},
+{
+"code": "40046",
+"nom": "Biscarrosse",
+"dep": "40",
+"cp": "40600",
+"pop": 15836
+},
+{
+"code": "40279",
+"nom": "Saint-Paul-lès-Dax",
+"dep": "40",
+"cp": "40990",
+"pop": 14481
+},
+{
+"code": "40312",
+"nom": "Tarnos",
+"dep": "40",
+"cp": "40220",
+"pop": 12957
+},
+{
+"code": "40281",
+"nom": "Saint-Pierre-du-Mont",
+"dep": "40",
+"cp": "40280",
+"pop": 10092
+},
+{
+"code": "40065",
+"nom": "Capbreton",
+"dep": "40",
+"cp": "40130",
+"pop": 9184
+},
+{
+"code": "40310",
+"nom": "Soustons",
+"dep": "40",
+"cp": "40140",
+"pop": 8701
+},
+{
+"code": "40284",
+"nom": "Saint-Vincent-de-Tyrosse",
+"dep": "40",
+"cp": "40230",
+"pop": 8014
+},
+{
+"code": "40184",
+"nom": "Mimizan",
+"dep": "40",
+"cp": "40200",
+"pop": 7673
+},
+{
+"code": "40217",
+"nom": "Parentis-en-Born",
+"dep": "40",
+"cp": "40160",
+"pop": 7586
+},
+{
+"code": "40133",
+"nom": "Labenne",
+"dep": "40",
+"cp": "40530",
+"pop": 7183
+},
+{
+"code": "40209",
+"nom": "Ondres",
+"dep": "40",
+"cp": "40440",
+"pop": 6533
+},
+{
+"code": "40273",
+"nom": "Saint-Martin-de-Seignanx",
+"dep": "40",
+"cp": "40390",
+"pop": 6238
+},
+{
+"code": "40001",
+"nom": "Aire-sur-l'Adour",
+"dep": "40",
+"cp": "40800",
+"pop": 6211
+},
+{
+"code": "40282",
+"nom": "Saint-Sever",
+"dep": "40",
+"cp": "40500",
+"pop": 5043
+},
+{
+"code": "40197",
+"nom": "Morcenx-la-Nouvelle",
+"dep": "40",
+"cp": "40110",
+"pop": 5022
+},
+{
+"code": "41018",
+"nom": "Blois",
+"dep": "41",
+"cp": "41000",
+"pop": 47219
+},
+{
+"code": "41194",
+"nom": "Romorantin-Lanthenay",
+"dep": "41",
+"cp": "41200",
+"pop": 18373
+},
+{
+"code": "41269",
+"nom": "Vendôme",
+"dep": "41",
+"cp": "41100",
+"pop": 15758
+},
+{
+"code": "41295",
+"nom": "Vineuil",
+"dep": "41",
+"cp": "41350",
+"pop": 8064
+},
+{
+"code": "41059",
+"nom": "Le Controis-en-Sologne",
+"dep": "41",
+"cp": "41120",
+"pop": 6860
+},
+{
+"code": "41136",
+"nom": "Mer",
+"dep": "41",
+"cp": "41500",
+"pop": 6250
+},
+{
+"code": "42207",
+"nom": "Saint-Chamond",
+"dep": "42",
+"cp": "42400",
+"pop": 35646
+},
+{
+"code": "42187",
+"nom": "Roanne",
+"dep": "42",
+"cp": "42300",
+"pop": 35409
+},
+{
+"code": "42095",
+"nom": "Firminy",
+"dep": "42",
+"cp": "42700",
+"pop": 17060
+},
+{
+"code": "42147",
+"nom": "Montbrison",
+"dep": "42",
+"cp": "42600",
+"pop": 16123
+},
+{
+"code": "42279",
+"nom": "Saint-Just-Saint-Rambert",
+"dep": "42",
+"cp": "42170",
+"pop": 15764
+},
+{
+"code": "42186",
+"nom": "Rive-de-Gier",
+"dep": "42",
+"cp": "42800",
+"pop": 15242
+},
+{
+"code": "42044",
+"nom": "Le Chambon-Feugerolles",
+"dep": "42",
+"cp": "42500",
+"pop": 12314
+},
+{
+"code": "42184",
+"nom": "Riorges",
+"dep": "42",
+"cp": "42153",
+"pop": 11139
+},
+{
+"code": "42005",
+"nom": "Andrézieux-Bouthéon",
+"dep": "42",
+"cp": "42160",
+"pop": 10425
+},
+{
+"code": "42189",
+"nom": "Roche-la-Molière",
+"dep": "42",
+"cp": "42230",
+"pop": 9843
+},
+{
+"code": "42323",
+"nom": "Veauche",
+"dep": "42",
+"cp": "42340",
+"pop": 8975
+},
+{
+"code": "42316",
+"nom": "Unieux",
+"dep": "42",
+"cp": "42240",
+"pop": 8514
+},
+{
+"code": "42094",
+"nom": "Feurs",
+"dep": "42",
+"cp": "42110",
+"pop": 8367
+},
+{
+"code": "42302",
+"nom": "Sorbiers",
+"dep": "42",
+"cp": "42290",
+"pop": 8116
+},
+{
+"code": "42183",
+"nom": "La Ricamarie",
+"dep": "42",
+"cp": "42150",
+"pop": 8039
+},
+{
+"code": "42330",
+"nom": "Villars",
+"dep": "42",
+"cp": "42390",
+"pop": 7664
+},
+{
+"code": "42127",
+"nom": "Mably",
+"dep": "42",
+"cp": "42300",
+"pop": 7233
+},
+{
+"code": "42305",
+"nom": "La Talaudière",
+"dep": "42",
+"cp": "42350",
+"pop": 7133
+},
+{
+"code": "42071",
+"nom": "Le Coteau",
+"dep": "42",
+"cp": "42120",
+"pop": 6845
+},
+{
+"code": "42304",
+"nom": "Sury-le-Comtal",
+"dep": "42",
+"cp": "42450",
+"pop": 6621
+},
+{
+"code": "42237",
+"nom": "Saint-Jean-Bonnefonds",
+"dep": "42",
+"cp": "42650",
+"pop": 6563
+},
+{
+"code": "42275",
+"nom": "Saint-Priest-en-Jarez",
+"dep": "42",
+"cp": "42270",
+"pop": 6471
+},
+{
+"code": "42223",
+"nom": "Saint-Genest-Lerpt",
+"dep": "42",
+"cp": "42530",
+"pop": 6181
+},
+{
+"code": "42222",
+"nom": "Saint-Galmier",
+"dep": "42",
+"cp": "42330",
+"pop": 5829
+},
+{
+"code": "42149",
+"nom": "Montrond-les-Bains",
+"dep": "42",
+"cp": "42210",
+"pop": 5652
+},
+{
+"code": "42059",
+"nom": "Chazelles-sur-Lyon",
+"dep": "42",
+"cp": "42140",
+"pop": 5543
+},
+{
+"code": "42332",
+"nom": "Villerest",
+"dep": "42",
+"cp": "42300",
+"pop": 5172
+},
+{
+"code": "42256",
+"nom": "Saint-Marcellin-en-Forez",
+"dep": "42",
+"cp": "42680",
+"pop": 5116
+},
+{
+"code": "43157",
+"nom": "Le Puy-en-Velay",
+"dep": "43",
+"cp": "43000",
+"pop": 18540
+},
+{
+"code": "43137",
+"nom": "Monistrol-sur-Loire",
+"dep": "43",
+"cp": "43120",
+"pop": 8823
+},
+{
+"code": "43268",
+"nom": "Yssingeaux",
+"dep": "43",
+"cp": "43200",
+"pop": 7415
+},
+{
+"code": "43040",
+"nom": "Brioude",
+"dep": "43",
+"cp": "43100",
+"pop": 6527
+},
+{
+"code": "43012",
+"nom": "Aurec-sur-Loire",
+"dep": "43",
+"cp": "43110",
+"pop": 6164
+},
+{
+"code": "43224",
+"nom": "Sainte-Sigolène",
+"dep": "43",
+"cp": "43600",
+"pop": 6097
+},
+{
+"code": "44184",
+"nom": "Saint-Nazaire",
+"dep": "44",
+"cp": "44600",
+"pop": 74568
+},
+{
+"code": "44162",
+"nom": "Saint-Herblain",
+"dep": "44",
+"cp": "44800",
+"pop": 50973
+},
+{
+"code": "44143",
+"nom": "Rezé",
+"dep": "44",
+"cp": "44400",
+"pop": 43556
+},
+{
+"code": "44190",
+"nom": "Saint-Sébastien-sur-Loire",
+"dep": "44",
+"cp": "44230",
+"pop": 28596
+},
+{
+"code": "44114",
+"nom": "Orvault",
+"dep": "44",
+"cp": "44700",
+"pop": 28534
+},
+{
+"code": "44215",
+"nom": "Vertou",
+"dep": "44",
+"cp": "44120",
+"pop": 26227
+},
+{
+"code": "44047",
+"nom": "Couëron",
+"dep": "44",
+"cp": "44220",
+"pop": 24103
+},
+{
+"code": "44026",
+"nom": "Carquefou",
+"dep": "44",
+"cp": "44470",
+"pop": 20921
+},
+{
+"code": "44035",
+"nom": "La Chapelle-sur-Erdre",
+"dep": "44",
+"cp": "44240",
+"pop": 20690
+},
+{
+"code": "44020",
+"nom": "Bouguenais",
+"dep": "44",
+"cp": "44340",
+"pop": 20530
+},
+{
+"code": "44131",
+"nom": "Pornic",
+"dep": "44",
+"cp": "44210",
+"pop": 18745
+},
+{
+"code": "44055",
+"nom": "La Baule-Escoublac",
+"dep": "44",
+"cp": "44500",
+"pop": 16912
+},
+{
+"code": "44069",
+"nom": "Guérande",
+"dep": "44",
+"cp": "44350",
+"pop": 16804
+},
+{
+"code": "44172",
+"nom": "Sainte-Luce-sur-Loire",
+"dep": "44",
+"cp": "44980",
+"pop": 16400
+},
+{
+"code": "44154",
+"nom": "Saint-Brevin-les-Pins",
+"dep": "44",
+"cp": "44250",
+"pop": 14541
+},
+{
+"code": "44132",
+"nom": "Pornichet",
+"dep": "44",
+"cp": "44380",
+"pop": 12800
+},
+{
+"code": "44036",
+"nom": "Châteaubriant",
+"dep": "44",
+"cp": "44110",
+"pop": 12260
+},
+{
+"code": "44003",
+"nom": "Ancenis-Saint-Géréon",
+"dep": "44",
+"cp": "44150",
+"pop": 11600
+},
+{
+"code": "44129",
+"nom": "Pontchâteau",
+"dep": "44",
+"cp": "44160",
+"pop": 11474
+},
+{
+"code": "44204",
+"nom": "Thouaré-sur-Loire",
+"dep": "44",
+"cp": "44470",
+"pop": 11004
+},
+{
+"code": "44209",
+"nom": "Treillières",
+"dep": "44",
+"cp": "44119",
+"pop": 10600
+},
+{
+"code": "44015",
+"nom": "Blain",
+"dep": "44",
+"cp": "44130",
+"pop": 10376
+},
+{
+"code": "44009",
+"nom": "Basse-Goulaine",
+"dep": "44",
+"cp": "44115",
+"pop": 9679
+},
+{
+"code": "44110",
+"nom": "Nort-sur-Erdre",
+"dep": "44",
+"cp": "44390",
+"pop": 9570
+},
+{
+"code": "44195",
+"nom": "Savenay",
+"dep": "44",
+"cp": "44260",
+"pop": 9543
+},
+{
+"code": "44212",
+"nom": "Vallet",
+"dep": "44",
+"cp": "44330",
+"pop": 9495
+},
+{
+"code": "44188",
+"nom": "Saint-Philbert-de-Grand-Lieu",
+"dep": "44",
+"cp": "44310",
+"pop": 9400
+},
+{
+"code": "44198",
+"nom": "Les Sorinières",
+"dep": "44",
+"cp": "44840",
+"pop": 9275
+},
+{
+"code": "44194",
+"nom": "Sautron",
+"dep": "44",
+"cp": "44880",
+"pop": 8555
+},
+{
+"code": "44084",
+"nom": "Le Loroux-Bottereau",
+"dep": "44",
+"cp": "44430",
+"pop": 8552
+},
+{
+"code": "44210",
+"nom": "Trignac",
+"dep": "44",
+"cp": "44570",
+"pop": 8397
+},
+{
+"code": "44018",
+"nom": "Bouaye",
+"dep": "44",
+"cp": "44830",
+"pop": 8343
+},
+{
+"code": "44052",
+"nom": "Donges",
+"dep": "44",
+"cp": "44480",
+"pop": 8219
+},
+{
+"code": "44169",
+"nom": "Saint-Julien-de-Concelles",
+"dep": "44",
+"cp": "44450",
+"pop": 7883
+},
+{
+"code": "44158",
+"nom": "Saint-Étienne-de-Montluc",
+"dep": "44",
+"cp": "44360",
+"pop": 7780
+},
+{
+"code": "44087",
+"nom": "Machecoul-Saint-Même",
+"dep": "44",
+"cp": "44270",
+"pop": 7689
+},
+{
+"code": "44213",
+"nom": "Loireauxence",
+"dep": "44",
+"cp": "44370",
+"pop": 7587
+},
+{
+"code": "44201",
+"nom": "Sucé-sur-Erdre",
+"dep": "44",
+"cp": "44240",
+"pop": 7539
+},
+{
+"code": "44043",
+"nom": "Clisson",
+"dep": "44",
+"cp": "44190",
+"pop": 7452
+},
+{
+"code": "44005",
+"nom": "Chaumes-en-Retz",
+"dep": "44",
+"cp": "44320",
+"pop": 7440
+},
+{
+"code": "44103",
+"nom": "Montoir-de-Bretagne",
+"dep": "44",
+"cp": "44550",
+"pop": 7282
+},
+{
+"code": "44029",
+"nom": "Divatte-sur-Loire",
+"dep": "44",
+"cp": "44450",
+"pop": 7252
+},
+{
+"code": "44072",
+"nom": "Herbignac",
+"dep": "44",
+"cp": "44410",
+"pop": 7224
+},
+{
+"code": "44186",
+"nom": "Sainte-Pazanne",
+"dep": "44",
+"cp": "44680",
+"pop": 7201
+},
+{
+"code": "44130",
+"nom": "Pont-Saint-Martin",
+"dep": "44",
+"cp": "44860",
+"pop": 7093
+},
+{
+"code": "44066",
+"nom": "Grandchamp-des-Fontaines",
+"dep": "44",
+"cp": "44119",
+"pop": 7062
+},
+{
+"code": "44151",
+"nom": "Saint-André-des-Eaux",
+"dep": "44",
+"cp": "44117",
+"pop": 7013
+},
+{
+"code": "44180",
+"nom": "Vallons-de-l'Erdre",
+"dep": "44",
+"cp": "44540",
+"pop": 6692
+},
+{
+"code": "44217",
+"nom": "Vigneux-de-Bretagne",
+"dep": "44",
+"cp": "44360",
+"pop": 6692
+},
+{
+"code": "44073",
+"nom": "Héric",
+"dep": "44",
+"cp": "44810",
+"pop": 6585
+},
+{
+"code": "44041",
+"nom": "La Chevrolière",
+"dep": "44",
+"cp": "44118",
+"pop": 6539
+},
+{
+"code": "44101",
+"nom": "La Montagne",
+"dep": "44",
+"cp": "44620",
+"pop": 6505
+},
+{
+"code": "44071",
+"nom": "Haute-Goulaine",
+"dep": "44",
+"cp": "44115",
+"pop": 6095
+},
+{
+"code": "44166",
+"nom": "Saint-Jean-de-Boiseau",
+"dep": "44",
+"cp": "44640",
+"pop": 6067
+},
+{
+"code": "44182",
+"nom": "Saint-Michel-Chef-Chef",
+"dep": "44",
+"cp": "44730",
+"pop": 5714
+},
+{
+"code": "44098",
+"nom": "Missillac",
+"dep": "44",
+"cp": "44780",
+"pop": 5709
+},
+{
+"code": "44082",
+"nom": "Ligné",
+"dep": "44",
+"cp": "44850",
+"pop": 5693
+},
+{
+"code": "44179",
+"nom": "Saint-Mars-du-Désert",
+"dep": "44",
+"cp": "44850",
+"pop": 5523
+},
+{
+"code": "44128",
+"nom": "Plessé",
+"dep": "44",
+"cp": "44630",
+"pop": 5335
+},
+{
+"code": "44120",
+"nom": "Le Pellerin",
+"dep": "44",
+"cp": "44640",
+"pop": 5319
+},
+{
+"code": "44175",
+"nom": "Saint-Lyphard",
+"dep": "44",
+"cp": "44410",
+"pop": 5304
+},
+{
+"code": "44067",
+"nom": "Guémené-Penfao",
+"dep": "44",
+"cp": "44290",
+"pop": 5243
+},
+{
+"code": "44064",
+"nom": "Gorges",
+"dep": "44",
+"cp": "44190",
+"pop": 5203
+},
+{
+"code": "44021",
+"nom": "Villeneuve-en-Retz",
+"dep": "44",
+"cp": "44580",
+"pop": 5120
+},
+{
+"code": "45232",
+"nom": "Olivet",
+"dep": "45",
+"cp": "45160",
+"pop": 23507
+},
+{
+"code": "45284",
+"nom": "Saint-Jean-de-Braye",
+"dep": "45",
+"cp": "45800",
+"pop": 23147
+},
+{
+"code": "45147",
+"nom": "Fleury-les-Aubrais",
+"dep": "45",
+"cp": "45400",
+"pop": 21804
+},
+{
+"code": "45302",
+"nom": "Saran",
+"dep": "45",
+"cp": "45770",
+"pop": 17316
+},
+{
+"code": "45285",
+"nom": "Saint-Jean-de-la-Ruelle",
+"dep": "45",
+"cp": "45140",
+"pop": 16768
+},
+{
+"code": "45208",
+"nom": "Montargis",
+"dep": "45",
+"cp": "45200",
+"pop": 14825
+},
+{
+"code": "45004",
+"nom": "Amilly",
+"dep": "45",
+"cp": "45200",
+"pop": 13582
+},
+{
+"code": "45155",
+"nom": "Gien",
+"dep": "45",
+"cp": "45500",
+"pop": 13459
+},
+{
+"code": "45068",
+"nom": "Châlette-sur-Loing",
+"dep": "45",
+"cp": "45120",
+"pop": 12677
+},
+{
+"code": "45075",
+"nom": "La Chapelle-Saint-Mesmin",
+"dep": "45",
+"cp": "45380",
+"pop": 11017
+},
+{
+"code": "45169",
+"nom": "Ingré",
+"dep": "45",
+"cp": "45140",
+"pop": 10062
+},
+{
+"code": "45286",
+"nom": "Saint-Jean-le-Blanc",
+"dep": "45",
+"cp": "45650",
+"pop": 9562
+},
+{
+"code": "45089",
+"nom": "Chécy",
+"dep": "45",
+"cp": "45430",
+"pop": 9083
+},
+{
+"code": "45252",
+"nom": "Pithiviers",
+"dep": "45",
+"cp": "45300",
+"pop": 8856
+},
+{
+"code": "45082",
+"nom": "Châteauneuf-sur-Loire",
+"dep": "45",
+"cp": "45110",
+"pop": 8546
+},
+{
+"code": "45028",
+"nom": "Beaugency",
+"dep": "45",
+"cp": "45190",
+"pop": 8024
+},
+{
+"code": "45191",
+"nom": "Le Malesherbois",
+"dep": "45",
+"cp": "45300",
+"pop": 8016
+},
+{
+"code": "45274",
+"nom": "Saint-Denis-en-Val",
+"dep": "45",
+"cp": "45560",
+"pop": 7766
+},
+{
+"code": "45146",
+"nom": "La Ferté-Saint-Aubin",
+"dep": "45",
+"cp": "45240",
+"pop": 7284
+},
+{
+"code": "45338",
+"nom": "Villemandeur",
+"dep": "45",
+"cp": "45700",
+"pop": 7078
+},
+{
+"code": "45203",
+"nom": "Meung-sur-Loire",
+"dep": "45",
+"cp": "45130",
+"pop": 6670
+},
+{
+"code": "45298",
+"nom": "Saint-Pryvé-Saint-Mesmin",
+"dep": "45",
+"cp": "45750",
+"pop": 6256
+},
+{
+"code": "45315",
+"nom": "Sully-sur-Loire",
+"dep": "45",
+"cp": "45600",
+"pop": 5124
+},
+{
+"code": "46042",
+"nom": "Cahors",
+"dep": "46",
+"cp": "46000",
+"pop": 20050
+},
+{
+"code": "46102",
+"nom": "Figeac",
+"dep": "46",
+"cp": "46100",
+"pop": 9793
+},
+{
+"code": "47001",
+"nom": "Agen",
+"dep": "47",
+"cp": "47000",
+"pop": 32801
+},
+{
+"code": "47323",
+"nom": "Villeneuve-sur-Lot",
+"dep": "47",
+"cp": "47300",
+"pop": 22350
+},
+{
+"code": "47157",
+"nom": "Marmande",
+"dep": "47",
+"cp": "47200",
+"pop": 17328
+},
+{
+"code": "47310",
+"nom": "Tonneins",
+"dep": "47",
+"cp": "47400",
+"pop": 9459
+},
+{
+"code": "47201",
+"nom": "Le Passage",
+"dep": "47",
+"cp": "47520",
+"pop": 9326
+},
+{
+"code": "47195",
+"nom": "Nérac",
+"dep": "47",
+"cp": "47600",
+"pop": 6992
+},
+{
+"code": "47252",
+"nom": "Sainte-Livrade-sur-Lot",
+"dep": "47",
+"cp": "47110",
+"pop": 6541
+},
+{
+"code": "47032",
+"nom": "Bon-Encontre",
+"dep": "47",
+"cp": "47240",
+"pop": 6530
+},
+{
+"code": "47031",
+"nom": "Boé",
+"dep": "47",
+"cp": "47550",
+"pop": 5846
+},
+{
+"code": "47100",
+"nom": "Foulayronnes",
+"dep": "47",
+"cp": "47510",
+"pop": 5476
+},
+{
+"code": "48095",
+"nom": "Mende",
+"dep": "48",
+"cp": "48000",
+"pop": 12464
+},
+{
+"code": "49099",
+"nom": "Cholet",
+"dep": "49",
+"cp": "49300",
+"pop": 54404
+},
+{
+"code": "49328",
+"nom": "Saumur",
+"dep": "49",
+"cp": "49400",
+"pop": 26241
+},
+{
+"code": "49301",
+"nom": "Sèvremoine",
+"dep": "49",
+"cp": "49230",
+"pop": 25797
+},
+{
+"code": "49023",
+"nom": "Beaupréau-en-Mauges",
+"dep": "49",
+"cp": "49110",
+"pop": 23989
+},
+{
+"code": "49092",
+"nom": "Chemillé-en-Anjou",
+"dep": "49",
+"cp": "49120",
+"pop": 21999
+},
+{
+"code": "49244",
+"nom": "Mauges-sur-Loire",
+"dep": "49",
+"cp": "49110",
+"pop": 18695
+},
+{
+"code": "49331",
+"nom": "Segré-en-Anjou Bleu",
+"dep": "49",
+"cp": "49500",
+"pop": 17667
+},
+{
+"code": "49126",
+"nom": "Orée d'Anjou",
+"dep": "49",
+"cp": "49270",
+"pop": 17162
+},
+{
+"code": "49307",
+"nom": "Loire-Authion",
+"dep": "49",
+"cp": "49140",
+"pop": 16765
+},
+{
+"code": "49353",
+"nom": "Trélazé",
+"dep": "49",
+"cp": "49800",
+"pop": 16333
+},
+{
+"code": "49218",
+"nom": "Montrevault-sur-Èvre",
+"dep": "49",
+"cp": "49110",
+"pop": 15726
+},
+{
+"code": "49015",
+"nom": "Avrillé",
+"dep": "49",
+"cp": "49240",
+"pop": 15251
+},
+{
+"code": "49246",
+"nom": "Les Ponts-de-Cé",
+"dep": "49",
+"cp": "49130",
+"pop": 13149
+},
+{
+"code": "49018",
+"nom": "Baugé-en-Anjou",
+"dep": "49",
+"cp": "49150",
+"pop": 11712
+},
+{
+"code": "49125",
+"nom": "Doué-en-Anjou",
+"dep": "49",
+"cp": "49700",
+"pop": 11029
+},
+{
+"code": "49050",
+"nom": "Brissac Loire Aubance",
+"dep": "49",
+"cp": "49250",
+"pop": 10878
+},
+{
+"code": "49267",
+"nom": "Saint-Barthélemy-d'Anjou",
+"dep": "49",
+"cp": "49124",
+"pop": 9720
+},
+{
+"code": "49248",
+"nom": "Ombrée d'Anjou",
+"dep": "49",
+"cp": "49420",
+"pop": 8813
+},
+{
+"code": "49080",
+"nom": "Les Hauts-d'Anjou",
+"dep": "49",
+"cp": "49330",
+"pop": 8751
+},
+{
+"code": "49261",
+"nom": "Gennes-Val-de-Loire",
+"dep": "49",
+"cp": "49160",
+"pop": 8429
+},
+{
+"code": "49323",
+"nom": "Verrières-en-Anjou",
+"dep": "49",
+"cp": "49112",
+"pop": 8116
+},
+{
+"code": "49214",
+"nom": "Montreuil-Juigné",
+"dep": "49",
+"cp": "49460",
+"pop": 7808
+},
+{
+"code": "49373",
+"nom": "Lys-Haut-Layon",
+"dep": "49",
+"cp": "49310",
+"pop": 7748
+},
+{
+"code": "49021",
+"nom": "Beaufort-en-Anjou",
+"dep": "49",
+"cp": "49250",
+"pop": 6901
+},
+{
+"code": "49063",
+"nom": "Chalonnes-sur-Loire",
+"dep": "49",
+"cp": "49290",
+"pop": 6659
+},
+{
+"code": "49035",
+"nom": "Bouchemaine",
+"dep": "49",
+"cp": "49080",
+"pop": 6580
+},
+{
+"code": "49200",
+"nom": "Longuenée-en-Anjou",
+"dep": "49",
+"cp": "49220",
+"pop": 6571
+},
+{
+"code": "49180",
+"nom": "Longué-Jumelles",
+"dep": "49",
+"cp": "49160",
+"pop": 6564
+},
+{
+"code": "49223",
+"nom": "Mûrs-Erigné",
+"dep": "49",
+"cp": "49610",
+"pop": 6408
+},
+{
+"code": "49345",
+"nom": "Bellevigne-en-Layon",
+"dep": "49",
+"cp": "49380",
+"pop": 5922
+},
+{
+"code": "49367",
+"nom": "Erdre-en-Anjou",
+"dep": "49",
+"cp": "49220",
+"pop": 5771
+},
+{
+"code": "49194",
+"nom": "Mazé-Milon",
+"dep": "49",
+"cp": "49140",
+"pop": 5761
+},
+{
+"code": "49020",
+"nom": "Beaucouzé",
+"dep": "49",
+"cp": "49070",
+"pop": 5732
+},
+{
+"code": "49377",
+"nom": "Rives-du-Loir-en-Anjou",
+"dep": "49",
+"cp": "49140",
+"pop": 5644
+},
+{
+"code": "49228",
+"nom": "Noyant-Villages",
+"dep": "49",
+"cp": "49390",
+"pop": 5448
+},
+{
+"code": "49176",
+"nom": "Le Lion-d'Angers",
+"dep": "49",
+"cp": "49220",
+"pop": 5390
+},
+{
+"code": "50129",
+"nom": "Cherbourg-en-Cotentin",
+"dep": "50",
+"cp": "50100",
+"pop": 78258
+},
+{
+"code": "50502",
+"nom": "Saint-Lô",
+"dep": "50",
+"cp": "50000",
+"pop": 19471
+},
+{
+"code": "50218",
+"nom": "Granville",
+"dep": "50",
+"cp": "50400",
+"pop": 12510
+},
+{
+"code": "50041",
+"nom": "La Hague",
+"dep": "50",
+"cp": "50440",
+"pop": 11484
+},
+{
+"code": "50099",
+"nom": "Carentan-les-Marais",
+"dep": "50",
+"cp": "50480",
+"pop": 10218
+},
+{
+"code": "50025",
+"nom": "Avranches",
+"dep": "50",
+"cp": "50300",
+"pop": 10143
+},
+{
+"code": "50147",
+"nom": "Coutances",
+"dep": "50",
+"cp": "50200",
+"pop": 8321
+},
+{
+"code": "50615",
+"nom": "Valognes",
+"dep": "50",
+"cp": "50700",
+"pop": 6969
+},
+{
+"code": "50082",
+"nom": "Bricquebec-en-Cotentin",
+"dep": "50",
+"cp": "50260",
+"pop": 5893
+},
+{
+"code": "50484",
+"nom": "Saint-Hilaire-du-Harcouët",
+"dep": "50",
+"cp": "50600",
+"pop": 5770
+},
+{
+"code": "50487",
+"nom": "Saint-James",
+"dep": "50",
+"cp": "50240",
+"pop": 5018
+},
+{
+"code": "51108",
+"nom": "Châlons-en-Champagne",
+"dep": "51",
+"cp": "51000",
+"pop": 42971
+},
+{
+"code": "51230",
+"nom": "Épernay",
+"dep": "51",
+"cp": "51200",
+"pop": 22174
+},
+{
+"code": "51649",
+"nom": "Vitry-le-François",
+"dep": "51",
+"cp": "51300",
+"pop": 10996
+},
+{
+"code": "51573",
+"nom": "Tinqueux",
+"dep": "51",
+"cp": "51430",
+"pop": 10771
+},
+{
+"code": "51055",
+"nom": "Bétheny",
+"dep": "51",
+"cp": "51450",
+"pop": 6975
+},
+{
+"code": "51172",
+"nom": "Cormontreuil",
+"dep": "51",
+"cp": "51350",
+"pop": 6534
+},
+{
+"code": "51250",
+"nom": "Fismes",
+"dep": "51",
+"cp": "51170",
+"pop": 5850
+},
+{
+"code": "51506",
+"nom": "Saint-Memmie",
+"dep": "51",
+"cp": "51470",
+"pop": 5441
+},
+{
+"code": "51030",
+"nom": "Aÿ-Champagne",
+"dep": "51",
+"cp": "51150",
+"pop": 5103
+},
+{
+"code": "51058",
+"nom": "Bezannes",
+"dep": "51",
+"cp": "51430",
+"pop": 5039
+},
+{
+"code": "52448",
+"nom": "Saint-Dizier",
+"dep": "52",
+"cp": "52100",
+"pop": 22858
+},
+{
+"code": "52121",
+"nom": "Chaumont",
+"dep": "52",
+"cp": "52000",
+"pop": 20827
+},
+{
+"code": "52269",
+"nom": "Langres",
+"dep": "52",
+"cp": "52200",
+"pop": 7421
+},
+{
+"code": "53130",
+"nom": "Laval",
+"dep": "53",
+"cp": "53000",
+"pop": 49400
+},
+{
+"code": "53062",
+"nom": "Château-Gontier-sur-Mayenne",
+"dep": "53",
+"cp": "53200",
+"pop": 16584
+},
+{
+"code": "53147",
+"nom": "Mayenne",
+"dep": "53",
+"cp": "53100",
+"pop": 12883
+},
+{
+"code": "53097",
+"nom": "Évron",
+"dep": "53",
+"cp": "53150",
+"pop": 8252
+},
+{
+"code": "53201",
+"nom": "Saint-Berthevin",
+"dep": "53",
+"cp": "53940",
+"pop": 7479
+},
+{
+"code": "53054",
+"nom": "Changé",
+"dep": "53",
+"cp": "53810",
+"pop": 6502
+},
+{
+"code": "53034",
+"nom": "Bonchamp-lès-Laval",
+"dep": "53",
+"cp": "53960",
+"pop": 6302
+},
+{
+"code": "53096",
+"nom": "Ernée",
+"dep": "53",
+"cp": "53500",
+"pop": 5499
+},
+{
+"code": "54547",
+"nom": "Vandœuvre-lès-Nancy",
+"dep": "54",
+"cp": "54500",
+"pop": 29942
+},
+{
+"code": "54329",
+"nom": "Lunéville",
+"dep": "54",
+"cp": "54300",
+"pop": 18262
+},
+{
+"code": "54528",
+"nom": "Toul",
+"dep": "54",
+"cp": "54200",
+"pop": 15768
+},
+{
+"code": "54323",
+"nom": "Longwy",
+"dep": "54",
+"cp": "54400",
+"pop": 15679
+},
+{
+"code": "54304",
+"nom": "Laxou",
+"dep": "54",
+"cp": "54520",
+"pop": 14771
+},
+{
+"code": "54578",
+"nom": "Villers-lès-Nancy",
+"dep": "54",
+"cp": "54600",
+"pop": 14718
+},
+{
+"code": "54431",
+"nom": "Pont-à-Mousson",
+"dep": "54",
+"cp": "54700",
+"pop": 14190
+},
+{
+"code": "54580",
+"nom": "Villerupt",
+"dep": "54",
+"cp": "54190",
+"pop": 10102
+},
+{
+"code": "54357",
+"nom": "Maxéville",
+"dep": "54",
+"cp": "54320",
+"pop": 10090
+},
+{
+"code": "54482",
+"nom": "Saint-Max",
+"dep": "54",
+"cp": "54130",
+"pop": 9913
+},
+{
+"code": "54159",
+"nom": "Dombasle-sur-Meurthe",
+"dep": "54",
+"cp": "54110",
+"pop": 9424
+},
+{
+"code": "54382",
+"nom": "Mont-Saint-Martin",
+"dep": "54",
+"cp": "54350",
+"pop": 9361
+},
+{
+"code": "54274",
+"nom": "Jarville-la-Malgrange",
+"dep": "54",
+"cp": "54140",
+"pop": 9356
+},
+{
+"code": "54526",
+"nom": "Tomblaine",
+"dep": "54",
+"cp": "54510",
+"pop": 9117
+},
+{
+"code": "54184",
+"nom": "Essey-lès-Nancy",
+"dep": "54",
+"cp": "54270",
+"pop": 8670
+},
+{
+"code": "54099",
+"nom": "Val de Briey",
+"dep": "54",
+"cp": "54150",
+"pop": 8130
+},
+{
+"code": "54273",
+"nom": "Jarny",
+"dep": "54",
+"cp": "54800",
+"pop": 8050
+},
+{
+"code": "54339",
+"nom": "Malzéville",
+"dep": "54",
+"cp": "54220",
+"pop": 7820
+},
+{
+"code": "54483",
+"nom": "Saint-Nicolas-de-Port",
+"dep": "54",
+"cp": "54210",
+"pop": 7359
+},
+{
+"code": "54300",
+"nom": "Laneuveville-devant-Nancy",
+"dep": "54",
+"cp": "54410",
+"pop": 6630
+},
+{
+"code": "54115",
+"nom": "Champigneulles",
+"dep": "54",
+"cp": "54250",
+"pop": 6551
+},
+{
+"code": "54397",
+"nom": "Neuves-Maisons",
+"dep": "54",
+"cp": "54230",
+"pop": 6524
+},
+{
+"code": "54215",
+"nom": "Frouard",
+"dep": "54",
+"cp": "54390",
+"pop": 6444
+},
+{
+"code": "54280",
+"nom": "Jœuf",
+"dep": "54",
+"cp": "54240",
+"pop": 6392
+},
+{
+"code": "54263",
+"nom": "Homécourt",
+"dep": "54",
+"cp": "54310",
+"pop": 6254
+},
+{
+"code": "54328",
+"nom": "Ludres",
+"dep": "54",
+"cp": "54710",
+"pop": 5843
+},
+{
+"code": "54318",
+"nom": "Liverdun",
+"dep": "54",
+"cp": "54460",
+"pop": 5580
+},
+{
+"code": "54257",
+"nom": "Heillecourt",
+"dep": "54",
+"cp": "54180",
+"pop": 5414
+},
+{
+"code": "54498",
+"nom": "Seichamps",
+"dep": "54",
+"cp": "54280",
+"pop": 5165
+},
+{
+"code": "54322",
+"nom": "Longuyon",
+"dep": "54",
+"cp": "54260",
+"pop": 5134
+},
+{
+"code": "54439",
+"nom": "Pulnoy",
+"dep": "54",
+"cp": "54425",
+"pop": 5099
+},
+{
+"code": "55545",
+"nom": "Verdun",
+"dep": "55",
+"cp": "55100",
+"pop": 16890
+},
+{
+"code": "55029",
+"nom": "Bar-le-Duc",
+"dep": "55",
+"cp": "55000",
+"pop": 14607
+},
+{
+"code": "55122",
+"nom": "Commercy",
+"dep": "55",
+"cp": "55200",
+"pop": 5350
+},
+{
+"code": "56121",
+"nom": "Lorient",
+"dep": "56",
+"cp": "56100",
+"pop": 58329
+},
+{
+"code": "56260",
+"nom": "Vannes",
+"dep": "56",
+"cp": "56000",
+"pop": 55790
+},
+{
+"code": "56098",
+"nom": "Lanester",
+"dep": "56",
+"cp": "56600",
+"pop": 23263
+},
+{
+"code": "56162",
+"nom": "Ploemeur",
+"dep": "56",
+"cp": "56270",
+"pop": 18872
+},
+{
+"code": "56083",
+"nom": "Hennebont",
+"dep": "56",
+"cp": "56700",
+"pop": 15910
+},
+{
+"code": "56178",
+"nom": "Pontivy",
+"dep": "56",
+"cp": "56300",
+"pop": 14640
+},
+{
+"code": "56007",
+"nom": "Auray",
+"dep": "56",
+"cp": "56400",
+"pop": 14207
+},
+{
+"code": "56206",
+"nom": "Saint-Avé",
+"dep": "56",
+"cp": "56890",
+"pop": 12470
+},
+{
+"code": "56078",
+"nom": "Guidel",
+"dep": "56",
+"cp": "56520",
+"pop": 12338
+},
+{
+"code": "56165",
+"nom": "Ploërmel",
+"dep": "56",
+"cp": "56800",
+"pop": 10163
+},
+{
+"code": "56243",
+"nom": "Séné",
+"dep": "56",
+"cp": "56860",
+"pop": 9554
+},
+{
+"code": "56240",
+"nom": "Sarzeau",
+"dep": "56",
+"cp": "56370",
+"pop": 9212
+},
+{
+"code": "56185",
+"nom": "Quéven",
+"dep": "56",
+"cp": "56530",
+"pop": 8991
+},
+{
+"code": "56251",
+"nom": "Theix-Noyalo",
+"dep": "56",
+"cp": "56450",
+"pop": 8500
+},
+{
+"code": "56107",
+"nom": "Larmor-Plage",
+"dep": "56",
+"cp": "56260",
+"pop": 8418
+},
+{
+"code": "56184",
+"nom": "Questembert",
+"dep": "56",
+"cp": "56230",
+"pop": 8133
+},
+{
+"code": "56101",
+"nom": "Languidic",
+"dep": "56",
+"cp": "56440",
+"pop": 8042
+},
+{
+"code": "56177",
+"nom": "Pluvigner",
+"dep": "56",
+"cp": "56330",
+"pop": 7682
+},
+{
+"code": "56036",
+"nom": "Caudan",
+"dep": "56",
+"cp": "56850",
+"pop": 7206
+},
+{
+"code": "56094",
+"nom": "Kervignac",
+"dep": "56",
+"cp": "56700",
+"pop": 7204
+},
+{
+"code": "56023",
+"nom": "Brech",
+"dep": "56",
+"cp": "56400",
+"pop": 7052
+},
+{
+"code": "56164",
+"nom": "Ploeren",
+"dep": "56",
+"cp": "56880",
+"pop": 6790
+},
+{
+"code": "56090",
+"nom": "Inzinzac-Lochrist",
+"dep": "56",
+"cp": "56650",
+"pop": 6691
+},
+{
+"code": "56053",
+"nom": "Elven",
+"dep": "56",
+"cp": "56250",
+"pop": 6651
+},
+{
+"code": "56010",
+"nom": "Baud",
+"dep": "56",
+"cp": "56150",
+"pop": 6367
+},
+{
+"code": "56158",
+"nom": "Plescop",
+"dep": "56",
+"cp": "56890",
+"pop": 6362
+},
+{
+"code": "56176",
+"nom": "Pluneret",
+"dep": "56",
+"cp": "56400",
+"pop": 6262
+},
+{
+"code": "56075",
+"nom": "Guer",
+"dep": "56",
+"cp": "56380",
+"pop": 6208
+},
+{
+"code": "56067",
+"nom": "Grand-Champ",
+"dep": "56",
+"cp": "56390",
+"pop": 5929
+},
+{
+"code": "56193",
+"nom": "Riantec",
+"dep": "56",
+"cp": "56670",
+"pop": 5865
+},
+{
+"code": "56003",
+"nom": "Arradon",
+"dep": "56",
+"cp": "56610",
+"pop": 5835
+},
+{
+"code": "56166",
+"nom": "Plouay",
+"dep": "56",
+"cp": "56240",
+"pop": 5755
+},
+{
+"code": "56169",
+"nom": "Plouhinec",
+"dep": "56",
+"cp": "56680",
+"pop": 5400
+},
+{
+"code": "56248",
+"nom": "Surzur",
+"dep": "56",
+"cp": "56450",
+"pop": 5211
+},
+{
+"code": "56143",
+"nom": "Muzillac",
+"dep": "56",
+"cp": "56190",
+"pop": 5089
+},
+{
+"code": "56008",
+"nom": "Baden",
+"dep": "56",
+"cp": "56870",
+"pop": 5086
+},
+{
+"code": "57672",
+"nom": "Thionville",
+"dep": "57",
+"cp": "57100",
+"pop": 42658
+},
+{
+"code": "57480",
+"nom": "Montigny-lès-Metz",
+"dep": "57",
+"cp": "57950",
+"pop": 21718
+},
+{
+"code": "57227",
+"nom": "Forbach",
+"dep": "57",
+"cp": "57600",
+"pop": 20493
+},
+{
+"code": "57631",
+"nom": "Sarreguemines",
+"dep": "57",
+"cp": "57200",
+"pop": 20143
+},
+{
+"code": "57757",
+"nom": "Yutz",
+"dep": "57",
+"cp": "57970",
+"pop": 17391
+},
+{
+"code": "57306",
+"nom": "Hayange",
+"dep": "57",
+"cp": "57700",
+"pop": 15806
+},
+{
+"code": "57751",
+"nom": "Woippy",
+"dep": "57",
+"cp": "57140",
+"pop": 14967
+},
+{
+"code": "57206",
+"nom": "Fameck",
+"dep": "57",
+"cp": "57290",
+"pop": 14788
+},
+{
+"code": "57606",
+"nom": "Saint-Avold",
+"dep": "57",
+"cp": "57500",
+"pop": 14755
+},
+{
+"code": "57240",
+"nom": "Freyming-Merlebach",
+"dep": "57",
+"cp": "57800",
+"pop": 13266
+},
+{
+"code": "57160",
+"nom": "Creutzwald",
+"dep": "57",
+"cp": "57150",
+"pop": 12254
+},
+{
+"code": "57630",
+"nom": "Sarrebourg",
+"dep": "57",
+"cp": "57400",
+"pop": 12170
+},
+{
+"code": "57221",
+"nom": "Florange",
+"dep": "57",
+"cp": "57190",
+"pop": 12035
+},
+{
+"code": "57433",
+"nom": "Maizières-lès-Metz",
+"dep": "57",
+"cp": "57280",
+"pop": 11580
+},
+{
+"code": "57660",
+"nom": "Stiring-Wendel",
+"dep": "57",
+"cp": "57350",
+"pop": 10956
+},
+{
+"code": "57019",
+"nom": "Amnéville",
+"dep": "57",
+"cp": "57360",
+"pop": 10875
+},
+{
+"code": "57447",
+"nom": "Marly",
+"dep": "57",
+"cp": "57155",
+"pop": 10286
+},
+{
+"code": "57591",
+"nom": "Rombas",
+"dep": "57",
+"cp": "57120",
+"pop": 9371
+},
+{
+"code": "57283",
+"nom": "Hagondange",
+"dep": "57",
+"cp": "57300",
+"pop": 9278
+},
+{
+"code": "57663",
+"nom": "Talange",
+"dep": "57",
+"cp": "57525",
+"pop": 8120
+},
+{
+"code": "57269",
+"nom": "Guénange",
+"dep": "57",
+"cp": "57310",
+"pop": 8083
+},
+{
+"code": "57666",
+"nom": "Terville",
+"dep": "57",
+"cp": "57180",
+"pop": 7801
+},
+{
+"code": "57323",
+"nom": "Hettange-Grande",
+"dep": "57",
+"cp": "57330",
+"pop": 7772
+},
+{
+"code": "57038",
+"nom": "Audun-le-Tiche",
+"dep": "57",
+"cp": "57390",
+"pop": 7356
+},
+{
+"code": "57491",
+"nom": "Moyeuvre-Grande",
+"dep": "57",
+"cp": "57250",
+"pop": 7311
+},
+{
+"code": "57683",
+"nom": "Uckange",
+"dep": "57",
+"cp": "57270",
+"pop": 7021
+},
+{
+"code": "57443",
+"nom": "Marange-Silvange",
+"dep": "57",
+"cp": "57535",
+"pop": 6539
+},
+{
+"code": "57537",
+"nom": "Petite-Rosselle",
+"dep": "57",
+"cp": "57540",
+"pop": 6171
+},
+{
+"code": "57058",
+"nom": "Behren-lès-Forbach",
+"dep": "57",
+"cp": "57460",
+"pop": 6166
+},
+{
+"code": "57332",
+"nom": "Hombourg-Haut",
+"dep": "57",
+"cp": "57470",
+"pop": 5976
+},
+{
+"code": "57012",
+"nom": "Algrange",
+"dep": "57",
+"cp": "57440",
+"pop": 5802
+},
+{
+"code": "57474",
+"nom": "Mondelange",
+"dep": "57",
+"cp": "57300",
+"pop": 5699
+},
+{
+"code": "57097",
+"nom": "Boulay-Moselle",
+"dep": "57",
+"cp": "57220",
+"pop": 5434
+},
+{
+"code": "57487",
+"nom": "Moulins-lès-Metz",
+"dep": "57",
+"cp": "57160",
+"pop": 5265
+},
+{
+"code": "57207",
+"nom": "Farébersviller",
+"dep": "57",
+"cp": "57450",
+"pop": 5224
+},
+{
+"code": "57336",
+"nom": "L'Hôpital",
+"dep": "57",
+"cp": "57490",
+"pop": 5183
+},
+{
+"code": "57209",
+"nom": "Faulquemont",
+"dep": "57",
+"cp": "57380",
+"pop": 5109
+},
+{
+"code": "58194",
+"nom": "Nevers",
+"dep": "58",
+"cp": "58000",
+"pop": 33085
+},
+{
+"code": "58086",
+"nom": "Cosne-Cours-sur-Loire",
+"dep": "58",
+"cp": "58200",
+"pop": 9733
+},
+{
+"code": "58303",
+"nom": "Varennes-Vauzelles",
+"dep": "58",
+"cp": "58640",
+"pop": 9146
+},
+{
+"code": "59599",
+"nom": "Tourcoing",
+"dep": "59",
+"cp": "59200",
+"pop": 98772
+},
+{
+"code": "59512",
+"nom": "Roubaix",
+"dep": "59",
+"cp": "59100",
+"pop": 98286
+},
+{
+"code": "59183",
+"nom": "Dunkerque",
+"dep": "59",
+"cp": "59140",
+"pop": 86263
+},
+{
+"code": "59009",
+"nom": "Villeneuve-d'Ascq",
+"dep": "59",
+"cp": "59491",
+"pop": 62868
+},
+{
+"code": "59606",
+"nom": "Valenciennes",
+"dep": "59",
+"cp": "59300",
+"pop": 43468
+},
+{
+"code": "59650",
+"nom": "Wattrelos",
+"dep": "59",
+"cp": "59150",
+"pop": 40847
+},
+{
+"code": "59178",
+"nom": "Douai",
+"dep": "59",
+"cp": "59500",
+"pop": 40250
+},
+{
+"code": "59378",
+"nom": "Marcq-en-Barœul",
+"dep": "59",
+"cp": "59700",
+"pop": 40184
+},
+{
+"code": "59122",
+"nom": "Cambrai",
+"dep": "59",
+"cp": "59400",
+"pop": 31134
+},
+{
+"code": "59392",
+"nom": "Maubeuge",
+"dep": "59",
+"cp": "59600",
+"pop": 28767
+},
+{
+"code": "59328",
+"nom": "Lambersart",
+"dep": "59",
+"cp": "59130",
+"pop": 27090
+},
+{
+"code": "59017",
+"nom": "Armentières",
+"dep": "59",
+"cp": "59280",
+"pop": 26998
+},
+{
+"code": "59360",
+"nom": "Loos",
+"dep": "59",
+"cp": "59120",
+"pop": 22567
+},
+{
+"code": "59295",
+"nom": "Hazebrouck",
+"dep": "59",
+"cp": "59190",
+"pop": 21912
+},
+{
+"code": "59368",
+"nom": "La Madeleine",
+"dep": "59",
+"cp": "59110",
+"pop": 21790
+},
+{
+"code": "59410",
+"nom": "Mons-en-Barœul",
+"dep": "59",
+"cp": "59370",
+"pop": 21105
+},
+{
+"code": "59155",
+"nom": "Coudekerque-Branche",
+"dep": "59",
+"cp": "59210",
+"pop": 20787
+},
+{
+"code": "59646",
+"nom": "Wasquehal",
+"dep": "59",
+"cp": "59290",
+"pop": 20726
+},
+{
+"code": "59279",
+"nom": "Halluin",
+"dep": "59",
+"cp": "59250",
+"pop": 20715
+},
+{
+"code": "59172",
+"nom": "Denain",
+"dep": "59",
+"cp": "59220",
+"pop": 20665
+},
+{
+"code": "59163",
+"nom": "Croix",
+"dep": "59",
+"cp": "59170",
+"pop": 20566
+},
+{
+"code": "59271",
+"nom": "Grande-Synthe",
+"dep": "59",
+"cp": "59760",
+"pop": 20239
+},
+{
+"code": "59507",
+"nom": "Ronchin",
+"dep": "59",
+"cp": "59790",
+"pop": 19787
+},
+{
+"code": "59220",
+"nom": "Faches-Thumesnil",
+"dep": "59",
+"cp": "59155",
+"pop": 18619
+},
+{
+"code": "59299",
+"nom": "Hem",
+"dep": "59",
+"cp": "59510",
+"pop": 18582
+},
+{
+"code": "59569",
+"nom": "Sin-le-Noble",
+"dep": "59",
+"cp": "59450",
+"pop": 16076
+},
+{
+"code": "59526",
+"nom": "Saint-Amand-les-Eaux",
+"dep": "59",
+"cp": "59230",
+"pop": 15974
+},
+{
+"code": "59648",
+"nom": "Wattignies",
+"dep": "59",
+"cp": "59139",
+"pop": 15525
+},
+{
+"code": "59286",
+"nom": "Haubourdin",
+"dep": "59",
+"cp": "59320",
+"pop": 15074
+},
+{
+"code": "59043",
+"nom": "Bailleul",
+"dep": "59",
+"cp": "59270",
+"pop": 14732
+},
+{
+"code": "59291",
+"nom": "Hautmont",
+"dep": "59",
+"cp": "59330",
+"pop": 14152
+},
+{
+"code": "59508",
+"nom": "Roncq",
+"dep": "59",
+"cp": "59223",
+"pop": 14075
+},
+{
+"code": "59367",
+"nom": "Lys-lez-Lannoy",
+"dep": "59",
+"cp": "59390",
+"pop": 14050
+},
+{
+"code": "59139",
+"nom": "Caudry",
+"dep": "59",
+"cp": "59540",
+"pop": 13833
+},
+{
+"code": "59421",
+"nom": "Mouvaux",
+"dep": "59",
+"cp": "59420",
+"pop": 13369
+},
+{
+"code": "59560",
+"nom": "Seclin",
+"dep": "59",
+"cp": "59113",
+"pop": 13261
+},
+{
+"code": "59527",
+"nom": "Saint-André-lez-Lille",
+"dep": "59",
+"cp": "59350",
+"pop": 13233
+},
+{
+"code": "59014",
+"nom": "Anzin",
+"dep": "59",
+"cp": "59410",
+"pop": 13183
+},
+{
+"code": "59152",
+"nom": "Comines",
+"dep": "59",
+"cp": "59560",
+"pop": 12731
+},
+{
+"code": "59386",
+"nom": "Marquette-lez-Lille",
+"dep": "59",
+"cp": "59520",
+"pop": 12622
+},
+{
+"code": "59491",
+"nom": "Raismes",
+"dep": "59",
+"cp": "59590",
+"pop": 12199
+},
+{
+"code": "59383",
+"nom": "Marly",
+"dep": "59",
+"cp": "59770",
+"pop": 11995
+},
+{
+"code": "59574",
+"nom": "Somain",
+"dep": "59",
+"cp": "59490",
+"pop": 11766
+},
+{
+"code": "59112",
+"nom": "Bruay-sur-l'Escaut",
+"dep": "59",
+"cp": "59860",
+"pop": 11644
+},
+{
+"code": "59249",
+"nom": "Fourmies",
+"dep": "59",
+"cp": "59610",
+"pop": 11449
+},
+{
+"code": "59273",
+"nom": "Gravelines",
+"dep": "59",
+"cp": "59820",
+"pop": 11430
+},
+{
+"code": "59636",
+"nom": "Wambrechies",
+"dep": "59",
+"cp": "59118",
+"pop": 11012
+},
+{
+"code": "59544",
+"nom": "Saint-Saulve",
+"dep": "59",
+"cp": "59880",
+"pop": 10947
+},
+{
+"code": "59011",
+"nom": "Annœullin",
+"dep": "59",
+"cp": "59112",
+"pop": 10847
+},
+{
+"code": "59616",
+"nom": "Vieux-Condé",
+"dep": "59",
+"cp": "59690",
+"pop": 10617
+},
+{
+"code": "59324",
+"nom": "Jeumont",
+"dep": "59",
+"cp": "59460",
+"pop": 10160
+},
+{
+"code": "59179",
+"nom": "Douchy-les-Mines",
+"dep": "59",
+"cp": "59282",
+"pop": 10109
+},
+{
+"code": "59426",
+"nom": "Neuville-en-Ferrain",
+"dep": "59",
+"cp": "59960",
+"pop": 10002
+},
+{
+"code": "59008",
+"nom": "Aniche",
+"dep": "59",
+"cp": "59580",
+"pop": 9963
+},
+{
+"code": "59400",
+"nom": "Merville",
+"dep": "59",
+"cp": "59660",
+"pop": 9808
+},
+{
+"code": "59090",
+"nom": "Bondues",
+"dep": "59",
+"cp": "59910",
+"pop": 9747
+},
+{
+"code": "59343",
+"nom": "Lesquin",
+"dep": "59",
+"cp": "59810",
+"pop": 9600
+},
+{
+"code": "59339",
+"nom": "Leers",
+"dep": "59",
+"cp": "59115",
+"pop": 9521
+},
+{
+"code": "59153",
+"nom": "Condé-sur-l'Escaut",
+"dep": "59",
+"cp": "59163",
+"pop": 9253
+},
+{
+"code": "59205",
+"nom": "Escaudain",
+"dep": "59",
+"cp": "59124",
+"pop": 9039
+},
+{
+"code": "59143",
+"nom": "La Chapelle-d'Armentières",
+"dep": "59",
+"cp": "59930",
+"pop": 8754
+},
+{
+"code": "59033",
+"nom": "Aulnoye-Aymeries",
+"dep": "59",
+"cp": "59620",
+"pop": 8612
+},
+{
+"code": "59447",
+"nom": "Onnaing",
+"dep": "59",
+"cp": "59264",
+"pop": 8479
+},
+{
+"code": "59457",
+"nom": "Pérenchies",
+"dep": "59",
+"cp": "59840",
+"pop": 8455
+},
+{
+"code": "59449",
+"nom": "Orchies",
+"dep": "59",
+"cp": "59310",
+"pop": 8396
+},
+{
+"code": "59588",
+"nom": "Téteghem-Coudekerque-Village",
+"dep": "59",
+"cp": "59229",
+"pop": 8247
+},
+{
+"code": "59352",
+"nom": "Linselles",
+"dep": "59",
+"cp": "59126",
+"pop": 8161
+},
+{
+"code": "59317",
+"nom": "Houplines",
+"dep": "59",
+"cp": "59116",
+"pop": 7921
+},
+{
+"code": "59131",
+"nom": "Cappelle-la-Grande",
+"dep": "59",
+"cp": "59180",
+"pop": 7839
+},
+{
+"code": "59431",
+"nom": "Nieppe",
+"dep": "59",
+"cp": "59850",
+"pop": 7764
+},
+{
+"code": "59653",
+"nom": "Wavrin",
+"dep": "59",
+"cp": "59136",
+"pop": 7758
+},
+{
+"code": "59253",
+"nom": "Fresnes-sur-Escaut",
+"dep": "59",
+"cp": "59970",
+"pop": 7354
+},
+{
+"code": "59654",
+"nom": "Waziers",
+"dep": "59",
+"cp": "59119",
+"pop": 7266
+},
+{
+"code": "59586",
+"nom": "Templeuve-en-Pévèle",
+"dep": "59",
+"cp": "59242",
+"pop": 7202
+},
+{
+"code": "59028",
+"nom": "Auby",
+"dep": "59",
+"cp": "59950",
+"pop": 7083
+},
+{
+"code": "59032",
+"nom": "Aulnoy-lez-Valenciennes",
+"dep": "59",
+"cp": "59300",
+"pop": 7080
+},
+{
+"code": "59094",
+"nom": "Bourbourg",
+"dep": "59",
+"cp": "59630",
+"pop": 6931
+},
+{
+"code": "59482",
+"nom": "Quesnoy-sur-Deûle",
+"dep": "59",
+"cp": "59890",
+"pop": 6805
+},
+{
+"code": "59079",
+"nom": "Beuvrages",
+"dep": "59",
+"cp": "59192",
+"pop": 6796
+},
+{
+"code": "59136",
+"nom": "Le Cateau-Cambrésis",
+"dep": "59",
+"cp": "59360",
+"pop": 6764
+},
+{
+"code": "59225",
+"nom": "Feignies",
+"dep": "59",
+"cp": "59750",
+"pop": 6703
+},
+{
+"code": "59051",
+"nom": "La Bassée",
+"dep": "59",
+"cp": "59480",
+"pop": 6650
+},
+{
+"code": "59212",
+"nom": "Estaires",
+"dep": "59",
+"cp": "59940",
+"pop": 6525
+},
+{
+"code": "59165",
+"nom": "Cuincy",
+"dep": "59",
+"cp": "59553",
+"pop": 6467
+},
+{
+"code": "59365",
+"nom": "Louvroil",
+"dep": "59",
+"cp": "59720",
+"pop": 6294
+},
+{
+"code": "59327",
+"nom": "Lallaing",
+"dep": "59",
+"cp": "59167",
+"pop": 6287
+},
+{
+"code": "59452",
+"nom": "Ostricourt",
+"dep": "59",
+"cp": "59162",
+"pop": 6097
+},
+{
+"code": "59456",
+"nom": "Pecquencourt",
+"dep": "59",
+"cp": "59146",
+"pop": 6092
+},
+{
+"code": "59603",
+"nom": "Trith-Saint-Léger",
+"dep": "59",
+"cp": "59125",
+"pop": 6019
+},
+{
+"code": "59509",
+"nom": "Roost-Warendin",
+"dep": "59",
+"cp": "59286",
+"pop": 5956
+},
+{
+"code": "59359",
+"nom": "Loon-Plage",
+"dep": "59",
+"cp": "59279",
+"pop": 5952
+},
+{
+"code": "59484",
+"nom": "Quiévrechain",
+"dep": "59",
+"cp": "59920",
+"pop": 5949
+},
+{
+"code": "59239",
+"nom": "Flines-lez-Raches",
+"dep": "59",
+"cp": "59148",
+"pop": 5745
+},
+{
+"code": "59553",
+"nom": "Santes",
+"dep": "59",
+"cp": "59211",
+"pop": 5652
+},
+{
+"code": "59524",
+"nom": "Sainghin-en-Weppes",
+"dep": "59",
+"cp": "59184",
+"pop": 5638
+},
+{
+"code": "59632",
+"nom": "Wallers",
+"dep": "59",
+"cp": "59135",
+"pop": 5633
+},
+{
+"code": "59268",
+"nom": "La Gorgue",
+"dep": "59",
+"cp": "59253",
+"pop": 5616
+},
+{
+"code": "59663",
+"nom": "Wormhout",
+"dep": "59",
+"cp": "59470",
+"pop": 5584
+},
+{
+"code": "59044",
+"nom": "Baisieux",
+"dep": "59",
+"cp": "59780",
+"pop": 5545
+},
+{
+"code": "59227",
+"nom": "Fenain",
+"dep": "59",
+"cp": "59179",
+"pop": 5441
+},
+{
+"code": "59656",
+"nom": "Wervicq-Sud",
+"dep": "59",
+"cp": "59117",
+"pop": 5426
+},
+{
+"code": "59234",
+"nom": "Flers-en-Escrebieux",
+"dep": "59",
+"cp": "59128",
+"pop": 5424
+},
+{
+"code": "59202",
+"nom": "Erquinghem-Lys",
+"dep": "59",
+"cp": "59193",
+"pop": 5341
+},
+{
+"code": "59170",
+"nom": "Dechy",
+"dep": "59",
+"cp": "59187",
+"pop": 5338
+},
+{
+"code": "59052",
+"nom": "Bauvin",
+"dep": "59",
+"cp": "59221",
+"pop": 5249
+},
+{
+"code": "59230",
+"nom": "Ferrière-la-Grande",
+"dep": "59",
+"cp": "59680",
+"pop": 5131
+},
+{
+"code": "59459",
+"nom": "Petite-Forêt",
+"dep": "59",
+"cp": "59494",
+"pop": 5054
+},
+{
+"code": "60057",
+"nom": "Beauvais",
+"dep": "60",
+"cp": "60000",
+"pop": 55550
+},
+{
+"code": "60159",
+"nom": "Compiègne",
+"dep": "60",
+"cp": "60200",
+"pop": 40761
+},
+{
+"code": "60175",
+"nom": "Creil",
+"dep": "60",
+"cp": "60100",
+"pop": 36301
+},
+{
+"code": "60463",
+"nom": "Nogent-sur-Oise",
+"dep": "60",
+"cp": "60180",
+"pop": 21907
+},
+{
+"code": "60612",
+"nom": "Senlis",
+"dep": "60",
+"cp": "60300",
+"pop": 15157
+},
+{
+"code": "60176",
+"nom": "Crépy-en-Valois",
+"dep": "60",
+"cp": "60800",
+"pop": 14351
+},
+{
+"code": "60414",
+"nom": "Montataire",
+"dep": "60",
+"cp": "60160",
+"pop": 14257
+},
+{
+"code": "60395",
+"nom": "Méru",
+"dep": "60",
+"cp": "60110",
+"pop": 13897
+},
+{
+"code": "60471",
+"nom": "Noyon",
+"dep": "60",
+"cp": "60400",
+"pop": 12971
+},
+{
+"code": "60509",
+"nom": "Pont-Sainte-Maxence",
+"dep": "60",
+"cp": "60700",
+"pop": 12361
+},
+{
+"code": "60141",
+"nom": "Chantilly",
+"dep": "60",
+"cp": "60500",
+"pop": 10591
+},
+{
+"code": "60157",
+"nom": "Clermont",
+"dep": "60",
+"cp": "60600",
+"pop": 10564
+},
+{
+"code": "60139",
+"nom": "Chambly",
+"dep": "60",
+"cp": "60230",
+"pop": 9959
+},
+{
+"code": "60346",
+"nom": "Lamorlaye",
+"dep": "60",
+"cp": "60260",
+"pop": 9082
+},
+{
+"code": "60282",
+"nom": "Gouvieux",
+"dep": "60",
+"cp": "60270",
+"pop": 8867
+},
+{
+"code": "60382",
+"nom": "Margny-lès-Compiègne",
+"dep": "60",
+"cp": "60280",
+"pop": 8677
+},
+{
+"code": "60360",
+"nom": "Liancourt",
+"dep": "60",
+"cp": "60140",
+"pop": 6785
+},
+{
+"code": "60684",
+"nom": "Villers-Saint-Paul",
+"dep": "60",
+"cp": "60870",
+"pop": 6480
+},
+{
+"code": "60581",
+"nom": "Saint-Just-en-Chaussée",
+"dep": "60",
+"cp": "60130",
+"pop": 5810
+},
+{
+"code": "60338",
+"nom": "Lacroix-Saint-Ouen",
+"dep": "60",
+"cp": "60610",
+"pop": 5415
+},
+{
+"code": "60439",
+"nom": "Mouy",
+"dep": "60",
+"cp": "60250",
+"pop": 5319
+},
+{
+"code": "61001",
+"nom": "Alençon",
+"dep": "61",
+"cp": "61000",
+"pop": 25490
+},
+{
+"code": "61169",
+"nom": "Flers",
+"dep": "61",
+"cp": "61100",
+"pop": 14432
+},
+{
+"code": "61006",
+"nom": "Argentan",
+"dep": "61",
+"cp": "61200",
+"pop": 13527
+},
+{
+"code": "61214",
+"nom": "L'Aigle",
+"dep": "61",
+"cp": "61300",
+"pop": 7663
+},
+{
+"code": "61168",
+"nom": "La Ferté Macé",
+"dep": "61",
+"cp": "61410",
+"pop": 5071
+},
+{
+"code": "62193",
+"nom": "Calais",
+"dep": "62",
+"cp": "62100",
+"pop": 67571
+},
+{
+"code": "62041",
+"nom": "Arras",
+"dep": "62",
+"cp": "62000",
+"pop": 42875
+},
+{
+"code": "62160",
+"nom": "Boulogne-sur-Mer",
+"dep": "62",
+"cp": "62200",
+"pop": 40539
+},
+{
+"code": "62498",
+"nom": "Lens",
+"dep": "62",
+"cp": "62300",
+"pop": 32920
+},
+{
+"code": "62510",
+"nom": "Liévin",
+"dep": "62",
+"cp": "62800",
+"pop": 30063
+},
+{
+"code": "62427",
+"nom": "Hénin-Beaumont",
+"dep": "62",
+"cp": "62110",
+"pop": 25688
+},
+{
+"code": "62119",
+"nom": "Béthune",
+"dep": "62",
+"cp": "62400",
+"pop": 25224
+},
+{
+"code": "62178",
+"nom": "Bruay-la-Buissière",
+"dep": "62",
+"cp": "62700",
+"pop": 21424
+},
+{
+"code": "62215",
+"nom": "Carvin",
+"dep": "62",
+"cp": "62220",
+"pop": 17909
+},
+{
+"code": "62065",
+"nom": "Avion",
+"dep": "62",
+"cp": "62210",
+"pop": 17435
+},
+{
+"code": "62765",
+"nom": "Saint-Omer",
+"dep": "62",
+"cp": "62500",
+"pop": 14382
+},
+{
+"code": "62643",
+"nom": "Outreau",
+"dep": "62",
+"cp": "62230",
+"pop": 13138
+},
+{
+"code": "62108",
+"nom": "Berck",
+"dep": "62",
+"cp": "62600",
+"pop": 12951
+},
+{
+"code": "62413",
+"nom": "Harnes",
+"dep": "62",
+"cp": "62440",
+"pop": 12247
+},
+{
+"code": "62186",
+"nom": "Bully-les-Mines",
+"dep": "62",
+"cp": "62160",
+"pop": 12146
+},
+{
+"code": "62570",
+"nom": "Méricourt",
+"dep": "62",
+"cp": "62680",
+"pop": 11619
+},
+{
+"code": "62617",
+"nom": "Nœux-les-Mines",
+"dep": "62",
+"cp": "62290",
+"pop": 11590
+},
+{
+"code": "62758",
+"nom": "Saint-Martin-Boulogne",
+"dep": "62",
+"cp": "62280",
+"pop": 10888
+},
+{
+"code": "62318",
+"nom": "Étaples",
+"dep": "62",
+"cp": "62630",
+"pop": 10710
+},
+{
+"code": "62525",
+"nom": "Longuenesse",
+"dep": "62",
+"cp": "62219",
+"pop": 10548
+},
+{
+"code": "62548",
+"nom": "Marck",
+"dep": "62",
+"cp": "62730",
+"pop": 10467
+},
+{
+"code": "62637",
+"nom": "Oignies",
+"dep": "62",
+"cp": "62590",
+"pop": 10323
+},
+{
+"code": "62516",
+"nom": "Lillers",
+"dep": "62",
+"cp": "62190",
+"pop": 10193
+},
+{
+"code": "62250",
+"nom": "Courrières",
+"dep": "62",
+"cp": "62710",
+"pop": 10176
+},
+{
+"code": "62048",
+"nom": "Auchel",
+"dep": "62",
+"cp": "62260",
+"pop": 10051
+},
+{
+"code": "62587",
+"nom": "Montigny-en-Gohelle",
+"dep": "62",
+"cp": "62640",
+"pop": 9743
+},
+{
+"code": "62014",
+"nom": "Aire-sur-la-Lys",
+"dep": "62",
+"cp": "62120",
+"pop": 9598
+},
+{
+"code": "62040",
+"nom": "Arques",
+"dep": "62",
+"cp": "62510",
+"pop": 9431
+},
+{
+"code": "62771",
+"nom": "Sallaumines",
+"dep": "62",
+"cp": "62430",
+"pop": 9414
+},
+{
+"code": "62126",
+"nom": "Beuvry",
+"dep": "62",
+"cp": "62660",
+"pop": 9189
+},
+{
+"code": "62667",
+"nom": "Le Portel",
+"dep": "62",
+"cp": "62480",
+"pop": 8768
+},
+{
+"code": "62895",
+"nom": "Wingles",
+"dep": "62",
+"cp": "62410",
+"pop": 8720
+},
+{
+"code": "62473",
+"nom": "Isbergues",
+"dep": "62",
+"cp": "62330",
+"pop": 8650
+},
+{
+"code": "62724",
+"nom": "Rouvroy",
+"dep": "62",
+"cp": "62320",
+"pop": 8552
+},
+{
+"code": "62842",
+"nom": "Vendin-le-Vieil",
+"dep": "62",
+"cp": "62880",
+"pop": 8536
+},
+{
+"code": "62563",
+"nom": "Mazingarbe",
+"dep": "62",
+"cp": "62670",
+"pop": 8217
+},
+{
+"code": "62907",
+"nom": "Libercourt",
+"dep": "62",
+"cp": "62820",
+"pop": 7973
+},
+{
+"code": "62133",
+"nom": "Billy-Montigny",
+"dep": "62",
+"cp": "62420",
+"pop": 7937
+},
+{
+"code": "62004",
+"nom": "Achicourt",
+"dep": "62",
+"cp": "62217",
+"pop": 7873
+},
+{
+"code": "62249",
+"nom": "Courcelles-lès-Lens",
+"dep": "62",
+"cp": "62970",
+"pop": 7830
+},
+{
+"code": "62083",
+"nom": "Barlin",
+"dep": "62",
+"cp": "62620",
+"pop": 7331
+},
+{
+"code": "62497",
+"nom": "Leforest",
+"dep": "62",
+"cp": "62790",
+"pop": 7060
+},
+{
+"code": "62457",
+"nom": "Houdain",
+"dep": "62",
+"cp": "62150",
+"pop": 6945
+},
+{
+"code": "62628",
+"nom": "Noyelles-sous-Lens",
+"dep": "62",
+"cp": "62221",
+"pop": 6854
+},
+{
+"code": "62528",
+"nom": "Loos-en-Gohelle",
+"dep": "62",
+"cp": "62750",
+"pop": 6799
+},
+{
+"code": "62270",
+"nom": "Divion",
+"dep": "62",
+"cp": "62460",
+"pop": 6766
+},
+{
+"code": "62386",
+"nom": "Grenay",
+"dep": "62",
+"cp": "62160",
+"pop": 6644
+},
+{
+"code": "62753",
+"nom": "Saint-Laurent-Blangy",
+"dep": "62",
+"cp": "62223",
+"pop": 6459
+},
+{
+"code": "62893",
+"nom": "Wimereux",
+"dep": "62",
+"cp": "62930",
+"pop": 6256
+},
+{
+"code": "62274",
+"nom": "Dourges",
+"dep": "62",
+"cp": "62119",
+"pop": 6139
+},
+{
+"code": "62351",
+"nom": "Fouquières-lès-Lens",
+"dep": "62",
+"cp": "62740",
+"pop": 6087
+},
+{
+"code": "62443",
+"nom": "Hersin-Coupigny",
+"dep": "62",
+"cp": "62530",
+"pop": 6082
+},
+{
+"code": "62624",
+"nom": "Noyelles-Godault",
+"dep": "62",
+"cp": "62950",
+"pop": 5994
+},
+{
+"code": "62737",
+"nom": "Sains-en-Gohelle",
+"dep": "62",
+"cp": "62114",
+"pop": 5948
+},
+{
+"code": "62276",
+"nom": "Douvrin",
+"dep": "62",
+"cp": "62138",
+"pop": 5867
+},
+{
+"code": "62757",
+"nom": "Saint-Martin-lez-Tatinghem",
+"dep": "62",
+"cp": "62500",
+"pop": 5843
+},
+{
+"code": "62035",
+"nom": "Annezin",
+"dep": "62",
+"cp": "62232",
+"pop": 5825
+},
+{
+"code": "62645",
+"nom": "Oye-Plage",
+"dep": "62",
+"cp": "62215",
+"pop": 5780
+},
+{
+"code": "62263",
+"nom": "Dainville",
+"dep": "62",
+"cp": "62000",
+"pop": 5683
+},
+{
+"code": "62099",
+"nom": "Beaurains",
+"dep": "62",
+"cp": "62217",
+"pop": 5559
+},
+{
+"code": "62397",
+"nom": "Guînes",
+"dep": "62",
+"cp": "62340",
+"pop": 5479
+},
+{
+"code": "62244",
+"nom": "Coulogne",
+"dep": "62",
+"cp": "62137",
+"pop": 5438
+},
+{
+"code": "62555",
+"nom": "Marles-les-Mines",
+"dep": "62",
+"cp": "62540",
+"pop": 5411
+},
+{
+"code": "62194",
+"nom": "Calonne-Ricouart",
+"dep": "62",
+"cp": "62470",
+"pop": 5369
+},
+{
+"code": "62057",
+"nom": "Audruicq",
+"dep": "62",
+"cp": "62370",
+"pop": 5309
+},
+{
+"code": "62173",
+"nom": "Brebières",
+"dep": "62",
+"cp": "62117",
+"pop": 5283
+},
+{
+"code": "62560",
+"nom": "Marquise",
+"dep": "62",
+"cp": "62250",
+"pop": 5217
+},
+{
+"code": "62523",
+"nom": "Loison-sous-Lens",
+"dep": "62",
+"cp": "62218",
+"pop": 5169
+},
+{
+"code": "62261",
+"nom": "Cucq",
+"dep": "62",
+"cp": "62780",
+"pop": 5129
+},
+{
+"code": "62132",
+"nom": "Billy-Berclau",
+"dep": "62",
+"cp": "62138",
+"pop": 5093
+},
+{
+"code": "62400",
+"nom": "Haillicourt",
+"dep": "62",
+"cp": "62940",
+"pop": 5064
+},
+{
+"code": "62491",
+"nom": "Laventie",
+"dep": "62",
+"cp": "62840",
+"pop": 5044
+},
+{
+"code": "62746",
+"nom": "Saint-Étienne-au-Mont",
+"dep": "62",
+"cp": "62360",
+"pop": 5029
+},
+{
+"code": "62502",
+"nom": "Lestrem",
+"dep": "62",
+"cp": "62136",
+"pop": 5009
+},
+{
+"code": "63124",
+"nom": "Cournon-d'Auvergne",
+"dep": "63",
+"cp": "63800",
+"pop": 19951
+},
+{
+"code": "63300",
+"nom": "Riom",
+"dep": "63",
+"cp": "63200",
+"pop": 18820
+},
+{
+"code": "63075",
+"nom": "Chamalières",
+"dep": "63",
+"cp": "63400",
+"pop": 17509
+},
+{
+"code": "63178",
+"nom": "Issoire",
+"dep": "63",
+"cp": "63500",
+"pop": 15115
+},
+{
+"code": "63284",
+"nom": "Pont-du-Château",
+"dep": "63",
+"cp": "63430",
+"pop": 12412
+},
+{
+"code": "63430",
+"nom": "Thiers",
+"dep": "63",
+"cp": "63300",
+"pop": 11637
+},
+{
+"code": "63032",
+"nom": "Beaumont",
+"dep": "63",
+"cp": "63110",
+"pop": 10728
+},
+{
+"code": "63014",
+"nom": "Aubière",
+"dep": "63",
+"cp": "63170",
+"pop": 10459
+},
+{
+"code": "63164",
+"nom": "Gerzat",
+"dep": "63",
+"cp": "63360",
+"pop": 10335
+},
+{
+"code": "63063",
+"nom": "Cébazat",
+"dep": "63",
+"cp": "63118",
+"pop": 8953
+},
+{
+"code": "63193",
+"nom": "Lempdes",
+"dep": "63",
+"cp": "63370",
+"pop": 8709
+},
+{
+"code": "63307",
+"nom": "Romagnat",
+"dep": "63",
+"cp": "63540",
+"pop": 7894
+},
+{
+"code": "63070",
+"nom": "Ceyrat",
+"dep": "63",
+"cp": "63122",
+"pop": 6592
+},
+{
+"code": "63195",
+"nom": "Lezoux",
+"dep": "63",
+"cp": "63190",
+"pop": 6528
+},
+{
+"code": "63003",
+"nom": "Ambert",
+"dep": "63",
+"cp": "63600",
+"pop": 6517
+},
+{
+"code": "63103",
+"nom": "Châtel-Guyon",
+"dep": "63",
+"cp": "63140",
+"pop": 6299
+},
+{
+"code": "63069",
+"nom": "Le Cendre",
+"dep": "63",
+"cp": "63670",
+"pop": 5415
+},
+{
+"code": "63457",
+"nom": "Vic-le-Comte",
+"dep": "63",
+"cp": "63270",
+"pop": 5396
+},
+{
+"code": "64445",
+"nom": "Pau",
+"dep": "64",
+"cp": "64000",
+"pop": 80441
+},
+{
+"code": "64102",
+"nom": "Bayonne",
+"dep": "64",
+"cp": "64100",
+"pop": 54306
+},
+{
+"code": "64024",
+"nom": "Anglet",
+"dep": "64",
+"cp": "64600",
+"pop": 43271
+},
+{
+"code": "64122",
+"nom": "Biarritz",
+"dep": "64",
+"cp": "64200",
+"pop": 26206
+},
+{
+"code": "64260",
+"nom": "Hendaye",
+"dep": "64",
+"cp": "64700",
+"pop": 18102
+},
+{
+"code": "64483",
+"nom": "Saint-Jean-de-Luz",
+"dep": "64",
+"cp": "64500",
+"pop": 14857
+},
+{
+"code": "64129",
+"nom": "Billère",
+"dep": "64",
+"cp": "64140",
+"pop": 14384
+},
+{
+"code": "64348",
+"nom": "Lons",
+"dep": "64",
+"cp": "64140",
+"pop": 13606
+},
+{
+"code": "64430",
+"nom": "Orthez",
+"dep": "64",
+"cp": "64300",
+"pop": 10881
+},
+{
+"code": "64422",
+"nom": "Oloron-Sainte-Marie",
+"dep": "64",
+"cp": "64400",
+"pop": 10684
+},
+{
+"code": "64545",
+"nom": "Urrugne",
+"dep": "64",
+"cp": "64122",
+"pop": 10661
+},
+{
+"code": "64335",
+"nom": "Lescar",
+"dep": "64",
+"cp": "64230",
+"pop": 9455
+},
+{
+"code": "64140",
+"nom": "Boucau",
+"dep": "64",
+"cp": "64340",
+"pop": 8968
+},
+{
+"code": "64547",
+"nom": "Ustaritz",
+"dep": "64",
+"cp": "64480",
+"pop": 7897
+},
+{
+"code": "64125",
+"nom": "Bidart",
+"dep": "64",
+"cp": "64210",
+"pop": 7689
+},
+{
+"code": "64256",
+"nom": "Hasparren",
+"dep": "64",
+"cp": "64240",
+"pop": 7626
+},
+{
+"code": "64495",
+"nom": "Saint-Pée-sur-Nivelle",
+"dep": "64",
+"cp": "64310",
+"pop": 7264
+},
+{
+"code": "64284",
+"nom": "Jurançon",
+"dep": "64",
+"cp": "64110",
+"pop": 7040
+},
+{
+"code": "64160",
+"nom": "Cambo-les-Bains",
+"dep": "64",
+"cp": "64250",
+"pop": 6760
+},
+{
+"code": "64189",
+"nom": "Ciboure",
+"dep": "64",
+"cp": "64500",
+"pop": 5951
+},
+{
+"code": "64496",
+"nom": "Saint-Pierre-d'Irube",
+"dep": "64",
+"cp": "64990",
+"pop": 5900
+},
+{
+"code": "64410",
+"nom": "Mourenx",
+"dep": "64",
+"cp": "64150",
+"pop": 5695
+},
+{
+"code": "64230",
+"nom": "Gan",
+"dep": "64",
+"cp": "64290",
+"pop": 5676
+},
+{
+"code": "64407",
+"nom": "Mouguerre",
+"dep": "64",
+"cp": "64990",
+"pop": 5428
+},
+{
+"code": "64269",
+"nom": "Idron",
+"dep": "64",
+"cp": "64320",
+"pop": 5340
+},
+{
+"code": "65440",
+"nom": "Tarbes",
+"dep": "65",
+"cp": "65000",
+"pop": 44399
+},
+{
+"code": "65286",
+"nom": "Lourdes",
+"dep": "65",
+"cp": "65100",
+"pop": 13266
+},
+{
+"code": "65047",
+"nom": "Aureilhan",
+"dep": "65",
+"cp": "65800",
+"pop": 8031
+},
+{
+"code": "65059",
+"nom": "Bagnères-de-Bigorre",
+"dep": "65",
+"cp": "65200",
+"pop": 7114
+},
+{
+"code": "65258",
+"nom": "Lannemezan",
+"dep": "65",
+"cp": "65300",
+"pop": 5811
+},
+{
+"code": "65100",
+"nom": "Bordères-sur-l'Échez",
+"dep": "65",
+"cp": "65320",
+"pop": 5399
+},
+{
+"code": "65417",
+"nom": "Séméac",
+"dep": "65",
+"cp": "65600",
+"pop": 5236
+},
+{
+"code": "66037",
+"nom": "Canet-en-Roussillon",
+"dep": "66",
+"cp": "66140",
+"pop": 13227
+},
+{
+"code": "66171",
+"nom": "Saint-Cyprien",
+"dep": "66",
+"cp": "66750",
+"pop": 12068
+},
+{
+"code": "66172",
+"nom": "Saint-Estève",
+"dep": "66",
+"cp": "66240",
+"pop": 11630
+},
+{
+"code": "66141",
+"nom": "Pia",
+"dep": "66",
+"cp": "66380",
+"pop": 11615
+},
+{
+"code": "66008",
+"nom": "Argelès-sur-Mer",
+"dep": "66",
+"cp": "66700",
+"pop": 10616
+},
+{
+"code": "66028",
+"nom": "Cabestany",
+"dep": "66",
+"cp": "66330",
+"pop": 10465
+},
+{
+"code": "66180",
+"nom": "Saint-Laurent-de-la-Salanque",
+"dep": "66",
+"cp": "66250",
+"pop": 9898
+},
+{
+"code": "66065",
+"nom": "Elne",
+"dep": "66",
+"cp": "66200",
+"pop": 9511
+},
+{
+"code": "66164",
+"nom": "Rivesaltes",
+"dep": "66",
+"cp": "66600",
+"pop": 9270
+},
+{
+"code": "66210",
+"nom": "Thuir",
+"dep": "66",
+"cp": "66300",
+"pop": 8243
+},
+{
+"code": "66195",
+"nom": "Le Soler",
+"dep": "66",
+"cp": "66270",
+"pop": 7942
+},
+{
+"code": "66021",
+"nom": "Bompas",
+"dep": "66",
+"cp": "66430",
+"pop": 7832
+},
+{
+"code": "66049",
+"nom": "Céret",
+"dep": "66",
+"cp": "66400",
+"pop": 7521
+},
+{
+"code": "66213",
+"nom": "Toulouges",
+"dep": "66",
+"cp": "66350",
+"pop": 7450
+},
+{
+"code": "66038",
+"nom": "Canohès",
+"dep": "66",
+"cp": "66680",
+"pop": 6616
+},
+{
+"code": "66149",
+"nom": "Prades",
+"dep": "66",
+"cp": "66500",
+"pop": 6148
+},
+{
+"code": "66017",
+"nom": "Le Barcarès",
+"dep": "66",
+"cp": "66420",
+"pop": 6109
+},
+{
+"code": "66189",
+"nom": "Saleilles",
+"dep": "66",
+"cp": "66280",
+"pop": 5698
+},
+{
+"code": "66088",
+"nom": "Ille-sur-Têt",
+"dep": "66",
+"cp": "66130",
+"pop": 5556
+},
+{
+"code": "66144",
+"nom": "Pollestres",
+"dep": "66",
+"cp": "66450",
+"pop": 5548
+},
+{
+"code": "66024",
+"nom": "Le Boulou",
+"dep": "66",
+"cp": "66160",
+"pop": 5487
+},
+{
+"code": "69259",
+"nom": "Vénissieux",
+"dep": "69",
+"cp": "69200",
+"pop": 65502
+},
+{
+"code": "69256",
+"nom": "Vaulx-en-Velin",
+"dep": "69",
+"cp": "69120",
+"pop": 53069
+},
+{
+"code": "69290",
+"nom": "Saint-Priest",
+"dep": "69",
+"cp": "69800",
+"pop": 49229
+},
+{
+"code": "69034",
+"nom": "Caluire-et-Cuire",
+"dep": "69",
+"cp": "69300",
+"pop": 43597
+},
+{
+"code": "69029",
+"nom": "Bron",
+"dep": "69",
+"cp": "69500",
+"pop": 42982
+},
+{
+"code": "69149",
+"nom": "Oullins-Pierre-Bénite",
+"dep": "69",
+"cp": "69310",
+"pop": 38168
+},
+{
+"code": "69282",
+"nom": "Meyzieu",
+"dep": "69",
+"cp": "69330",
+"pop": 36687
+},
+{
+"code": "69264",
+"nom": "Villefranche-sur-Saône",
+"dep": "69",
+"cp": "69400",
+"pop": 36172
+},
+{
+"code": "69286",
+"nom": "Rillieux-la-Pape",
+"dep": "69",
+"cp": "69140",
+"pop": 31389
+},
+{
+"code": "69275",
+"nom": "Décines-Charpieu",
+"dep": "69",
+"cp": "69150",
+"pop": 29877
+},
+{
+"code": "69244",
+"nom": "Tassin-la-Demi-Lune",
+"dep": "69",
+"cp": "69160",
+"pop": 23200
+},
+{
+"code": "69202",
+"nom": "Sainte-Foy-lès-Lyon",
+"dep": "69",
+"cp": "69110",
+"pop": 21692
+},
+{
+"code": "69091",
+"nom": "Givors",
+"dep": "69",
+"cp": "69700",
+"pop": 21379
+},
+{
+"code": "69204",
+"nom": "Saint-Genis-Laval",
+"dep": "69",
+"cp": "69230",
+"pop": 21212
+},
+{
+"code": "69199",
+"nom": "Saint-Fons",
+"dep": "69",
+"cp": "69190",
+"pop": 19285
+},
+{
+"code": "69081",
+"nom": "Écully",
+"dep": "69",
+"cp": "69130",
+"pop": 17944
+},
+{
+"code": "69089",
+"nom": "Francheville",
+"dep": "69",
+"cp": "69340",
+"pop": 15604
+},
+{
+"code": "69019",
+"nom": "Belleville-en-Beaujolais",
+"dep": "69",
+"cp": "69220",
+"pop": 14016
+},
+{
+"code": "69283",
+"nom": "Mions",
+"dep": "69",
+"cp": "69780",
+"pop": 13843
+},
+{
+"code": "69277",
+"nom": "Genas",
+"dep": "69",
+"cp": "69740",
+"pop": 13421
+},
+{
+"code": "69027",
+"nom": "Brignais",
+"dep": "69",
+"cp": "69530",
+"pop": 12503
+},
+{
+"code": "69069",
+"nom": "Craponne",
+"dep": "69",
+"cp": "69290",
+"pop": 12084
+},
+{
+"code": "69273",
+"nom": "Corbas",
+"dep": "69",
+"cp": "69960",
+"pop": 11315
+},
+{
+"code": "69271",
+"nom": "Chassieu",
+"dep": "69",
+"cp": "69680",
+"pop": 11208
+},
+{
+"code": "69243",
+"nom": "Tarare",
+"dep": "69",
+"cp": "69170",
+"pop": 10893
+},
+{
+"code": "69276",
+"nom": "Feyzin",
+"dep": "69",
+"cp": "69320",
+"pop": 10304
+},
+{
+"code": "69096",
+"nom": "Grigny-sur-Rhône",
+"dep": "69",
+"cp": "69520",
+"pop": 10030
+},
+{
+"code": "69043",
+"nom": "Chaponost",
+"dep": "69",
+"cp": "69630",
+"pop": 9382
+},
+{
+"code": "69072",
+"nom": "Dardilly",
+"dep": "69",
+"cp": "69570",
+"pop": 9221
+},
+{
+"code": "69100",
+"nom": "Irigny",
+"dep": "69",
+"cp": "69540",
+"pop": 9034
+},
+{
+"code": "69009",
+"nom": "Anse",
+"dep": "69",
+"cp": "69480",
+"pop": 8206
+},
+{
+"code": "69092",
+"nom": "Gleizé",
+"dep": "69",
+"cp": "69400",
+"pop": 8035
+},
+{
+"code": "69143",
+"nom": "Neuville-sur-Saône",
+"dep": "69",
+"cp": "69250",
+"pop": 7812
+},
+{
+"code": "69194",
+"nom": "Saint-Didier-au-Mont-d'Or",
+"dep": "69",
+"cp": "69370",
+"pop": 7435
+},
+{
+"code": "69292",
+"nom": "Sathonay-Camp",
+"dep": "69",
+"cp": "69580",
+"pop": 7019
+},
+{
+"code": "69287",
+"nom": "Saint-Bonnet-de-Mure",
+"dep": "69",
+"cp": "69720",
+"pop": 6984
+},
+{
+"code": "69088",
+"nom": "Fontaines-sur-Saône",
+"dep": "69",
+"cp": "69270",
+"pop": 6957
+},
+{
+"code": "69028",
+"nom": "Brindas",
+"dep": "69",
+"cp": "69126",
+"pop": 6775
+},
+{
+"code": "69112",
+"nom": "Lentilly",
+"dep": "69",
+"cp": "69210",
+"pop": 6623
+},
+{
+"code": "69010",
+"nom": "L'Arbresle",
+"dep": "69",
+"cp": "69210",
+"pop": 6537
+},
+{
+"code": "69142",
+"nom": "La Mulatière",
+"dep": "69",
+"cp": "69350",
+"pop": 6534
+},
+{
+"code": "69094",
+"nom": "Grézieu-la-Varenne",
+"dep": "69",
+"cp": "69290",
+"pop": 6472
+},
+{
+"code": "69191",
+"nom": "Saint-Cyr-au-Mont-d'Or",
+"dep": "69",
+"cp": "69450",
+"pop": 6327
+},
+{
+"code": "69040",
+"nom": "Champagne-au-Mont-d'Or",
+"dep": "69",
+"cp": "69410",
+"pop": 6311
+},
+{
+"code": "69255",
+"nom": "Vaugneray",
+"dep": "69",
+"cp": "69670",
+"pop": 6304
+},
+{
+"code": "69141",
+"nom": "Mornant",
+"dep": "69",
+"cp": "69440",
+"pop": 6282
+},
+{
+"code": "69291",
+"nom": "Saint-Symphorien-d'Ozon",
+"dep": "69",
+"cp": "69360",
+"pop": 6186
+},
+{
+"code": "69279",
+"nom": "Jonage",
+"dep": "69",
+"cp": "69330",
+"pop": 6144
+},
+{
+"code": "69288",
+"nom": "Saint-Laurent-de-Mure",
+"dep": "69",
+"cp": "69720",
+"pop": 5791
+},
+{
+"code": "69248",
+"nom": "Thizy-les-Bourgs",
+"dep": "69",
+"cp": "69240",
+"pop": 5771
+},
+{
+"code": "69297",
+"nom": "Ternay",
+"dep": "69",
+"cp": "69360",
+"pop": 5596
+},
+{
+"code": "69278",
+"nom": "Genay",
+"dep": "69",
+"cp": "69730",
+"pop": 5585
+},
+{
+"code": "69205",
+"nom": "Saint-Genis-les-Ollières",
+"dep": "69",
+"cp": "69290",
+"pop": 5439
+},
+{
+"code": "69044",
+"nom": "Charbonnières-les-Bains",
+"dep": "69",
+"cp": "69260",
+"pop": 5383
+},
+{
+"code": "69157",
+"nom": "Vindry-sur-Turdine",
+"dep": "69",
+"cp": "69490",
+"pop": 5305
+},
+{
+"code": "69260",
+"nom": "Vernaison",
+"dep": "69",
+"cp": "69390",
+"pop": 5210
+},
+{
+"code": "70550",
+"nom": "Vesoul",
+"dep": "70",
+"cp": "70000",
+"pop": 15078
+},
+{
+"code": "70285",
+"nom": "Héricourt",
+"dep": "70",
+"cp": "70400",
+"pop": 10621
+},
+{
+"code": "70310",
+"nom": "Lure",
+"dep": "70",
+"cp": "70200",
+"pop": 7877
+},
+{
+"code": "70311",
+"nom": "Luxeuil-les-Bains",
+"dep": "70",
+"cp": "70300",
+"pop": 6663
+},
+{
+"code": "70279",
+"nom": "Gray",
+"dep": "70",
+"cp": "70100",
+"pop": 5365
+},
+{
+"code": "71076",
+"nom": "Chalon-sur-Saône",
+"dep": "71",
+"cp": "71100",
+"pop": 45102
+},
+{
+"code": "71270",
+"nom": "Mâcon",
+"dep": "71",
+"cp": "71000",
+"pop": 35177
+},
+{
+"code": "71153",
+"nom": "Le Creusot",
+"dep": "71",
+"cp": "71200",
+"pop": 20509
+},
+{
+"code": "71306",
+"nom": "Montceau-les-Mines",
+"dep": "71",
+"cp": "71300",
+"pop": 17064
+},
+{
+"code": "71014",
+"nom": "Autun",
+"dep": "71",
+"cp": "71400",
+"pop": 13172
+},
+{
+"code": "71342",
+"nom": "Paray-le-Monial",
+"dep": "71",
+"cp": "71600",
+"pop": 9291
+},
+{
+"code": "71486",
+"nom": "Saint-Vallier",
+"dep": "71",
+"cp": "71230",
+"pop": 8508
+},
+{
+"code": "71105",
+"nom": "Charnay-lès-Mâcon",
+"dep": "71",
+"cp": "71850",
+"pop": 8227
+},
+{
+"code": "71176",
+"nom": "Digoin",
+"dep": "71",
+"cp": "71160",
+"pop": 7353
+},
+{
+"code": "71230",
+"nom": "Gueugnon",
+"dep": "71",
+"cp": "71130",
+"pop": 6528
+},
+{
+"code": "71263",
+"nom": "Louhans-Châteaurenaud",
+"dep": "71",
+"cp": "71500",
+"pop": 6446
+},
+{
+"code": "71475",
+"nom": "Saint-Rémy",
+"dep": "71",
+"cp": "71100",
+"pop": 6410
+},
+{
+"code": "71118",
+"nom": "Châtenoy-le-Royal",
+"dep": "71",
+"cp": "71880",
+"pop": 6267
+},
+{
+"code": "71445",
+"nom": "Saint-Marcel",
+"dep": "71",
+"cp": "71380",
+"pop": 6211
+},
+{
+"code": "71040",
+"nom": "Blanzy",
+"dep": "71",
+"cp": "71450",
+"pop": 5955
+},
+{
+"code": "71543",
+"nom": "Tournus",
+"dep": "71",
+"cp": "71700",
+"pop": 5701
+},
+{
+"code": "71073",
+"nom": "Chagny",
+"dep": "71",
+"cp": "71150",
+"pop": 5350
+},
+{
+"code": "72154",
+"nom": "La Flèche",
+"dep": "72",
+"cp": "72200",
+"pop": 14947
+},
+{
+"code": "72264",
+"nom": "Sablé-sur-Sarthe",
+"dep": "72",
+"cp": "72300",
+"pop": 12326
+},
+{
+"code": "72003",
+"nom": "Allonnes",
+"dep": "72",
+"cp": "72700",
+"pop": 10739
+},
+{
+"code": "72132",
+"nom": "La Ferté-Bernard",
+"dep": "72",
+"cp": "72400",
+"pop": 8740
+},
+{
+"code": "72095",
+"nom": "Coulaines",
+"dep": "72",
+"cp": "72190",
+"pop": 8121
+},
+{
+"code": "72058",
+"nom": "Changé",
+"dep": "72",
+"cp": "72560",
+"pop": 6911
+},
+{
+"code": "72071",
+"nom": "Montval-sur-Loir",
+"dep": "72",
+"cp": "72500",
+"pop": 5641
+},
+{
+"code": "72008",
+"nom": "Arnage",
+"dep": "72",
+"cp": "72230",
+"pop": 5445
+},
+{
+"code": "72231",
+"nom": "Parigné-l'Évêque",
+"dep": "72",
+"cp": "72250",
+"pop": 5358
+},
+{
+"code": "72213",
+"nom": "Mulsanne",
+"dep": "72",
+"cp": "72230",
+"pop": 5244
+},
+{
+"code": "73065",
+"nom": "Chambéry",
+"dep": "73",
+"cp": "73000",
+"pop": 59964
+},
+{
+"code": "73008",
+"nom": "Aix-les-Bains",
+"dep": "73",
+"cp": "73100",
+"pop": 32406
+},
+{
+"code": "73011",
+"nom": "Albertville",
+"dep": "73",
+"cp": "73200",
+"pop": 19978
+},
+{
+"code": "73179",
+"nom": "La Motte-Servolex",
+"dep": "73",
+"cp": "73290",
+"pop": 12067
+},
+{
+"code": "73213",
+"nom": "La Ravoire",
+"dep": "73",
+"cp": "73490",
+"pop": 9332
+},
+{
+"code": "73248",
+"nom": "Saint-Jean-de-Maurienne",
+"dep": "73",
+"cp": "73300",
+"pop": 7524
+},
+{
+"code": "73054",
+"nom": "Bourg-Saint-Maurice",
+"dep": "73",
+"cp": "73700",
+"pop": 7270
+},
+{
+"code": "73303",
+"nom": "Ugine",
+"dep": "73",
+"cp": "73400",
+"pop": 7154
+},
+{
+"code": "73087",
+"nom": "Cognin",
+"dep": "73",
+"cp": "73160",
+"pop": 6954
+},
+{
+"code": "73222",
+"nom": "Saint-Alban-Leysse",
+"dep": "73",
+"cp": "73230",
+"pop": 6734
+},
+{
+"code": "73010",
+"nom": "Entrelacs",
+"dep": "73",
+"cp": "73410",
+"pop": 6461
+},
+{
+"code": "73064",
+"nom": "Challes-les-Eaux",
+"dep": "73",
+"cp": "73190",
+"pop": 5630
+},
+{
+"code": "73029",
+"nom": "Barberaz",
+"dep": "73",
+"cp": "73000",
+"pop": 5306
+},
+{
+"code": "73051",
+"nom": "Le Bourget-du-Lac",
+"dep": "73",
+"cp": "73370",
+"pop": 5216
+},
+{
+"code": "73031",
+"nom": "Bassens",
+"dep": "73",
+"cp": "73000",
+"pop": 5175
+},
+{
+"code": "74281",
+"nom": "Thonon-les-Bains",
+"dep": "74",
+"cp": "74200",
+"pop": 37928
+},
+{
+"code": "74012",
+"nom": "Annemasse",
+"dep": "74",
+"cp": "74100",
+"pop": 37628
+},
+{
+"code": "74081",
+"nom": "Cluses",
+"dep": "74",
+"cp": "74300",
+"pop": 17795
+},
+{
+"code": "74256",
+"nom": "Sallanches",
+"dep": "74",
+"cp": "74700",
+"pop": 17319
+},
+{
+"code": "74225",
+"nom": "Rumilly",
+"dep": "74",
+"cp": "74150",
+"pop": 16442
+},
+{
+"code": "74243",
+"nom": "Saint-Julien-en-Genevois",
+"dep": "74",
+"cp": "74160",
+"pop": 16222
+},
+{
+"code": "74042",
+"nom": "Bonneville",
+"dep": "74",
+"cp": "74130",
+"pop": 13335
+},
+{
+"code": "74133",
+"nom": "Gaillard",
+"dep": "74",
+"cp": "74240",
+"pop": 11423
+},
+{
+"code": "74224",
+"nom": "La Roche-sur-Foron",
+"dep": "74",
+"cp": "74800",
+"pop": 11348
+},
+{
+"code": "74298",
+"nom": "Vétraz-Monthoux",
+"dep": "74",
+"cp": "74100",
+"pop": 10949
+},
+{
+"code": "74208",
+"nom": "Passy",
+"dep": "74",
+"cp": "74190",
+"pop": 10856
+},
+{
+"code": "74282",
+"nom": "Fillière",
+"dep": "74",
+"cp": "74370",
+"pop": 10075
+},
+{
+"code": "74305",
+"nom": "Ville-la-Grand",
+"dep": "74",
+"cp": "74100",
+"pop": 9514
+},
+{
+"code": "74213",
+"nom": "Poisy",
+"dep": "74",
+"cp": "74330",
+"pop": 9291
+},
+{
+"code": "74119",
+"nom": "Évian-les-Bains",
+"dep": "74",
+"cp": "74500",
+"pop": 9267
+},
+{
+"code": "74264",
+"nom": "Scionzier",
+"dep": "74",
+"cp": "74950",
+"pop": 9162
+},
+{
+"code": "74112",
+"nom": "Epagny Metz-Tessy",
+"dep": "74",
+"cp": "74330",
+"pop": 8925
+},
+{
+"code": "74056",
+"nom": "Chamonix-Mont-Blanc",
+"dep": "74",
+"cp": "74400",
+"pop": 8705
+},
+{
+"code": "74220",
+"nom": "Reignier-Ésery",
+"dep": "74",
+"cp": "74930",
+"pop": 8464
+},
+{
+"code": "74250",
+"nom": "Saint-Pierre-en-Faucigny",
+"dep": "74",
+"cp": "74800",
+"pop": 7865
+},
+{
+"code": "74218",
+"nom": "Publier",
+"dep": "74",
+"cp": "74500",
+"pop": 7864
+},
+{
+"code": "74094",
+"nom": "Cranves-Sales",
+"dep": "74",
+"cp": "74380",
+"pop": 7762
+},
+{
+"code": "74123",
+"nom": "Faverges-Seythenex",
+"dep": "74",
+"cp": "74210",
+"pop": 7545
+},
+{
+"code": "74105",
+"nom": "Douvaine",
+"dep": "74",
+"cp": "74140",
+"pop": 6796
+},
+{
+"code": "74280",
+"nom": "Thônes",
+"dep": "74",
+"cp": "74230",
+"pop": 6654
+},
+{
+"code": "74164",
+"nom": "Marignier",
+"dep": "74",
+"cp": "74970",
+"pop": 6507
+},
+{
+"code": "74263",
+"nom": "Sciez",
+"dep": "74",
+"cp": "74140",
+"pop": 6447
+},
+{
+"code": "74242",
+"nom": "Saint-Jorioz",
+"dep": "74",
+"cp": "74410",
+"pop": 6390
+},
+{
+"code": "74008",
+"nom": "Ambilly",
+"dep": "74",
+"cp": "74100",
+"pop": 6355
+},
+{
+"code": "74043",
+"nom": "Bons-en-Chablais",
+"dep": "74",
+"cp": "74890",
+"pop": 6343
+},
+{
+"code": "74278",
+"nom": "Thyez",
+"dep": "74",
+"cp": "74300",
+"pop": 6309
+},
+{
+"code": "74169",
+"nom": "Marnaz",
+"dep": "74",
+"cp": "74460",
+"pop": 5964
+},
+{
+"code": "74272",
+"nom": "Sillingy",
+"dep": "74",
+"cp": "74330",
+"pop": 5826
+},
+{
+"code": "74309",
+"nom": "Viry",
+"dep": "74",
+"cp": "74580",
+"pop": 5809
+},
+{
+"code": "74236",
+"nom": "Saint-Gervais-les-Bains",
+"dep": "74",
+"cp": "74170",
+"pop": 5755
+},
+{
+"code": "74096",
+"nom": "Cruseilles",
+"dep": "74",
+"cp": "74350",
+"pop": 5376
+},
+{
+"code": "74026",
+"nom": "La Balme-de-Sillingy",
+"dep": "74",
+"cp": "74330",
+"pop": 5336
+},
+{
+"code": "74288",
+"nom": "Valleiry",
+"dep": "74",
+"cp": "74520",
+"pop": 5264
+},
+{
+"code": "74005",
+"nom": "Allinges",
+"dep": "74",
+"cp": "74200",
+"pop": 5019
+},
+{
+"code": "76575",
+"nom": "Saint-Étienne-du-Rouvray",
+"dep": "76",
+"cp": "76800",
+"pop": 29518
+},
+{
+"code": "76681",
+"nom": "Sotteville-lès-Rouen",
+"dep": "76",
+"cp": "76300",
+"pop": 29003
+},
+{
+"code": "76217",
+"nom": "Dieppe",
+"dep": "76",
+"cp": "76200",
+"pop": 28496
+},
+{
+"code": "76322",
+"nom": "Le Grand-Quevilly",
+"dep": "76",
+"cp": "76120",
+"pop": 25789
+},
+{
+"code": "76498",
+"nom": "Le Petit-Quevilly",
+"dep": "76",
+"cp": "76140",
+"pop": 22208
+},
+{
+"code": "76451",
+"nom": "Mont-Saint-Aignan",
+"dep": "76",
+"cp": "76130",
+"pop": 20165
+},
+{
+"code": "76259",
+"nom": "Fécamp",
+"dep": "76",
+"cp": "76400",
+"pop": 17313
+},
+{
+"code": "76447",
+"nom": "Montivilliers",
+"dep": "76",
+"cp": "76290",
+"pop": 15478
+},
+{
+"code": "76231",
+"nom": "Elbeuf",
+"dep": "76",
+"cp": "76500",
+"pop": 15474
+},
+{
+"code": "76108",
+"nom": "Bois-Guillaume",
+"dep": "76",
+"cp": "76230",
+"pop": 14539
+},
+{
+"code": "76157",
+"nom": "Canteleu",
+"dep": "76",
+"cp": "76380",
+"pop": 14402
+},
+{
+"code": "76484",
+"nom": "Oissel-sur-Seine",
+"dep": "76",
+"cp": "76350",
+"pop": 12317
+},
+{
+"code": "76057",
+"nom": "Barentin",
+"dep": "76",
+"cp": "76360",
+"pop": 12022
+},
+{
+"code": "76114",
+"nom": "Bolbec",
+"dep": "76",
+"cp": "76210",
+"pop": 11590
+},
+{
+"code": "76758",
+"nom": "Yvetot",
+"dep": "76",
+"cp": "76190",
+"pop": 11438
+},
+{
+"code": "76410",
+"nom": "Maromme",
+"dep": "76",
+"cp": "76150",
+"pop": 10957
+},
+{
+"code": "76216",
+"nom": "Déville-lès-Rouen",
+"dep": "76",
+"cp": "76250",
+"pop": 10802
+},
+{
+"code": "76476",
+"nom": "Port-Jérôme-sur-Seine",
+"dep": "76",
+"cp": "76170",
+"pop": 10617
+},
+{
+"code": "76165",
+"nom": "Caudebec-lès-Elbeuf",
+"dep": "76",
+"cp": "76320",
+"pop": 10476
+},
+{
+"code": "76319",
+"nom": "Grand-Couronne",
+"dep": "76",
+"cp": "76530",
+"pop": 9768
+},
+{
+"code": "76212",
+"nom": "Darnétal",
+"dep": "76",
+"cp": "76160",
+"pop": 9566
+},
+{
+"code": "76618",
+"nom": "Petit-Caux",
+"dep": "76",
+"cp": "76370",
+"pop": 9513
+},
+{
+"code": "76305",
+"nom": "Gonfreville-l'Orcher",
+"dep": "76",
+"cp": "76700",
+"pop": 8916
+},
+{
+"code": "76497",
+"nom": "Petit-Couronne",
+"dep": "76",
+"cp": "76650",
+"pop": 8683
+},
+{
+"code": "76384",
+"nom": "Lillebonne",
+"dep": "76",
+"cp": "76170",
+"pop": 8541
+},
+{
+"code": "76561",
+"nom": "Saint-Aubin-lès-Elbeuf",
+"dep": "76",
+"cp": "76410",
+"pop": 8443
+},
+{
+"code": "76095",
+"nom": "Bihorel",
+"dep": "76",
+"cp": "76420",
+"pop": 8316
+},
+{
+"code": "76640",
+"nom": "Saint-Pierre-lès-Elbeuf",
+"dep": "76",
+"cp": "76320",
+"pop": 8306
+},
+{
+"code": "76341",
+"nom": "Harfleur",
+"dep": "76",
+"cp": "76700",
+"pop": 8289
+},
+{
+"code": "76429",
+"nom": "Le Mesnil-Esnard",
+"dep": "76",
+"cp": "76240",
+"pop": 8177
+},
+{
+"code": "76474",
+"nom": "Notre-Dame-de-Bondeville",
+"dep": "76",
+"cp": "76960",
+"pop": 7071
+},
+{
+"code": "76552",
+"nom": "Sainte-Adresse",
+"dep": "76",
+"cp": "76310",
+"pop": 7004
+},
+{
+"code": "76255",
+"nom": "Eu",
+"dep": "76",
+"cp": "76260",
+"pop": 6499
+},
+{
+"code": "76103",
+"nom": "Bonsecours",
+"dep": "76",
+"cp": "76240",
+"pop": 6442
+},
+{
+"code": "76402",
+"nom": "Malaunay",
+"dep": "76",
+"cp": "76770",
+"pop": 6221
+},
+{
+"code": "76481",
+"nom": "Octeville-sur-Mer",
+"dep": "76",
+"cp": "76930",
+"pop": 6172
+},
+{
+"code": "76475",
+"nom": "Franqueville-Saint-Pierre",
+"dep": "76",
+"cp": "76520",
+"pop": 6171
+},
+{
+"code": "76495",
+"nom": "Pavilly",
+"dep": "76",
+"cp": "76570",
+"pop": 6029
+},
+{
+"code": "76312",
+"nom": "Gournay-en-Bray",
+"dep": "76",
+"cp": "76220",
+"pop": 5723
+},
+{
+"code": "77284",
+"nom": "Meaux",
+"dep": "77",
+"cp": "77100",
+"pop": 56905
+},
+{
+"code": "77108",
+"nom": "Chelles",
+"dep": "77",
+"cp": "77500",
+"pop": 54620
+},
+{
+"code": "77288",
+"nom": "Melun",
+"dep": "77",
+"cp": "77000",
+"pop": 45995
+},
+{
+"code": "77373",
+"nom": "Pontault-Combault",
+"dep": "77",
+"cp": "77340",
+"pop": 39096
+},
+{
+"code": "77445",
+"nom": "Savigny-le-Temple",
+"dep": "77",
+"cp": "77176",
+"pop": 31148
+},
+{
+"code": "77058",
+"nom": "Bussy-Saint-Georges",
+"dep": "77",
+"cp": "77600",
+"pop": 27498
+},
+{
+"code": "77083",
+"nom": "Champs-sur-Marne",
+"dep": "77",
+"cp": "77420",
+"pop": 27451
+},
+{
+"code": "77514",
+"nom": "Villeparisis",
+"dep": "77",
+"cp": "77270",
+"pop": 26946
+},
+{
+"code": "77152",
+"nom": "Dammarie-les-Lys",
+"dep": "77",
+"cp": "77190",
+"pop": 23559
+},
+{
+"code": "77122",
+"nom": "Combs-la-Ville",
+"dep": "77",
+"cp": "77380",
+"pop": 23350
+},
+{
+"code": "77390",
+"nom": "Roissy-en-Brie",
+"dep": "77",
+"cp": "77680",
+"pop": 23229
+},
+{
+"code": "77468",
+"nom": "Torcy",
+"dep": "77",
+"cp": "77200",
+"pop": 22810
+},
+{
+"code": "77305",
+"nom": "Montereau-Fault-Yonne",
+"dep": "77",
+"cp": "77130",
+"pop": 22279
+},
+{
+"code": "77243",
+"nom": "Lagny-sur-Marne",
+"dep": "77",
+"cp": "77400",
+"pop": 21461
+},
+{
+"code": "77350",
+"nom": "Ozoir-la-Ferrière",
+"dep": "77",
+"cp": "77330",
+"pop": 21238
+},
+{
+"code": "77294",
+"nom": "Mitry-Mory",
+"dep": "77",
+"cp": "77290",
+"pop": 20456
+},
+{
+"code": "77285",
+"nom": "Le Mée-sur-Seine",
+"dep": "77",
+"cp": "77350",
+"pop": 19527
+},
+{
+"code": "77053",
+"nom": "Brie-Comte-Robert",
+"dep": "77",
+"cp": "77170",
+"pop": 19003
+},
+{
+"code": "77296",
+"nom": "Moissy-Cramayel",
+"dep": "77",
+"cp": "77550",
+"pop": 18511
+},
+{
+"code": "77131",
+"nom": "Coulommiers",
+"dep": "77",
+"cp": "77120",
+"pop": 16374
+},
+{
+"code": "77337",
+"nom": "Noisiel",
+"dep": "77",
+"cp": "77186",
+"pop": 16053
+},
+{
+"code": "77407",
+"nom": "Saint-Fargeau-Ponthierry",
+"dep": "77",
+"cp": "77310",
+"pop": 15724
+},
+{
+"code": "77307",
+"nom": "Montévrain",
+"dep": "77",
+"cp": "77144",
+"pop": 15687
+},
+{
+"code": "77186",
+"nom": "Fontainebleau",
+"dep": "77",
+"cp": "77300",
+"pop": 15583
+},
+{
+"code": "77258",
+"nom": "Lognes",
+"dep": "77",
+"cp": "77185",
+"pop": 15074
+},
+{
+"code": "77251",
+"nom": "Lieusaint",
+"dep": "77",
+"cp": "77127",
+"pop": 14017
+},
+{
+"code": "77479",
+"nom": "Vaires-sur-Marne",
+"dep": "77",
+"cp": "77360",
+"pop": 13931
+},
+{
+"code": "77014",
+"nom": "Avon",
+"dep": "77",
+"cp": "77210",
+"pop": 13651
+},
+{
+"code": "77118",
+"nom": "Claye-Souilly",
+"dep": "77",
+"cp": "77410",
+"pop": 13353
+},
+{
+"code": "77333",
+"nom": "Nemours",
+"dep": "77",
+"cp": "77140",
+"pop": 12889
+},
+{
+"code": "77316",
+"nom": "Moret-Loing-et-Orvanne",
+"dep": "77",
+"cp": "77250",
+"pop": 12810
+},
+{
+"code": "77153",
+"nom": "Dammartin-en-Goële",
+"dep": "77",
+"cp": "77230",
+"pop": 11907
+},
+{
+"code": "77379",
+"nom": "Provins",
+"dep": "77",
+"cp": "77160",
+"pop": 11632
+},
+{
+"code": "77487",
+"nom": "Vaux-le-Pénil",
+"dep": "77",
+"cp": "77000",
+"pop": 11474
+},
+{
+"code": "77067",
+"nom": "Cesson",
+"dep": "77",
+"cp": "77240",
+"pop": 11222
+},
+{
+"code": "77464",
+"nom": "Thorigny-sur-Marne",
+"dep": "77",
+"cp": "77400",
+"pop": 10440
+},
+{
+"code": "77449",
+"nom": "Serris",
+"dep": "77",
+"cp": "77700",
+"pop": 10326
+},
+{
+"code": "77183",
+"nom": "La Ferté-sous-Jouarre",
+"dep": "77",
+"cp": "77260",
+"pop": 10254
+},
+{
+"code": "77495",
+"nom": "Vert-Saint-Denis",
+"dep": "77",
+"cp": "77240",
+"pop": 9291
+},
+{
+"code": "77268",
+"nom": "Magny-le-Hongre",
+"dep": "77",
+"cp": "77700",
+"pop": 9060
+},
+{
+"code": "77327",
+"nom": "Nangis",
+"dep": "77",
+"cp": "77370",
+"pop": 8867
+},
+{
+"code": "77215",
+"nom": "Gretz-Armainvilliers",
+"dep": "77",
+"cp": "77220",
+"pop": 8825
+},
+{
+"code": "77470",
+"nom": "Tournan-en-Brie",
+"dep": "77",
+"cp": "77220",
+"pop": 8274
+},
+{
+"code": "77111",
+"nom": "Chessy",
+"dep": "77",
+"cp": "77700",
+"pop": 7771
+},
+{
+"code": "77169",
+"nom": "Émerainville",
+"dep": "77",
+"cp": "77184",
+"pop": 7690
+},
+{
+"code": "77139",
+"nom": "Courtry",
+"dep": "77",
+"cp": "77181",
+"pop": 7330
+},
+{
+"code": "77330",
+"nom": "Nanteuil-lès-Meaux",
+"dep": "77",
+"cp": "77100",
+"pop": 7308
+},
+{
+"code": "77018",
+"nom": "Bailly-Romainvilliers",
+"dep": "77",
+"cp": "77700",
+"pop": 6980
+},
+{
+"code": "77249",
+"nom": "Lésigny",
+"dep": "77",
+"cp": "77150",
+"pop": 6923
+},
+{
+"code": "77438",
+"nom": "Saint-Thibault-des-Vignes",
+"dep": "77",
+"cp": "77400",
+"pop": 6831
+},
+{
+"code": "77349",
+"nom": "Othis",
+"dep": "77",
+"cp": "77280",
+"pop": 6717
+},
+{
+"code": "77079",
+"nom": "Champagne-sur-Seine",
+"dep": "77",
+"cp": "77430",
+"pop": 6497
+},
+{
+"code": "77430",
+"nom": "Saint-Pathus",
+"dep": "77",
+"cp": "77178",
+"pop": 6479
+},
+{
+"code": "77326",
+"nom": "Nandy",
+"dep": "77",
+"cp": "77176",
+"pop": 6350
+},
+{
+"code": "77037",
+"nom": "Bois-le-Roi",
+"dep": "77",
+"cp": "77590",
+"pop": 6072
+},
+{
+"code": "77171",
+"nom": "Esbly",
+"dep": "77",
+"cp": "77450",
+"pop": 6072
+},
+{
+"code": "77192",
+"nom": "Fontenay-Trésigny",
+"dep": "77",
+"cp": "77610",
+"pop": 5994
+},
+{
+"code": "77320",
+"nom": "Mouroux",
+"dep": "77",
+"cp": "77120",
+"pop": 5810
+},
+{
+"code": "77382",
+"nom": "Quincy-Voisins",
+"dep": "77",
+"cp": "77860",
+"pop": 5547
+},
+{
+"code": "77143",
+"nom": "Crégy-lès-Meaux",
+"dep": "77",
+"cp": "77124",
+"pop": 5446
+},
+{
+"code": "77431",
+"nom": "Saint-Pierre-lès-Nemours",
+"dep": "77",
+"cp": "77140",
+"pop": 5401
+},
+{
+"code": "77317",
+"nom": "Mormant",
+"dep": "77",
+"cp": "77720",
+"pop": 5282
+},
+{
+"code": "77055",
+"nom": "Brou-sur-Chantereine",
+"dep": "77",
+"cp": "77177",
+"pop": 5196
+},
+{
+"code": "77475",
+"nom": "Trilport",
+"dep": "77",
+"cp": "77470",
+"pop": 5146
+},
+{
+"code": "77513",
+"nom": "Villenoy",
+"dep": "77",
+"cp": "77124",
+"pop": 5127
+},
+{
+"code": "78646",
+"nom": "Versailles",
+"dep": "78",
+"cp": "78000",
+"pop": 84095
+},
+{
+"code": "78586",
+"nom": "Sartrouville",
+"dep": "78",
+"cp": "78500",
+"pop": 52763
+},
+{
+"code": "78551",
+"nom": "Saint-Germain-en-Laye",
+"dep": "78",
+"cp": "78100",
+"pop": 45931
+},
+{
+"code": "78361",
+"nom": "Mantes-la-Jolie",
+"dep": "78",
+"cp": "78200",
+"pop": 43526
+},
+{
+"code": "78498",
+"nom": "Poissy",
+"dep": "78",
+"cp": "78300",
+"pop": 40983
+},
+{
+"code": "78172",
+"nom": "Conflans-Sainte-Honorine",
+"dep": "78",
+"cp": "78700",
+"pop": 36958
+},
+{
+"code": "78621",
+"nom": "Trappes",
+"dep": "78",
+"cp": "78190",
+"pop": 34689
+},
+{
+"code": "78440",
+"nom": "Les Mureaux",
+"dep": "78",
+"cp": "78130",
+"pop": 34632
+},
+{
+"code": "78311",
+"nom": "Houilles",
+"dep": "78",
+"cp": "78800",
+"pop": 33983
+},
+{
+"code": "78423",
+"nom": "Montigny-le-Bretonneux",
+"dep": "78",
+"cp": "78180",
+"pop": 32465
+},
+{
+"code": "78490",
+"nom": "Plaisir",
+"dep": "78",
+"cp": "78370",
+"pop": 31811
+},
+{
+"code": "78158",
+"nom": "Le Chesnay-Rocquencourt",
+"dep": "78",
+"cp": "78150",
+"pop": 30689
+},
+{
+"code": "78146",
+"nom": "Chatou",
+"dep": "78",
+"cp": "78400",
+"pop": 30598
+},
+{
+"code": "78297",
+"nom": "Guyancourt",
+"dep": "78",
+"cp": "78280",
+"pop": 29778
+},
+{
+"code": "78517",
+"nom": "Rambouillet",
+"dep": "78",
+"cp": "78120",
+"pop": 27724
+},
+{
+"code": "78208",
+"nom": "Élancourt",
+"dep": "78",
+"cp": "78990",
+"pop": 26365
+},
+{
+"code": "78358",
+"nom": "Maisons-Laffitte",
+"dep": "78",
+"cp": "78600",
+"pop": 23093
+},
+{
+"code": "78640",
+"nom": "Vélizy-Villacoublay",
+"dep": "78",
+"cp": "78140",
+"pop": 23011
+},
+{
+"code": "78362",
+"nom": "Mantes-la-Ville",
+"dep": "78",
+"cp": "78711",
+"pop": 22332
+},
+{
+"code": "78005",
+"nom": "Achères",
+"dep": "78",
+"cp": "78260",
+"pop": 22241
+},
+{
+"code": "78545",
+"nom": "Saint-Cyr-l'École",
+"dep": "78",
+"cp": "78210",
+"pop": 21268
+},
+{
+"code": "78123",
+"nom": "Carrières-sous-Poissy",
+"dep": "78",
+"cp": "78955",
+"pop": 20825
+},
+{
+"code": "78383",
+"nom": "Maurepas",
+"dep": "78",
+"cp": "78310",
+"pop": 20629
+},
+{
+"code": "78126",
+"nom": "La Celle-Saint-Cloud",
+"dep": "78",
+"cp": "78170",
+"pop": 20460
+},
+{
+"code": "78335",
+"nom": "Limay",
+"dep": "78",
+"cp": "78520",
+"pop": 17885
+},
+{
+"code": "78686",
+"nom": "Viroflay",
+"dep": "78",
+"cp": "78220",
+"pop": 17237
+},
+{
+"code": "78165",
+"nom": "Les Clayes-sous-Bois",
+"dep": "78",
+"cp": "78340",
+"pop": 16804
+},
+{
+"code": "78372",
+"nom": "Marly-le-Roi",
+"dep": "78",
+"cp": "78160",
+"pop": 16756
+},
+{
+"code": "78073",
+"nom": "Bois-d'Arcy",
+"dep": "78",
+"cp": "78390",
+"pop": 16586
+},
+{
+"code": "78642",
+"nom": "Verneuil-sur-Seine",
+"dep": "78",
+"cp": "78480",
+"pop": 16280
+},
+{
+"code": "78481",
+"nom": "Le Pecq",
+"dep": "78",
+"cp": "78230",
+"pop": 16059
+},
+{
+"code": "78650",
+"nom": "Le Vésinet",
+"dep": "78",
+"cp": "78110",
+"pop": 15554
+},
+{
+"code": "78124",
+"nom": "Carrières-sur-Seine",
+"dep": "78",
+"cp": "78420",
+"pop": 14791
+},
+{
+"code": "78418",
+"nom": "Montesson",
+"dep": "78",
+"cp": "78360",
+"pop": 14549
+},
+{
+"code": "78015",
+"nom": "Andrésy",
+"dep": "78",
+"cp": "78570",
+"pop": 13834
+},
+{
+"code": "78242",
+"nom": "Fontenay-le-Fleury",
+"dep": "78",
+"cp": "78330",
+"pop": 13680
+},
+{
+"code": "78029",
+"nom": "Aubergenville",
+"dep": "78",
+"cp": "78410",
+"pop": 12723
+},
+{
+"code": "78624",
+"nom": "Triel-sur-Seine",
+"dep": "78",
+"cp": "78510",
+"pop": 12206
+},
+{
+"code": "78674",
+"nom": "Villepreux",
+"dep": "78",
+"cp": "78450",
+"pop": 11931
+},
+{
+"code": "78190",
+"nom": "Croissy-sur-Seine",
+"dep": "78",
+"cp": "78290",
+"pop": 11013
+},
+{
+"code": "78138",
+"nom": "Chanteloup-les-Vignes",
+"dep": "78",
+"cp": "78570",
+"pop": 10861
+},
+{
+"code": "78688",
+"nom": "Voisins-le-Bretonneux",
+"dep": "78",
+"cp": "78960",
+"pop": 10624
+},
+{
+"code": "78643",
+"nom": "Vernouillet",
+"dep": "78",
+"cp": "78540",
+"pop": 9699
+},
+{
+"code": "78356",
+"nom": "Magny-les-Hameaux",
+"dep": "78",
+"cp": "78114",
+"pop": 9386
+},
+{
+"code": "78092",
+"nom": "Bougival",
+"dep": "78",
+"cp": "78380",
+"pop": 9134
+},
+{
+"code": "78401",
+"nom": "Meulan-en-Yvelines",
+"dep": "78",
+"cp": "78250",
+"pop": 8950
+},
+{
+"code": "78350",
+"nom": "Louveciennes",
+"dep": "78",
+"cp": "78430",
+"pop": 7990
+},
+{
+"code": "78322",
+"nom": "Jouy-en-Josas",
+"dep": "78",
+"cp": "78350",
+"pop": 7981
+},
+{
+"code": "78267",
+"nom": "Gargenville",
+"dep": "78",
+"cp": "78440",
+"pop": 7869
+},
+{
+"code": "78575",
+"nom": "Saint-Rémy-lès-Chevreuse",
+"dep": "78",
+"cp": "78470",
+"pop": 7747
+},
+{
+"code": "78455",
+"nom": "Noisy-le-Roi",
+"dep": "78",
+"cp": "78590",
+"pop": 7713
+},
+{
+"code": "78062",
+"nom": "Beynes",
+"dep": "78",
+"cp": "78650",
+"pop": 7704
+},
+{
+"code": "78531",
+"nom": "Rosny-sur-Seine",
+"dep": "78",
+"cp": "78710",
+"pop": 7328
+},
+{
+"code": "78397",
+"nom": "Le Mesnil-Saint-Denis",
+"dep": "78",
+"cp": "78320",
+"pop": 7276
+},
+{
+"code": "78466",
+"nom": "Orgeval",
+"dep": "78",
+"cp": "78630",
+"pop": 7252
+},
+{
+"code": "78217",
+"nom": "Épône",
+"dep": "78",
+"cp": "78680",
+"pop": 7031
+},
+{
+"code": "78220",
+"nom": "Les Essarts-le-Roi",
+"dep": "78",
+"cp": "78690",
+"pop": 6831
+},
+{
+"code": "78486",
+"nom": "Le Perray-en-Yvelines",
+"dep": "78",
+"cp": "78610",
+"pop": 6480
+},
+{
+"code": "78354",
+"nom": "Magnanville",
+"dep": "78",
+"cp": "78200",
+"pop": 6383
+},
+{
+"code": "78396",
+"nom": "Le Mesnil-le-Roi",
+"dep": "78",
+"cp": "78600",
+"pop": 6332
+},
+{
+"code": "78380",
+"nom": "Maule",
+"dep": "78",
+"cp": "78580",
+"pop": 6083
+},
+{
+"code": "78321",
+"nom": "Jouars-Pontchartrain",
+"dep": "78",
+"cp": "78760",
+"pop": 6039
+},
+{
+"code": "78644",
+"nom": "La Verrière",
+"dep": "78",
+"cp": "78320",
+"pop": 5994
+},
+{
+"code": "78672",
+"nom": "Villennes-sur-Seine",
+"dep": "78",
+"cp": "78670",
+"pop": 5952
+},
+{
+"code": "78537",
+"nom": "Saint-Arnoult-en-Yvelines",
+"dep": "78",
+"cp": "78730",
+"pop": 5875
+},
+{
+"code": "78133",
+"nom": "Chambourcy",
+"dep": "78",
+"cp": "78240",
+"pop": 5847
+},
+{
+"code": "78117",
+"nom": "Buc",
+"dep": "78",
+"cp": "78530",
+"pop": 5816
+},
+{
+"code": "78502",
+"nom": "Le Port-Marly",
+"dep": "78",
+"cp": "78560",
+"pop": 5559
+},
+{
+"code": "78160",
+"nom": "Chevreuse",
+"dep": "78",
+"cp": "78460",
+"pop": 5502
+},
+{
+"code": "78638",
+"nom": "Vaux-sur-Seine",
+"dep": "78",
+"cp": "78740",
+"pop": 5202
+},
+{
+"code": "78224",
+"nom": "L'Étang-la-Ville",
+"dep": "78",
+"cp": "78620",
+"pop": 5157
+},
+{
+"code": "78089",
+"nom": "Bonnières-sur-Seine",
+"dep": "78",
+"cp": "78270",
+"pop": 5064
+},
+{
+"code": "79191",
+"nom": "Niort",
+"dep": "79",
+"cp": "79000",
+"pop": 59854
+},
+{
+"code": "79049",
+"nom": "Bressuire",
+"dep": "79",
+"cp": "79300",
+"pop": 19970
+},
+{
+"code": "79329",
+"nom": "Thouars",
+"dep": "79",
+"cp": "79100",
+"pop": 13891
+},
+{
+"code": "79202",
+"nom": "Parthenay",
+"dep": "79",
+"cp": "79200",
+"pop": 10140
+},
+{
+"code": "79079",
+"nom": "Mauléon",
+"dep": "79",
+"cp": "79700",
+"pop": 8573
+},
+{
+"code": "79270",
+"nom": "Saint-Maixent-l'École",
+"dep": "79",
+"cp": "79400",
+"pop": 7595
+},
+{
+"code": "79081",
+"nom": "Chauray",
+"dep": "79",
+"cp": "79180",
+"pop": 7221
+},
+{
+"code": "79174",
+"nom": "Melle",
+"dep": "79",
+"cp": "79500",
+"pop": 5752
+},
+{
+"code": "79048",
+"nom": "La Crèche",
+"dep": "79",
+"cp": "79260",
+"pop": 5662
+},
+{
+"code": "79195",
+"nom": "Nueil-les-Aubiers",
+"dep": "79",
+"cp": "79250",
+"pop": 5483
+},
+{
+"code": "79003",
+"nom": "Aiffres",
+"dep": "79",
+"cp": "79230",
+"pop": 5419
+},
+{
+"code": "79179",
+"nom": "Moncoutant-sur-Sèvre",
+"dep": "79",
+"cp": "79240",
+"pop": 5121
+},
+{
+"code": "80001",
+"nom": "Abbeville",
+"dep": "80",
+"cp": "80100",
+"pop": 22395
+},
+{
+"code": "80016",
+"nom": "Albert",
+"dep": "80",
+"cp": "80300",
+"pop": 9521
+},
+{
+"code": "80620",
+"nom": "Péronne",
+"dep": "80",
+"cp": "80200",
+"pop": 7090
+},
+{
+"code": "80212",
+"nom": "Corbie",
+"dep": "80",
+"cp": "80800",
+"pop": 5982
+},
+{
+"code": "80561",
+"nom": "Montdidier",
+"dep": "80",
+"cp": "80500",
+"pop": 5935
+},
+{
+"code": "80685",
+"nom": "Roye",
+"dep": "80",
+"cp": "80700",
+"pop": 5833
+},
+{
+"code": "80253",
+"nom": "Doullens",
+"dep": "80",
+"cp": "80600",
+"pop": 5751
+},
+{
+"code": "80489",
+"nom": "Longueau",
+"dep": "80",
+"cp": "80330",
+"pop": 5680
+},
+{
+"code": "81004",
+"nom": "Albi",
+"dep": "81",
+"cp": "81000",
+"pop": 51290
+},
+{
+"code": "81065",
+"nom": "Castres",
+"dep": "81",
+"cp": "81100",
+"pop": 42505
+},
+{
+"code": "81099",
+"nom": "Gaillac",
+"dep": "81",
+"cp": "81600",
+"pop": 16162
+},
+{
+"code": "81105",
+"nom": "Graulhet",
+"dep": "81",
+"cp": "81300",
+"pop": 13129
+},
+{
+"code": "81140",
+"nom": "Lavaur",
+"dep": "81",
+"cp": "81500",
+"pop": 10965
+},
+{
+"code": "81163",
+"nom": "Mazamet",
+"dep": "81",
+"cp": "81200",
+"pop": 10085
+},
+{
+"code": "81060",
+"nom": "Carmaux",
+"dep": "81",
+"cp": "81400",
+"pop": 9872
+},
+{
+"code": "81271",
+"nom": "Saint-Sulpice-la-Pointe",
+"dep": "81",
+"cp": "81370",
+"pop": 9719
+},
+{
+"code": "81120",
+"nom": "Labruguière",
+"dep": "81",
+"cp": "81290",
+"pop": 6584
+},
+{
+"code": "81257",
+"nom": "Saint-Juéry",
+"dep": "81",
+"cp": "81160",
+"pop": 6564
+},
+{
+"code": "81220",
+"nom": "Rabastens",
+"dep": "81",
+"cp": "81800",
+"pop": 5867
+},
+{
+"code": "81021",
+"nom": "Aussillon",
+"dep": "81",
+"cp": "81200",
+"pop": 5527
+},
+{
+"code": "82121",
+"nom": "Montauban",
+"dep": "82",
+"cp": "82000",
+"pop": 62945
+},
+{
+"code": "82033",
+"nom": "Castelsarrasin",
+"dep": "82",
+"cp": "82100",
+"pop": 14343
+},
+{
+"code": "82112",
+"nom": "Moissac",
+"dep": "82",
+"cp": "82200",
+"pop": 13419
+},
+{
+"code": "82037",
+"nom": "Caussade",
+"dep": "82",
+"cp": "82300",
+"pop": 6803
+},
+{
+"code": "82125",
+"nom": "Montech",
+"dep": "82",
+"cp": "82700",
+"pop": 6663
+},
+{
+"code": "82134",
+"nom": "Nègrepelisse",
+"dep": "82",
+"cp": "82800",
+"pop": 5917
+},
+{
+"code": "82186",
+"nom": "Valence",
+"dep": "82",
+"cp": "82400",
+"pop": 5289
+},
+{
+"code": "83126",
+"nom": "La Seyne-sur-Mer",
+"dep": "83",
+"cp": "83500",
+"pop": 63732
+},
+{
+"code": "83061",
+"nom": "Fréjus",
+"dep": "83",
+"cp": "83370",
+"pop": 59719
+},
+{
+"code": "83069",
+"nom": "Hyères",
+"dep": "83",
+"cp": "83400",
+"pop": 55858
+},
+{
+"code": "83050",
+"nom": "Draguignan",
+"dep": "83",
+"cp": "83300",
+"pop": 40826
+},
+{
+"code": "83118",
+"nom": "Saint-Raphaël",
+"dep": "83",
+"cp": "83530",
+"pop": 37113
+},
+{
+"code": "83129",
+"nom": "Six-Fours-les-Plages",
+"dep": "83",
+"cp": "83140",
+"pop": 37109
+},
+{
+"code": "83062",
+"nom": "La Garde",
+"dep": "83",
+"cp": "83130",
+"pop": 26476
+},
+{
+"code": "83144",
+"nom": "La Valette-du-Var",
+"dep": "83",
+"cp": "83160",
+"pop": 23719
+},
+{
+"code": "83047",
+"nom": "La Crau",
+"dep": "83",
+"cp": "83260",
+"pop": 19556
+},
+{
+"code": "83123",
+"nom": "Sanary-sur-Mer",
+"dep": "83",
+"cp": "83110",
+"pop": 18538
+},
+{
+"code": "83116",
+"nom": "Saint-Maximin-la-Sainte-Baume",
+"dep": "83",
+"cp": "83470",
+"pop": 17896
+},
+{
+"code": "83023",
+"nom": "Brignoles",
+"dep": "83",
+"cp": "83170",
+"pop": 17850
+},
+{
+"code": "83107",
+"nom": "Roquebrune-sur-Argens",
+"dep": "83",
+"cp": "83380",
+"pop": 15442
+},
+{
+"code": "83090",
+"nom": "Ollioules",
+"dep": "83",
+"cp": "83190",
+"pop": 14568
+},
+{
+"code": "83115",
+"nom": "Sainte-Maxime",
+"dep": "83",
+"cp": "83120",
+"pop": 14118
+},
+{
+"code": "83049",
+"nom": "Cuers",
+"dep": "83",
+"cp": "83390",
+"pop": 13271
+},
+{
+"code": "83148",
+"nom": "Vidauban",
+"dep": "83",
+"cp": "83550",
+"pop": 12608
+},
+{
+"code": "83130",
+"nom": "Solliès-Pont",
+"dep": "83",
+"cp": "83210",
+"pop": 12521
+},
+{
+"code": "83042",
+"nom": "Cogolin",
+"dep": "83",
+"cp": "83310",
+"pop": 12301
+},
+{
+"code": "83112",
+"nom": "Saint-Cyr-sur-Mer",
+"dep": "83",
+"cp": "83270",
+"pop": 11658
+},
+{
+"code": "83073",
+"nom": "Le Luc",
+"dep": "83",
+"cp": "83340",
+"pop": 11310
+},
+{
+"code": "83098",
+"nom": "Le Pradet",
+"dep": "83",
+"cp": "83220",
+"pop": 10933
+},
+{
+"code": "83071",
+"nom": "La Londe-les-Maures",
+"dep": "83",
+"cp": "83250",
+"pop": 10584
+},
+{
+"code": "83016",
+"nom": "Le Beausset",
+"dep": "83",
+"cp": "83330",
+"pop": 10219
+},
+{
+"code": "83086",
+"nom": "Le Muy",
+"dep": "83",
+"cp": "83490",
+"pop": 10118
+},
+{
+"code": "83054",
+"nom": "La Farlède",
+"dep": "83",
+"cp": "83210",
+"pop": 10014
+},
+{
+"code": "83072",
+"nom": "Lorgues",
+"dep": "83",
+"cp": "83510",
+"pop": 9849
+},
+{
+"code": "83034",
+"nom": "Carqueiranne",
+"dep": "83",
+"cp": "83320",
+"pop": 9408
+},
+{
+"code": "83099",
+"nom": "Puget-sur-Argens",
+"dep": "83",
+"cp": "83480",
+"pop": 8602
+},
+{
+"code": "83019",
+"nom": "Bormes-les-Mimosas",
+"dep": "83",
+"cp": "83230",
+"pop": 8545
+},
+{
+"code": "83009",
+"nom": "Bandol",
+"dep": "83",
+"cp": "83150",
+"pop": 8267
+},
+{
+"code": "83036",
+"nom": "Cavalaire-sur-Mer",
+"dep": "83",
+"cp": "83240",
+"pop": 8121
+},
+{
+"code": "83004",
+"nom": "Les Arcs",
+"dep": "83",
+"cp": "83460",
+"pop": 8109
+},
+{
+"code": "83081",
+"nom": "Montauroux",
+"dep": "83",
+"cp": "83440",
+"pop": 7183
+},
+{
+"code": "83141",
+"nom": "Trans-en-Provence",
+"dep": "83",
+"cp": "83720",
+"pop": 6905
+},
+{
+"code": "83070",
+"nom": "Le Lavandou",
+"dep": "83",
+"cp": "83980",
+"pop": 6646
+},
+{
+"code": "83131",
+"nom": "Solliès-Toucas",
+"dep": "83",
+"cp": "83210",
+"pop": 6269
+},
+{
+"code": "83055",
+"nom": "Fayence",
+"dep": "83",
+"cp": "83440",
+"pop": 6157
+},
+{
+"code": "83091",
+"nom": "Pierrefeu-du-Var",
+"dep": "83",
+"cp": "83390",
+"pop": 6084
+},
+{
+"code": "83035",
+"nom": "Le Castellet",
+"dep": "83",
+"cp": "83330",
+"pop": 6040
+},
+{
+"code": "83153",
+"nom": "Saint-Mandrier-sur-Mer",
+"dep": "83",
+"cp": "83430",
+"pop": 6000
+},
+{
+"code": "83120",
+"nom": "Saint-Zacharie",
+"dep": "83",
+"cp": "83640",
+"pop": 5879
+},
+{
+"code": "83064",
+"nom": "Garéoult",
+"dep": "83",
+"cp": "83136",
+"pop": 5835
+},
+{
+"code": "83027",
+"nom": "La Cadière-d'Azur",
+"dep": "83",
+"cp": "83740",
+"pop": 5739
+},
+{
+"code": "83106",
+"nom": "Rocbaron",
+"dep": "83",
+"cp": "83136",
+"pop": 5660
+},
+{
+"code": "83097",
+"nom": "Pourrières",
+"dep": "83",
+"cp": "83910",
+"pop": 5642
+},
+{
+"code": "83087",
+"nom": "Nans-les-Pins",
+"dep": "83",
+"cp": "83860",
+"pop": 5215
+},
+{
+"code": "83140",
+"nom": "Tourves",
+"dep": "83",
+"cp": "83170",
+"pop": 5207
+},
+{
+"code": "83031",
+"nom": "Le Cannet-des-Maures",
+"dep": "83",
+"cp": "83340",
+"pop": 5140
+},
+{
+"code": "84007",
+"nom": "Avignon",
+"dep": "84",
+"cp": "84000",
+"pop": 92188
+},
+{
+"code": "84031",
+"nom": "Carpentras",
+"dep": "84",
+"cp": "84200",
+"pop": 31619
+},
+{
+"code": "84087",
+"nom": "Orange",
+"dep": "84",
+"cp": "84100",
+"pop": 29706
+},
+{
+"code": "84035",
+"nom": "Cavaillon",
+"dep": "84",
+"cp": "84300",
+"pop": 25636
+},
+{
+"code": "84054",
+"nom": "L'Isle-sur-la-Sorgue",
+"dep": "84",
+"cp": "84800",
+"pop": 20244
+},
+{
+"code": "84089",
+"nom": "Pertuis",
+"dep": "84",
+"cp": "84120",
+"pop": 19548
+},
+{
+"code": "84129",
+"nom": "Sorgues",
+"dep": "84",
+"cp": "84700",
+"pop": 19006
+},
+{
+"code": "84092",
+"nom": "Le Pontet",
+"dep": "84",
+"cp": "84130",
+"pop": 18386
+},
+{
+"code": "84019",
+"nom": "Bollène",
+"dep": "84",
+"cp": "84500",
+"pop": 14024
+},
+{
+"code": "84080",
+"nom": "Monteux",
+"dep": "84",
+"cp": "84170",
+"pop": 13301
+},
+{
+"code": "84141",
+"nom": "Vedène",
+"dep": "84",
+"cp": "84270",
+"pop": 11974
+},
+{
+"code": "84088",
+"nom": "Pernes-les-Fontaines",
+"dep": "84",
+"cp": "84210",
+"pop": 10504
+},
+{
+"code": "84003",
+"nom": "Apt",
+"dep": "84",
+"cp": "84400",
+"pop": 10143
+},
+{
+"code": "84138",
+"nom": "Valréas",
+"dep": "84",
+"cp": "84600",
+"pop": 9224
+},
+{
+"code": "84081",
+"nom": "Morières-lès-Avignon",
+"dep": "84",
+"cp": "84310",
+"pop": 9019
+},
+{
+"code": "84043",
+"nom": "Entraigues-sur-la-Sorgue",
+"dep": "84",
+"cp": "84320",
+"pop": 8913
+},
+{
+"code": "84132",
+"nom": "Le Thor",
+"dep": "84",
+"cp": "84250",
+"pop": 8882
+},
+{
+"code": "84039",
+"nom": "Courthézon",
+"dep": "84",
+"cp": "84350",
+"pop": 6426
+},
+{
+"code": "84072",
+"nom": "Mazan",
+"dep": "84",
+"cp": "84380",
+"pop": 6285
+},
+{
+"code": "84137",
+"nom": "Vaison-la-Romaine",
+"dep": "84",
+"cp": "84110",
+"pop": 6058
+},
+{
+"code": "84004",
+"nom": "Aubignan",
+"dep": "84",
+"cp": "84810",
+"pop": 5981
+},
+{
+"code": "84122",
+"nom": "Sarrians",
+"dep": "84",
+"cp": "84260",
+"pop": 5792
+},
+{
+"code": "84091",
+"nom": "Piolenc",
+"dep": "84",
+"cp": "84420",
+"pop": 5718
+},
+{
+"code": "84016",
+"nom": "Bédarrides",
+"dep": "84",
+"cp": "84370",
+"pop": 5671
+},
+{
+"code": "84034",
+"nom": "Caumont-sur-Durance",
+"dep": "84",
+"cp": "84510",
+"pop": 5667
+},
+{
+"code": "84119",
+"nom": "Saint-Saturnin-lès-Avignon",
+"dep": "84",
+"cp": "84450",
+"pop": 5206
+},
+{
+"code": "84056",
+"nom": "Jonquières",
+"dep": "84",
+"cp": "84150",
+"pop": 5201
+},
+{
+"code": "85191",
+"nom": "La Roche-sur-Yon",
+"dep": "85",
+"cp": "85000",
+"pop": 54849
+},
+{
+"code": "85194",
+"nom": "Les Sables-d'Olonne",
+"dep": "85",
+"cp": "85100",
+"pop": 49603
+},
+{
+"code": "85047",
+"nom": "Challans",
+"dep": "85",
+"cp": "85300",
+"pop": 22943
+},
+{
+"code": "85146",
+"nom": "Montaigu-Vendée",
+"dep": "85",
+"cp": "85600",
+"pop": 21134
+},
+{
+"code": "85109",
+"nom": "Les Herbiers",
+"dep": "85",
+"cp": "85500",
+"pop": 16521
+},
+{
+"code": "85092",
+"nom": "Fontenay-le-Comte",
+"dep": "85",
+"cp": "85200",
+"pop": 14059
+},
+{
+"code": "85226",
+"nom": "Saint-Hilaire-de-Riez",
+"dep": "85",
+"cp": "85270",
+"pop": 13074
+},
+{
+"code": "85003",
+"nom": "Aizenay",
+"dep": "85",
+"cp": "85190",
+"pop": 10365
+},
+{
+"code": "85128",
+"nom": "Luçon",
+"dep": "85",
+"cp": "85400",
+"pop": 9417
+},
+{
+"code": "85234",
+"nom": "Saint-Jean-de-Monts",
+"dep": "85",
+"cp": "85160",
+"pop": 8868
+},
+{
+"code": "85178",
+"nom": "Le Poiré-sur-Vie",
+"dep": "85",
+"cp": "85170",
+"pop": 8649
+},
+{
+"code": "85051",
+"nom": "Chantonnay",
+"dep": "85",
+"cp": "85110",
+"pop": 8557
+},
+{
+"code": "85288",
+"nom": "Talmont-Saint-Hilaire",
+"dep": "85",
+"cp": "85440",
+"pop": 8492
+},
+{
+"code": "85222",
+"nom": "Saint-Gilles-Croix-de-Vie",
+"dep": "85",
+"cp": "85800",
+"pop": 8333
+},
+{
+"code": "85008",
+"nom": "Aubigny-Les Clouzeaux",
+"dep": "85",
+"cp": "85430",
+"pop": 7191
+},
+{
+"code": "85084",
+"nom": "Essarts-en-Bocage",
+"dep": "85",
+"cp": "85140",
+"pop": 6851
+},
+{
+"code": "85090",
+"nom": "Sèvremont",
+"dep": "85",
+"cp": "85700",
+"pop": 6385
+},
+{
+"code": "85019",
+"nom": "Bellevigny",
+"dep": "85",
+"cp": "85170",
+"pop": 6240
+},
+{
+"code": "85151",
+"nom": "Mortagne-sur-Sèvre",
+"dep": "85",
+"cp": "85290",
+"pop": 6057
+},
+{
+"code": "85076",
+"nom": "Cugand-la-Bernardière",
+"dep": "85",
+"cp": "85610",
+"pop": 5711
+},
+{
+"code": "85182",
+"nom": "Pouzauges",
+"dep": "85",
+"cp": "85700",
+"pop": 5668
+},
+{
+"code": "85302",
+"nom": "Chanverrie",
+"dep": "85",
+"cp": "85130",
+"pop": 5653
+},
+{
+"code": "85152",
+"nom": "Les Achards",
+"dep": "85",
+"cp": "85150",
+"pop": 5518
+},
+{
+"code": "85096",
+"nom": "La Garnache",
+"dep": "85",
+"cp": "85710",
+"pop": 5515
+},
+{
+"code": "85089",
+"nom": "La Ferrière",
+"dep": "85",
+"cp": "85280",
+"pop": 5454
+},
+{
+"code": "85035",
+"nom": "Bretignolles-sur-Mer",
+"dep": "85",
+"cp": "85470",
+"pop": 5344
+},
+{
+"code": "85155",
+"nom": "Mouilleron-le-Captif",
+"dep": "85",
+"cp": "85000",
+"pop": 5273
+},
+{
+"code": "86194",
+"nom": "Poitiers",
+"dep": "86",
+"cp": "86000",
+"pop": 89916
+},
+{
+"code": "86066",
+"nom": "Châtellerault",
+"dep": "86",
+"cp": "86100",
+"pop": 31003
+},
+{
+"code": "86041",
+"nom": "Buxerolles",
+"dep": "86",
+"cp": "86180",
+"pop": 10289
+},
+{
+"code": "86115",
+"nom": "Jaunay-Marigny",
+"dep": "86",
+"cp": "86130",
+"pop": 7528
+},
+{
+"code": "86214",
+"nom": "Saint-Benoît",
+"dep": "86",
+"cp": "86280",
+"pop": 7375
+},
+{
+"code": "86070",
+"nom": "Chauvigny",
+"dep": "86",
+"cp": "86300",
+"pop": 7007
+},
+{
+"code": "86137",
+"nom": "Loudun",
+"dep": "86",
+"cp": "86200",
+"pop": 6839
+},
+{
+"code": "86297",
+"nom": "Vouneuil-sous-Biard",
+"dep": "86",
+"cp": "86580",
+"pop": 6290
+},
+{
+"code": "86158",
+"nom": "Migné-Auxances",
+"dep": "86",
+"cp": "86440",
+"pop": 6285
+},
+{
+"code": "86174",
+"nom": "Naintré",
+"dep": "86",
+"cp": "86530",
+"pop": 5964
+},
+{
+"code": "86165",
+"nom": "Montmorillon",
+"dep": "86",
+"cp": "86500",
+"pop": 5821
+},
+{
+"code": "86281",
+"nom": "Saint-Martin-la-Pallu",
+"dep": "86",
+"cp": "86110",
+"pop": 5713
+},
+{
+"code": "86177",
+"nom": "Neuville-de-Poitou",
+"dep": "86",
+"cp": "86170",
+"pop": 5513
+},
+{
+"code": "86157",
+"nom": "Mignaloux-Beauvoir",
+"dep": "86",
+"cp": "86550",
+"pop": 5229
+},
+{
+"code": "87154",
+"nom": "Saint-Junien",
+"dep": "87",
+"cp": "87200",
+"pop": 11415
+},
+{
+"code": "87114",
+"nom": "Panazol",
+"dep": "87",
+"cp": "87350",
+"pop": 11342
+},
+{
+"code": "87050",
+"nom": "Couzeix",
+"dep": "87",
+"cp": "87270",
+"pop": 10195
+},
+{
+"code": "87075",
+"nom": "Isle",
+"dep": "87",
+"cp": "87170",
+"pop": 7995
+},
+{
+"code": "87187",
+"nom": "Saint-Yrieix-la-Perche",
+"dep": "87",
+"cp": "87500",
+"pop": 6830
+},
+{
+"code": "87065",
+"nom": "Feytiat",
+"dep": "87",
+"cp": "87220",
+"pop": 6176
+},
+{
+"code": "87001",
+"nom": "Aixe-sur-Vienne",
+"dep": "87",
+"cp": "87700",
+"pop": 5890
+},
+{
+"code": "87113",
+"nom": "Le Palais-sur-Vienne",
+"dep": "87",
+"cp": "87410",
+"pop": 5775
+},
+{
+"code": "87002",
+"nom": "Ambazac",
+"dep": "87",
+"cp": "87240",
+"pop": 5556
+},
+{
+"code": "87048",
+"nom": "Condat-sur-Vienne",
+"dep": "87",
+"cp": "87920",
+"pop": 5281
+},
+{
+"code": "88160",
+"nom": "Épinal",
+"dep": "88",
+"cp": "88000",
+"pop": 32251
+},
+{
+"code": "88413",
+"nom": "Saint-Dié-des-Vosges",
+"dep": "88",
+"cp": "88100",
+"pop": 19251
+},
+{
+"code": "88209",
+"nom": "Golbey",
+"dep": "88",
+"cp": "88190",
+"pop": 8832
+},
+{
+"code": "88465",
+"nom": "Thaon-les-Vosges",
+"dep": "88",
+"cp": "88150",
+"pop": 8547
+},
+{
+"code": "88196",
+"nom": "Gérardmer",
+"dep": "88",
+"cp": "88400",
+"pop": 7581
+},
+{
+"code": "88383",
+"nom": "Remiremont",
+"dep": "88",
+"cp": "88200",
+"pop": 7388
+},
+{
+"code": "88321",
+"nom": "Neufchâteau",
+"dep": "88",
+"cp": "88300",
+"pop": 6732
+},
+{
+"code": "88372",
+"nom": "Raon-l'Étape",
+"dep": "88",
+"cp": "88110",
+"pop": 5886
+},
+{
+"code": "88367",
+"nom": "Rambervillers",
+"dep": "88",
+"cp": "88700",
+"pop": 5018
+},
+{
+"code": "89024",
+"nom": "Auxerre",
+"dep": "89",
+"cp": "89000",
+"pop": 35097
+},
+{
+"code": "89387",
+"nom": "Sens",
+"dep": "89",
+"cp": "89100",
+"pop": 27106
+},
+{
+"code": "89206",
+"nom": "Joigny",
+"dep": "89",
+"cp": "89300",
+"pop": 9016
+},
+{
+"code": "89257",
+"nom": "Migennes",
+"dep": "89",
+"cp": "89400",
+"pop": 6688
+},
+{
+"code": "89025",
+"nom": "Avallon",
+"dep": "89",
+"cp": "89200",
+"pop": 6305
+},
+{
+"code": "89464",
+"nom": "Villeneuve-sur-Yonne",
+"dep": "89",
+"cp": "89500",
+"pop": 5135
+},
+{
+"code": "90010",
+"nom": "Belfort",
+"dep": "90",
+"cp": "90000",
+"pop": 45912
+},
+{
+"code": "90033",
+"nom": "Delle",
+"dep": "90",
+"cp": "90100",
+"pop": 5623
+},
+{
+"code": "90099",
+"nom": "Valdoie",
+"dep": "90",
+"cp": "90300",
+"pop": 5175
+},
+{
+"code": "91228",
+"nom": "Évry-Courcouronnes",
+"dep": "91",
+"cp": "91000",
+"pop": 66919
+},
+{
+"code": "91174",
+"nom": "Corbeil-Essonnes",
+"dep": "91",
+"cp": "91100",
+"pop": 54471
+},
+{
+"code": "91377",
+"nom": "Massy",
+"dep": "91",
+"cp": "91300",
+"pop": 51729
+},
+{
+"code": "91589",
+"nom": "Savigny-sur-Orge",
+"dep": "91",
+"cp": "91600",
+"pop": 37601
+},
+{
+"code": "91477",
+"nom": "Palaiseau",
+"dep": "91",
+"cp": "91120",
+"pop": 37471
+},
+{
+"code": "91027",
+"nom": "Athis-Mons",
+"dep": "91",
+"cp": "91200",
+"pop": 36613
+},
+{
+"code": "91549",
+"nom": "Sainte-Geneviève-des-Bois",
+"dep": "91",
+"cp": "91700",
+"pop": 35438
+},
+{
+"code": "91657",
+"nom": "Vigneux-sur-Seine",
+"dep": "91",
+"cp": "91270",
+"pop": 31466
+},
+{
+"code": "91521",
+"nom": "Ris-Orangis",
+"dep": "91",
+"cp": "91130",
+"pop": 31189
+},
+{
+"code": "91687",
+"nom": "Viry-Châtillon",
+"dep": "91",
+"cp": "91170",
+"pop": 30838
+},
+{
+"code": "91201",
+"nom": "Draveil",
+"dep": "91",
+"cp": "91210",
+"pop": 30098
+},
+{
+"code": "91691",
+"nom": "Yerres",
+"dep": "91",
+"cp": "91330",
+"pop": 27906
+},
+{
+"code": "91223",
+"nom": "Étampes",
+"dep": "91",
+"cp": "91150",
+"pop": 26857
+},
+{
+"code": "91286",
+"nom": "Grigny",
+"dep": "91",
+"cp": "91350",
+"pop": 26842
+},
+{
+"code": "91103",
+"nom": "Brétigny-sur-Orge",
+"dep": "91",
+"cp": "91220",
+"pop": 26658
+},
+{
+"code": "91692",
+"nom": "Les Ulis",
+"dep": "91",
+"cp": "91940",
+"pop": 25886
+},
+{
+"code": "91114",
+"nom": "Brunoy",
+"dep": "91",
+"cp": "91800",
+"pop": 25643
+},
+{
+"code": "91421",
+"nom": "Montgeron",
+"dep": "91",
+"cp": "91230",
+"pop": 24022
+},
+{
+"code": "91272",
+"nom": "Gif-sur-Yvette",
+"dep": "91",
+"cp": "91190",
+"pop": 22544
+},
+{
+"code": "91345",
+"nom": "Longjumeau",
+"dep": "91",
+"cp": "91160",
+"pop": 21996
+},
+{
+"code": "91570",
+"nom": "Saint-Michel-sur-Orge",
+"dep": "91",
+"cp": "91240",
+"pop": 21776
+},
+{
+"code": "91434",
+"nom": "Morsang-sur-Orge",
+"dep": "91",
+"cp": "91390",
+"pop": 21667
+},
+{
+"code": "91161",
+"nom": "Chilly-Mazarin",
+"dep": "91",
+"cp": "91380",
+"pop": 20443
+},
+{
+"code": "91326",
+"nom": "Juvisy-sur-Orge",
+"dep": "91",
+"cp": "91260",
+"pop": 19292
+},
+{
+"code": "91471",
+"nom": "Orsay",
+"dep": "91",
+"cp": "91400",
+"pop": 16498
+},
+{
+"code": "91386",
+"nom": "Mennecy",
+"dep": "91",
+"cp": "91540",
+"pop": 16433
+},
+{
+"code": "91645",
+"nom": "Verrières-le-Buisson",
+"dep": "91",
+"cp": "91370",
+"pop": 15057
+},
+{
+"code": "91432",
+"nom": "Morangis",
+"dep": "91",
+"cp": "91420",
+"pop": 14129
+},
+{
+"code": "91235",
+"nom": "Fleury-Mérogis",
+"dep": "91",
+"cp": "91700",
+"pop": 13721
+},
+{
+"code": "91573",
+"nom": "Saint-Pierre-du-Perray",
+"dep": "91",
+"cp": "91280",
+"pop": 11993
+},
+{
+"code": "91021",
+"nom": "Arpajon",
+"dep": "91",
+"cp": "91290",
+"pop": 11698
+},
+{
+"code": "91552",
+"nom": "Saint-Germain-lès-Arpajon",
+"dep": "91",
+"cp": "91180",
+"pop": 11623
+},
+{
+"code": "91215",
+"nom": "Épinay-sous-Sénart",
+"dep": "91",
+"cp": "91860",
+"pop": 11611
+},
+{
+"code": "91200",
+"nom": "Dourdan",
+"dep": "91",
+"cp": "91410",
+"pop": 11415
+},
+{
+"code": "91312",
+"nom": "Igny",
+"dep": "91",
+"cp": "91430",
+"pop": 10833
+},
+{
+"code": "91086",
+"nom": "Bondoufle",
+"dep": "91",
+"cp": "91070",
+"pop": 10767
+},
+{
+"code": "91216",
+"nom": "Épinay-sur-Orge",
+"dep": "91",
+"cp": "91360",
+"pop": 10722
+},
+{
+"code": "91661",
+"nom": "Villebon-sur-Yvette",
+"dep": "91",
+"cp": "91140",
+"pop": 10291
+},
+{
+"code": "91425",
+"nom": "Montlhéry",
+"dep": "91",
+"cp": "91310",
+"pop": 9772
+},
+{
+"code": "91191",
+"nom": "Crosne",
+"dep": "91",
+"cp": "91560",
+"pop": 9610
+},
+{
+"code": "91122",
+"nom": "Bures-sur-Yvette",
+"dep": "91",
+"cp": "91440",
+"pop": 9548
+},
+{
+"code": "91514",
+"nom": "Quincy-sous-Sénart",
+"dep": "91",
+"cp": "91480",
+"pop": 9477
+},
+{
+"code": "91105",
+"nom": "Breuillet",
+"dep": "91",
+"cp": "91650",
+"pop": 9157
+},
+{
+"code": "91363",
+"nom": "Marcoussis",
+"dep": "91",
+"cp": "91460",
+"pop": 8618
+},
+{
+"code": "91479",
+"nom": "Paray-Vieille-Poste",
+"dep": "91",
+"cp": "91550",
+"pop": 8202
+},
+{
+"code": "91045",
+"nom": "Ballancourt-sur-Essonne",
+"dep": "91",
+"cp": "91610",
+"pop": 8191
+},
+{
+"code": "91665",
+"nom": "La Ville-du-Bois",
+"dep": "91",
+"cp": "91620",
+"pop": 8161
+},
+{
+"code": "91097",
+"nom": "Boussy-Saint-Antoine",
+"dep": "91",
+"cp": "91800",
+"pop": 8097
+},
+{
+"code": "91339",
+"nom": "Linas",
+"dep": "91",
+"cp": "91310",
+"pop": 7987
+},
+{
+"code": "91553",
+"nom": "Saint-Germain-lès-Corbeil",
+"dep": "91",
+"cp": "91250",
+"pop": 7469
+},
+{
+"code": "91600",
+"nom": "Soisy-sur-Seine",
+"dep": "91",
+"cp": "91450",
+"pop": 7418
+},
+{
+"code": "91340",
+"nom": "Lisses",
+"dep": "91",
+"cp": "91090",
+"pop": 7373
+},
+{
+"code": "91667",
+"nom": "Villemoisson-sur-Orge",
+"dep": "91",
+"cp": "91360",
+"pop": 7332
+},
+{
+"code": "91207",
+"nom": "Égly",
+"dep": "91",
+"cp": "91520",
+"pop": 7166
+},
+{
+"code": "91689",
+"nom": "Wissous",
+"dep": "91",
+"cp": "91320",
+"pop": 7151
+},
+{
+"code": "91226",
+"nom": "Étréchy",
+"dep": "91",
+"cp": "91580",
+"pop": 6986
+},
+{
+"code": "91315",
+"nom": "Itteville",
+"dep": "91",
+"cp": "91760",
+"pop": 6746
+},
+{
+"code": "91587",
+"nom": "Saulx-les-Chartreux",
+"dep": "91",
+"cp": "91160",
+"pop": 6733
+},
+{
+"code": "91338",
+"nom": "Limours",
+"dep": "91",
+"cp": "91470",
+"pop": 6517
+},
+{
+"code": "91347",
+"nom": "Longpont-sur-Orge",
+"dep": "91",
+"cp": "91310",
+"pop": 6482
+},
+{
+"code": "91577",
+"nom": "Saintry-sur-Seine",
+"dep": "91",
+"cp": "91250",
+"pop": 5882
+},
+{
+"code": "91659",
+"nom": "Villabé",
+"dep": "91",
+"cp": "91100",
+"pop": 5830
+},
+{
+"code": "91376",
+"nom": "Marolles-en-Hurepoix",
+"dep": "91",
+"cp": "91630",
+"pop": 5708
+},
+{
+"code": "91330",
+"nom": "Lardy",
+"dep": "91",
+"cp": "91510",
+"pop": 5530
+},
+{
+"code": "91461",
+"nom": "Ollainville",
+"dep": "91",
+"cp": "91340",
+"pop": 5455
+},
+{
+"code": "91540",
+"nom": "Saint-Chéron",
+"dep": "91",
+"cp": "91530",
+"pop": 5132
+},
+{
+"code": "92050",
+"nom": "Nanterre",
+"dep": "92",
+"cp": "92000",
+"pop": 97783
+},
+{
+"code": "92004",
+"nom": "Asnières-sur-Seine",
+"dep": "92",
+"cp": "92600",
+"pop": 93941
+},
+{
+"code": "92025",
+"nom": "Colombes",
+"dep": "92",
+"cp": "92700",
+"pop": 91053
+},
+{
+"code": "92026",
+"nom": "Courbevoie",
+"dep": "92",
+"cp": "92400",
+"pop": 82902
+},
+{
+"code": "92063",
+"nom": "Rueil-Malmaison",
+"dep": "92",
+"cp": "92500",
+"pop": 82874
+},
+{
+"code": "92044",
+"nom": "Levallois-Perret",
+"dep": "92",
+"cp": "92300",
+"pop": 68092
+},
+{
+"code": "92040",
+"nom": "Issy-les-Moulineaux",
+"dep": "92",
+"cp": "92130",
+"pop": 67669
+},
+{
+"code": "92024",
+"nom": "Clichy",
+"dep": "92",
+"cp": "92110",
+"pop": 64410
+},
+{
+"code": "92002",
+"nom": "Antony",
+"dep": "92",
+"cp": "92160",
+"pop": 64263
+},
+{
+"code": "92051",
+"nom": "Neuilly-sur-Seine",
+"dep": "92",
+"cp": "92200",
+"pop": 59538
+},
+{
+"code": "92023",
+"nom": "Clamart",
+"dep": "92",
+"cp": "92140",
+"pop": 58576
+},
+{
+"code": "92036",
+"nom": "Gennevilliers",
+"dep": "92",
+"cp": "92230",
+"pop": 50979
+},
+{
+"code": "92073",
+"nom": "Suresnes",
+"dep": "92",
+"cp": "92150",
+"pop": 48956
+},
+{
+"code": "92048",
+"nom": "Meudon",
+"dep": "92",
+"cp": "92190",
+"pop": 46334
+},
+{
+"code": "92049",
+"nom": "Montrouge",
+"dep": "92",
+"cp": "92120",
+"pop": 46324
+},
+{
+"code": "92007",
+"nom": "Bagneux",
+"dep": "92",
+"cp": "92220",
+"pop": 44572
+},
+{
+"code": "92062",
+"nom": "Puteaux",
+"dep": "92",
+"cp": "92800",
+"pop": 44002
+},
+{
+"code": "92020",
+"nom": "Châtillon",
+"dep": "92",
+"cp": "92320",
+"pop": 36705
+},
+{
+"code": "92019",
+"nom": "Châtenay-Malabry",
+"dep": "92",
+"cp": "92290",
+"pop": 35825
+},
+{
+"code": "92046",
+"nom": "Malakoff",
+"dep": "92",
+"cp": "92240",
+"pop": 30557
+},
+{
+"code": "92035",
+"nom": "La Garenne-Colombes",
+"dep": "92",
+"cp": "92250",
+"pop": 30197
+},
+{
+"code": "92064",
+"nom": "Saint-Cloud",
+"dep": "92",
+"cp": "92210",
+"pop": 29855
+},
+{
+"code": "92009",
+"nom": "Bois-Colombes",
+"dep": "92",
+"cp": "92270",
+"pop": 28909
+},
+{
+"code": "92060",
+"nom": "Le Plessis-Robinson",
+"dep": "92",
+"cp": "92350",
+"pop": 28848
+},
+{
+"code": "92075",
+"nom": "Vanves",
+"dep": "92",
+"cp": "92170",
+"pop": 28622
+},
+{
+"code": "92078",
+"nom": "Villeneuve-la-Garenne",
+"dep": "92",
+"cp": "92390",
+"pop": 26021
+},
+{
+"code": "92032",
+"nom": "Fontenay-aux-Roses",
+"dep": "92",
+"cp": "92260",
+"pop": 24070
+},
+{
+"code": "92072",
+"nom": "Sèvres",
+"dep": "92",
+"cp": "92310",
+"pop": 22303
+},
+{
+"code": "92014",
+"nom": "Bourg-la-Reine",
+"dep": "92",
+"cp": "92340",
+"pop": 21019
+},
+{
+"code": "92071",
+"nom": "Sceaux",
+"dep": "92",
+"cp": "92330",
+"pop": 20884
+},
+{
+"code": "92022",
+"nom": "Chaville",
+"dep": "92",
+"cp": "92370",
+"pop": 20594
+},
+{
+"code": "92033",
+"nom": "Garches",
+"dep": "92",
+"cp": "92380",
+"pop": 17743
+},
+{
+"code": "92077",
+"nom": "Ville-d'Avray",
+"dep": "92",
+"cp": "92410",
+"pop": 11089
+},
+{
+"code": "92076",
+"nom": "Vaucresson",
+"dep": "92",
+"cp": "92420",
+"pop": 8432
+},
+{
+"code": "93001",
+"nom": "Aubervilliers",
+"dep": "93",
+"cp": "93300",
+"pop": 88365
+},
+{
+"code": "93005",
+"nom": "Aulnay-sous-Bois",
+"dep": "93",
+"cp": "93600",
+"pop": 87599
+},
+{
+"code": "93051",
+"nom": "Noisy-le-Grand",
+"dep": "93",
+"cp": "93160",
+"pop": 72978
+},
+{
+"code": "93029",
+"nom": "Drancy",
+"dep": "93",
+"cp": "93700",
+"pop": 72390
+},
+{
+"code": "93007",
+"nom": "Le Blanc-Mesnil",
+"dep": "93",
+"cp": "93150",
+"pop": 62376
+},
+{
+"code": "93055",
+"nom": "Pantin",
+"dep": "93",
+"cp": "93500",
+"pop": 61929
+},
+{
+"code": "93008",
+"nom": "Bobigny",
+"dep": "93",
+"cp": "93000",
+"pop": 56927
+},
+{
+"code": "93070",
+"nom": "Saint-Ouen-sur-Seine",
+"dep": "93",
+"cp": "93400",
+"pop": 53615
+},
+{
+"code": "93031",
+"nom": "Épinay-sur-Seine",
+"dep": "93",
+"cp": "93800",
+"pop": 52833
+},
+{
+"code": "93071",
+"nom": "Sevran",
+"dep": "93",
+"cp": "93270",
+"pop": 52535
+},
+{
+"code": "93010",
+"nom": "Bondy",
+"dep": "93",
+"cp": "93140",
+"pop": 50595
+},
+{
+"code": "93046",
+"nom": "Livry-Gargan",
+"dep": "93",
+"cp": "93190",
+"pop": 47228
+},
+{
+"code": "93064",
+"nom": "Rosny-sous-Bois",
+"dep": "93",
+"cp": "93110",
+"pop": 47180
+},
+{
+"code": "93027",
+"nom": "La Courneuve",
+"dep": "93",
+"cp": "93120",
+"pop": 47167
+},
+{
+"code": "93053",
+"nom": "Noisy-le-Sec",
+"dep": "93",
+"cp": "93130",
+"pop": 45510
+},
+{
+"code": "93006",
+"nom": "Bagnolet",
+"dep": "93",
+"cp": "93170",
+"pop": 43086
+},
+{
+"code": "93032",
+"nom": "Gagny",
+"dep": "93",
+"cp": "93220",
+"pop": 42313
+},
+{
+"code": "93078",
+"nom": "Villepinte",
+"dep": "93",
+"cp": "93420",
+"pop": 41470
+},
+{
+"code": "93072",
+"nom": "Stains",
+"dep": "93",
+"cp": "93240",
+"pop": 41388
+},
+{
+"code": "93050",
+"nom": "Neuilly-sur-Marne",
+"dep": "93",
+"cp": "93330",
+"pop": 39800
+},
+{
+"code": "93073",
+"nom": "Tremblay-en-France",
+"dep": "93",
+"cp": "93290",
+"pop": 38348
+},
+{
+"code": "93063",
+"nom": "Romainville",
+"dep": "93",
+"cp": "93230",
+"pop": 37152
+},
+{
+"code": "93077",
+"nom": "Villemomble",
+"dep": "93",
+"cp": "93250",
+"pop": 29795
+},
+{
+"code": "93014",
+"nom": "Clichy-sous-Bois",
+"dep": "93",
+"cp": "93390",
+"pop": 29354
+},
+{
+"code": "93047",
+"nom": "Montfermeil",
+"dep": "93",
+"cp": "93370",
+"pop": 28703
+},
+{
+"code": "93057",
+"nom": "Les Pavillons-sous-Bois",
+"dep": "93",
+"cp": "93320",
+"pop": 25804
+},
+{
+"code": "93045",
+"nom": "Les Lilas",
+"dep": "93",
+"cp": "93260",
+"pop": 23843
+},
+{
+"code": "93049",
+"nom": "Neuilly-Plaisance",
+"dep": "93",
+"cp": "93360",
+"pop": 21941
+},
+{
+"code": "93061",
+"nom": "Le Pré-Saint-Gervais",
+"dep": "93",
+"cp": "93310",
+"pop": 16993
+},
+{
+"code": "93013",
+"nom": "Le Bourget",
+"dep": "93",
+"cp": "93350",
+"pop": 15925
+},
+{
+"code": "93062",
+"nom": "Le Raincy",
+"dep": "93",
+"cp": "93340",
+"pop": 14735
+},
+{
+"code": "93079",
+"nom": "Villetaneuse",
+"dep": "93",
+"cp": "93430",
+"pop": 12530
+},
+{
+"code": "93030",
+"nom": "Dugny",
+"dep": "93",
+"cp": "93440",
+"pop": 11700
+},
+{
+"code": "93039",
+"nom": "L'Île-Saint-Denis",
+"dep": "93",
+"cp": "93450",
+"pop": 8696
+},
+{
+"code": "93074",
+"nom": "Vaujours",
+"dep": "93",
+"cp": "93410",
+"pop": 8007
+},
+{
+"code": "93033",
+"nom": "Gournay-sur-Marne",
+"dep": "93",
+"cp": "93460",
+"pop": 7320
+},
+{
+"code": "93015",
+"nom": "Coubron",
+"dep": "93",
+"cp": "93470",
+"pop": 5175
+},
+{
+"code": "94081",
+"nom": "Vitry-sur-Seine",
+"dep": "94",
+"cp": "94400",
+"pop": 93963
+},
+{
+"code": "94028",
+"nom": "Créteil",
+"dep": "94",
+"cp": "94000",
+"pop": 93397
+},
+{
+"code": "94017",
+"nom": "Champigny-sur-Marne",
+"dep": "94",
+"cp": "94500",
+"pop": 78072
+},
+{
+"code": "94068",
+"nom": "Saint-Maur-des-Fossés",
+"dep": "94",
+"cp": "94100",
+"pop": 76572
+},
+{
+"code": "94041",
+"nom": "Ivry-sur-Seine",
+"dep": "94",
+"cp": "94200",
+"pop": 65064
+},
+{
+"code": "94076",
+"nom": "Villejuif",
+"dep": "94",
+"cp": "94800",
+"pop": 60183
+},
+{
+"code": "94046",
+"nom": "Maisons-Alfort",
+"dep": "94",
+"cp": "94700",
+"pop": 56799
+},
+{
+"code": "94033",
+"nom": "Fontenay-sous-Bois",
+"dep": "94",
+"cp": "94120",
+"pop": 53757
+},
+{
+"code": "94080",
+"nom": "Vincennes",
+"dep": "94",
+"cp": "94300",
+"pop": 48193
+},
+{
+"code": "94022",
+"nom": "Choisy-le-Roi",
+"dep": "94",
+"cp": "94600",
+"pop": 45946
+},
+{
+"code": "94002",
+"nom": "Alfortville",
+"dep": "94",
+"cp": "94140",
+"pop": 45531
+},
+{
+"code": "94078",
+"nom": "Villeneuve-Saint-Georges",
+"dep": "94",
+"cp": "94190",
+"pop": 36221
+},
+{
+"code": "94058",
+"nom": "Le Perreux-sur-Marne",
+"dep": "94",
+"cp": "94170",
+"pop": 35260
+},
+{
+"code": "94079",
+"nom": "Villiers-sur-Marne",
+"dep": "94",
+"cp": "94350",
+"pop": 33162
+},
+{
+"code": "94073",
+"nom": "Thiais",
+"dep": "94",
+"cp": "94320",
+"pop": 32918
+},
+{
+"code": "94052",
+"nom": "Nogent-sur-Marne",
+"dep": "94",
+"cp": "94130",
+"pop": 32455
+},
+{
+"code": "94038",
+"nom": "L'Haÿ-les-Roses",
+"dep": "94",
+"cp": "94240",
+"pop": 31188
+},
+{
+"code": "94016",
+"nom": "Cachan",
+"dep": "94",
+"cp": "94230",
+"pop": 31103
+},
+{
+"code": "94034",
+"nom": "Fresnes",
+"dep": "94",
+"cp": "94260",
+"pop": 29528
+},
+{
+"code": "94018",
+"nom": "Charenton-le-Pont",
+"dep": "94",
+"cp": "94220",
+"pop": 28830
+},
+{
+"code": "94071",
+"nom": "Sucy-en-Brie",
+"dep": "94",
+"cp": "94370",
+"pop": 27764
+},
+{
+"code": "94044",
+"nom": "Limeil-Brévannes",
+"dep": "94",
+"cp": "94450",
+"pop": 27406
+},
+{
+"code": "94054",
+"nom": "Orly",
+"dep": "94",
+"cp": "94310",
+"pop": 24658
+},
+{
+"code": "94043",
+"nom": "Le Kremlin-Bicêtre",
+"dep": "94",
+"cp": "94270",
+"pop": 24110
+},
+{
+"code": "94003",
+"nom": "Arcueil",
+"dep": "94",
+"cp": "94110",
+"pop": 22200
+},
+{
+"code": "94059",
+"nom": "Le Plessis-Trévise",
+"dep": "94",
+"cp": "94420",
+"pop": 21112
+},
+{
+"code": "94067",
+"nom": "Saint-Mandé",
+"dep": "94",
+"cp": "94160",
+"pop": 21071
+},
+{
+"code": "94077",
+"nom": "Villeneuve-le-Roi",
+"dep": "94",
+"cp": "94290",
+"pop": 21000
+},
+{
+"code": "94042",
+"nom": "Joinville-le-Pont",
+"dep": "94",
+"cp": "94340",
+"pop": 20525
+},
+{
+"code": "94037",
+"nom": "Gentilly",
+"dep": "94",
+"cp": "94250",
+"pop": 19963
+},
+{
+"code": "94021",
+"nom": "Chevilly-Larue",
+"dep": "94",
+"cp": "94550",
+"pop": 19826
+},
+{
+"code": "94019",
+"nom": "Chennevières-sur-Marne",
+"dep": "94",
+"cp": "94430",
+"pop": 18710
+},
+{
+"code": "94015",
+"nom": "Bry-sur-Marne",
+"dep": "94",
+"cp": "94360",
+"pop": 18503
+},
+{
+"code": "94011",
+"nom": "Bonneuil-sur-Marne",
+"dep": "94",
+"cp": "94380",
+"pop": 18270
+},
+{
+"code": "94004",
+"nom": "Boissy-Saint-Léger",
+"dep": "94",
+"cp": "94470",
+"pop": 17325
+},
+{
+"code": "94069",
+"nom": "Saint-Maurice",
+"dep": "94",
+"cp": "94410",
+"pop": 14506
+},
+{
+"code": "94074",
+"nom": "Valenton",
+"dep": "94",
+"cp": "94460",
+"pop": 14406
+},
+{
+"code": "94060",
+"nom": "La Queue-en-Brie",
+"dep": "94",
+"cp": "94510",
+"pop": 12241
+},
+{
+"code": "94075",
+"nom": "Villecresnes",
+"dep": "94",
+"cp": "94440",
+"pop": 11647
+},
+{
+"code": "94055",
+"nom": "Ormesson-sur-Marne",
+"dep": "94",
+"cp": "94490",
+"pop": 10977
+},
+{
+"code": "94001",
+"nom": "Ablon-sur-Seine",
+"dep": "94",
+"cp": "94480",
+"pop": 5988
+},
+{
+"code": "94065",
+"nom": "Rungis",
+"dep": "94",
+"cp": "94150",
+"pop": 5611
+},
+{
+"code": "95127",
+"nom": "Cergy",
+"dep": "95",
+"cp": "95000",
+"pop": 70906
+},
+{
+"code": "95585",
+"nom": "Sarcelles",
+"dep": "95",
+"cp": "95200",
+"pop": 59173
+},
+{
+"code": "95268",
+"nom": "Garges-lès-Gonesse",
+"dep": "95",
+"cp": "95140",
+"pop": 41791
+},
+{
+"code": "95252",
+"nom": "Franconville",
+"dep": "95",
+"cp": "95130",
+"pop": 37754
+},
+{
+"code": "95063",
+"nom": "Bezons",
+"dep": "95",
+"cp": "95870",
+"pop": 36434
+},
+{
+"code": "95500",
+"nom": "Pontoise",
+"dep": "95",
+"cp": "95000",
+"pop": 31970
+},
+{
+"code": "95306",
+"nom": "Herblay-sur-Seine",
+"dep": "95",
+"cp": "95220",
+"pop": 31779
+},
+{
+"code": "95280",
+"nom": "Goussainville",
+"dep": "95",
+"cp": "95190",
+"pop": 31301
+},
+{
+"code": "95680",
+"nom": "Villiers-le-Bel",
+"dep": "95",
+"cp": "95400",
+"pop": 30053
+},
+{
+"code": "95219",
+"nom": "Ermont",
+"dep": "95",
+"cp": "95120",
+"pop": 29489
+},
+{
+"code": "95277",
+"nom": "Gonesse",
+"dep": "95",
+"cp": "95500",
+"pop": 27707
+},
+{
+"code": "95607",
+"nom": "Taverny",
+"dep": "95",
+"cp": "95150",
+"pop": 27593
+},
+{
+"code": "95176",
+"nom": "Cormeilles-en-Parisis",
+"dep": "95",
+"cp": "95240",
+"pop": 27292
+},
+{
+"code": "95582",
+"nom": "Sannois",
+"dep": "95",
+"cp": "95110",
+"pop": 26924
+},
+{
+"code": "95203",
+"nom": "Eaubonne",
+"dep": "95",
+"cp": "95600",
+"pop": 26211
+},
+{
+"code": "95572",
+"nom": "Saint-Ouen-l'Aumône",
+"dep": "95",
+"cp": "95310",
+"pop": 25578
+},
+{
+"code": "95197",
+"nom": "Deuil-la-Barre",
+"dep": "95",
+"cp": "95170",
+"pop": 23099
+},
+{
+"code": "95424",
+"nom": "Montigny-lès-Cormeilles",
+"dep": "95",
+"cp": "95370",
+"pop": 22457
+},
+{
+"code": "95428",
+"nom": "Montmorency",
+"dep": "95",
+"cp": "95160",
+"pop": 21763
+},
+{
+"code": "95555",
+"nom": "Saint-Gratien",
+"dep": "95",
+"cp": "95210",
+"pop": 21336
+},
+{
+"code": "95218",
+"nom": "Éragny-sur-Oise",
+"dep": "95",
+"cp": "95610",
+"pop": 18436
+},
+{
+"code": "95598",
+"nom": "Soisy-sous-Montmorency",
+"dep": "95",
+"cp": "95230",
+"pop": 18008
+},
+{
+"code": "95476",
+"nom": "Osny",
+"dep": "95",
+"cp": "95520",
+"pop": 17954
+},
+{
+"code": "95323",
+"nom": "Jouy-le-Moutier",
+"dep": "95",
+"cp": "95280",
+"pop": 17854
+},
+{
+"code": "95563",
+"nom": "Saint-Leu-la-Forêt",
+"dep": "95",
+"cp": "95320",
+"pop": 16138
+},
+{
+"code": "95637",
+"nom": "Vauréal",
+"dep": "95",
+"cp": "95490",
+"pop": 16079
+},
+{
+"code": "95199",
+"nom": "Domont",
+"dep": "95",
+"cp": "95330",
+"pop": 16065
+},
+{
+"code": "95427",
+"nom": "Montmagny",
+"dep": "95",
+"cp": "95360",
+"pop": 15105
+},
+{
+"code": "95539",
+"nom": "Saint-Brice-sous-Forêt",
+"dep": "95",
+"cp": "95350",
+"pop": 15063
+},
+{
+"code": "95019",
+"nom": "Arnouville",
+"dep": "95",
+"cp": "95400",
+"pop": 15023
+},
+{
+"code": "95487",
+"nom": "Persan",
+"dep": "95",
+"cp": "95340",
+"pop": 14359
+},
+{
+"code": "95351",
+"nom": "Louvres",
+"dep": "95",
+"cp": "95380",
+"pop": 12560
+},
+{
+"code": "95313",
+"nom": "L'Isle-Adam",
+"dep": "95",
+"cp": "95290",
+"pop": 12493
+},
+{
+"code": "95210",
+"nom": "Enghien-les-Bains",
+"dep": "95",
+"cp": "95880",
+"pop": 11432
+},
+{
+"code": "95250",
+"nom": "Fosses",
+"dep": "95",
+"cp": "95470",
+"pop": 10570
+},
+{
+"code": "95052",
+"nom": "Beaumont-sur-Oise",
+"dep": "95",
+"cp": "95260",
+"pop": 10232
+},
+{
+"code": "95488",
+"nom": "Pierrelaye",
+"dep": "95",
+"cp": "95220",
+"pop": 10130
+},
+{
+"code": "95394",
+"nom": "Méry-sur-Oise",
+"dep": "95",
+"cp": "95540",
+"pop": 9983
+},
+{
+"code": "95229",
+"nom": "Ézanville",
+"dep": "95",
+"cp": "95460",
+"pop": 9858
+},
+{
+"code": "95051",
+"nom": "Beauchamp",
+"dep": "95",
+"cp": "95250",
+"pop": 9849
+},
+{
+"code": "95060",
+"nom": "Bessancourt",
+"dep": "95",
+"cp": "95550",
+"pop": 8869
+},
+{
+"code": "95491",
+"nom": "Le Plessis-Bouchard",
+"dep": "95",
+"cp": "95130",
+"pop": 8518
+},
+{
+"code": "95288",
+"nom": "Groslay",
+"dep": "95",
+"cp": "95410",
+"pop": 8453
+},
+{
+"code": "95574",
+"nom": "Saint-Prix",
+"dep": "95",
+"cp": "95390",
+"pop": 7612
+},
+{
+"code": "95183",
+"nom": "Courdimanche",
+"dep": "95",
+"cp": "95800",
+"pop": 7311
+},
+{
+"code": "95205",
+"nom": "Écouen",
+"dep": "95",
+"cp": "95440",
+"pop": 7202
+},
+{
+"code": "95039",
+"nom": "Auvers-sur-Oise",
+"dep": "95",
+"cp": "95430",
+"pop": 6863
+},
+{
+"code": "95091",
+"nom": "Bouffémont",
+"dep": "95",
+"cp": "95570",
+"pop": 6593
+},
+{
+"code": "95388",
+"nom": "Menucourt",
+"dep": "95",
+"cp": "95180",
+"pop": 6184
+},
+{
+"code": "95371",
+"nom": "Marly-la-Ville",
+"dep": "95",
+"cp": "95670",
+"pop": 6022
+},
+{
+"code": "95355",
+"nom": "Magny-en-Vexin",
+"dep": "95",
+"cp": "95420",
+"pop": 5779
+},
+{
+"code": "95480",
+"nom": "Parmain",
+"dep": "95",
+"cp": "95620",
+"pop": 5655
+},
+{
+"code": "95652",
+"nom": "Viarmes",
+"dep": "95",
+"cp": "95270",
+"pop": 5558
+},
+{
+"code": "95392",
+"nom": "Mériel",
+"dep": "95",
+"cp": "95630",
+"pop": 5347
+},
+{
+"code": "95134",
+"nom": "Champagne-sur-Oise",
+"dep": "95",
+"cp": "95660",
+"pop": 5036
+},
+{
+"code": "95352",
+"nom": "Luzarches",
+"dep": "95",
+"cp": "95270",
+"pop": 5008
+}
+]
