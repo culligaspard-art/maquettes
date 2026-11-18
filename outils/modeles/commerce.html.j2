@@ -1,0 +1,95 @@
+[% extends "base.html.j2" %]
+[# Commerces de proximité : boucherie, fromagerie, épicerie, primeur, caviste, fleuriste, cordonnerie, pressing, toiletteur, auto-école, librairie. #]
+[% block css %]
+:root{--titre-poids:[% if roles.titre == "Bricolage Grotesque" %]700[% else %]400[% endif %];--rayon:.5rem}
+.hero{margin-top:-4.5rem;padding-top:4.5rem;position:relative}
+.store{height:58px;background:repeating-linear-gradient(90deg,var(--bouton) 0 46px,var(--fond) 46px 92px);position:relative}
+.store::after{content:"";position:absolute;left:0;right:0;bottom:-16px;height:16px;background:radial-gradient(circle at 23px 0,var(--bouton) 22px,transparent 23px) 0 0/92px 16px repeat-x,radial-gradient(circle at 69px 0,var(--fond) 22px,transparent 23px) 0 0/92px 16px repeat-x;filter:drop-shadow(0 3px 2px rgba(0,0,0,.12))}
+.hero__grid{display:grid;gap:2.5rem;padding-top:3.5rem;padding-bottom:4rem;align-items:center}
+@media (min-width:900px){.hero__grid{grid-template-columns:1fr 1.05fr;gap:4rem;min-height:min(80vh,720px)}}
+.hero__kicker{font-weight:500;color:var(--doux);margin-bottom:1rem}
+.hero__title{font-size:clamp(2.8rem,7.6vw,6.4rem);line-height:.98;letter-spacing:-.02em;color:var(--encre)}
+.hero__title .ln{display:block}
+.hero__tag{font-size:clamp(1.0625rem,.6vw + .95rem,1.3rem);line-height:1.5;max-width:36ch;margin:1.5rem 0 1.5rem;color:var(--doux)}
+.devanture{position:relative;margin:0;border-radius:1.25rem;overflow:hidden;box-shadow:0 0 0 10px var(--fond2)}
+.devanture img{width:100%;aspect-ratio:5/4;object-fit:cover}
+.devanture figcaption{position:absolute;right:1rem;top:1rem;background:var(--accent);color:var(--accent-encre);font-weight:500;padding:.4rem .8rem;border-radius:999px;font-size:.9375rem;transform:rotate(3deg)}
+.produits{background:var(--fond2)}
+.produits__head{display:grid;gap:1rem;margin-bottom:3rem}
+@media (min-width:900px){.produits__head{grid-template-columns:1fr 1fr;align-items:end}}
+.etal{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(2,1fr);gap:clamp(1rem,2vw,1.5rem)}
+@media (min-width:900px){.etal{grid-template-columns:repeat(3,1fr)}}
+.etal li{background:var(--fond);border-radius:1rem;overflow:hidden;box-shadow:0 1px 0 var(--trait)}
+.etal img{width:100%;aspect-ratio:4/3;object-fit:cover}
+.etal div{padding:1rem 1.1rem 1.2rem}
+.etal h3{font-size:1.3rem;margin-bottom:.25rem}
+.etal p{color:var(--doux);font-size:.9375rem}
+.liste{list-style:none;margin:3rem 0 0;padding:0;display:grid;gap:0}
+@media (min-width:800px){.liste{grid-template-columns:1fr 1fr;column-gap:3rem}}
+.liste li{display:flex;justify-content:space-between;gap:1rem;padding:1rem 0;border-top:1px solid var(--trait)}
+.liste strong{font-weight:500}
+.liste span{color:var(--doux);text-align:right}
+.maison__grid{display:grid;gap:2.5rem;align-items:center}
+@media (min-width:900px){.maison__grid{grid-template-columns:1.1fr 1fr;gap:5rem}}
+.maison img{width:100%;aspect-ratio:1;object-fit:cover;border-radius:50% 50% 1.25rem 1.25rem}
+.faits{list-style:none;margin:2rem 0 0;padding:0}
+.faits li{display:grid;grid-template-columns:7rem 1fr;gap:1rem;padding:1rem 0;border-top:1px solid var(--trait)}
+.faits strong{font-family:var(--f-titre);font-weight:var(--titre-poids);font-size:1.3rem;color:var(--bouton)}
+/* intro : le rideau métallique se lève */
+.i-rideau{position:absolute;inset:0;background:repeating-linear-gradient(180deg,#b9bcc0 0 14px,#9ea2a7 14px 16px,#c9ccd0 16px 30px,#8f9398 30px 32px);display:grid;place-items:center;animation:leve 1.05s cubic-bezier(.7,0,.84,0) 1.45s both;box-shadow:0 10px 30px rgba(0,0,0,.3)}
+.i-rideau::after{content:"";position:absolute;left:0;right:0;bottom:0;height:22px;background:#6f7378;border-top:3px solid #55595e}
+.i-peint{font-family:var(--f-titre);font-weight:var(--titre-poids);color:var(--bouton);font-size:clamp(2rem,8vw,5.5rem);line-height:1;text-align:center;padding:0 1rem;max-width:92vw;opacity:0;transform:translateY(10px);animation:peint .5s cubic-bezier(.16,1,.3,1) .25s both;text-shadow:2px 2px 0 rgba(255,255,255,.35)}
+.i-peint small{display:block;font-family:var(--f-texte);font-weight:500;font-size:clamp(.9rem,2.4vw,1.2rem);color:#2b2d30;margin-top:.6rem}
+.i-lumiere{position:absolute;inset:0;background:radial-gradient(ellipse at 50% 100%,color-mix(in srgb,var(--accent) 45%,#fff),var(--fond) 70%)}
+@keyframes leve{to{transform:translateY(-102%)}}
+@keyframes peint{to{opacity:1;transform:none}}
+[% endblock %]
+[% block intro %]
+  <div class="i-lumiere"></div>
+  <div class="i-rideau"><p class="i-peint">[[ f.nom ]]<small>[[ f.activite ]]</small></p></div>
+[% endblock %]
+[% block hero %]
+  <section class="hero" id="accueil">
+    <div class="store" aria-hidden="true"></div>
+    <div class="page hero__grid">
+      <div>
+        <p class="hero__kicker">[[ f.accroche ]]</p>
+        <h1 class="hero__title">[% for ln in f.titre_lignes|default([f.nom]) %]<span class="ln">[[ ln ]]</span>[% endfor %]</h1>
+        [% if f.slogan %]<p class="hero__tag">[[ f.slogan ]]</p>[% endif %]
+        <p class="status" data-status><span class="status__dot"></span><span data-status-text></span></p>
+        <div class="actions">
+          <a class="btn btn--p" href="tel:[[ f.tel ]]">Appeler le [[ f.tel_affiche ]]</a>
+          <a class="btn btn--t" href="[[ itin ]]" target="_blank" rel="noopener">Itinéraire</a>
+        </div>
+        [% if f.note %]<p class="preuve">Noté [[ f.note ]] sur 5 sur Google ([[ f.avis ]] avis)[% if f.preuve_extra %], [[ f.preuve_extra ]][% endif %].</p>[% endif %]
+      </div>
+      <figure class="devanture"><img src="[[ img(f.hero) ]]" alt="[[ f.hero_alt|default(f.nom) ]]"[% if f.hero_pos %] style="object-position:[[ f.hero_pos ]]"[% endif %]>[% if f.hero_legende %]<figcaption>[[ f.hero_legende ]]</figcaption>[% endif %]</figure>
+    </div>
+  </section>
+[% endblock %]
+[% block sections %]
+  <section class="sec produits" id="produits">
+    <div class="page">
+      <div class="produits__head">
+        <h2>[[ f.offre_titre|default("Nos produits") ]]</h2>
+        [% if f.offre_intro %]<p class="lead">[[ f.offre_intro ]]</p>[% endif %]
+      </div>
+      <ul class="etal">
+        [% for p in f.photos[:6] %]<li><img src="[[ img(p.img) ]]" alt="[[ p.alt ]]"[% if p.pos %] style="object-position:[[ p.pos ]]"[% endif %]>[% if p.titre %]<div><h3>[[ p.titre ]]</h3>[% if p.texte %]<p>[[ p.texte ]]</p>[% endif %]</div>[% endif %]</li>[% endfor %]
+      </ul>
+      [% if f.offre %]<ul class="liste">[% for o in f.offre %]<li><strong>[[ o.titre ]]</strong><span>[[ o.prix|default(o.texte|default("")) ]]</span></li>[% endfor %]</ul>[% endif %]
+    </div>
+  </section>
+  [% if f.bloc2 %]
+  <section class="sec maison" id="maison">
+    <div class="page maison__grid">
+      <div>
+        <h2>[[ f.bloc2.titre ]]</h2>
+        <p class="lead">[[ f.bloc2.texte ]]</p>
+        [% if f.bloc2.faits %]<ul class="faits">[% for x in f.bloc2.faits %]<li><strong>[[ x.k ]]</strong><span>[[ x.v ]]</span></li>[% endfor %]</ul>[% endif %]
+      </div>
+      [% if f.bloc2.img %]<img src="[[ img(f.bloc2.img) ]]" alt="[[ f.bloc2.alt|default('') ]]">[% endif %]
+    </div>
+  </section>
+  [% endif %]
+[% endblock %]

@@ -1,0 +1,143 @@
+[% extends "base.html.j2" %]
+[# Artisans du bâtiment et de l'atelier : menuisier, charpentier, plombier, électricien, maçon, peintre, couvreur, carreleur, serrurier, paysagiste, garage. #]
+[% block css %]
+:root{--titre-poids:[% if roles.titre in ("Anton",) %]400[% else %]600[% endif %];--rayon:.25rem;--grille:color-mix(in srgb,var(--principale) 14%,transparent)}
+.btn{text-transform:none}
+.hero{margin-top:-4.5rem;padding-top:4.5rem;background-color:var(--fond);background-image:linear-gradient(var(--grille) 1px,transparent 1px),linear-gradient(90deg,var(--grille) 1px,transparent 1px);background-size:28px 28px;border-bottom:1px solid var(--trait)}
+.hero__grid{display:grid;gap:2.5rem;padding-top:2.5rem;padding-bottom:4rem;align-items:center}
+@media (min-width:900px){.hero__grid{grid-template-columns:1.05fr 1fr;gap:4rem;min-height:min(84vh,740px)}}
+.hero__kicker{display:inline-block;font-weight:600;font-size:.875rem;letter-spacing:.04em;color:var(--bouton);border:1.5px solid var(--bouton);padding:.3rem .7rem;margin-bottom:1.25rem}
+.hero__title{font-size:clamp(3rem,8vw,7rem);line-height:.92;letter-spacing:-.01em;text-transform:uppercase}
+.hero__title .ln{display:block}
+.hero__tag{font-size:clamp(1.0625rem,.6vw + .95rem,1.3rem);line-height:1.5;max-width:38ch;margin:1.5rem 0 1.5rem;color:var(--doux)}
+.cadre{position:relative;margin:0}
+.cadre img{width:100%;aspect-ratio:4/5;object-fit:cover}
+@media (max-width:899px){.cadre img{aspect-ratio:4/3}}
+.cadre::before,.cadre::after{content:"";position:absolute;width:44px;height:44px;border:3px solid var(--bouton)}
+.cadre::before{top:-12px;left:-12px;border-right:0;border-bottom:0}
+.cadre::after{bottom:-12px;right:-12px;border-left:0;border-top:0}
+.cadre figcaption{position:absolute;left:0;bottom:0;background:var(--encre);color:var(--fond);font-size:.875rem;padding:.45rem .8rem}
+.services__grid{display:grid;gap:2.5rem}
+@media (min-width:900px){.services__grid{grid-template-columns:1fr 1.5fr;gap:5rem}}
+.services__list{list-style:none;margin:0;padding:0;display:grid;gap:0}
+@media (min-width:700px){.services__list{grid-template-columns:1fr 1fr;column-gap:2.5rem}}
+.services__list li{padding:1.4rem 0;border-top:2px solid var(--encre)}
+.services__list h3{font-size:1.5rem;text-transform:uppercase;margin-bottom:.35rem}
+.services__list p{color:var(--doux)}
+.realisations{background:var(--sombre);color:var(--sur-sombre)}
+.realisations h2{color:#fff}
+.realisations .lead{color:var(--sur-sombre-doux)}
+.real__grid{list-style:none;margin:3rem 0 0;padding:0;display:grid;grid-template-columns:repeat(2,1fr);gap:.75rem}
+@media (min-width:900px){.real__grid{grid-template-columns:repeat(3,1fr);gap:1rem}}
+.real__grid li:first-child{grid-column:span 2;grid-row:span 2}
+.real__grid figure{margin:0;height:100%;position:relative}
+.real__grid img{width:100%;height:100%;min-height:160px;aspect-ratio:1;object-fit:cover}
+.real__grid li:first-child img{aspect-ratio:auto}
+.real__grid figcaption{position:absolute;left:.6rem;bottom:.6rem;background:rgba(0,0,0,.72);color:#fff;font-size:.875rem;padding:.3rem .6rem}
+.zone{background:var(--fond2)}
+.zone__grid{display:grid;gap:2rem}
+@media (min-width:900px){.zone__grid{grid-template-columns:1fr 1.4fr;gap:5rem;align-items:start}}
+.faits{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(9rem,1fr));gap:1rem}
+.faits li{background:var(--fond);border:1px solid var(--trait);padding:1.25rem}
+.faits strong{display:block;font-family:var(--f-titre);font-weight:var(--titre-poids);font-size:2rem;color:var(--bouton);line-height:1.1}
+.devis{background:var(--bouton);color:#fff}
+.devis h2{color:#fff}
+.devis .lead{color:rgba(255,255,255,.85)}
+.devis__grid{display:grid;gap:2rem;align-items:center}
+@media (min-width:900px){.devis__grid{grid-template-columns:1.3fr 1fr;gap:4rem}}
+.devis .btn--blanc{background:#fff;color:var(--bouton)}
+.devis .btn--blanc:hover{background:var(--fond)}
+.devis .btn--t{color:#fff}
+.devis .btn--t:hover{background:#fff;color:var(--bouton);box-shadow:inset 0 0 0 2px #fff}
+/* intro : un trait d'épure se dessine, le nom se tamponne, puis le plan glisse */
+.i-plan{position:absolute;inset:0;background-color:var(--fond);background-image:linear-gradient(var(--grille) 1px,transparent 1px),linear-gradient(90deg,var(--grille) 1px,transparent 1px);background-size:28px 28px;display:grid;place-items:center;align-content:center;gap:1.5rem;animation:planOut .7s cubic-bezier(.7,0,.84,0) 1.85s both}
+.i-plan svg{width:min(70vw,520px);height:auto;overflow:visible}
+.i-plan .t{fill:none;stroke:var(--encre);stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1;stroke-dashoffset:1;animation:trace 1s cubic-bezier(.65,0,.35,1) both}
+.i-plan .t2{stroke:var(--bouton);stroke-width:2.2;animation-delay:.45s}
+.i-plan .cote{fill:none;stroke:var(--doux);stroke-width:1.2;stroke-dasharray:1;stroke-dashoffset:1;animation:trace .6s ease-out .9s both}
+.i-cartouche{border:3px solid var(--encre);padding:.5rem 1.2rem;font-family:var(--f-titre);font-weight:var(--titre-poids);text-transform:uppercase;font-size:clamp(1.4rem,4vw,2.6rem);color:var(--encre);opacity:0;transform:scale(1.25) rotate(-3deg);animation:tampon .35s cubic-bezier(.16,1,.3,1) 1.15s both;max-width:90vw;text-align:center;line-height:1.05}
+@keyframes trace{to{stroke-dashoffset:0}}
+@keyframes tampon{to{opacity:1;transform:scale(1) rotate(-3deg)}}
+@keyframes planOut{to{transform:translateY(-100%)}}
+[% endblock %]
+[% block intro %]
+  <div class="i-plan">
+    [% if f.dessin|default("toit") == "toit" %]
+    <svg viewBox="0 0 520 300" aria-hidden="true">
+      <path class="t" pathLength="1" d="M20 280 H500 M60 280 V150 M460 280 V150 M30 160 L260 30 L490 160"/>
+      <path class="t t2" pathLength="1" d="M260 30 V150 M60 150 H460 M160 150 L260 90 L360 150 M110 150 L260 62 L410 150"/>
+      <path class="cote" pathLength="1" d="M20 296 H500 M20 290 V302 M500 290 V302"/>
+    </svg>
+    [% else %]
+    <svg viewBox="0 0 520 300" aria-hidden="true">
+      <path class="t" pathLength="1" d="M40 270 H480 V40 H40 Z M40 150 H480"/>
+      <path class="t t2" pathLength="1" d="M260 40 V270 M120 95 H200 M320 95 H400 M120 205 H200 M320 205 H400"/>
+      <path class="cote" pathLength="1" d="M40 288 H480 M40 282 V294 M480 282 V294"/>
+    </svg>
+    [% endif %]
+    <p class="i-cartouche">[[ f.nom ]]</p>
+  </div>
+[% endblock %]
+[% block hero %]
+  <section class="hero" id="accueil">
+    <div class="page hero__grid">
+      <div>
+        <p class="hero__kicker">[[ f.accroche ]]</p>
+        <h1 class="hero__title">[% for ln in f.titre_lignes|default([f.nom]) %]<span class="ln">[[ ln ]]</span>[% endfor %]</h1>
+        [% if f.slogan %]<p class="hero__tag">[[ f.slogan ]]</p>[% endif %]
+        <p class="status" data-status><span class="status__dot"></span><span data-status-text></span></p>
+        <div class="actions">
+          <a class="btn btn--p" href="tel:[[ f.tel ]]">Appeler le [[ f.tel_affiche ]]</a>
+          <a class="btn btn--t" href="#devis">Demander un devis</a>
+        </div>
+        [% if f.note %]<p class="preuve">Noté [[ f.note ]] sur 5 sur Google ([[ f.avis ]] avis)[% if f.preuve_extra %], [[ f.preuve_extra ]][% endif %].</p>[% endif %]
+      </div>
+      <figure class="cadre"><img src="[[ img(f.hero) ]]" alt="[[ f.hero_alt|default(f.activite) ]]"[% if f.hero_pos %] style="object-position:[[ f.hero_pos ]]"[% endif %]>[% if f.hero_legende %]<figcaption>[[ f.hero_legende ]]</figcaption>[% endif %]</figure>
+    </div>
+  </section>
+[% endblock %]
+[% block sections %]
+  <section class="sec" id="services">
+    <div class="page services__grid">
+      <div>
+        <h2>[[ f.offre_titre|default("Nos services") ]]</h2>
+        [% if f.offre_intro %]<p class="lead">[[ f.offre_intro ]]</p>[% endif %]
+      </div>
+      <ul class="services__list">
+        [% for o in f.offre %]<li><h3>[[ o.titre ]]</h3>[% if o.texte %]<p>[[ o.texte ]]</p>[% endif %]</li>[% endfor %]
+      </ul>
+    </div>
+  </section>
+  <section class="sec realisations" id="realisations">
+    <div class="page">
+      <h2>[[ f.galerie_titre|default("Réalisations") ]]</h2>
+      [% if f.galerie_intro %]<p class="lead">[[ f.galerie_intro ]]</p>[% endif %]
+      <ul class="real__grid">
+        [% for p in f.photos[:7] %]<li><figure><img src="[[ img(p.img) ]]" alt="[[ p.alt ]]"[% if p.pos %] style="object-position:[[ p.pos ]]"[% endif %]>[% if p.titre %]<figcaption>[[ p.titre ]]</figcaption>[% endif %]</figure></li>[% endfor %]
+      </ul>
+    </div>
+  </section>
+  [% if f.zone or f.bloc2 %]
+  <section class="sec zone">
+    <div class="page zone__grid">
+      <div>
+        <h2>[[ (f.bloc2 or {}).titre|default("Où nous intervenons") ]]</h2>
+        <p class="lead">[[ f.zone|default((f.bloc2 or {}).texte|default("")) ]]</p>
+      </div>
+      [% if f.bloc2 and f.bloc2.faits %]<ul class="faits">[% for x in f.bloc2.faits %]<li><strong>[[ x.k ]]</strong>[[ x.v ]]</li>[% endfor %]</ul>[% endif %]
+    </div>
+  </section>
+  [% endif %]
+  <section class="sec devis" id="devis">
+    <div class="page devis__grid">
+      <div>
+        <h2>Demander un devis</h2>
+        <p class="lead">[[ f.devis_texte|default("Décrivez votre projet par téléphone ou par mail : nous revenons vers vous rapidement pour fixer un rendez-vous.") ]]</p>
+      </div>
+      <div class="actions">
+        <a class="btn btn--blanc" href="tel:[[ f.tel ]]">Appeler le [[ f.tel_affiche ]]</a>
+        [% if f.email %]<a class="btn btn--t" href="mailto:[[ f.email ]]?subject=Demande%20de%20devis">Écrire un mail</a>[% endif %]
+      </div>
+    </div>
+  </section>
+[% endblock %]

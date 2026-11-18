@@ -1,0 +1,160 @@
+[% extends "base.html.j2" %]
+[# Beauté : onglerie, institut, coiffure, barbier. Forme des visuels : ongle (onglerie) ou miroir (le reste). #]
+[% set forme = f.forme|default("miroir") %]
+[% set ongle = "M50 0C74 6 100 42 100 84V128C100 146 80 160 50 160C20 160 0 146 0 128V84C0 42 26 6 50 0Z" %]
+[% block css %]
+:root{--titre-style:[% if roles.titre in ("Bodoni Moda","Playfair Display","Cormorant Garamond") %]italic[% else %]normal[% endif %];--titre-poids:500;--rayon:999px;
+  --ongle:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 160' preserveAspectRatio='none'%3E%3Cpath d='[[ ongle ]]'/%3E%3C/svg%3E");}
+.hero{background:linear-gradient(180deg,var(--fond2) 0%,var(--fond) 100%);margin-top:-4.5rem;padding-top:4.5rem;overflow:hidden}
+.hero__grid{display:grid;gap:1.75rem;padding-top:2.5rem;padding-bottom:3rem;align-items:center}
+@media (min-width:900px){.hero__grid{grid-template-columns:1.05fr 1fr;gap:3rem;min-height:min(86vh,760px)}}
+.hero__kicker{color:var(--doux);margin-bottom:1rem}
+.hero__title{font-size:clamp(3rem,9vw,6.8rem);line-height:.98;letter-spacing:-.02em}
+.hero__title .ln{display:block}
+.hero__title .ln + .ln{padding-left:.6em}
+.hero__tag{font-family:var(--f-titre);font-style:var(--titre-style);font-size:clamp(1.25rem,1.2vw + 1rem,1.6rem);line-height:1.3;color:var(--bouton);margin:1.25rem 0 1.5rem;max-width:30ch}
+.fan{position:relative;width:min(100%,560px);aspect-ratio:1.45/1;margin-inline:auto}
+@media (min-width:900px){.fan{aspect-ratio:1/1}}
+.fan figure{position:absolute;bottom:6%;left:50%;width:31%;margin:0;transform-origin:50% 120%;filter:drop-shadow(0 18px 24px rgba(0,0,0,.18))}
+@media (min-width:900px){.fan figure{width:36%;bottom:14%}}
+.forme-ongle .fan figure{aspect-ratio:5/8}
+.forme-miroir .fan figure{aspect-ratio:3/4}
+.fan .f1{transform:translateX(-50%) rotate(-22deg) translateX(-62%)}
+.fan .f2{transform:translateX(-50%) translateY(-6%)}
+.fan .f3{transform:translateX(-50%) rotate(22deg) translateX(62%)}
+.forme{position:relative;width:100%;height:100%;overflow:hidden;background:var(--fond2)}
+.forme-ongle .forme{-webkit-mask:var(--ongle) center/100% 100% no-repeat;mask:var(--ongle) center/100% 100% no-repeat}
+.forme-miroir .forme{border-radius:999px 999px 1.2rem 1.2rem}
+.forme img{width:100%;height:100%;object-fit:cover}
+.forme::after{content:"";position:absolute;inset:0;background:linear-gradient(115deg,rgba(255,255,255,0) 30%,rgba(255,255,255,.35) 42%,rgba(255,255,255,0) 54%);pointer-events:none}
+.soins__grid{display:grid;gap:2.5rem}
+@media (min-width:900px){.soins__grid{grid-template-columns:1fr 1.4fr;gap:5rem}}
+.soins__list{list-style:none;margin:0;padding:0}
+.soins__list li{display:grid;grid-template-columns:1.1rem 1fr auto;gap:1.1rem;padding:1.5rem 0;border-top:1px solid var(--trait)}
+.soins__list li:last-child{border-bottom:1px solid var(--trait)}
+.soins__list li::before{content:"";width:1.1rem;height:1.75rem;margin-top:.2rem;background:var(--principale);-webkit-mask:var(--ongle) center/100% 100% no-repeat;mask:var(--ongle) center/100% 100% no-repeat}
+.soins__list li:nth-child(3n+2)::before{background:var(--accent)}
+.soins__list li:nth-child(3n)::before{background:var(--encre)}
+.soins__list h3{font-size:1.55rem;margin-bottom:.3rem}
+.soins__list p{color:var(--doux)}
+.soins__prix{font-variant-numeric:tabular-nums;font-weight:500;white-space:nowrap;padding-top:.3rem}
+.soins__note{margin-top:1.75rem;font-weight:500}
+.soins__note a{color:var(--bouton);text-underline-offset:3px}
+.galerie{background:var(--fond2)}
+.galerie__head{display:grid;gap:1rem;margin-bottom:3rem}
+@media (min-width:900px){.galerie__head{grid-template-columns:1fr 1fr;align-items:end}}
+.rack{list-style:none;margin:0;padding:0 0 1rem;display:flex;gap:1rem;overflow-x:auto;scroll-snap-type:x mandatory}
+.rack li{flex:0 0 44%;scroll-snap-align:start}
+@media (min-width:640px){.rack li{flex-basis:28%}}
+@media (min-width:1000px){.rack{display:grid;grid-template-columns:repeat(auto-fit,minmax(0,1fr));overflow:visible;padding:0;gap:1.25rem}}
+.rack figure{margin:0}
+.forme-ongle .rack .forme{aspect-ratio:5/8;height:auto}
+.forme-miroir .rack .forme{aspect-ratio:3/4;height:auto}
+.rack .flacon{filter:drop-shadow(0 12px 16px rgba(0,0,0,.14));transition:transform .2s var(--ease-out)}
+@media (hover:hover){.rack li:hover .flacon{transform:translateY(-6px)}}
+.rack figcaption{margin-top:.9rem;font-size:.875rem;line-height:1.4;color:var(--doux);text-align:center}
+.rack figcaption strong{display:block;color:var(--encre);font-weight:500;font-size:1rem}
+.rack__hint{margin-top:.75rem;font-size:.875rem;color:var(--doux)}
+@media (min-width:1000px){.rack__hint{display:none}}
+.bloc2{background:var(--sombre);color:var(--sur-sombre)}
+.bloc2 h2{color:#fff}
+.bloc2 .lead{color:var(--sur-sombre-doux)}
+.bloc2__grid{display:grid;gap:2rem;align-items:center}
+@media (min-width:900px){.bloc2__grid{grid-template-columns:.9fr 1.4fr;gap:4rem}}
+.bloc2 img{width:100%;border-radius:1.25rem;aspect-ratio:16/10;object-fit:cover}
+/* intro : la forme se remplit de couleur, reflet, puis s'ouvre sur le site */
+.f-beaute .intro svg{width:100%;height:100%}
+.i-veil{position:absolute;inset:0;transform-origin:50% 50%;animation:veil .9s cubic-bezier(.7,0,.84,0) 1.7s both}
+.i-nail{position:absolute;inset:0;animation:fadeOut .3s ease-in 1.55s both}
+.i-outline{opacity:0;animation:fadeIn .25s ease-out .05s both}
+.i-lacquer{transform-box:fill-box;transform:translateY(100%);animation:lacquer .8s cubic-bezier(.65,0,.35,1) .25s both}
+.i-gloss{transform-box:fill-box;opacity:0;animation:gloss .55s ease-in-out .95s both}
+.i-mono{opacity:0;animation:fadeIn .4s ease-out 1.05s both}
+@keyframes fadeIn{to{opacity:1}}
+@keyframes fadeOut{to{opacity:0}}
+@keyframes lacquer{to{transform:translateY(0)}}
+@keyframes gloss{0%{transform:translateX(0);opacity:0}20%{opacity:.9}100%{transform:translateX(320%);opacity:0}}
+@keyframes veil{to{transform:scale(18)}}
+[% endblock %]
+[% macro forme_svg(id) %][% if forme == "ongle" %]<path transform="translate(435 396) scale(1.3)" d="[[ ongle ]]"[% else %]<ellipse cx="500" cy="500" rx="92" ry="120"[% endif %][% endmacro %]
+[% block intro %]
+  <svg class="i-veil" viewBox="0 0 1000 1000" preserveAspectRatio="xMidYMid slice">
+    <defs><mask id="trou" maskUnits="userSpaceOnUse" x="-3000" y="-3000" width="7000" height="7000">
+      <rect x="-3000" y="-3000" width="7000" height="7000" fill="#fff"/>[[ forme_svg("t") ]] fill="#000"/>
+    </mask></defs>
+    <rect x="-3000" y="-3000" width="7000" height="7000" fill="[[ c.fond2 ]]" mask="url(#trou)"/>
+  </svg>
+  <svg class="i-nail" viewBox="0 0 1000 1000" preserveAspectRatio="xMidYMid slice">
+    <defs>
+      <clipPath id="clipf">[[ forme_svg("c") ]]/></clipPath>
+      <linearGradient id="laque" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="[[ c.accent ]]"/><stop offset=".55" stop-color="[[ c.principale ]]"/><stop offset="1" stop-color="[[ c.sombre ]]"/></linearGradient>
+      <linearGradient id="brille" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".85"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    </defs>
+    <g clip-path="url(#clipf)">
+      <rect x="380" y="360" width="240" height="280" fill="[[ c.fond2 ]]"/>
+      <rect class="i-lacquer" x="380" y="360" width="240" height="280" fill="url(#laque)"/>
+      <polygon class="i-gloss" points="395,360 425,360 385,640 355,640" fill="url(#brille)"/>
+      [% if f.logo_blanc %]<image class="i-mono" href="[[ img(f.logo_blanc) ]]" x="440" y="465" width="120" height="70"/>[% endif %]
+    </g>
+    [[ forme_svg("o") ]] class="i-outline" fill="none" stroke="[[ c.principale ]]" stroke-width="1.6"/>
+  </svg>
+[% endblock %]
+[% block hero %]
+  <section class="hero forme-[[ forme ]]" id="accueil">
+    <div class="page hero__grid">
+      <div>
+        <p class="hero__kicker">[[ f.accroche ]]</p>
+        <h1 class="hero__title">[% for ln in f.titre_lignes|default([f.nom]) %]<span class="ln">[[ ln ]]</span>[% endfor %]</h1>
+        [% if f.slogan %]<p class="hero__tag">[[ f.slogan ]]</p>[% endif %]
+        <p class="status" data-status><span class="status__dot"></span><span data-status-text></span></p>
+        <div class="actions">
+          <a class="btn btn--p" href="[[ cta.href ]]"[% if cta.ext %] target="_blank" rel="noopener"[% endif %]>[% if cta.ext %][[ cta.label ]][% else %]Appeler le [[ f.tel_affiche ]][% endif %]</a>
+          [% if f.email %]<a class="btn btn--t" href="mailto:[[ f.email ]]">Écrire un mail</a>[% else %]<a class="btn btn--t" href="#soins">Voir les soins</a>[% endif %]
+        </div>
+        [% if f.note %]<p class="preuve">Noté [[ f.note ]] sur 5 sur Google ([[ f.avis ]] avis)[% if f.preuve_extra %], [[ f.preuve_extra ]][% endif %].</p>[% endif %]
+      </div>
+      <div class="fan">
+        [% set fan = (f.photos[:3] if f.photos|length >= 3 else (f.photos + f.photos + f.photos)[:3]) %]
+        <figure class="f1"><div class="forme"><img src="[[ img(fan[0].img) ]]" alt="[[ fan[0].alt ]]"></div></figure>
+        <figure class="f3"><div class="forme"><img src="[[ img(fan[1].img) ]]" alt="[[ fan[1].alt ]]"></div></figure>
+        <figure class="f2"><div class="forme"><img src="[[ img(fan[2].img) ]]" alt="[[ fan[2].alt ]]"></div></figure>
+      </div>
+    </div>
+  </section>
+[% endblock %]
+[% block sections %]
+  <section class="sec" id="soins">
+    <div class="page soins__grid">
+      <div>
+        <h2>[[ f.offre_titre|default("Les soins") ]]</h2>
+        [% if f.offre_intro %]<p class="lead">[[ f.offre_intro ]]</p>[% endif %]
+      </div>
+      <div>
+        <ul class="soins__list">
+          [% for o in f.offre %]<li><div><h3>[[ o.titre ]]</h3>[% if o.texte %]<p>[[ o.texte ]]</p>[% endif %]</div>[% if o.prix %]<span class="soins__prix">[[ o.prix ]]</span>[% else %]<span></span>[% endif %]</li>[% endfor %]
+        </ul>
+        <p class="soins__note">[[ f.offre_note|default("Pour les prestations et les tarifs, appelez-nous au") ]] <a href="tel:[[ f.tel ]]">[[ f.tel_affiche ]]</a>.</p>
+      </div>
+    </div>
+  </section>
+  <section class="sec galerie forme-[[ forme ]]" id="galerie">
+    <div class="page">
+      <div class="galerie__head">
+        <h2>[[ f.galerie_titre|default("En images") ]]</h2>
+        [% if f.galerie_intro %]<p class="lead">[[ f.galerie_intro ]]</p>[% endif %]
+      </div>
+      <ul class="rack">
+        [% for p in f.photos[:7] %]<li><figure><div class="flacon"><div class="forme"><img src="[[ img(p.img) ]]" alt="[[ p.alt ]]"[% if p.pos %] style="object-position:[[ p.pos ]]"[% endif %]></div></div>[% if p.titre %]<figcaption><strong>[[ p.titre ]]</strong>[[ p.texte|default("") ]]</figcaption>[% endif %]</figure></li>[% endfor %]
+      </ul>
+      [% if f.photos|length > 3 %]<p class="rack__hint">Faites glisser pour tout voir.</p>[% endif %]
+    </div>
+  </section>
+  [% if f.bloc2 %]
+  <section class="sec bloc2">
+    <div class="page bloc2__grid">
+      <div><h2>[[ f.bloc2.titre ]]</h2><p class="lead">[[ f.bloc2.texte ]]</p></div>
+      [% if f.bloc2.img %]<img src="[[ img(f.bloc2.img) ]]" alt="[[ f.bloc2.alt|default('') ]]">[% endif %]
+    </div>
+  </section>
+  [% endif %]
+[% endblock %]
