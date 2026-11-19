@@ -1,0 +1,138 @@
+{
+ "slug": "berliner-grill",
+ "famille": "restaurant",
+ "nom": "Berliner Grill",
+ "activite": "Restaurant, grillades et kebabs",
+ "description": "Berliner Grill, restaurant rue André Kiener à Colmar : grillades, assiettes, kebabs, burgers et salades, sur place ou à emporter. Carte, horaires et contact.",
+ "ville": "Colmar",
+ "adresse": "11 rue André Kiener",
+ "cp_ville": "68000 Colmar",
+ "maps_dest": "48.0993613,7.3682688",
+ "tel": "+33675792859",
+ "tel_affiche": "06 75 79 28 59",
+ "email": "leberlinercolmar@gmail.com",
+ "facebook": "https://www.facebook.com/61573203698119/",
+ "note": "4,6",
+ "avis": 285,
+ "couleurs": {
+  "principale": "#8c2f2a",
+  "accent": "#e2a33a"
+ },
+ "hero": "salle",
+ "hero_alt": "La salle du Berliner Grill : banquettes en cuir bordeaux, tables noires, arches en pierre et en briques, lumière chaude",
+ "hero_pos": "50% 55%",
+ "accroche": "Restaurant à Colmar, rue André Kiener",
+ "titre_lignes": [
+  "Berliner",
+  "Grill"
+ ],
+ "slogan": "Grillades, assiettes et kebabs maison, à déguster sous les arches ou à emporter, midi et soir du lundi au samedi.",
+ "offre_titre": "La carte",
+ "offre_intro": "Les assiettes sont servies avec une salade et un accompagnement au choix : riz, blé ou frites. Quelques plats de la carte :",
+ "offre": [
+  {
+   "titre": "Assiette kebab Berliner",
+   "texte": "Bœuf ou poulet, salade, légumes grillés, feta.",
+   "prix": "17,50 €"
+  },
+  {
+   "titre": "Entrecôte",
+   "texte": "250 g, salade, accompagnement.",
+   "prix": "24,90 €"
+  },
+  {
+   "titre": "Iskender",
+   "texte": "Bœuf sur pain grillé au beurre, sauce tomate, yaourt.",
+   "prix": "18,50 €"
+  },
+  {
+   "titre": "Brochettes de poulet",
+   "texte": "Poulet mariné, salade, accompagnement.",
+   "prix": "16,50 €"
+  },
+  {
+   "titre": "Kebab gourmand",
+   "texte": "En sandwich, bœuf ou poulet, supplément viande.",
+   "prix": "11,50 €"
+  },
+  {
+   "titre": "Burger smash",
+   "texte": "Steak frais 100 g, crudités, sauce, frites ou salade.",
+   "prix": "11,00 €"
+  },
+  {
+   "titre": "Assiette mixte",
+   "texte": "Kebab, brochette de poulet, adana, köfte. Pour 2 : 45 €.",
+   "prix": "25,00 €"
+  },
+  {
+   "titre": "Künefe",
+   "texte": "En dessert, ou baklava et tiramisu maison.",
+   "prix": "8,50 €"
+  }
+ ],
+ "encart": {
+  "titre": "À emporter",
+  "texte": "Toute la carte est aussi à emporter. Appelez au 06 75 79 28 59 et passez prendre votre commande."
+ },
+ "photos": [
+  {
+   "img": "assiette",
+   "alt": "Une assiette de kebab aux frites maison, sauce blanche, salade, feta et piment vert"
+  },
+  {
+   "img": "salle",
+   "alt": "Les banquettes bordeaux et les arches de la salle"
+  },
+  {
+   "img": "gourmand",
+   "alt": "Le kebab gourmand mixte poulet et entrecôte, roquette, sauces, frites aux herbes"
+  },
+  {
+   "img": "facade",
+   "alt": "La façade noire du restaurant, enseigne Le Berliner et logo au taureau"
+  }
+ ],
+ "bloc2": {
+  "titre": "Sous les arches",
+  "texte": "Le Berliner Grill a ouvert le 1er mars 2025, rue André Kiener : une salle aux banquettes de cuir bordeaux, aux arches de pierre et de briques, pour manger sur place midi et soir.",
+  "faits": [
+   {
+    "k": "Depuis 2025",
+    "v": "Ouvert le 1er mars 2025."
+   },
+   {
+    "k": "6 jours",
+    "v": "Du lundi au samedi, 11h30-14h et 18h-22h."
+   }
+  ]
+ },
+ "horaires": {
+  "lundi": [
+   "11:30-14:00",
+   "18:00-22:00"
+  ],
+  "mardi": [
+   "11:30-14:00",
+   "18:00-22:00"
+  ],
+  "mercredi": [
+   "11:30-14:00",
+   "18:00-22:00"
+  ],
+  "jeudi": [
+   "11:30-14:00",
+   "18:00-22:00"
+  ],
+  "vendredi": [
+   "11:30-14:00",
+   "18:00-22:00"
+  ],
+  "samedi": [
+   "11:30-14:00",
+   "18:00-22:00"
+  ],
+  "dimanche": []
+ },
+ "polices": 4
+}
