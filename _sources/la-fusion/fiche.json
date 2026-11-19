@@ -1,0 +1,114 @@
+{
+ "slug": "la-fusion",
+ "famille": "restaurant",
+ "nom": "La Fusion",
+ "activite": "Restaurant, cuisine d'Alsace et d'Asie",
+ "description": "La Fusion, restaurant à Neuf-Brisach : plats d'Alsace et d'Asie dans une poudrière du 17e siècle, terrasse sur la place d'Armes, plats à emporter.",
+ "ville": "Neuf-Brisach",
+ "adresse": "14 place d'Armes Général de Gaulle",
+ "cp_ville": "68600 Neuf-Brisach",
+ "maps_dest": "48.0172124,7.5288412",
+ "tel": "+33389860945",
+ "tel_affiche": "03 89 86 09 45",
+ "email": "lafusion.restaurantnb@gmail.com",
+ "facebook": "https://www.facebook.com/people/La-Fusion/100057354253411/",
+ "note": "4,2",
+ "avis": 525,
+ "preuve_extra": "recommandé à 100 % sur Facebook",
+ "logo": "logo",
+ "hero": "voute",
+ "hero_alt": "La salle voûtée en briques de La Fusion, dans l'ancienne poudrière",
+ "hero_pos": "50% 45%",
+ "accroche": "Restaurant à Neuf-Brisach",
+ "titre_lignes": [
+  "La Fusion"
+ ],
+ "slogan": "La rencontre Alsace-Asie, sous les voûtes d'une poudrière du 17e siècle, au cœur de la ville fortifiée.",
+ "couleurs": {
+  "principale": "#c8302b",
+  "accent": "#e8b04a"
+ },
+ "offre_titre": "Alsace et Asie à la même table",
+ "offre_intro": "Des plats asiatiques et des plats traditionnels d'Alsace, à la carte midi et soir. Tout est aussi à emporter.",
+ "offre": [
+  {
+   "titre": "Nems",
+   "texte": "Croustillants, avec salade, menthe et sauce."
+  },
+  {
+   "titre": "Escalope panée",
+   "texte": "Avec spaetzle ou frites, et ses légumes."
+  },
+  {
+   "titre": "Tarte flambée",
+   "texte": "Sur la planche : crème, lardons, champignons."
+  }
+ ],
+ "encart": {
+  "titre": "À emporter",
+  "texte": "Appelez au 03 89 86 09 45, et passez prendre votre commande place d'Armes."
+ },
+ "photos": [
+  {
+   "img": "nems",
+   "alt": "Nems avec salade et menthe, et une salade composée, sur une table de La Fusion"
+  },
+  {
+   "img": "salle",
+   "alt": "La grande salle sous les voûtes en briques, tables dressées"
+  },
+  {
+   "img": "escalope",
+   "alt": "Escalope panée avec spaetzle et légumes"
+  },
+  {
+   "img": "tarte",
+   "alt": "Une tarte flambée aux lardons et champignons sur sa planche"
+  },
+  {
+   "img": "terrasse",
+   "alt": "La terrasse en bois sous l'auvent rayé, place d'Armes, devant la poudrière"
+  },
+  {
+   "img": "voute",
+   "alt": "Une petite salle sous la voûte, avec ses chaises rouges"
+  }
+ ],
+ "bloc2": {
+  "titre": "Une poudrière du 17e siècle",
+  "texte": "La Fusion est installée dans une ancienne poudrière de la ville fortifiée de Neuf-Brisach : une salle voûtée en briques, et l'été une terrasse ombragée sur la place d'Armes.",
+  "faits": [
+   {
+    "k": "35 places",
+    "v": "en salle, sous les voûtes"
+   },
+   {
+    "k": "35 places",
+    "v": "en terrasse, l'été"
+   },
+   {
+    "k": "Moins de 200 m",
+    "v": "d'un parking public gratuit"
+   }
+  ]
+ },
+ "horaires": {
+  "lundi": [
+   "10:00-22:00"
+  ],
+  "mardi": [
+   "10:00-22:00"
+  ],
+  "mercredi": [],
+  "jeudi": [],
+  "vendredi": [
+   "10:00-22:00"
+  ],
+  "samedi": [
+   "10:00-22:00"
+  ],
+  "dimanche": [
+   "10:00-22:00"
+  ]
+ }
+}
