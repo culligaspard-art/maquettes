@@ -1,0 +1,127 @@
+{
+ "slug": "aiolos",
+ "famille": "commerce",
+ "nom": "Aiolos",
+ "activite": "Épicerie fine grecque et traiteur",
+ "description": "Aiolos, épicerie fine grecque et traiteur au 15 rue Kléber à Colmar : produits de Grèce, plats traiteur et snacking à emporter. Horaires, téléphone et accès.",
+ "ville": "Colmar",
+ "adresse": "15 rue Kléber",
+ "cp_ville": "68000 Colmar",
+ "maps_dest": "48.0792667,7.3551653",
+ "tel": "+33770955032",
+ "tel_affiche": "07 70 95 50 32",
+ "email": "epicerie.gr@gmail.com",
+ "facebook": "https://www.facebook.com/61574401131097/",
+ "note": "4,8",
+ "avis": 17,
+ "couleurs": {
+  "principale": "#1d3fa6",
+  "accent": "#e8732c",
+  "fond": "#f7f5ef",
+  "fond2": "#e8eef8",
+  "encre": "#14213d"
+ },
+ "hero": "devanture",
+ "hero_alt": "La vitrine d'Aiolos, rue Kléber : l'enseigne « Délices et traditions », le mur bleu et les étagères en bois",
+ "hero_pos": "50% 35%",
+ "accroche": "Épicerie fine grecque et traiteur, rue Kléber à Colmar",
+ "titre_lignes": [
+  "Aiolos"
+ ],
+ "slogan": "Les produits de Grèce et des plats traiteur à emporter, au 15 rue Kléber.",
+ "offre_titre": "À la boutique",
+ "offre_intro": "Une épicerie fine spécialisée dans les produits grecs, et un comptoir traiteur pour emporter. Quelques plats de la maison :",
+ "photos": [
+  {
+   "img": "pita",
+   "alt": "Une pita kebap dans son papier kraft : viande hachée grillée, tomate, sauce blanche, avec le chevalet Aiolos",
+   "titre": "La pita kebap",
+   "texte": "À emporter, dans son papier kraft."
+  },
+  {
+   "img": "feuilletes",
+   "alt": "Des feuilletés triangulaires dorés, farcis aux épinards",
+   "titre": "Feuilletés aux épinards",
+   "texte": "Pâte fine et croustillante."
+  },
+  {
+   "img": "farcis",
+   "alt": "Un plat de tomates et poivrons farcis rôtis au four, avec des pommes de terre",
+   "titre": "Tomates et poivrons farcis",
+   "texte": "Rôtis au four avec des pommes de terre."
+  },
+  {
+   "img": "puree",
+   "alt": "Une assiette à fleurs bleues : purée jaune à l'huile d'olive, oignon rouge et olives",
+   "titre": "Purée à l'huile d'olive",
+   "texte": "Oignon rouge et olives."
+  },
+  {
+   "img": "riz",
+   "alt": "Une casserole de riz aux épinards et à l'oignon rouge",
+   "titre": "Riz aux épinards",
+   "texte": "Préparé en cuisine."
+  },
+  {
+   "img": "rayons",
+   "alt": "Les étagères en bois sur le mur bleu : huiles d'olive, bocaux, conserves et pâtes",
+   "titre": "L'épicerie",
+   "texte": "Huiles d'olive, bocaux et conserves de Grèce."
+  }
+ ],
+ "offre": [
+  {
+   "titre": "Épicerie fine",
+   "texte": "huiles d'olive, bocaux, produits de Grèce"
+  },
+  {
+   "titre": "Traiteur",
+   "texte": "plats grecs à emporter"
+  },
+  {
+   "titre": "Snacking",
+   "texte": "pita kebap, salade grecque"
+  },
+  {
+   "titre": "Boissons",
+   "texte": "café frappé, jus de grenade"
+  }
+ ],
+ "bloc2": {
+  "titre": "Des plats sur demande",
+  "texte": "Nos plats traiteur changent selon les jours. Pour une envie qui n'est pas affichée, contactez-nous : nous verrons ensemble comment vous satisfaire.",
+  "img": "farcis",
+  "alt": "Un plat de tomates et poivrons farcis",
+  "faits": [
+   {
+    "k": "Rue Kléber",
+    "v": "Au 15, au cœur de Colmar."
+   },
+   {
+    "k": "6 jours sur 7",
+    "v": "De 10 h à 19 h 30, le samedi jusqu'à 19 h."
+   }
+  ]
+ },
+ "horaires": {
+  "lundi": [
+   "10:00-19:30"
+  ],
+  "mardi": [
+   "10:00-19:30"
+  ],
+  "mercredi": [
+   "10:00-19:30"
+  ],
+  "jeudi": [
+   "10:00-19:30"
+  ],
+  "vendredi": [
+   "10:00-19:30"
+  ],
+  "samedi": [
+   "10:00-19:00"
+  ],
+  "dimanche": []
+ }
+}

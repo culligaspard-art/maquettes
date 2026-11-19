@@ -1,0 +1,35 @@
+{
+ "fonts": [
+  {
+   "key": "titre",
+   "family": "bricolage-grotesque",
+   "variable": true
+  },
+  {
+   "key": "texte",
+   "family": "dm-sans",
+   "variable": true
+  }
+ ],
+ "horaires": {
+  "lundi": [
+   "10:00-19:30"
+  ],
+  "mardi": [
+   "10:00-19:30"
+  ],
+  "mercredi": [
+   "10:00-19:30"
+  ],
+  "jeudi": [
+   "10:00-19:30"
+  ],
+  "vendredi": [
+   "10:00-19:30"
+  ],
+  "samedi": [
+   "10:00-19:00"
+  ],
+  "dimanche": []
+ }
+}
