@@ -53,3 +53,4 @@ Champs utiles par famille :
 - `commerce` : `photos` (l'étal, 3 à 6 avec titre), `offre` (liste simple), `bloc2` (la maison), `hero_legende`.
 
 Rien d'inventé : chaque texte vient d'une source publique du commerce, sinon il reste générique pour le métier.
+- `nav_labels` : renomme les entrées du menu, par ex. `{"soins": "Les prestations"}`.

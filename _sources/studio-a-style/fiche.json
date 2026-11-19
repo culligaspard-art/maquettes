@@ -1,0 +1,122 @@
+{
+ "slug": "studio-a-style",
+ "famille": "beaute",
+ "forme": "miroir",
+ "polices": 5,
+ "nom": "Studio A Style",
+ "activite": "Salon de coiffure et head spa",
+ "description": "Studio A Style, salon de coiffure et head spa japonais au 16 place Haslinger à Colmar : coupes femme et homme, couleur, barbe, head spa. Tarifs, horaires et réservation.",
+ "ville": "Colmar",
+ "adresse": "16 place Haslinger",
+ "cp_ville": "68000 Colmar",
+ "maps_dest": "48.0816259,7.3587136",
+ "tel": "+33686359567",
+ "tel_affiche": "06 86 35 95 67",
+ "email": "studioastyle.alexis@gmail.com",
+ "resa_url": "https://www.planity.com/studio-a-style-68000-colmar",
+ "facebook": "https://www.facebook.com/100063766995370/",
+ "note": "4,9",
+ "avis": 101,
+ "preuve_extra": "recommandé à 98 % sur Facebook",
+ "couleurs": {
+  "principale": "#c4521c",
+  "accent": "#1f5b5c",
+  "fond": "#f3f0eb",
+  "fond2": "#e7e1d8",
+  "encre": "#1b1d1e",
+  "sombre": "#161819"
+ },
+ "hero": "salon",
+ "hero_alt": "Le salon Studio A Style : plafond noir à lattes, bibliothèque en métal et plantes, comptoir en bois, miroir rond",
+ "hero_pos": "50% 50%",
+ "accroche": "Coiffure et head spa, place Haslinger à Colmar",
+ "titre_lignes": [
+  "Studio",
+  "A Style"
+ ],
+ "slogan": "Coupes femme et homme, couleur, barbe, et le head spa japonais, dans un salon noir, bois et végétal.",
+ "offre_titre": "Les prestations",
+ "offre_intro": "Quelques prestations et leurs tarifs, tels qu'affichés sur notre page de réservation :",
+ "offre": [
+  {
+   "titre": "Forfait homme",
+   "texte": "Coupe, 30 min. Avec mise en forme de la barbe : 38 €.",
+   "prix": "28 €"
+  },
+  {
+   "titre": "Coupe et brushing, cheveux mi-longs",
+   "texte": "1 h. Cheveux longs : 60 €.",
+   "prix": "50 €"
+  },
+  {
+   "titre": "Couleur racines, coupe et coiffage",
+   "texte": "2 h.",
+   "prix": "92 €"
+  },
+  {
+   "titre": "Head spa japonais, homme",
+   "texte": "1 h.",
+   "prix": "95 €"
+  },
+  {
+   "titre": "Head spa japonais, cheveux courts",
+   "texte": "1 h 15. Cheveux mi-longs à longs : 160 €, 2 h.",
+   "prix": "120 €"
+  }
+ ],
+ "offre_note": "Réservation en ligne sur Planity, ou par téléphone.",
+ "galerie_titre": "Le salon",
+ "galerie_intro": "Plafond noir, bois clair, mur végétal et fauteuils orange.",
+ "photos": [
+  {
+   "img": "miroirs",
+   "alt": "Les postes de coiffage, la bibliothèque en métal noir et le mur en bois du salon"
+  },
+  {
+   "img": "accueil",
+   "alt": "L'accueil et ses deux fauteuils orange, devant le comptoir noir au logo A lumineux"
+  },
+  {
+   "img": "bacs",
+   "alt": "L'espace des bacs : fauteuils cognac, mur en bois et mur végétal"
+  },
+  {
+   "img": "produits",
+   "alt": "Les étagères de soins capillaires en bois, sur un mur noir"
+  },
+  {
+   "img": "salon",
+   "alt": "Vue d'ensemble du salon, avec le miroir rond et le comptoir en bois"
+  }
+ ],
+ "bloc2": {
+  "titre": "Le head spa japonais",
+  "texte": "En plus de la coiffure, le salon propose le head spa japonais, pour hommes et pour femmes, selon la longueur des cheveux. Réservez-le en ligne ou appelez-nous.",
+  "img": "bacs"
+ },
+ "horaires": {
+  "lundi": [
+   "09:00-19:00"
+  ],
+  "mardi": [
+   "09:00-19:00"
+  ],
+  "mercredi": [
+   "09:00-19:00"
+  ],
+  "jeudi": [
+   "09:00-20:00"
+  ],
+  "vendredi": [
+   "10:00-20:00"
+  ],
+  "samedi": [
+   "09:00-16:00"
+  ],
+  "dimanche": []
+ },
+ "nav_labels": {
+  "soins": "Les prestations",
+  "galerie": "Le salon"
+ }
+}

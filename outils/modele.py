@@ -28,6 +28,7 @@ FAMILLES = {
             [("titre", "cormorant-garamond", True, "italic", None), ("texte", "figtree", True, "normal", None)],
             [("titre", "italiana", False, "normal", 400), ("texte", "karla", True, "normal", None)],
             [("titre", "marcellus", False, "normal", 400), ("texte", "mulish", True, "normal", None)],
+            [("titre", "syne", True, "normal", None), ("texte", "inter-tight", True, "normal", None)],
         ],
     },
     "emporter": {
@@ -246,7 +247,7 @@ def main():
     env.globals["img"] = lambda k: "{{img:%s}}" % k
     f = dict(fiche)
     f.setdefault("description", f'{fiche["activite"]} à {fiche["ville"]}. {fiche["adresse"]}, {fiche["cp_ville"]}.')
-    nav = [(i, l) for i, l in cfg["nav"] if not (i == "maison" and not fiche.get("bloc2"))]
+    nav = [(i, (fiche.get("nav_labels") or {}).get(i, l)) for i, l in cfg["nav"] if not (i == "maison" and not fiche.get("bloc2"))]
     html = env.get_template(f"{fam}.html.j2").render(
         f=f, c=c, faces=faces, roles=roles, famille=fam, nav=nav, cta=cta, itin=itin,
         intro_ms=cfg["intro_ms"])
