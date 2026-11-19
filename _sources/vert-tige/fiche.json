@@ -1,0 +1,134 @@
+{
+ "slug": "vert-tige",
+ "famille": "commerce",
+ "nom": "Vert Tige",
+ "activite": "Artisan fleuriste",
+ "description": "Vert Tige, artisan fleuriste au 37 rue du Logelbach à Colmar : bouquets, fleurs séchées, plantes et décoration. Horaires, téléphone et accès.",
+ "ville": "Colmar",
+ "adresse": "37 rue du Logelbach",
+ "cp_ville": "68000 Colmar",
+ "maps_dest": "48.0817609,7.3480038",
+ "tel": "+33389801323",
+ "tel_affiche": "03 89 80 13 23",
+ "email": "salome.vert.tige@gmail.com",
+ "facebook": "https://www.facebook.com/100040746671721/",
+ "note": "4,6",
+ "avis": 35,
+ "preuve_extra": "recommandé à 96 % sur Facebook",
+ "logo": "logo",
+ "couleurs": {
+  "principale": "#5f7d17",
+  "accent": "#a9c02f"
+ },
+ "hero": "devanture",
+ "hero_alt": "L'entrée de Vert Tige, rue du Logelbach : bruyères, chrysanthèmes et plantes en pot sur des cagettes et une vieille chaise en bois",
+ "hero_pos": "50% 55%",
+ "hero_legende": "Ouvert aussi le dimanche matin",
+ "accroche": "Artisan fleuriste à Colmar",
+ "titre_lignes": [
+  "Vert",
+  "Tige"
+ ],
+ "slogan": "Des bouquets composés à la main, des fleurs séchées et des plantes, au 37 rue du Logelbach.",
+ "offre_titre": "À la boutique",
+ "offre_intro": "Chaque bouquet part emballé dans son papier kraft, avec l'étiquette Vert Tige. Quelques compositions de la boutique, au fil des saisons :",
+ "photos": [
+  {
+   "img": "bouquet-automne",
+   "alt": "Un bouquet d'automne : dahlias pourpres, roses orangées, gerberas saumon et physalis, dans son papier kraft avec l'étiquette Vert Tige",
+   "titre": "Bouquet d'automne",
+   "texte": "Dahlias, roses orangées, physalis."
+  },
+  {
+   "img": "bouquet-jaune",
+   "alt": "Un bouquet d'été : rudbeckias jaunes, rose jaune, zinnias blancs, alstroemères et fleurs de carotte sauvage",
+   "titre": "Bouquet d'été",
+   "texte": "Rudbeckias, rose jaune, zinnias."
+  },
+  {
+   "img": "fleurs-sechees",
+   "alt": "Une composition de fleurs séchées dans un pot rose : roses, lagurus, lunaire, eucalyptus et cire florale",
+   "titre": "Fleurs séchées",
+   "texte": "En pot, roses, lagurus et lunaire.",
+   "pos": "50% 40%"
+  },
+  {
+   "img": "bouquet-rose",
+   "alt": "Un bouquet de roses roses, d'hortensia pourpre et de dahlias",
+   "titre": "Roses et hortensia",
+   "texte": "Des tons roses et prune."
+  },
+  {
+   "img": "bouquet-pivoine",
+   "alt": "Un bouquet blanc et mauve : pivoine, orchidées tigrées, freesias, agapanthes et giroflées",
+   "titre": "Pivoine et orchidées",
+   "texte": "Blanc, mauve et vert tendre."
+  },
+  {
+   "img": "vitrine",
+   "alt": "La vitrine de Vert Tige le soir : herbes de la pampa, étoiles, cœurs en bois, petites maisons et lanternes",
+   "titre": "La vitrine",
+   "texte": "Décoration et objets à offrir."
+  }
+ ],
+ "offre": [
+  {
+   "titre": "Bouquets",
+   "texte": "composés à la main"
+  },
+  {
+   "titre": "Fleurs séchées",
+   "texte": "en pot ou en bouquet"
+  },
+  {
+   "titre": "Plantes",
+   "texte": "d'intérieur et d'extérieur"
+  },
+  {
+   "titre": "Décoration",
+   "texte": "objets et idées cadeaux"
+  }
+ ],
+ "bloc2": {
+  "titre": "Salomé Oberlin, artisan fleuriste",
+  "texte": "Vert Tige, c'est la boutique de Salomé Oberlin, rue du Logelbach. Pour un bouquet à offrir, une composition pour une date précise ou une plante pour la maison, passez nous voir ou appelez-nous.",
+  "img": "bouquet-pivoine",
+  "alt": "Un bouquet de pivoine, orchidées et freesias de Vert Tige",
+  "faits": [
+   {
+    "k": "Le dimanche",
+    "v": "Ouvert de 10 h à midi."
+   },
+   {
+    "k": "Le samedi",
+    "v": "Ouvert sans interruption, de 9 h à 17 h 30."
+   }
+  ]
+ },
+ "horaires": {
+  "lundi": [],
+  "mardi": [
+   "09:00-12:15",
+   "14:30-18:30"
+  ],
+  "mercredi": [
+   "09:00-12:15",
+   "14:30-18:30"
+  ],
+  "jeudi": [
+   "10:00-12:15",
+   "14:30-18:30"
+  ],
+  "vendredi": [
+   "09:00-12:15",
+   "14:30-18:30"
+  ],
+  "samedi": [
+   "09:00-17:30"
+  ],
+  "dimanche": [
+   "10:00-12:00"
+  ]
+ },
+ "polices": 4
+}

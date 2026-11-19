@@ -76,6 +76,7 @@ FAMILLES = {
             [("titre", "dela-gothic-one", False, "normal", 400), ("texte", "karla", True, "normal", None)],
             [("titre", "ultra", False, "normal", 400), ("texte", "work-sans", True, "normal", None)],
             [("titre", "alfa-slab-one", False, "normal", 400), ("texte", "nunito-sans", True, "normal", None)],
+            [("titre", "young-serif", False, "normal", 400), ("texte", "instrument-sans", True, "normal", None)],
         ],
     },
 }
