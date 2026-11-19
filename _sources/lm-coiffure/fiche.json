@@ -1,0 +1,101 @@
+{
+ "slug": "lm-coiffure",
+ "famille": "beaute",
+ "forme": "miroir",
+ "nom": "L'M Coiffure",
+ "activite": "Salon de coiffure à Colmar",
+ "description": "L'M Coiffure, salon de coiffure au 2 rue Roesselmann à Colmar, dans une maison de maître : coupes, couleurs, coiffures de fête. Horaires et contact.",
+ "ville": "Colmar",
+ "adresse": "2 rue Roesselmann",
+ "cp_ville": "68000 Colmar",
+ "maps_dest": "48.0806416,7.3537028",
+ "tel": "+33368074367",
+ "tel_affiche": "03 68 07 43 67",
+ "email": "salonlm2023@gmail.com",
+ "facebook": "https://www.facebook.com/p/Lmcoiffure-100091417420614/",
+ "note": "4,9",
+ "avis": 44,
+ "hero": "arbre",
+ "hero_alt": "L'arbre doré du salon, entre les plantes et le fauteuil rouge",
+ "hero_pos": "50% 40%",
+ "accroche": "Salon de coiffure, rue Roesselmann à Colmar",
+ "titre_lignes": [
+  "L'M",
+  "Coiffure"
+ ],
+ "slogan": "Dans une maison de maître de la rue Roesselmann : un décor noir et or, un arbre doré, des fauteuils rouges et une lumière douce. Ouvert jusqu'à 20h du mardi au vendredi.",
+ "couleurs": {
+  "principale": "#1c2a44",
+  "accent": "#c9a24a"
+ },
+ "offre_titre": "Au salon",
+ "offre_intro": "Pour les tarifs et les rendez-vous, appelez-nous ou écrivez-nous : on vous répond avec plaisir.",
+ "offre": [
+  {
+   "titre": "Coupe et coiffage",
+   "texte": "Pour elle et pour lui, avec le conseil qui va avec."
+  },
+  {
+   "titre": "Couleur",
+   "texte": "Couleur, reflets et éclaircissements."
+  },
+  {
+   "titre": "Coiffures de fête",
+   "texte": "Ondulations, chignons, couronnes de fleurs pour les grands jours."
+  },
+  {
+   "titre": "Soins",
+   "texte": "Au bac, avant la coupe et le coiffage."
+  }
+ ],
+ "photos": [
+  {
+   "img": "couronne",
+   "alt": "Une coiffure ondulée avec une couronne de fleurs séchées"
+  },
+  {
+   "img": "bac",
+   "alt": "Le bac à shampooing noir et or, l'arbre doré et le miroir en arche"
+  },
+  {
+   "img": "neon",
+   "alt": "Le coin canapé sous la lumière rose, avec les produits et le bac"
+  },
+  {
+   "img": "fauteuil",
+   "alt": "Le fauteuil médaillon rouge, l'arbre noir et l'étagère des produits"
+  },
+  {
+   "img": "maison",
+   "alt": "La maison de maître en briques au 2 rue Roesselmann, avec son portail en fer forgé"
+  },
+  {
+   "img": "arbre",
+   "alt": "L'arbre doré du salon et le fauteuil rouge"
+  }
+ ],
+ "bloc2": {
+  "titre": "Dans une maison de maître",
+  "texte": "Le salon est installé dans une belle maison en briques, au 2 rue Roesselmann. Derrière le portail en fer forgé : un décor noir et or, un arbre doré, des plantes partout et des fauteuils rouges.",
+  "img": "maison"
+ },
+ "horaires": {
+  "lundi": [],
+  "mardi": [
+   "10:00-20:00"
+  ],
+  "mercredi": [
+   "10:00-20:00"
+  ],
+  "jeudi": [
+   "10:00-20:00"
+  ],
+  "vendredi": [
+   "10:00-20:00"
+  ],
+  "samedi": [
+   "10:00-16:00"
+  ],
+  "dimanche": []
+ }
+}

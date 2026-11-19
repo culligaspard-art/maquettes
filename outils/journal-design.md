@@ -14,3 +14,4 @@ Une ligne par maquette. Avant chaque nouveau site, relire les 10 dernières lign
 | 2026-11-19 | Pizzeria Da Pietro | Pizzas à emporter, livraison | Rammetto One / DM Sans | rouge tomate, kraft, brun, or | Modèle « à emporter » : couvercle du carton, pizza qui tourne ; carte affichée avec prix |
 | 2026-11-19 | L'Instant Coiffure | Salon de coiffure | Italiana / Karla | noir du logo, or, gris perle | Modèle beauté, forme miroir : le miroir ovale se teinte d'or, reflet, logo blanc, puis s'ouvre ; éventail de 3 photos en arche |
 | 2026-11-19 | Colmar Coiffure | Salon de coiffure, barbier | Playfair Display italique / Outfit | anthracite, rose du néon des miroirs, beige | Modèle beauté, forme miroir (comme les miroirs ovales éclairés du salon) |
+| 2026-11-19 | L'M Coiffure | Salon de coiffure | Cormorant Garamond italique / Figtree | bleu nuit du logo, or de l'arbre, rouge velours | Modèle beauté, forme miroir (le miroir en arche du salon) |

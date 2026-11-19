@@ -1,0 +1,34 @@
+{
+ "fonts": [
+  {
+   "key": "titre",
+   "family": "cormorant-garamond",
+   "variable": true,
+   "style": "italic"
+  },
+  {
+   "key": "texte",
+   "family": "figtree",
+   "variable": true
+  }
+ ],
+ "horaires": {
+  "lundi": [],
+  "mardi": [
+   "10:00-20:00"
+  ],
+  "mercredi": [
+   "10:00-20:00"
+  ],
+  "jeudi": [
+   "10:00-20:00"
+  ],
+  "vendredi": [
+   "10:00-20:00"
+  ],
+  "samedi": [
+   "10:00-16:00"
+  ],
+  "dimanche": []
+ }
+}
