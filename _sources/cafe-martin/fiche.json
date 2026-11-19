@@ -1,0 +1,119 @@
+{
+ "slug": "cafe-martin",
+ "famille": "restaurant",
+ "polices": 0,
+ "nom": "Café Martin",
+ "activite": "Brasserie",
+ "description": "Café Martin, brasserie au 24 place de la Cathédrale à Colmar : cuisine de tradition, terrasse au pied de la collégiale Saint-Martin, ouvert tous les jours de 8 h à 22 h.",
+ "ville": "Colmar",
+ "adresse": "24 place de la Cathédrale",
+ "cp_ville": "68000 Colmar",
+ "maps_dest": "48.0778137,7.3577565",
+ "tel": "+33389244611",
+ "tel_affiche": "03 89 24 46 11",
+ "email": "cafemartincolmar@gmail.com",
+ "facebook": "https://www.facebook.com/61586616272558/",
+ "note": "4,4",
+ "avis": 39,
+ "logo": "logo",
+ "couleurs": {
+  "principale": "#2a201a",
+  "accent": "#d4a24c"
+ },
+ "hero": "terrasse",
+ "hero_alt": "La terrasse du Café Martin sous les grands parasols blancs, place de la Cathédrale, entre les maisons à colombages",
+ "hero_pos": "50% 55%",
+ "accroche": "Brasserie, place de la Cathédrale à Colmar",
+ "titre_lignes": [
+  "Café",
+  "Martin"
+ ],
+ "slogan": "Nouveau nom, nouvelle cheffe, nouvelle partition : une cuisine de tradition aux inspirations authentiques, au centre de Colmar.",
+ "offre_titre": "À la carte",
+ "offre_intro": "Ouvert tous les jours de 8 h à 22 h, en salle ou en terrasse. Quelques assiettes et verres du Café Martin :",
+ "offre": [
+  {
+   "titre": "Le croissant garni",
+   "texte": "Jambon et fromage, rubans de courgette, salade."
+  },
+  {
+   "titre": "Les tartines sur planche",
+   "texte": "Saumon, avocat, roquette, avec la corbeille de pain."
+  },
+  {
+   "titre": "Les spritz",
+   "texte": "Orange, rose ou blanc, en terrasse ou au comptoir."
+  },
+  {
+   "titre": "La cuisine de la cheffe",
+   "texte": "Une cuisine de tradition aux inspirations authentiques."
+  }
+ ],
+ "encart": {
+  "titre": "La carte des voyages",
+  "texte": "Au café, une carte du monde attend votre empreinte : dites-nous d'où vous venez."
+ },
+ "photos": [
+  {
+   "img": "tartines",
+   "alt": "Des tartines au saumon et à l'avocat sur une planche en bois, avec la corbeille de pain, devant la collégiale Saint-Martin"
+  },
+  {
+   "img": "place",
+   "alt": "La terrasse du Café Martin, ses parasols, ses buis et ses maisons à colombages, place de la Cathédrale"
+  },
+  {
+   "img": "croissant",
+   "alt": "Un croissant garni jambon-fromage, des rubans de courgette et une salade, sur une table en terrasse"
+  },
+  {
+   "img": "spritz",
+   "alt": "Deux spritz, un orange et un rose, sur une table de la terrasse"
+  },
+  {
+   "img": "bar",
+   "alt": "Un spritz blanc sur le comptoir, devant les étagères de verres éclairées"
+  },
+  {
+   "img": "terrasse",
+   "alt": "La terrasse au soleil, sous les parasols"
+  }
+ ],
+ "bloc2": {
+  "titre": "Au pied de la collégiale",
+  "texte": "Le Café Martin est au 24 place de la Cathédrale, face à la collégiale Saint-Martin, dont le dessin orne notre logo. Une grande terrasse sous les parasols blancs, entre les buis et les maisons à colombages.",
+  "faits": [
+   {
+    "k": "7 jours sur 7",
+    "v": "De 8 h à 22 h."
+   },
+   {
+    "k": "Depuis 2026",
+    "v": "Un nouveau nom et une nouvelle cheffe."
+   }
+  ]
+ },
+ "horaires": {
+  "lundi": [
+   "08:00-22:00"
+  ],
+  "mardi": [
+   "08:00-22:00"
+  ],
+  "mercredi": [
+   "08:00-22:00"
+  ],
+  "jeudi": [
+   "08:00-22:00"
+  ],
+  "vendredi": [
+   "08:00-22:00"
+  ],
+  "samedi": [
+   "08:00-22:00"
+  ],
+  "dimanche": [
+   "08:00-22:00"
+  ]
+ }
+}
