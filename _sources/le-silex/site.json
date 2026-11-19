@@ -1,0 +1,10 @@
+{
+  "fonts": [
+    {"key": "caprasimo", "family": "caprasimo", "weight": 400},
+    {"key": "albert", "family": "albert-sans", "variable": true}
+  ],
+  "horaires": {
+    "lundi": [], "mardi": ["18:30-23:59"], "mercredi": ["18:30-23:59"], "jeudi": ["18:30-23:59"],
+    "vendredi": ["18:30-23:59"], "samedi": ["18:30-23:59"], "dimanche": []
+  }
+}
