@@ -1,0 +1,125 @@
+{
+ "slug": "linstant-present",
+ "famille": "beaute",
+ "forme": "ongle",
+ "nom": "L'Instant Présent",
+ "activite": "Institut de beauté et de bien-être",
+ "description": "L'Instant Présent, institut de beauté et de bien-être au 24 rue de la Houblonnière à Colmar : massages, soins du visage et du corps, mains et pieds, épilations. Tarifs, horaires et contact.",
+ "ville": "Colmar",
+ "adresse": "24 rue de la Houblonnière",
+ "cp_ville": "68000 Colmar",
+ "maps_dest": "48.0863131,7.3633363",
+ "tel": "+33630189914",
+ "tel_affiche": "06 30 18 99 14",
+ "email": "institutlinstantpresent@gmail.com",
+ "facebook": "https://www.facebook.com/100072301262257/",
+ "note": "5,0",
+ "avis": 113,
+ "preuve_extra": "recommandé à 100 % sur Facebook",
+ "couleurs": {
+  "principale": "#c2185b",
+  "accent": "#b8925a"
+ },
+ "hero": "table",
+ "hero_alt": "La cabine de soin de L'Instant Présent : table de massage, bougie allumée et fleur rouge, cadres roses au mur",
+ "hero_pos": "50% 60%",
+ "accroche": "Institut de beauté et de bien-être à Colmar",
+ "titre_lignes": [
+  "L'Instant",
+  "Présent"
+ ],
+ "slogan": "Bien plus qu'un simple soin : un grand moment de détente, de lâcher-prise et de reconnexion à soi.",
+ "offre_titre": "Les soins",
+ "offre_intro": "Soins du visage et du corps, massages bien-être, mains et pieds, épilations. Quelques soins de la carte, avec leurs tarifs :",
+ "offre": [
+  {
+   "titre": "Massage L'Instant Présent",
+   "texte": "Le massage du lâcher-prise : effleurages, lissages, étirements doux. 1 h, ou 1 h 30 à 112 €.",
+   "prix": "75 €"
+  },
+  {
+   "titre": "Massage polynésien Lomi-Lomi",
+   "texte": "Enveloppant, relaxant et équilibrant, à l'huile de Tiaré. 1 h.",
+   "prix": "75 €"
+  },
+  {
+   "titre": "Massage balinais",
+   "texte": "Tonique et défatigant : pressions, frictions, effleurages. 1 h.",
+   "prix": "80 €"
+  },
+  {
+   "titre": "Gommage et massage du dos",
+   "texte": "Gommage puis massage relaxant du dos. 45 min.",
+   "prix": "70 €"
+  },
+  {
+   "titre": "Manucurie",
+   "texte": "Bain tiède, mise en forme, cuticules, vernis soin, crème. 45 min environ.",
+   "prix": "45 €"
+  },
+  {
+   "titre": "Les pieds dans le bain",
+   "texte": "Bain, mise en forme, cuticules, callosités, vernis soin. 1 h environ.",
+   "prix": "49 €"
+  }
+ ],
+ "offre_note": "Tarifs relevés sur la carte des soins de l'institut. Pour la carte complète et les rendez-vous, appelez-nous.",
+ "galerie_titre": "À l'institut",
+ "galerie_intro": "Une cabine douce, des produits choisis, et le temps qu'il faut.",
+ "photos": [
+  {
+   "img": "cabine",
+   "alt": "La cabine : cadres roses, bougie, oiseaux en céramique et fleurs sur un plateau doré"
+  },
+  {
+   "img": "couronne",
+   "alt": "La carte de L'Instant Présent dans une couronne d'eucalyptus, avec des gouttes de verre rose"
+  },
+  {
+   "img": "soins",
+   "alt": "Des soins Perron Rigot Yona entre des fleurs blanches et de petites lumières"
+  },
+  {
+   "img": "soleil",
+   "alt": "Les soins solaires Beauté Simple, bio et fabriqués en France, présentés à l'institut"
+  },
+  {
+   "img": "bon-cadeau",
+   "alt": "Un bon cadeau de L'Instant Présent posé dans des plumes blanches et des perles"
+  },
+  {
+   "img": "fauteuil",
+   "alt": "Un fauteuil rose et un coussin « Home » sur la terrasse de l'institut"
+  }
+ ],
+ "bloc2": {
+  "titre": "Un bon cadeau à offrir",
+  "texte": "Un massage, un soin des mains ou des pieds : offrez un moment à l'Instant Présent. Les bons cadeaux sont disponibles à l'institut, appelez-nous pour le préparer.",
+  "img": "bon-cadeau"
+ },
+ "horaires": {
+  "lundi": [
+   "09:00-12:00",
+   "14:00-19:00"
+  ],
+  "mardi": [],
+  "mercredi": [
+   "09:00-12:00",
+   "14:00-19:00"
+  ],
+  "jeudi": [
+   "09:00-12:00",
+   "14:00-19:00"
+  ],
+  "vendredi": [
+   "09:00-12:00",
+   "14:00-19:00"
+  ],
+  "samedi": [
+   "09:00-12:00",
+   "14:00-17:00"
+  ],
+  "dimanche": []
+ },
+ "polices": 4
+}

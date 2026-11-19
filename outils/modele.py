@@ -27,6 +27,7 @@ FAMILLES = {
             [("titre", "playfair-display", True, "italic", None), ("texte", "outfit", True, "normal", None)],
             [("titre", "cormorant-garamond", True, "italic", None), ("texte", "figtree", True, "normal", None)],
             [("titre", "italiana", False, "normal", 400), ("texte", "karla", True, "normal", None)],
+            [("titre", "marcellus", False, "normal", 400), ("texte", "mulish", True, "normal", None)],
         ],
     },
     "emporter": {
