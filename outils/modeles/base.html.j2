@@ -166,7 +166,7 @@ p{margin:0}
 
 <footer class="foot">
   <div class="page foot__grid">
-    [% if f.logo %]<img class="foot__logo" src="[[ img(f.logo) ]]" alt="Logo de [[ f.nom ]]">[% else %]<p class="foot__nom">[[ f.nom ]]</p>[% endif %]
+    [% if f.logo %]<img class="foot__logo" src="[[ img(f.logo_blanc or f.logo) ]]" alt="Logo de [[ f.nom ]]">[% else %]<p class="foot__nom">[[ f.nom ]]</p>[% endif %]
     <div>
       <p><strong>[[ f.nom ]]</strong><br>[[ f.adresse ]], [[ f.cp_ville ]]<br><a href="tel:[[ f.tel ]]">[[ f.tel_affiche ]]</a></p>
       <div class="foot__liens">

@@ -1,0 +1,58 @@
+{
+ "slug": "linstant-coiffure",
+ "famille": "beaute",
+ "forme": "miroir",
+ "nom": "L'Instant Coiffure",
+ "activite": "Salon de coiffure à Colmar",
+ "description": "L'Instant Coiffure, salon de coiffure à Colmar, rue du Nord : coupes, couleurs, balayages, lissage brésilien, chignons. Tarifs, horaires et réservation.",
+ "ville": "Colmar",
+ "adresse": "58 rue du Nord",
+ "cp_ville": "68000 Colmar",
+ "maps_dest": "48.0809366,7.3594742",
+ "tel": "+33389417438",
+ "tel_affiche": "03 89 41 74 38",
+ "email": "instant.coiffure.colmar@gmail.com",
+ "resa_url": "https://www.planity.com/linstant-coiffure-68000-colmar",
+ "facebook": "https://www.facebook.com/p/Linstant-Coiffure-Colmar-100091527531710/",
+ "note": "4,8",
+ "avis": 170,
+ "preuve_extra": "et 5,0 sur Planity avec 893 avis",
+ "logo": "logo",
+ "logo_blanc": "logo-blanc",
+ "hero": "ondule",
+ "hero_alt": "Des cheveux châtains ondulés, devant le nom du salon peint au mur",
+ "hero_pos": "50% 40%",
+ "accroche": "Salon de coiffure, rue du Nord à Colmar",
+ "titre_lignes": ["L'Instant", "Coiffure"],
+ "slogan": "Coupe, couleur, balayage, lissage ou chignon : l'équipe vous accueille dans son nouveau salon, rue du Nord.",
+ "couleurs": {"principale": "#1d1d1f", "accent": "#e8b931"},
+ "offre_titre": "Les prestations",
+ "offre_intro": "Quelques tarifs, tels qu'affichés pour la réservation en ligne. Le reste est sur Planity, ou au téléphone.",
+ "offre": [
+  {"titre": "Femme, shampooing coupe brushing", "texte": "Court ou mi-long", "prix": "41 € – 47 €"},
+  {"titre": "Homme, coupe et coiffage", "texte": "Sans ou avec shampooing", "prix": "23 € – 26 €"},
+  {"titre": "Couleur, shampooing, coupe, brushing", "texte": "Aux épaules", "prix": "88 €"},
+  {"titre": "Balayage, shampooing, coupe, brushing", "texte": "Aux épaules", "prix": "110 €"},
+  {"titre": "Lissage brésilien", "texte": "Aux épaules ou dans le dos", "prix": "170 € – 200 €"},
+  {"titre": "Chignon", "texte": "Demi-tête ou entier", "prix": "40 € – 49 €"},
+  {"titre": "Enfant jusqu'à 12 ans", "texte": "Garçon ou fillette", "prix": "16 € – 24 €"},
+  {"titre": "Extensions", "texte": "Sur rendez-vous, au téléphone", "prix": "Sur devis"}
+ ],
+ "photos": [
+  {"img": "blond", "alt": "Un blond lumineux et ondulé, réalisé au salon"},
+  {"img": "rouge", "alt": "Un lisse couleur cerise, réalisé au salon"},
+  {"img": "lisse", "alt": "Un blond lisse aux épaules, au fauteuil"},
+  {"img": "coupe", "alt": "Coupe en cours au salon, ciseaux et peigne"},
+  {"img": "attente", "alt": "Le coin d'attente avec son canapé, ses coussins jaune et vert, et le café"},
+  {"img": "salon", "alt": "Le salon avec ses miroirs éclairés et ses fauteuils noirs"}
+ ],
+ "bloc2": {
+  "titre": "Un salon tout neuf",
+  "texte": "Des miroirs éclairés, un parquet clair, un coin canapé avec café et boissons fraîches pour patienter : le salon de la rue du Nord a été pensé pour qu'on s'y sente bien.",
+  "img": "salon"
+ },
+ "horaires": {
+  "lundi": [], "mardi": ["09:00-18:00"], "mercredi": ["09:00-13:00"], "jeudi": ["09:00-19:00"],
+  "vendredi": ["09:00-18:00"], "samedi": ["09:00-16:00"], "dimanche": []
+ }
+}
