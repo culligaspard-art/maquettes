@@ -1,0 +1,55 @@
+{
+ "slug": "colmar-coiffure",
+ "famille": "beaute",
+ "forme": "miroir",
+ "nom": "Colmar Coiffure",
+ "activite": "Salon de coiffure et barbier à Colmar",
+ "description": "Colmar Coiffure, route de Neuf-Brisach à Colmar : coupes femme et homme, barbier, couleurs, balayages, lissages, colorimétrie. Tarifs, horaires et réservation.",
+ "ville": "Colmar",
+ "adresse": "91 route de Neuf-Brisach",
+ "cp_ville": "68000 Colmar",
+ "maps_dest": "48.0804663,7.3785203",
+ "tel": "+33389238511",
+ "tel_affiche": "03 89 23 85 11",
+ "email": "Colmar.coiffure@gmail.com",
+ "resa_url": "https://www.planity.com/colmar-coiffure-68000",
+ "instagram": "https://www.instagram.com/colmar_coiffure/",
+ "note": "4,9",
+ "avis": 134,
+ "preuve_extra": "et 4,9 sur Planity avec 152 avis",
+ "hero": "blond",
+ "hero_alt": "Un blond cuivré lumineux, ondulé, réalisé au salon",
+ "hero_pos": "50% 35%",
+ "accroche": "Salon de coiffure et barbier, route de Neuf-Brisach à Colmar",
+ "titre_lignes": ["Colmar", "Coiffure"],
+ "slogan": "Coupes, couleurs, balayages et lissages pour elle, dégradés et barbe pour lui, et des conseils en colorimétrie pour trouver les nuances qui vous illuminent.",
+ "couleurs": {"principale": "#2b2522", "accent": "#e8a993"},
+ "offre_titre": "Les prestations",
+ "offre_intro": "Quelques tarifs, tels qu'affichés pour la réservation en ligne. Balayages, mèches et ombrés se réservent par téléphone, au salon ou sur Instagram.",
+ "offre": [
+  {"titre": "Coupe femme, cheveux secs", "texte": "Court, mi-long ou long", "prix": "24 € – 28 €"},
+  {"titre": "Shampooing, coupe, brushing", "texte": "Cheveux courts", "prix": "38 €"},
+  {"titre": "Coupe homme", "texte": "Dégradé, taper fade, mullet… avec ou sans shampooing", "prix": "20 € – 23 €"},
+  {"titre": "Coupe et barbe", "texte": "Shampooing, coupe, barbe", "prix": "33 €"},
+  {"titre": "Coloration racines", "texte": "Hors shampooing et brushing", "prix": "32 €"},
+  {"titre": "Balayage", "texte": "Court ou mi-long, sur rendez-vous par téléphone", "prix": "dès 26 €"},
+  {"titre": "Lissage brésilien", "texte": "Mi-long ou long", "prix": "180 € – 200 €"},
+  {"titre": "Séance colorimétrie", "texte": "Les couleurs qui illuminent votre teint, foulards à l'appui", "prix": "60 €"}
+ ],
+ "photos": [
+  {"img": "cuivre", "alt": "Un cuivré brillant, coupé en dégradé, réalisé au salon"},
+  {"img": "salon", "alt": "Le salon avec ses miroirs ovales éclairés et ses fauteuils noirs"},
+  {"img": "miroirs", "alt": "Les miroirs ovales éclairés et les étagères en bois"},
+  {"img": "bacs", "alt": "Les bacs à shampooing et les produits de soin"},
+  {"img": "blond", "alt": "Un blond cuivré ondulé"}
+ ],
+ "bloc2": {
+  "titre": "Une mèche test, toujours",
+  "texte": "Avant un balayage, un ombré ou des mèches, envoyez-nous une photo de vos cheveux et de ce que vous souhaitez. Une mèche test, gratuite, vérifie la réaction de vos cheveux pour un résultat sûr.",
+  "img": "salon"
+ },
+ "horaires": {
+  "lundi": ["09:00-12:00", "13:00-18:30"], "mardi": ["09:00-18:30"], "mercredi": ["09:00-18:30"], "jeudi": ["09:00-18:30"],
+  "vendredi": ["09:00-18:30"], "samedi": ["09:00-17:00"], "dimanche": []
+ }
+}
