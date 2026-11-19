@@ -1,0 +1,58 @@
+{
+ "slug": "cafe-des-marchands",
+ "famille": "restaurant",
+ "polices": 1,
+ "nom": "Le Café des Marchands",
+ "activite": "Bar à vin et bar à bière",
+ "description": "Le Café des Marchands, bar à vin et à bière au 9 rue des Marchands, dans le centre historique de Colmar : vins, bières, planchettes, petite restauration et terrasse au calme.",
+ "ville": "Colmar",
+ "adresse": "9 rue des Marchands",
+ "cp_ville": "68000 Colmar",
+ "maps_dest": "48.0767563,7.358024",
+ "email": "cafedesmarchands@gmail.com",
+ "facebook": "https://www.facebook.com/cafedesmarchands",
+ "note": "4,3",
+ "avis": 274,
+ "preuve_extra": "recommandé à 86 % sur Facebook",
+ "couleurs": {"principale": "#2d4a3e", "accent": "#d9a441"},
+ "hero": "salle",
+ "hero_alt": "La salle du Café des Marchands : grandes fenêtres en arc, mange-debout en bois, tabourets en métal, fauteuils en cuir, vitrail aux culs de bouteille",
+ "hero_pos": "50% 50%",
+ "accroche": "Bar à vin et bar à bière, rue des Marchands à Colmar",
+ "titre_lignes": ["Le Café", "des Marchands"],
+ "slogan": "Vins, bières et planchettes en plein cœur du centre historique, avec une terrasse au calme.",
+ "offre_titre": "Au comptoir",
+ "offre_intro": "Un bar à vin et un bar à bière, avec de quoi grignoter. Ce que vous trouverez chez nous :",
+ "offre": [
+  {"titre": "Les vins", "texte": "Au verre, le blanc servi dans le verre à pied vert d'Alsace."},
+  {"titre": "Les bières", "texte": "Belges, alsaciennes, de brasseurs, et des bières de Colmar."},
+  {"titre": "Les planchettes", "texte": "Fromages, charcuteries, pâté, cornichons, tomates séchées, noix."},
+  {"titre": "Petite restauration", "texte": "De quoi accompagner un verre, à l'intérieur ou en terrasse."}
+ ],
+ "encart": {"titre": "La terrasse", "texte": "Aux beaux jours, installez-vous en terrasse, au calme, dans une rue pavée du centre historique."},
+ "photos": [
+  {"img": "planche", "alt": "Une planchette sur ardoise : fromages, charcuteries, pâté, cornichons, tomates cerises, avec un verre de blanc d'Alsace et un verre de rouge"},
+  {"img": "etageres", "alt": "Les étagères de bières dans une niche en pierre : bières belges, alsaciennes et de brasseurs, verres suspendus"},
+  {"img": "bieres", "alt": "Deux bières de Colmar en verre : une blonde Hoppy Nobilis et une Estivale rouge"},
+  {"img": "terrasse", "alt": "La terrasse : tables et chaises noires sur les pavés de la rue des Marchands, maisons colorées en face"},
+  {"img": "vitrine", "alt": "La vitrine en arc et son logo Le Café des Marchands, Bar à vin, Bar à bière"},
+  {"img": "bouledogue", "alt": "Le bouledogue en costume et chapeau, mascotte du café, devant le mur de bouteilles de vin"}
+ ],
+ "bloc2": {
+  "titre": "En plein centre historique",
+  "texte": "Le Café des Marchands est au 9 rue des Marchands, dans le vieux Colmar : une salle sous les arcs de pierre, des fauteuils en cuir, des mange-debout en bois, et le bouledogue en costume qui veille sur les bouteilles.",
+  "faits": [
+   {"k": "11 h – 19 h", "v": "Du jeudi au lundi."},
+   {"k": "Terrasse", "v": "Au calme, sur les pavés."}
+  ]
+ },
+ "horaires": {
+  "lundi": ["11:00-19:00"],
+  "mardi": [],
+  "mercredi": [],
+  "jeudi": ["11:00-19:00"],
+  "vendredi": ["11:00-19:00"],
+  "samedi": ["11:00-19:00"],
+  "dimanche": ["11:00-19:00"]
+ }
+}

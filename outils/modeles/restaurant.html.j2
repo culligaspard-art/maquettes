@@ -89,7 +89,7 @@
       [% if f.slogan %]<p class="hero__tag">[[ f.slogan ]]</p>[% endif %]
       <p class="status" data-status><span class="status__dot"></span><span data-status-text></span></p>
       <div class="actions">
-        <a class="btn btn--p" href="[[ cta.href ]]"[% if cta.ext %] target="_blank" rel="noopener"[% endif %]>[% if cta.ext %][[ cta.label ]][% else %]Appeler le [[ f.tel_affiche ]][% endif %]</a>
+        <a class="btn btn--p" href="[[ cta.href ]]"[% if cta.ext %] target="_blank" rel="noopener"[% endif %]>[% if cta.ext or not f.tel %][[ cta.label ]][% else %]Appeler le [[ f.tel_affiche ]][% endif %]</a>
         <a class="btn btn--t" href="#carte">Voir la carte</a>
       </div>
       [% if f.note %]<p class="preuve" style="color:var(--doux)">Noté [[ f.note ]] sur 5 sur Google ([[ f.avis ]] avis)[% if f.preuve_extra %], [[ f.preuve_extra ]][% endif %].</p>[% endif %]

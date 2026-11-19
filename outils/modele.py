@@ -200,7 +200,9 @@ def main():
     fam = fiche.get("famille")
     if fam not in FAMILLES:
         sys.exit(f"Famille inconnue « {fam} ». Choix : {', '.join(FAMILLES)}")
-    for k in ("slug", "nom", "activite", "ville", "adresse", "cp_ville", "tel", "tel_affiche", "hero", "photos", "horaires"):
+    if not fiche.get("tel") and not fiche.get("email"):
+        sys.exit("Il faut au moins un téléphone ou un mail dans fiche.json")
+    for k in ("slug", "nom", "activite", "ville", "adresse", "cp_ville", "hero", "photos", "horaires"):
         if not fiche.get(k):
             sys.exit(f"Champ manquant dans fiche.json : {k}")
     verifier_horaires(fiche["horaires"])
@@ -233,6 +235,8 @@ def main():
         cta = {"href": resa, "label": fiche.get("resa_label") or "Réserver", "ext": True}
     elif fam == "artisan" and fiche.get("email"):
         cta = {"href": "#devis", "label": cfg["cta"], "ext": False}
+    elif not fiche.get("tel"):
+        cta = {"href": "mailto:" + fiche["email"], "label": "Nous écrire", "ext": False}
     else:
         cta = {"href": "tel:" + fiche["tel"], "label": cfg["cta"] if fam != "restaurant" else "Appeler", "ext": False}
 

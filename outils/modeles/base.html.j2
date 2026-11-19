@@ -133,7 +133,7 @@ p{margin:0}
   </div>
   <nav class="nav-panel" id="nav-panel" aria-label="Menu">
     [% for id, label in nav %]<a href="#[[ id ]]">[[ label ]]</a>[% endfor %]
-    <a href="tel:[[ f.tel ]]">Appeler le [[ f.tel_affiche ]]</a>
+    [% if f.tel %]<a href="tel:[[ f.tel ]]">Appeler le [[ f.tel_affiche ]]</a>[% else %]<a href="mailto:[[ f.email ]]">Nous écrire</a>[% endif %]
   </nav>
 </header>
 
@@ -152,9 +152,9 @@ p{margin:0}
         <h2>Nous trouver</h2>
         <div class="contact-carte">
           <address>[[ f.adresse ]]<br>[[ f.cp_ville ]]</address>
-          <p class="lignes"><a href="tel:[[ f.tel ]]">[[ f.tel_affiche ]]</a>[% if f.email %]<br><a href="mailto:[[ f.email ]]">[[ f.email ]]</a>[% endif %]</p>
+          <p class="lignes">[% if f.tel %]<a href="tel:[[ f.tel ]]">[[ f.tel_affiche ]]</a><br>[% endif %][% if f.email %]<a href="mailto:[[ f.email ]]">[[ f.email ]]</a>[% endif %]</p>
           <div class="actions">
-            <a class="btn btn--p" href="tel:[[ f.tel ]]">Appeler</a>
+            [% if f.tel %]<a class="btn btn--p" href="tel:[[ f.tel ]]">Appeler</a>[% else %]<a class="btn btn--p" href="mailto:[[ f.email ]]">Nous écrire</a>[% endif %]
             <a class="btn btn--t" href="[[ itin ]]" target="_blank" rel="noopener">Calculer l'itinéraire</a>
           </div>
           [% if f.note %]<p class="preuve">Noté [[ f.note ]] sur 5 sur Google, [[ f.avis ]] avis.</p>[% endif %]
@@ -168,7 +168,7 @@ p{margin:0}
   <div class="page foot__grid">
     [% if f.logo %]<img class="foot__logo" src="[[ img(f.logo_blanc or f.logo) ]]" alt="Logo de [[ f.nom ]]">[% else %]<p class="foot__nom">[[ f.nom ]]</p>[% endif %]
     <div>
-      <p><strong>[[ f.nom ]]</strong><br>[[ f.adresse ]], [[ f.cp_ville ]]<br><a href="tel:[[ f.tel ]]">[[ f.tel_affiche ]]</a></p>
+      <p><strong>[[ f.nom ]]</strong><br>[[ f.adresse ]], [[ f.cp_ville ]][% if f.tel %]<br><a href="tel:[[ f.tel ]]">[[ f.tel_affiche ]]</a>[% endif %]</p>
       <div class="foot__liens">
         [% if f.facebook %]<a href="[[ f.facebook ]]" target="_blank" rel="noopener">Facebook</a>[% endif %]
         [% if f.instagram %]<a href="[[ f.instagram ]]" target="_blank" rel="noopener">Instagram</a>[% endif %]

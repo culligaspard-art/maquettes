@@ -54,3 +54,4 @@ Champs utiles par famille :
 
 Rien d'inventé : chaque texte vient d'une source publique du commerce, sinon il reste générique pour le métier.
 - `nav_labels` : renomme les entrées du menu, par ex. `{"soins": "Les prestations"}`.
+- Sans téléphone publié : laisser `tel` vide, le mail devient le bouton principal (« Nous écrire »). Modèle restaurant et beauté seulement.
