@@ -1,0 +1,12 @@
+{
+  "fonts": [
+    {"key": "gloock", "family": "gloock", "weight": 400},
+    {"key": "allura", "family": "allura", "weight": 400},
+    {"key": "manrope", "family": "manrope", "variable": true}
+  ],
+  "horaires": {
+    "lundi": [], "mardi": ["12:00-13:30", "19:00-21:00"], "mercredi": ["12:00-13:30", "19:00-21:00"],
+    "jeudi": ["12:00-13:30", "19:00-21:00"], "vendredi": ["12:00-13:30", "19:00-21:00"], "samedi": ["12:00-13:30", "19:00-21:30"],
+    "dimanche": []
+  }
+}
