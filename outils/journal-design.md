@@ -27,3 +27,4 @@ Une ligne par maquette. Avant chaque nouveau site, relire les 10 dernières lign
 | 2026-11-19 | Le Café des Marchands | Bar à vin et à bière | Young Serif / Karla | vert sapin, ambre, pierre | Modèle restaurant : rideau sombre, iris sur la salle aux arcs ; sans téléphone publié, bouton « Nous écrire » |
 | 2026-11-19 | Café Martin | Brasserie | Fraunces / Work Sans | brun café, crème du logo, or | Modèle restaurant : rideau sombre, sceau du logo (dessin de la collégiale), iris sur la terrasse aux parasols |
 | 2026-11-19 | L'Empreinte d'Or | Salon de toilettage | Cinzel / Nunito Sans | or du logo, turquoise de la table, crème, noir | Modèle commerce : rideau métallique peint au nom ; store or et blanc ; parcours de Morgane Kern tiré du portrait TV7 |
+| 2026-11-19 | Ganache | Maison de chocolats | Yeseva One / Figtree | rouge de l'enseigne, grès rose, chocolat, or | Modèle pâtisserie : la nappe vichy s'ouvre sur la plaque ovale au nom ; vitrine en arche |

@@ -1,0 +1,103 @@
+{
+ "slug": "ganache",
+ "famille": "patisserie",
+ "nom": "Ganache",
+ "activite": "Maison de chocolats et produits gourmands",
+ "description": "Ganache, maison de chocolats et produits gourmands depuis 2014, au 42 rue des Marchands à Colmar : chocolats, nougats, biscuits, confiseries et cadeaux gourmands.",
+ "ville": "Colmar",
+ "adresse": "42 rue des Marchands",
+ "cp_ville": "68000 Colmar",
+ "maps_dest": "48.0763556,7.3582806",
+ "tel": "+33661538007",
+ "tel_affiche": "06 61 53 80 07",
+ "email": "ganache.colmar@gmail.com",
+ "facebook": "https://www.facebook.com/ChocolaterieGanache/",
+ "note": "4,7",
+ "avis": 58,
+ "preuve_extra": "recommandé à 100 % sur Facebook",
+ "couleurs": {
+  "principale": "#c8102e",
+  "accent": "#5a2e1b"
+ },
+ "nom_plaque": "Ganache",
+ "ruban": "depuis 2014",
+ "hero": "vitrine",
+ "hero_alt": "La vitrine de Ganache rue des Marchands : l'enseigne rouge sous l'arc de grès rose, l'étalage de chocolats et les jardinières de géraniums",
+ "hero_pos": "50% 45%",
+ "accroche": "Maison de chocolats, rue des Marchands à Colmar",
+ "titre_lignes": [
+  "Ganache"
+ ],
+ "slogan": "Chocolats et produits gourmands de qualité depuis 2014, au cœur du vieux Colmar.",
+ "offre_titre": "La vitrine",
+ "offre_intro": "Chocolats, nougats, biscuits, pâtes à tartiner et confiseries : ce qui vous attend derrière la vitrine.",
+ "photos": [
+  {
+   "img": "comptoir",
+   "alt": "Le comptoir des chocolats : rochers, truffes blanches, mendiants, florentins, cœurs décorés, chacun avec son étiquette"
+  },
+  {
+   "img": "coeurs",
+   "alt": "Un cœur en chocolat sous ruban rouge, des palets « Je t'aime » et une boîte de dragées Michel Cluizel"
+  },
+  {
+   "img": "nougats",
+   "alt": "L'étal de nougats sur une nappe jaune devant la boutique, chaque variété avec son ardoise"
+  },
+  {
+   "img": "fete",
+   "alt": "La vitrine décorée pour la fête des mères, avec ses fleurs et ses façades en tablettes de chocolat"
+  },
+  {
+   "img": "boutique",
+   "alt": "Deux personnes de l'équipe dans la boutique, devant les étagères colorées de pâtes à tartiner et de chocolats"
+  },
+  {
+   "img": "vitrine",
+   "alt": "La vitrine Ganache sous son arc"
+  }
+ ],
+ "bloc2": {
+  "titre": "Une maison de chocolats depuis 2014",
+  "texte": "Ganache est installée au 42 rue des Marchands, sous un arc de grès rose. On y trouve des chocolats et des produits gourmands choisis pour leur qualité, et une pancarte sur la façade le rappelle : nougat, chocolat et biscuits sans gluten.",
+  "img": "boutique",
+  "alt": "L'équipe de Ganache dans la boutique",
+  "faits": [
+   {
+    "k": "2014",
+    "v": "Ouverture de la maison."
+   },
+   {
+    "k": "Sans gluten",
+    "v": "Nougats, chocolats et biscuits, comme l'indique la pancarte en façade."
+   }
+  ]
+ },
+ "commande": {
+  "titre": "Un cadeau gourmand",
+  "texte": "Pour une fête, un anniversaire ou un merci, passez à la boutique, rue des Marchands, ou appelez-nous.",
+  "img": "coeurs",
+  "alt": "Un cœur en chocolat sous ruban rouge"
+ },
+ "horaires": {
+  "lundi": [
+   "10:00-18:00"
+  ],
+  "mardi": [
+   "10:00-18:00"
+  ],
+  "mercredi": [
+   "10:00-18:00"
+  ],
+  "jeudi": [
+   "10:00-18:00"
+  ],
+  "vendredi": [
+   "10:00-18:00"
+  ],
+  "samedi": [
+   "10:00-18:00"
+  ],
+  "dimanche": []
+ }
+}
