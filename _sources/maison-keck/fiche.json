@@ -1,0 +1,123 @@
+{
+ "slug": "maison-keck",
+ "famille": "commerce",
+ "nom": "Maison Keck",
+ "activite": "Boucherie-charcuterie",
+ "description": "Maison Keck, boucherie-charcuterie colmarienne, sur les marchés de Colmar depuis 1947 et le vendredi après-midi à domicile, 27 Krebsweg. Horaires, téléphone et accès.",
+ "ville": "Colmar",
+ "adresse": "27 Krebsweg",
+ "cp_ville": "68000 Colmar",
+ "maps_dest": "48.0722285,7.37614",
+ "tel": "+33613398205",
+ "tel_affiche": "06 13 39 82 05",
+ "email": "keck@club-internet.fr",
+ "facebook": "https://www.facebook.com/maisonkeck/",
+ "note": "4,8",
+ "avis": 19,
+ "couleurs": {
+  "principale": "#b3141c",
+  "accent": "#e9b949"
+ },
+ "hero": "etal-equipe",
+ "hero_alt": "Derrière la vitrine de Maison Keck : bœuf, veau, saucisses, boudins et knacks, avec leurs ardoises, et l'équipe souriante",
+ "hero_pos": "50% 45%",
+ "hero_legende": "Depuis 1947 sur vos marchés",
+ "accroche": "Boucherie-charcuterie colmarienne",
+ "titre_lignes": [
+  "Maison",
+  "Keck"
+ ],
+ "slogan": "Sur les marchés de Colmar, et le vendredi après-midi chez nous, au 27 Krebsweg.",
+ "offre_titre": "À l'étal",
+ "offre_intro": "Bœuf, veau, porc, volaille, et la charcuterie d'Alsace : ce que vous trouverez dans notre vitrine, selon les jours et les saisons.",
+ "photos": [
+  {
+   "img": "boudins",
+   "alt": "Des boudins noirs empilés, entre des saucisses de viande, des chorizos et des rouleaux de saucisse de foie",
+   "titre": "Boudins et saucisses",
+   "texte": "Saucisse de foie, knacks, chipolatas."
+  },
+  {
+   "img": "saucisses-blanches",
+   "alt": "Un plateau de saucisses blanches, avec des boudins et des knacks derrière, entre une bouteille de crémant et une de vin blanc",
+   "titre": "Saucisses blanches",
+   "texte": "Avec boudins et knacks."
+  },
+  {
+   "img": "etal",
+   "alt": "La vitrine réfrigérée : côte de bœuf, rôtis, grillades marinées, saucisses blanches, knacks et saucisse de foie",
+   "titre": "Bœuf et grillades",
+   "texte": "Pièces à rôtir, grillades marinées.",
+   "pos": "50% 60%"
+  },
+  {
+   "img": "stand",
+   "alt": "Le camion-étal de Maison Keck sous la halle, avec la pancarte « Choucroute nouvelle biologique » et l'enseigne rouge",
+   "titre": "La choucroute bio",
+   "texte": "Affichée sur notre stand.",
+   "pos": "50% 40%"
+  },
+  {
+   "img": "enseigne",
+   "alt": "L'enseigne lumineuse « Maison Keck, depuis 1947 sur vos marchés » au-dessus de la vitrine",
+   "titre": "Notre stand",
+   "texte": "L'enseigne rouge, sur les marchés."
+  },
+  {
+   "img": "boudins-blancs",
+   "alt": "Un plateau de boudins blancs avec l'ardoise « Boudins blancs truffés », entre des knacks et des saucisses de légumes",
+   "titre": "Boudins blancs truffés",
+   "texte": "Annoncés à l'ardoise, selon la saison.",
+   "pos": "50% 55%"
+  }
+ ],
+ "offre": [
+  {
+   "titre": "Charcuterie",
+   "texte": "saucisses, salami, lard, jambons"
+  },
+  {
+   "titre": "Boucherie",
+   "texte": "bœuf, veau, porc, volaille, lapin"
+  },
+  {
+   "titre": "Grillades",
+   "texte": "saucisses blanches, merguez, marinées"
+  },
+  {
+   "titre": "Spécialités",
+   "texte": "choucroute, baeckeoffe, fleischschnaka"
+  }
+ ],
+ "bloc2": {
+  "titre": "Sur les marchés et à domicile",
+  "texte": "Maison Keck est une boucherie-charcuterie colmarienne, présente sur les marchés de Colmar. Le vendredi après-midi, nous vous accueillons chez nous, au 27 Krebsweg. Pour être sûr d'avoir ce que vous voulez, pensez à commander par téléphone.",
+  "img": "stand",
+  "alt": "Le stand de Maison Keck sous la halle du marché",
+  "faits": [
+   {
+    "k": "Depuis 1947",
+    "v": "sur les marchés, comme l'annonce notre enseigne."
+   },
+   {
+    "k": "Le vendredi",
+    "v": "de 14 h à 19 h, à domicile, 27 Krebsweg."
+   }
+  ]
+ },
+ "horaires": {
+  "lundi": [],
+  "mardi": [],
+  "mercredi": [],
+  "jeudi": [
+   "07:00-12:30"
+  ],
+  "vendredi": [
+   "14:00-19:00"
+  ],
+  "samedi": [
+   "06:45-12:30"
+  ],
+  "dimanche": []
+ }
+}

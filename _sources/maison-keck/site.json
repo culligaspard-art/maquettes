@@ -1,0 +1,29 @@
+{
+ "fonts": [
+  {
+   "key": "titre",
+   "family": "dela-gothic-one",
+   "weight": 400
+  },
+  {
+   "key": "texte",
+   "family": "karla",
+   "variable": true
+  }
+ ],
+ "horaires": {
+  "lundi": [],
+  "mardi": [],
+  "mercredi": [],
+  "jeudi": [
+   "07:00-12:30"
+  ],
+  "vendredi": [
+   "14:00-19:00"
+  ],
+  "samedi": [
+   "06:45-12:30"
+  ],
+  "dimanche": []
+ }
+}
