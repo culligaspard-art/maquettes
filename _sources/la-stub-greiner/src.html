@@ -1,0 +1,439 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>La Stub Greiner – Restaurant alsacien à Volgelsheim – Maquette de site</title>
+<meta name="description" content="La Stub, restaurant Greiner à Volgelsheim : le buffet des traditions, les plats alsaciens et une stub tout en bois. Horaires, réservation par téléphone et accès.">
+<meta name="theme-color" content="#5d1212">
+<link rel="icon" href="{{img:logo}}">
+<script>
+  (function () {
+    var d = document.documentElement;
+    d.classList.add("js");
+    if (!window.matchMedia("(prefers-reduced-motion: reduce)").matches) d.classList.add("js-intro");
+  })();
+</script>
+<style>
+@font-face{font-family:"Sancreek";font-weight:400;font-style:normal;font-display:swap;src:url({{font:sancreek}}) format("woff2")}
+@font-face{font-family:"Public Sans";font-weight:300 700;font-style:normal;font-display:swap;src:url({{font:publicsans}}) format("woff2")}
+:root{
+  --vin:#5d1212;--rouge:#a3201f;--rouge-clair:#c4382f;
+  --creme:#f3e4c4;--papier:#faf3e3;--papier2:#f1e5c9;
+  --sapin:#22402e;--bleu:#1d4651;--or:#c08a33;--or-clair:#e2b866;
+  --encre:#2b1b12;--doux:#6b5444;--trait:#dcc9a4;
+  --f-titre:"Sancreek", Georgia, serif;
+  --f-texte:"Public Sans", system-ui, sans-serif;
+  --ease-out:cubic-bezier(.16,1,.3,1);--ease-in:cubic-bezier(.7,0,.84,0);
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%;scroll-behavior:smooth;scroll-padding-top:5rem}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+body{margin:0;background:var(--papier);color:var(--encre);font:400 1rem/1.6 var(--f-texte);overflow-x:hidden}
+img{display:block;max-width:100%}
+a{color:inherit}
+:focus-visible{outline:3px solid var(--or);outline-offset:3px;border-radius:4px}
+h1,h2,h3{font-family:var(--f-titre);font-weight:400;line-height:1.08;margin:0;letter-spacing:.01em}
+p{margin:0}
+.page{width:100%;max-width:1280px;margin-inline:auto;padding-inline:clamp(20px,5vw,56px)}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+
+/* bandeau maquette */
+.demo{background:var(--encre);color:#e9dcc2;font-size:.875rem;line-height:1.45;text-align:center;padding:.6rem 1rem}
+.demo strong{font-weight:600;color:#fff}
+
+/* boutons */
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:.55rem;min-height:48px;padding:.75rem 1.35rem;border-radius:999px;font-weight:600;text-decoration:none;border:2px solid transparent;transition:background-color .15s ease,color .15s ease,border-color .15s ease;white-space:nowrap}
+.btn svg{width:20px;height:20px;flex:none}
+.btn--rouge{background:var(--rouge);color:#fff}
+.btn--rouge:hover{background:var(--vin)}
+.btn--creme{background:var(--creme);color:var(--vin)}
+.btn--creme:hover{background:#fff}
+.btn--ligne{border-color:currentColor;color:inherit}
+.btn--ligne:hover{background:rgba(255,255,255,.12)}
+.btn--ligne-sombre{border-color:var(--vin);color:var(--vin)}
+.btn--ligne-sombre:hover{background:var(--vin);color:#fff}
+
+/* en-tête */
+.top{position:sticky;top:0;z-index:40;color:#fff;transition:background-color .2s ease,box-shadow .2s ease,color .2s ease}
+.top.is-solid{background:var(--papier);color:var(--encre);box-shadow:0 1px 0 var(--trait)}
+.top__in{display:flex;align-items:center;gap:1.25rem;min-height:4.5rem}
+.brand{display:flex;align-items:center;gap:.7rem;text-decoration:none;margin-right:auto;min-height:44px;min-width:0}
+.brand img{width:3rem;height:3rem;border-radius:50%;object-fit:cover;box-shadow:0 0 0 2px var(--or)}
+.brand span{font-family:var(--f-titre);font-size:1.35rem;line-height:1;white-space:nowrap}
+.nav{display:none;gap:1.6rem}
+.nav a{text-decoration:none;font-weight:500;padding:.6rem 0;border-bottom:2px solid transparent}
+.nav a:hover{border-bottom-color:var(--or)}
+.top .btn{display:none}
+.menu-btn{flex:none;display:inline-grid;place-items:center;width:44px;height:44px;border:0;border-radius:50%;background:var(--creme);color:var(--vin);cursor:pointer}
+.menu-btn svg{width:22px;height:22px}
+.nav-panel{display:none;flex-direction:column;padding:.5rem clamp(20px,5vw,56px) 1.25rem;background:var(--papier);color:var(--encre);border-bottom:1px solid var(--trait)}
+.nav-panel.is-open{display:flex}
+.nav-panel a{padding:.8rem 0;text-decoration:none;font-weight:500;border-bottom:1px solid var(--trait)}
+.nav-panel a:last-child{border-bottom:0}
+@media (min-width:900px){.nav{display:flex}.top .btn{display:inline-flex}.menu-btn,.nav-panel{display:none!important}}
+
+/* hero */
+.hero{position:relative;margin-top:-4.5rem;min-height:min(100svh,880px);display:flex;align-items:flex-end;color:#fff;overflow:hidden;background:var(--vin)}
+.hero__media{position:absolute;inset:-6% 0 0;will-change:transform}
+.hero__media img{width:100%;height:100%;object-fit:cover;object-position:60% 55%}
+.hero::after{content:"";position:absolute;inset:0;background:linear-gradient(90deg,rgba(43,10,8,.88) 0%,rgba(43,10,8,.62) 42%,rgba(43,10,8,.12) 75%),linear-gradient(0deg,rgba(43,10,8,.7),rgba(43,10,8,0) 45%)}
+.hero__in{position:relative;z-index:1;padding-block:8rem clamp(3rem,8vh,5.5rem);display:grid;gap:1.4rem;max-width:44rem}
+.hero__sceau{width:clamp(96px,14vw,132px);border-radius:50%;box-shadow:0 0 0 3px var(--or),0 10px 30px rgba(0,0,0,.45)}
+.hero__sur{font-weight:600;font-size:1rem;color:var(--or-clair)}
+.hero h1{font-size:clamp(3.6rem,11vw,7.8rem);line-height:.92;color:var(--creme);text-shadow:0 3px 0 var(--vin),0 8px 30px rgba(0,0,0,.4)}
+.hero__txt{font-size:clamp(1.05rem,1.8vw,1.25rem);line-height:1.55;max-width:34rem;color:#f7ecd8}
+.status{display:inline-flex;align-items:center;gap:.6rem;font-weight:500;font-size:.95rem;opacity:0;transition:opacity .2s ease;min-height:1.5rem}
+.status.is-ready{opacity:1}
+.status__dot{width:.65rem;height:.65rem;border-radius:50%;background:#9aa49b;flex:none}
+.status[data-open="1"] .status__dot{background:#6fd07d;box-shadow:0 0 0 4px rgba(111,208,125,.25)}
+.hero__actions{display:flex;flex-wrap:wrap;gap:.75rem}
+
+/* frise de coeurs, comme les dossiers de chaises alsaciennes */
+.frise{height:30px;background:var(--creme) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='36' height='26' viewBox='0 0 36 26'%3E%3Cpath d='M18 21 C10 16 7 12.5 7 9.5 C7 7 9 5 11.5 5 C14 5 16 6.3 18 8.7 C20 6.3 22 5 24.5 5 C27 5 29 7 29 9.5 C29 12.5 26 16 18 21Z' fill='%23a3201f'/%3E%3C/svg%3E") repeat-x center/36px 26px;border-block:3px solid var(--vin)}
+
+/* sections */
+.sec{padding-block:clamp(4rem,10vw,7.5rem)}
+.sec__tete{display:grid;gap:.9rem;max-width:44rem;margin-bottom:clamp(2rem,5vw,3.25rem)}
+.sec__tete h2{font-size:clamp(2.4rem,5.6vw,4rem);color:var(--vin)}
+.sec__tete p{font-size:1.125rem;color:var(--doux);line-height:1.6}
+
+/* buffet */
+.buffet{display:grid;gap:clamp(1.5rem,4vw,3rem);align-items:center}
+@media (min-width:900px){.buffet{grid-template-columns:1.15fr 1fr}}
+.buffet__photo{margin:0;border-radius:14px;overflow:hidden;box-shadow:0 18px 40px -18px rgba(60,20,10,.5)}
+.buffet__photo img{width:100%;aspect-ratio:3/2;object-fit:cover}
+.affiche{position:relative;padding:14px;border-radius:12px;background:
+  repeating-linear-gradient(90deg,rgba(29,70,81,.85) 0 7px,transparent 7px 14px),
+  repeating-linear-gradient(0deg,rgba(163,32,31,.85) 0 7px,var(--creme) 7px 14px)}
+.affiche__in{background:var(--creme);border-radius:6px;padding:clamp(1.5rem,4vw,2.4rem);border:2px solid var(--vin);display:grid;gap:1.2rem;text-align:center}
+.affiche__in h3{font-size:clamp(1.9rem,3.6vw,2.6rem);color:var(--rouge)}
+.affiche__sous{font-weight:600;color:var(--sapin);font-size:.95rem}
+.tarifs{list-style:none;margin:0;padding:0;display:grid;gap:.85rem;text-align:left}
+.tarifs li{display:grid;grid-template-columns:auto 1fr;gap:.2rem 1rem;align-items:baseline}
+.tarifs b{font-family:var(--f-titre);font-weight:400;font-size:1.6rem;color:var(--vin);line-height:1;min-width:5.6rem}
+.tarifs span{color:var(--encre);line-height:1.45}
+.affiche__note{font-size:.875rem;color:var(--doux);line-height:1.5;border-top:1px dashed var(--or);padding-top:1rem}
+
+/* à table */
+.table-sec{background:var(--vin);color:var(--creme)}
+.table-sec .sec__tete h2{color:var(--creme)}
+.table-sec .sec__tete p{color:#e7cfae}
+.plats{display:grid;gap:1rem}
+@media (min-width:760px){.plats{grid-template-columns:1fr 1fr;grid-template-rows:auto auto}.plats .p1{grid-row:span 2}}
+.plat{position:relative;margin:0;border-radius:14px;overflow:hidden;background:#3e0c0c}
+.plat img{width:100%;height:100%;object-fit:cover;aspect-ratio:4/3}
+.plats .p1 img{aspect-ratio:auto;min-height:100%}
+@media (max-width:759px){.plats .p1 img{aspect-ratio:4/5}}
+.plat figcaption{position:absolute;left:.75rem;bottom:.75rem;background:var(--creme);color:var(--vin);font-weight:600;font-size:.95rem;padding:.45rem .85rem;border-radius:999px}
+
+/* la stub */
+.salle{display:grid;gap:clamp(1.5rem,4vw,3rem)}
+@media (min-width:900px){.salle{grid-template-columns:.8fr 1.2fr;align-items:start}}
+.salle__txt{display:grid;gap:1.1rem;font-size:1.0625rem;line-height:1.65}
+.salle__txt h2{font-size:clamp(2.4rem,5.6vw,4rem);color:var(--vin)}
+.salle__txt .btn{justify-self:start;margin-top:.5rem}
+.salle__grille{display:grid;grid-template-columns:1fr 1fr;gap:1rem}
+.salle__grille figure{margin:0;border-radius:14px;overflow:hidden}
+.salle__grille img{width:100%;height:100%;object-fit:cover}
+.salle__grille .g1{grid-row:span 2}
+.salle__grille .g1 img{aspect-ratio:2/3}
+.salle__grille .g2 img,.salle__grille .g3 img{aspect-ratio:4/3}
+
+/* preuves */
+.preuves{background:var(--sapin);color:var(--creme);padding-block:clamp(2.5rem,6vw,3.5rem)}
+.preuves__in{display:grid;gap:1.5rem;text-align:center}
+@media (min-width:760px){.preuves__in{grid-template-columns:repeat(3,1fr);align-items:center}}
+.preuve b{display:block;font-family:var(--f-titre);font-weight:400;font-size:clamp(2.4rem,5vw,3.2rem);color:var(--or-clair);line-height:1}
+.preuve span{display:block;margin-top:.4rem;font-size:.95rem;color:#d9e2d6}
+
+/* horaires et accès */
+.infos{display:grid;gap:clamp(2rem,5vw,4rem)}
+@media (min-width:900px){.infos{grid-template-columns:1fr 1fr}}
+.infos h2{font-size:clamp(2.2rem,4.6vw,3.2rem);color:var(--vin);margin-bottom:1rem}
+.infos .status{color:var(--encre);margin-bottom:1rem}
+.hours{width:100%;border-collapse:collapse;font-size:1rem}
+.hours th,.hours td{padding:.7rem .4rem;border-bottom:1px solid var(--trait);text-align:left;vertical-align:top}
+.hours th{font-weight:600;width:8.5rem}
+.hours td{color:var(--doux)}
+.hours tr.is-today th,.hours tr.is-today td{color:var(--vin);font-weight:700;background:rgba(192,138,51,.14)}
+.hours .closed{color:#9a8574}
+.hours-note{margin-top:.9rem;font-size:.875rem;color:var(--doux)}
+.carte-acces{background:var(--creme);border-radius:14px;padding:clamp(1.5rem,4vw,2.25rem);display:grid;gap:1rem;border:2px solid var(--trait)}
+address{font-style:normal;font-size:1.125rem;line-height:1.55}
+.contact a{font-weight:600;text-decoration:none;border-bottom:1px solid var(--or)}
+.contact{display:grid;gap:.35rem;font-size:1.05rem}
+.carte-acces .actions{display:flex;flex-wrap:wrap;gap:.75rem;margin-top:.5rem}
+.service{font-size:.95rem;color:var(--doux)}
+
+/* pied de page */
+.foot{background:var(--encre);color:#e9dcc2;padding-block:3rem 6.5rem}
+@media (min-width:900px){.foot{padding-bottom:3rem}}
+.foot__grid{display:grid;gap:1.75rem}
+@media (min-width:760px){.foot__grid{grid-template-columns:auto 1fr;align-items:center}}
+.foot img{width:96px;border-radius:50%;box-shadow:0 0 0 2px var(--or)}
+.foot p{line-height:1.6}
+.foot strong{color:#fff;font-weight:600}
+.foot__links{display:flex;flex-wrap:wrap;gap:1.25rem;margin-top:.75rem}
+.foot__links a{min-height:44px;display:inline-flex;align-items:center}
+.foot__demo{grid-column:1/-1;font-size:.875rem;color:#b9a88f;border-top:1px solid #4a3527;padding-top:1.5rem}
+
+/* barre mobile */
+.mbar{position:fixed;left:0;right:0;bottom:0;z-index:45;display:flex;gap:.6rem;padding:.7rem clamp(12px,4vw,20px) calc(.7rem + env(safe-area-inset-bottom));background:var(--papier);box-shadow:0 -1px 0 var(--trait),0 -8px 24px rgba(43,27,18,.12);transform:translateY(110%);transition:transform .2s var(--ease-out)}
+.mbar.is-on{transform:none}
+.mbar .btn{flex:1;padding-inline:.8rem}
+@media (min-width:900px){.mbar{display:none}}
+
+/* ouverture : le coeur de la chaise alsacienne */
+.intro{display:none}
+.js-intro .intro{display:block;position:fixed;inset:0;z-index:100;cursor:pointer;pointer-events:auto}
+.intro__panneau{position:absolute;inset:0;width:100%;height:100%;transform-origin:50% 50%;animation:entrer 1.35s var(--ease-in) 1.05s forwards}
+.intro__fleurs{opacity:0;animation:peindre .45s ease-out .25s forwards}
+.intro__liseré{stroke-dasharray:420;stroke-dashoffset:420;animation:tracer .7s ease-out .15s forwards}
+.intro__nom{position:absolute;left:0;right:0;bottom:12vh;text-align:center;font-family:var(--f-titre);font-size:clamp(1.6rem,4.2vw,2.6rem);color:var(--creme);text-shadow:0 2px 0 var(--vin);opacity:0;animation:nom .6s ease-out .35s forwards,sortir .25s ease-in 1.05s forwards}
+@keyframes peindre{to{opacity:1}}
+@keyframes tracer{to{stroke-dashoffset:0}}
+@keyframes nom{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:none}}
+@keyframes sortir{to{opacity:0}}
+@keyframes entrer{0%{transform:scale(1)}100%{transform:scale(16);opacity:0}}
+.intro-skip .intro{display:none!important}
+</style>
+</head>
+<body>
+
+<div class="intro" id="intro" aria-hidden="true">
+  <svg class="intro__panneau" viewBox="0 0 1000 1000" preserveAspectRatio="xMidYMid slice">
+    <defs>
+      <linearGradient id="bois" x1="0" y1="0" x2="1" y2="0">
+        <stop offset="0" stop-color="#4a2a17"/><stop offset=".18" stop-color="#6d4022"/><stop offset=".36" stop-color="#55311b"/>
+        <stop offset=".55" stop-color="#7a4a27"/><stop offset=".74" stop-color="#5a341c"/><stop offset="1" stop-color="#6a3e21"/>
+      </linearGradient>
+      <pattern id="veines" width="60" height="1000" patternUnits="userSpaceOnUse">
+        <path d="M8 0 C14 200 2 380 10 560 S16 860 8 1000 M32 0 C26 160 40 330 30 520 S22 820 34 1000 M50 0 C54 240 44 470 52 700 S48 900 50 1000" fill="none" stroke="#3a200f" stroke-opacity=".35" stroke-width="1.6"/>
+      </pattern>
+      <radialGradient id="lueur" cx=".5" cy=".5" r=".5"><stop offset="0" stop-color="#ffcf7a" stop-opacity=".55"/><stop offset="1" stop-color="#ffcf7a" stop-opacity="0"/></radialGradient>
+    </defs>
+    <path fill="url(#bois)" fill-rule="evenodd" d="M-2000-2000H3000V3000H-2000Z M500 590 C440 552 404 520 404 478 C404 448 426 426 455 426 C474 426 490 436 500 452 C510 436 526 426 545 426 C574 426 596 448 596 478 C596 520 560 552 500 590 Z"/>
+    <path fill="url(#veines)" fill-rule="evenodd" d="M-2000-2000H3000V3000H-2000Z M500 590 C440 552 404 520 404 478 C404 448 426 426 455 426 C474 426 490 436 500 452 C510 436 526 426 545 426 C574 426 596 448 596 478 C596 520 560 552 500 590 Z"/>
+    <ellipse cx="500" cy="500" rx="150" ry="140" fill="url(#lueur)"/>
+    <path class="intro__liseré" fill="none" stroke="#e2b866" stroke-width="5" d="M500 606 C430 563 390 526 390 478 C390 440 418 412 455 412 C474 412 490 420 500 434 C510 420 526 412 545 412 C582 412 610 440 610 478 C610 526 570 563 500 606 Z"/>
+    <g class="intro__fleurs">
+      <g transform="translate(372 410)"><circle r="16" fill="#a3201f"/><circle r="6" fill="#e2b866"/><path d="M0-34 C10-24 10-18 0-16 C-10-18 -10-24 0-34Z" fill="#a3201f"/></g>
+      <g transform="translate(628 410)"><circle r="16" fill="#a3201f"/><circle r="6" fill="#e2b866"/><path d="M0-34 C10-24 10-18 0-16 C-10-18 -10-24 0-34Z" fill="#a3201f"/></g>
+      <g transform="translate(500 372)"><circle r="12" fill="#1d4651"/><circle r="5" fill="#f3e4c4"/></g>
+      <path d="M352 440 C330 480 346 520 380 540 M648 440 C670 480 654 520 620 540" fill="none" stroke="#22402e" stroke-width="6" stroke-linecap="round"/>
+      <path d="M346 488 C326 488 318 500 322 512 C336 510 346 502 346 488Z M654 488 C674 488 682 500 678 512 C664 510 654 502 654 488Z" fill="#22402e"/>
+      <g transform="translate(500 640)"><circle r="10" fill="#a3201f"/><circle r="4" fill="#e2b866"/><circle cx="-28" r="7" fill="#1d4651"/><circle cx="28" r="7" fill="#1d4651"/></g>
+    </g>
+  </svg>
+  <p class="intro__nom">La Stub</p>
+</div>
+
+<p class="demo">Maquette réalisée par Gaspard Culli pour <strong>La Stub, restaurant Greiner</strong>. Ce site n'est pas encore en ligne.</p>
+
+<header class="top" id="top">
+  <div class="page top__in">
+    <a class="brand" href="#accueil"><img src="{{img:logo}}" alt=""><span>La Stub</span></a>
+    <nav class="nav" aria-label="Navigation principale">
+      <a href="#buffet">Le buffet</a>
+      <a href="#a-table">À table</a>
+      <a href="#la-stub">La salle</a>
+      <a href="#horaires">Horaires</a>
+    </nav>
+    <a class="btn btn--rouge" href="tel:+33745058898">Réserver une table</a>
+    <button class="menu-btn" id="menu-btn" type="button" aria-expanded="false" aria-controls="nav-panel" aria-label="Ouvrir le menu">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+    </button>
+  </div>
+  <nav class="nav-panel" id="nav-panel" aria-label="Navigation mobile">
+    <a href="#buffet">Le buffet des traditions</a>
+    <a href="#a-table">À table</a>
+    <a href="#la-stub">La salle</a>
+    <a href="#horaires">Horaires et accès</a>
+    <a href="tel:+33745058898">Réserver : 07 45 05 88 98</a>
+  </nav>
+</header>
+
+<main id="accueil">
+  <section class="hero" aria-labelledby="titre">
+    <div class="hero__media" id="hero-media"><img src="{{img:assiette}}" alt="Une assiette de chou rouge et pommes vapeur, avec un verre de vin blanc et une bière brune, sur une table de La Stub"></div>
+    <div class="page hero__in">
+      <img class="hero__sceau" src="{{img:logo}}" alt="Enseigne de La Stub, restaurant Greiner : L'Alsace à table">
+      <p class="hero__sur">Restaurant Greiner, à Volgelsheim</p>
+      <h1 id="titre">La Stub</h1>
+      <p class="hero__txt">L'Alsace à table, midi et soir : le buffet des traditions, les grands classiques alsaciens et une salle tout en bois, avec ses banquettes à cœurs.</p>
+      <p class="status" data-status aria-live="polite"><span class="status__dot"></span><span data-status-text></span></p>
+      <div class="hero__actions">
+        <a class="btn btn--creme" href="tel:+33745058898">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M5 4h4l2 5-2.5 1.5a11 11 0 0 0 5 5L15 13l5 2v4a2 2 0 0 1-2 2A16 16 0 0 1 3 6a2 2 0 0 1 2-2"/></svg>
+          Réserver : 07 45 05 88 98</a>
+        <a class="btn btn--ligne" href="#buffet">Voir le buffet</a>
+      </div>
+    </div>
+  </section>
+
+  <div class="frise" role="presentation"></div>
+
+  <section class="sec" id="buffet" aria-labelledby="t-buffet">
+    <div class="page">
+      <div class="sec__tete">
+        <h2 id="t-buffet">Le buffet des traditions</h2>
+        <p>Saumon, charcuteries, salades, crudités et douceurs : au buffet des traditions, chacun se sert à son rythme.</p>
+      </div>
+      <div class="buffet">
+        <figure class="buffet__photo"><img src="{{img:buffet}}" alt="Le buffet de La Stub : saumon, charcuteries, salades, céleri, carottes râpées et desserts"></figure>
+        <div class="affiche">
+          <div class="affiche__in">
+            <h3>Buffet des traditions</h3>
+            <p class="affiche__sous">Les tarifs, tels qu'affichés en salle</p>
+            <ul class="tarifs">
+              <li><b>16,50 €</b><span>du lundi au vendredi midi, sauf jours fériés</span></li>
+              <li><b>24,50 €</b><span>les soirs, le samedi midi et les jours fériés</span></li>
+              <li><b>11,00 €</b><span>pour les enfants de 3 à 8 ans</span></li>
+            </ul>
+            <p class="affiche__note">Contre le gaspillage, servez-vous raisonnablement : une assiette non terminée entraîne un supplément de 6 €.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="sec table-sec" id="a-table" aria-labelledby="t-table">
+    <div class="page">
+      <div class="sec__tete">
+        <h2 id="t-table">À table</h2>
+        <p>Tarte flambée, choucroute garnie, chou rouge et pommes vapeur : les classiques d'Alsace, servis avec un verre de blanc ou une bière.</p>
+      </div>
+      <div class="plats">
+        <figure class="plat p1"><img src="{{img:tarte}}" alt="Une tarte flambée servie à la table" style="object-position:50% 70%"><figcaption>La tarte flambée</figcaption></figure>
+        <figure class="plat"><img src="{{img:choucroute}}" alt="Une choucroute garnie : saucisse, viandes fumées, chou, avec une bière et un verre de vin blanc"><figcaption>La choucroute garnie</figcaption></figure>
+        <figure class="plat"><img src="{{img:assiette}}" alt="Chou rouge, pommes vapeur et viande, avec un vin blanc et une bière" style="object-position:70% 70%"><figcaption>Chou rouge et pommes vapeur</figcaption></figure>
+      </div>
+    </div>
+  </section>
+
+  <section class="sec" id="la-stub" aria-labelledby="t-salle">
+    <div class="page salle">
+      <div class="salle__txt">
+        <h2 id="t-salle">Une vraie stub</h2>
+        <p>Des poteaux en bois, des banquettes aux coussins à cœurs, des lampes d'autrefois et de grandes tables pour les familles et les groupes : à La Stub, on mange comme dans une salle d'auberge alsacienne.</p>
+        <p>Le restaurant a ouvert ses portes en mai 2025, au 7 rue des Artisans à Volgelsheim.</p>
+        <a class="btn btn--ligne-sombre" href="tel:+33745058898">Réserver une table</a>
+      </div>
+      <div class="salle__grille">
+        <figure class="g1"><img src="{{img:banquette}}" alt="Une banquette en bois aux coussins à cœurs rouges, sous une lampe ancienne, avec l'enseigne La Stub au mur"></figure>
+        <figure class="g2"><img src="{{img:salle}}" alt="La grande salle, avec une grande table ronde dressée et des chaises en bois paillées"></figure>
+        <figure class="g3"><img src="{{img:reserve}}" alt="Un chevalet « Table réservée » aux couleurs de La Stub sur le comptoir"></figure>
+      </div>
+    </div>
+  </section>
+
+  <section class="preuves" aria-label="Ce qu'en disent les clients">
+    <div class="page preuves__in">
+      <p class="preuve"><b>4,4 / 5</b><span>sur Google, 190 avis</span></p>
+      <p class="preuve"><b>100 %</b><span>des avis Facebook recommandent La Stub</span></p>
+      <p class="preuve"><b>Midi et soir</b><span>du mardi au samedi, et le lundi midi</span></p>
+    </div>
+  </section>
+
+  <section class="sec" id="horaires" aria-labelledby="t-horaires">
+    <div class="page infos">
+      <div>
+        <h2 id="t-horaires">Horaires</h2>
+        <p class="status" data-status aria-live="polite"><span class="status__dot"></span><span data-status-text></span></p>
+        <table class="hours">
+          <caption class="sr">Horaires d'ouverture</caption>
+          {{hours}}
+        </table>
+        <p class="hours-note">Sur place uniquement, sans vente à emporter. Pour les groupes, appelez-nous.</p>
+      </div>
+      <div class="carte-acces" id="acces">
+        <h2>Nous trouver</h2>
+        <address>La Stub, restaurant Greiner<br>7 rue des Artisans<br>68600 Volgelsheim</address>
+        <p class="contact"><a href="tel:+33745058898">07 45 05 88 98</a><a href="mailto:lastubgreiner@gmail.com">lastubgreiner@gmail.com</a></p>
+        <div class="actions">
+          <a class="btn btn--rouge" href="tel:+33745058898">Réserver une table</a>
+          <a class="btn btn--ligne-sombre" href="https://www.google.com/maps/dir/?api=1&amp;destination=48.0119365,7.5349111" target="_blank" rel="noopener">Calculer l'itinéraire</a>
+        </div>
+      </div>
+    </div>
+  </section>
+</main>
+
+<footer class="foot">
+  <div class="page foot__grid">
+    <img src="{{img:logo}}" alt="Logo de La Stub, restaurant Greiner">
+    <div>
+      <p><strong>La Stub, restaurant Greiner</strong><br>7 rue des Artisans, 68600 Volgelsheim<br><a href="tel:+33745058898">07 45 05 88 98</a></p>
+      <div class="foot__links">
+        <a href="https://www.facebook.com/61573175250008/" target="_blank" rel="noopener">Facebook</a>
+        <a href="https://www.instagram.com/la_stub_greiner/" target="_blank" rel="noopener">Instagram</a>
+      </div>
+    </div>
+    <p class="foot__demo">Maquette réalisée par Gaspard Culli pour présenter un projet de site à La Stub. Photos et visuels issus des pages publiques de l'établissement. Ce site n'est pas encore en ligne.</p>
+  </div>
+</footer>
+
+<div class="mbar" id="mbar">
+  <a class="btn btn--rouge" href="tel:+33745058898">Réserver une table</a>
+  <a class="btn btn--ligne-sombre" href="https://www.google.com/maps/dir/?api=1&amp;destination=48.0119365,7.5349111" target="_blank" rel="noopener">Itinéraire</a>
+</div>
+
+<script>
+(function () {
+  var root = document.documentElement;
+  var reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+
+  var intro = document.getElementById("intro");
+  function skip() { root.classList.add("intro-skip"); }
+  if (root.classList.contains("js-intro")) {
+    intro.addEventListener("click", skip);
+    window.addEventListener("keydown", function once() { skip(); window.removeEventListener("keydown", once); });
+    setTimeout(skip, 2500);
+  }
+
+  var H = {{hours_js}};
+  var JOURS = ["dimanche","lundi","mardi","mercredi","jeudi","vendredi","samedi"];
+  function m(s){var p=s.split(":");return (+p[0])*60+(+p[1]);}
+  function f(s){var p=s.split(":");return (+p[0])+"h"+(p[1]==="00"?"":p[1]);}
+  var now=new Date(), d=now.getDay(), t=now.getHours()*60+now.getMinutes();
+  var row=document.querySelector('.hours tr[data-day="'+d+'"]'); if(row) row.classList.add("is-today");
+  var label=null, open=false;
+  (H[d]||[]).forEach(function(r){ if(t>=m(r[0]) && t<m(r[1])){open=true; label="Ouvert maintenant, jusqu'à "+f(r[1]);} });
+  if(!open){
+    for(var i=0;i<8 && !label;i++){
+      var dd=(d+i)%7, slots=H[dd]||[];
+      for(var k=0;k<slots.length;k++){
+        if(i>0 || m(slots[k][0])>t){ label="Fermé pour l'instant, ouvre "+(i===0?"aujourd'hui":(i===1?"demain":JOURS[dd]))+" à "+f(slots[k][0]); break; }
+      }
+    }
+  }
+  if(label){
+    document.querySelectorAll("[data-status]").forEach(function(el){
+      el.setAttribute("data-open", open?"1":"0");
+      el.querySelector("[data-status-text]").textContent=label;
+      el.classList.add("is-ready");
+    });
+  }
+
+  var mb=document.getElementById("menu-btn"), panel=document.getElementById("nav-panel");
+  function setMenu(o){ panel.classList.toggle("is-open",o); mb.setAttribute("aria-expanded",o?"true":"false"); mb.setAttribute("aria-label",o?"Fermer le menu":"Ouvrir le menu"); }
+  mb.addEventListener("click",function(){ setMenu(!panel.classList.contains("is-open")); });
+  panel.addEventListener("click",function(e){ if(e.target.closest("a")) setMenu(false); });
+  document.addEventListener("keydown",function(e){ if(e.key==="Escape" && panel.classList.contains("is-open")){ setMenu(false); mb.focus(); } });
+
+  var top=document.getElementById("top"), media=document.getElementById("hero-media"), mbar=document.getElementById("mbar"), ticking=false;
+  function onScroll(){
+    var y=window.scrollY||0;
+    top.classList.toggle("is-solid", y > window.innerHeight*0.55);
+    mbar.classList.toggle("is-on", y > window.innerHeight*0.7);
+    if(!reduce && y < window.innerHeight*1.2) media.style.transform="translate3d(0,"+(y*0.22).toFixed(1)+"px,0)";
+    ticking=false;
+  }
+  window.addEventListener("scroll",function(){ if(!ticking){ ticking=true; requestAnimationFrame(onScroll);} },{passive:true});
+  onScroll();
+})();
+</script>
+</body>
+</html>

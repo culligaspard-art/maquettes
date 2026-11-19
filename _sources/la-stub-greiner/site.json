@@ -1,0 +1,11 @@
+{
+  "fonts": [
+    {"key": "sancreek", "family": "sancreek", "weight": 400},
+    {"key": "publicsans", "family": "public-sans", "variable": true}
+  ],
+  "horaires": {
+    "lundi": ["11:30-14:00"], "mardi": ["11:30-14:00", "18:30-21:00"], "mercredi": ["11:30-14:00", "18:30-21:00"],
+    "jeudi": ["11:30-14:00", "18:30-21:00"], "vendredi": ["11:30-14:00", "18:30-21:00"], "samedi": ["11:30-14:00", "18:30-21:00"],
+    "dimanche": []
+  }
+}

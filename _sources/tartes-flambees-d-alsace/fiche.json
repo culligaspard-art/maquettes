@@ -1,0 +1,177 @@
+{
+ "slug": "tartes-flambees-d-alsace",
+ "famille": "emporter",
+ "nom": "Tartes Flambées d'Alsace",
+ "activite": "Tartes flambées au feu de bois, pour vos fêtes et à emporter",
+ "description": "Tartes Flambées d'Alsace, à Biesheim : tartes flambées cuites au feu de bois dans un four mobile, formules à volonté pour vos fêtes, mariages et associations.",
+ "ville": "Biesheim",
+ "adresse": "1 rue de Bulay",
+ "cp_ville": "68600 Biesheim",
+ "tel": "+33768122129",
+ "tel_affiche": "07 68 12 21 29",
+ "email": "phfarrugia@free.fr",
+ "facebook": "https://www.facebook.com/Tarte-flamb%C3%A9e-dAlsace-Biesheim-100127281909044/",
+ "note": "4,4",
+ "avis": 18,
+ "preuve_extra": "membre de la Confrérie du véritable Flammekueche d'Alsace",
+ "hero": "tarte-dessus",
+ "hero_alt": "Une tarte flambée garnie de crème et de lardons, prête à partir au four",
+ "accroche": "Tartes flambées au feu de bois, à Biesheim",
+ "titre_lignes": [
+  "Tartes Flambées",
+  "d'Alsace"
+ ],
+ "slogan": "Pâte fine, crème et cuisson au feu de bois : le chef vient avec son four pour vos fêtes, mariages et soirées d'association.",
+ "offre_titre": "Les formules",
+ "offre_intro": "Nature, gratinée, forestière, Munster, légumes et pommes : le chef cuit les tartes devant vos invités, au feu de bois.",
+ "offre_groupes": [
+  {
+   "titre": "À volonté, cuites par le chef",
+   "items": [
+    {
+     "titre": "Plus de 50 personnes",
+     "prix": "16,80 €",
+     "texte": "par personne"
+    },
+    {
+     "titre": "Moins de 50 personnes",
+     "prix": "18,80 €",
+     "texte": "par personne"
+    },
+    {
+     "titre": "Enfants de moins de 10 ans",
+     "prix": "Gratuit"
+    }
+   ]
+  },
+  {
+   "titre": "Pour les associations",
+   "items": [
+    {
+     "titre": "Tarte flambée cuite par le chef",
+     "prix": "6,50 €",
+     "texte": "nature, gratinée ou pommes, vendue avec les tickets de l'association"
+    }
+   ]
+  },
+  {
+   "titre": "Pour la faire chez vous",
+   "items": [
+    {
+     "titre": "Fond de tarte flambée",
+     "prix": "0,60 €",
+     "texte": "la pièce"
+    },
+    {
+     "titre": "Crème mix",
+     "prix": "7,50 €",
+     "texte": "le kilo, le seau de 5 kg fait 50 tartes"
+    },
+    {
+     "titre": "Lardons",
+     "prix": "9,80 €",
+     "texte": "le kilo, de quoi faire 15 tartes"
+    },
+    {
+     "titre": "Location du four",
+     "prix": "90 €",
+     "texte": "4 tartes à la fois, 140 € avec le bois"
+    }
+   ]
+  }
+ ],
+ "notes": [
+  {
+   "k": "Paiement",
+   "v": "virement, espèces ou chèque"
+  },
+  {
+   "k": "Aussi",
+   "v": "oignons, fromage râpé, Munster et serviettes au détail, sur demande"
+  }
+ ],
+ "moment": {
+  "titre": "Le four mobile",
+  "intro": "Le four mobile se pose chez vous, et les tartes sortent les unes après les autres.",
+  "items": [
+   {
+    "img": "chef",
+    "titre": "Le chef au four",
+    "texte": "Les tartes cuisent sur la pierre, au-dessus des bûches.",
+    "alt": "Le chef enfourne une tarte flambée dans le four à bois de la remorque"
+   },
+   {
+    "img": "four",
+    "titre": "Au feu de bois",
+    "texte": "Nature, gratinée, forestière, Munster : elles sortent les unes après les autres.",
+    "alt": "Des tartes flambées qui cuisent au-dessus du feu de bois"
+   },
+   {
+    "img": "sucree",
+    "titre": "La sucrée",
+    "texte": "Pour finir, une tarte aux fruits.",
+    "alt": "Une tarte flambée sucrée aux fraises devant le four"
+   }
+  ]
+ },
+ "commande_intro": "Un anniversaire, un mariage, une fête de village ? Appelez-nous, on prépare tout et on vient avec le four.",
+ "etapes": [
+  {
+   "titre": "Appelez-nous",
+   "texte": "Au 07 68 12 21 29 ou par mail à phfarrugia@free.fr, tous les jours de 9h à 19h."
+  },
+  {
+   "titre": "Choisissez la formule",
+   "texte": "À volonté pour vos invités, au ticket pour une association, ou le four en location."
+  },
+  {
+   "titre": "Le chef s'installe",
+   "texte": "Il arrive avec le four et cuit les tartes au feu de bois, sur place."
+  }
+ ],
+ "horaires": {
+  "lundi": [
+   "09:00-19:00"
+  ],
+  "mardi": [
+   "09:00-19:00"
+  ],
+  "mercredi": [
+   "09:00-19:00"
+  ],
+  "jeudi": [
+   "09:00-19:00"
+  ],
+  "vendredi": [
+   "09:00-19:00"
+  ],
+  "samedi": [
+   "09:00-19:00"
+  ],
+  "dimanche": [
+   "09:00-19:00"
+  ]
+ },
+ "photos": [
+  {
+   "img": "remorque",
+   "alt": "La remorque à tartes flambées avec son four à bois et l'enseigne Tartes flambées"
+  },
+  {
+   "img": "chef",
+   "alt": "Le chef enfourne une tarte flambée dans le four à bois de la remorque"
+  },
+  {
+   "img": "preparation",
+   "alt": "Des tartes flambées garnies, prêtes à cuire, sur le plan de travail"
+  },
+  {
+   "img": "diplome",
+   "alt": "Le diplôme de la Confrérie du véritable Flammekueche d'Alsace, Biesheim, 2008"
+  }
+ ],
+ "couleurs": {
+  "principale": "#9b3b1e",
+  "accent": "#e0a24a"
+ }
+}
