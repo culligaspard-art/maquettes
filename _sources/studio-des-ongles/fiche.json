@@ -1,0 +1,127 @@
+{
+ "slug": "studio-des-ongles",
+ "famille": "beaute",
+ "forme": "ongle",
+ "nom": "Studio des Ongles",
+ "activite": "Prothésiste ongulaire",
+ "description": "Studio des Ongles, place de la Mairie à Colmar : modelage d'ongles en gel, rallongement, vernis semi-permanent, nail art. Tarifs, horaires et prise de rendez-vous.",
+ "ville": "Colmar",
+ "adresse": "8 place de la Mairie",
+ "cp_ville": "68000 Colmar",
+ "maps_dest": "48.0799253,7.3577906",
+ "tel": "+33952474630",
+ "tel_affiche": "09 52 47 46 30",
+ "email": "sdesongles@gmail.com",
+ "resa_url": "https://www.planity.com/studio-des-ongles-68000-colmar",
+ "facebook": "https://www.facebook.com/61573459901861/",
+ "instagram": "https://www.instagram.com/studiodesongles_/",
+ "note": "4,9",
+ "avis": 185,
+ "logo": "logo",
+ "logo_blanc": "logo-blanc",
+ "couleurs": {
+  "principale": "#165f7a",
+  "accent": "#ff989c",
+  "fond": "#fff3f2",
+  "fond2": "#ffe2e1",
+  "encre": "#10303d"
+ },
+ "hero": "perles",
+ "hero_alt": "Une main aux ongles longs en amande, roses, framboise et babyboomer, avec des bagues perles, sur fond rose",
+ "hero_pos": "50% 45%",
+ "accroche": "Ongles en gel et semi-permanent, place de la Mairie à Colmar",
+ "titre_lignes": [
+  "Studio",
+  "des Ongles"
+ ],
+ "slogan": "Le modelage d'ongles en gel et le vernis semi-permanent, avec une manucure russe incluse pour un contour net et précis.",
+ "offre_titre": "Les prestations",
+ "offre_intro": "Rallongement au pop-it, gainage sur ongles naturels, semi-permanent mains et pieds, et nail art sur mesure. Les tarifs, tels qu'affichés sur notre page de réservation :",
+ "offre": [
+  {
+   "titre": "Rallongement en gel",
+   "texte": "Couleur, French ou babyboomer, technique pop-it. 1 h 30.",
+   "prix": "70 €"
+  },
+  {
+   "titre": "Gainage sur ongles naturels",
+   "texte": "Renforcement de l'ongle naturel, sans rallongement. 1 h.",
+   "prix": "60 €"
+  },
+  {
+   "titre": "Remplissage gel",
+   "texte": "Taille S à 60 €, taille M ou rallongement à 65 €.",
+   "prix": "60 €"
+  },
+  {
+   "titre": "Semi-permanent mains",
+   "texte": "Manucure incluse. 30 min.",
+   "prix": "50 €"
+  },
+  {
+   "titre": "Semi-permanent pieds",
+   "texte": "30 min.",
+   "prix": "45 €"
+  },
+  {
+   "titre": "Nail art",
+   "texte": "De la French colorée à la fleur en 3D, sur votre inspiration.",
+   "prix": "dès 10 €"
+  }
+ ],
+ "offre_note": "Pour un nail art, envoyez-nous votre inspiration sur Instagram ou par téléphone avant le rendez-vous.",
+ "galerie_titre": "Au studio",
+ "galerie_intro": "Amandes, babyboomer, dégradés, rouge vif : quelques poses réalisées au studio.",
+ "photos": [
+  {
+   "img": "nude",
+   "alt": "Des ongles en amande nude, deux avec des paillettes roses, sur un voile de tulle"
+  },
+  {
+   "img": "rouge",
+   "alt": "Un ongle en amande rouge vif, très brillant"
+  },
+  {
+   "img": "degrade",
+   "alt": "Deux mains croisées aux ongles longs en dégradés pastel : rose, vert, orange, lilas"
+  },
+  {
+   "img": "perles",
+   "alt": "Des ongles roses, framboise et babyboomer, avec des bagues perles"
+  },
+  {
+   "img": "devanture",
+   "alt": "L'enseigne Studio des Ongles et la vitrine, place de la Mairie"
+  },
+  {
+   "img": "facade",
+   "alt": "L'entrée du studio sous les arcades de la place de la Mairie"
+  }
+ ],
+ "bloc2": {
+  "titre": "Place de la Mairie",
+  "texte": "Le studio vous accueille du lundi au samedi, de 9 h à 19 h, au 8 place de la Mairie, sous l'enseigne bleue. Réservez en ligne, ou appelez-nous.",
+  "img": "devanture"
+ },
+ "horaires": {
+  "lundi": [
+   "09:00-19:00"
+  ],
+  "mardi": [
+   "09:00-19:00"
+  ],
+  "mercredi": [
+   "09:00-19:00"
+  ],
+  "jeudi": [
+   "09:00-19:00"
+  ],
+  "vendredi": [
+   "09:00-19:00"
+  ],
+  "samedi": [
+   "09:00-19:00"
+  ],
+  "dimanche": []
+ }
+}
