@@ -1,0 +1,131 @@
+{
+ "slug": "lempreinte-dor",
+ "famille": "commerce",
+ "nom": "L'Empreinte d'Or",
+ "activite": "Salon de toilettage",
+ "description": "L'Empreinte d'Or, salon de toilettage de Morgane Kern au 26 rue Saint-Guidon à Colmar : chiens, chats et lapins, shampoing, coupe aux ciseaux, épilation. Horaires, téléphone et accès.",
+ "ville": "Colmar",
+ "adresse": "26 rue Saint-Guidon",
+ "cp_ville": "68000 Colmar",
+ "maps_dest": "48.0763043,7.365443",
+ "tel": "+33615069647",
+ "tel_affiche": "06 15 06 96 47",
+ "email": "lempreinte.or@gmail.com",
+ "facebook": "https://www.facebook.com/61583354561909/",
+ "instagram": "https://www.instagram.com/empreinte.dor/",
+ "note": "5,0",
+ "avis": 42,
+ "logo": "logo",
+ "couleurs": {
+  "principale": "#a8822e",
+  "accent": "#2ab3b8",
+  "fond": "#faf7f0",
+  "fond2": "#efe8d8",
+  "encre": "#1d1a14",
+  "sombre": "#181612"
+ },
+ "hero": "salon",
+ "hero_alt": "Le salon de L'Empreinte d'Or : table de toilettage turquoise, baignoire, séchoirs, mur à lattes et étagère de shampoings",
+ "hero_pos": "50% 60%",
+ "hero_legende": "Toiletteuse diplômée et médaillée",
+ "accroche": "Salon de toilettage à Colmar",
+ "titre_lignes": [
+  "L'Empreinte",
+  "d'Or"
+ ],
+ "slogan": "Passion, bien-être animal et excellence au bout des ciseaux : chiens, chats et lapins, rue Saint-Guidon.",
+ "offre_titre": "Au salon",
+ "offre_intro": "Morgane Kern, artisan toiletteuse diplômée, s'occupe de chaque animal, de la baignoire à la dernière coupe aux ciseaux.",
+ "photos": [
+  {
+   "img": "caniche",
+   "alt": "Un caniche noir toiletté aux ciseaux, présenté sur une table rouge",
+   "titre": "La coupe aux ciseaux",
+   "texte": "Le travail de précision, poil par poil."
+  },
+  {
+   "img": "golden",
+   "alt": "Un golden retriever crème présenté sur un tapis bleu, en concours",
+   "titre": "En concours",
+   "texte": "Les concours, là où tout a commencé."
+  },
+  {
+   "img": "chat",
+   "alt": "Le peignage d'un chat persan gris lors d'un concours de toilettage",
+   "titre": "Les chats",
+   "texte": "Shampoing, peignage, coupe."
+  },
+  {
+   "img": "westie",
+   "alt": "Un westie blanc toiletté, sur une table de présentation en concours",
+   "titre": "L'épilation",
+   "texte": "Sa spécialité."
+  },
+  {
+   "img": "salon",
+   "alt": "La table de toilettage turquoise et la baignoire du salon",
+   "titre": "Le salon",
+   "texte": "Ouvert en 2026, rue Saint-Guidon."
+  }
+ ],
+ "offre": [
+  {
+   "titre": "Shampoing",
+   "texte": "bain et séchage"
+  },
+  {
+   "titre": "Coupe aux ciseaux",
+   "texte": "précise, poil par poil"
+  },
+  {
+   "titre": "Épilation",
+   "texte": "sa spécialité"
+  },
+  {
+   "titre": "Pour qui",
+   "texte": "chiens, chats et lapins"
+  }
+ ],
+ "bloc2": {
+  "titre": "Morgane Kern, toiletteuse médaillée",
+  "texte": "Initiée au toilettage pour présenter son propre chien en concours, Morgane a fait son apprentissage puis travaillé dans plusieurs salons alsaciens avant d'ouvrir le sien à Colmar. Compétitrice dans l'âme, elle a remporté plusieurs médailles en concours de toilettage.",
+  "img": "westie",
+  "alt": "Un westie toiletté en concours",
+  "faits": [
+   {
+    "k": "Diplômée",
+    "v": "Artisan toiletteuse, formée en apprentissage."
+   },
+   {
+    "k": "Médaillée",
+    "v": "En concours de toilettage."
+   }
+  ]
+ },
+ "horaires": {
+  "lundi": [
+   "09:00-17:00"
+  ],
+  "mardi": [
+   "09:00-17:00"
+  ],
+  "mercredi": [
+   "09:00-17:00"
+  ],
+  "jeudi": [
+   "09:00-17:00"
+  ],
+  "vendredi": [
+   "09:00-17:00"
+  ],
+  "samedi": [
+   "09:00-17:00"
+  ],
+  "dimanche": []
+ },
+ "polices": 5,
+ "nav_labels": {
+  "produits": "Le salon",
+  "maison": "Morgane"
+ }
+}

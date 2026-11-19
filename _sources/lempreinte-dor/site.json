@@ -1,0 +1,35 @@
+{
+ "fonts": [
+  {
+   "key": "titre",
+   "family": "cinzel",
+   "variable": true
+  },
+  {
+   "key": "texte",
+   "family": "nunito-sans",
+   "variable": true
+  }
+ ],
+ "horaires": {
+  "lundi": [
+   "09:00-17:00"
+  ],
+  "mardi": [
+   "09:00-17:00"
+  ],
+  "mercredi": [
+   "09:00-17:00"
+  ],
+  "jeudi": [
+   "09:00-17:00"
+  ],
+  "vendredi": [
+   "09:00-17:00"
+  ],
+  "samedi": [
+   "09:00-17:00"
+  ],
+  "dimanche": []
+ }
+}

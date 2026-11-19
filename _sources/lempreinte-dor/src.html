@@ -1,0 +1,293 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>L&#39;Empreinte d&#39;Or – Maquette de site</title>
+<meta name="description" content="L&#39;Empreinte d&#39;Or, salon de toilettage de Morgane Kern au 26 rue Saint-Guidon à Colmar : chiens, chats et lapins, shampoing, coupe aux ciseaux, épilation. Horaires, téléphone et accès.">
+<meta name="theme-color" content="#faf7f0">
+<link rel="icon" href="{{img:logo}}"><script>
+  (function () {
+    var d = document.documentElement;
+    d.classList.add("js");
+    if (!window.matchMedia("(prefers-reduced-motion: reduce)").matches) d.classList.add("js-intro");
+  })();
+</script>
+<style>
+@font-face{font-family:"Cinzel";font-style:normal;font-weight:100 900;font-display:swap;src:url({{font:titre}}) format("woff2")}
+@font-face{font-family:"Nunito Sans";font-style:normal;font-weight:100 900;font-display:swap;src:url({{font:texte}}) format("woff2")}
+:root{
+  --principale:#a8822e;--bouton:#8F6E27;--bouton-survol:#7A5E21;
+  --accent:#2ab3b8;--accent-encre:#1d1a14;
+  --fond:#faf7f0;--fond2:#efe8d8;--encre:#1d1a14;--doux:#64615A;--trait:rgba(29,26,20,.16);
+  --sombre:#181612;--sur-sombre:#D1CFC8;--sur-sombre-doux:#A4A29C;
+  --f-titre:"Cinzel", Georgia, serif;
+  --f-texte:"Nunito Sans", system-ui, sans-serif;
+--f-carte:var(--f-texte);  --titre-style:normal;--titre-poids:400;--rayon:.6rem;
+  --ease-out:cubic-bezier(.16,1,.3,1);--ease-in:cubic-bezier(.7,0,.84,0);
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%;scroll-behavior:smooth;scroll-padding-top:5rem}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+body{margin:0;background:var(--fond);color:var(--encre);font:400 1rem/1.6 var(--f-texte);overflow-x:hidden}
+img{display:block;max-width:100%}
+a{color:inherit}
+:focus-visible{outline:3px solid var(--bouton);outline-offset:3px;border-radius:4px}
+h1,h2,h3{font-family:var(--f-titre);font-style:var(--titre-style);font-weight:var(--titre-poids);line-height:1.1;margin:0}
+p{margin:0}
+.page{width:100%;max-width:1280px;margin-inline:auto;padding-inline:clamp(20px,5vw,56px)}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+.demo{background:var(--sombre);color:var(--sur-sombre);font-size:.875rem;line-height:1.45;text-align:center;padding:.6rem 1rem}
+.demo strong{font-weight:500;color:#fff}
+.top{position:sticky;top:0;z-index:40;transition:background-color .2s ease,box-shadow .2s ease}
+.top.is-solid{background:color-mix(in srgb,var(--fond) 96%,transparent);box-shadow:0 1px 0 var(--trait)}
+.top__in{display:flex;align-items:center;gap:1.25rem;min-height:4.5rem}
+.brand{display:flex;align-items:center;gap:.7rem;text-decoration:none;margin-right:auto;min-height:44px;min-width:0}
+.brand img{width:3rem;height:3rem;object-fit:contain}
+.brand span{font-family:var(--f-titre);font-style:var(--titre-style);font-size:1.2rem;line-height:1.1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.nav{display:none;gap:1.6rem}
+.nav a{text-decoration:none;font-weight:500;padding:.6rem 0;border-bottom:2px solid transparent}
+.nav a:hover{border-bottom-color:var(--principale)}
+.top .btn{display:none}
+.menu-btn{flex:none;display:inline-grid;place-items:center;width:44px;height:44px;border:0;border-radius:50%;background:var(--encre);color:var(--fond);cursor:pointer}
+.menu-btn svg{width:22px;height:22px}
+.nav-panel{display:none;flex-direction:column;padding:.5rem clamp(20px,5vw,56px) 1.25rem;background:var(--fond);border-bottom:1px solid var(--trait)}
+.nav-panel.is-open{display:flex}
+.nav-panel a{padding:.85rem 0;text-decoration:none;font-weight:500;border-bottom:1px solid var(--trait)}
+@media (min-width:900px){.nav{display:flex}.top .btn{display:inline-flex}.menu-btn{display:none}.nav-panel,.nav-panel.is-open{display:none}}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:.55rem;min-height:48px;padding:.8rem 1.35rem;border-radius:var(--rayon);font:500 1rem/1.2 var(--f-texte);text-decoration:none;border:0;cursor:pointer;transition:background-color .15s ease,color .15s ease}
+.btn svg{width:1.15em;height:1.15em;flex:none}
+.btn--p{background:var(--bouton);color:#fff}
+.btn--p:hover{background:var(--bouton-survol)}
+.btn--t{box-shadow:inset 0 0 0 2px currentColor;background:transparent}
+.btn--t:hover{background:var(--encre);color:var(--fond);box-shadow:inset 0 0 0 2px var(--encre)}
+.actions{display:flex;flex-wrap:wrap;gap:.75rem}
+.status{display:none;align-items:center;gap:.6rem;font-weight:500;margin-bottom:1.5rem}
+.status.is-ready{display:inline-flex}
+.status__dot{flex:none;width:.7rem;height:.7rem;border-radius:50%;background:#C2413A}
+.status[data-open="1"] .status__dot{background:#2E9F62;box-shadow:0 0 0 .3rem rgba(46,159,98,.22)}
+.preuve{margin-top:1.5rem;font-size:.875rem;color:var(--doux)}
+.sec{padding:clamp(4rem,8vw,7rem) 0}
+.sec h2{font-size:clamp(2.3rem,3.2vw + 1rem,3.8rem)}
+.lead{color:var(--doux);max-width:54ch;margin-top:1rem;font-size:1.0625rem}
+.visite__grid{display:grid;gap:3rem}
+@media (min-width:900px){.visite__grid{grid-template-columns:1fr 1fr;gap:5rem}}
+.hours{width:100%;border-collapse:collapse;margin-top:1.75rem;font-size:1.0625rem}
+.hours th,.hours td{text-align:left;padding:.8rem .9rem;border-bottom:1px solid var(--trait);font-weight:400}
+.hours th{width:9.5rem}
+.hours td{font-variant-numeric:tabular-nums}
+.hours tr.is-today{background:var(--fond2)}
+.hours tr.is-today th,.hours tr.is-today td{font-weight:500}
+.contact-carte{margin-top:1.75rem;background:var(--fond2);border-radius:1rem;padding:clamp(1.5rem,4vw,2.5rem)}
+.contact-carte address{font-style:normal;font-size:1.25rem;line-height:1.45;margin-bottom:1rem}
+.contact-carte .lignes{margin-bottom:1.5rem;line-height:1.9}
+.contact-carte .lignes a{text-underline-offset:3px;overflow-wrap:anywhere}
+.foot{background:var(--sombre);color:var(--sur-sombre);padding:3.5rem 0 6rem}
+.foot__grid{display:grid;gap:1.75rem;align-items:start}
+@media (min-width:900px){.foot__grid{grid-template-columns:auto 1fr 1.2fr;gap:3rem;align-items:center}.foot{padding-bottom:3.5rem}}
+.foot__logo{width:5.5rem;height:5.5rem;object-fit:contain}
+.foot__nom{font-family:var(--f-titre);font-style:var(--titre-style);font-size:1.6rem;color:#fff}
+.foot strong{color:#fff;font-weight:500}
+.foot__liens{display:flex;flex-wrap:wrap;gap:1.25rem;margin-top:.6rem}
+.foot__liens a{display:inline-flex;align-items:center;min-height:44px;font-weight:500}
+.foot__demo{font-size:.875rem;color:var(--sur-sombre-doux);max-width:52ch}
+.mbar{position:fixed;left:0;right:0;bottom:0;z-index:45;display:flex;gap:.6rem;padding:.7rem clamp(12px,4vw,20px) calc(.7rem + env(safe-area-inset-bottom));background:color-mix(in srgb,var(--fond) 97%,transparent);box-shadow:0 -1px 0 var(--trait);transform:translateY(110%);transition:transform .2s var(--ease-out)}
+.mbar.is-on{transform:none}
+.mbar .btn{flex:1}
+@media (min-width:900px){.mbar{display:none}}
+.intro{display:none}
+.js-intro .intro{display:block;position:fixed;inset:0;z-index:100;cursor:pointer;overflow:hidden}
+.intro__skip{position:absolute;left:0;right:0;bottom:1.75rem;text-align:center;font-size:.875rem;z-index:5;animation:skipOut .2s ease-in 1.4s forwards}
+.intro__skip span{background:rgba(255,255,255,.92);color:#222;padding:.25rem .7rem;border-radius:.3rem}
+@keyframes skipOut{to{opacity:0}}
+.intro-skip .intro{opacity:0;pointer-events:none;transition:opacity .15s ease-in}
+.intro-skip .intro *{animation:none!important}
+@media (prefers-reduced-motion:reduce){.intro{display:none!important}}
+:root{--titre-poids:400;--rayon:.5rem}
+.hero{margin-top:-4.5rem;padding-top:4.5rem;position:relative}
+.store{height:58px;background:repeating-linear-gradient(90deg,var(--bouton) 0 46px,var(--fond) 46px 92px);position:relative}
+.store::after{content:"";position:absolute;left:0;right:0;bottom:-16px;height:16px;background:radial-gradient(circle at 23px 0,var(--bouton) 22px,transparent 23px) 0 0/92px 16px repeat-x,radial-gradient(circle at 69px 0,var(--fond) 22px,transparent 23px) 0 0/92px 16px repeat-x;filter:drop-shadow(0 3px 2px rgba(0,0,0,.12))}
+.hero__grid{display:grid;gap:2.5rem;padding-top:3.5rem;padding-bottom:4rem;align-items:center}
+@media (min-width:900px){.hero__grid{grid-template-columns:1fr 1.05fr;gap:4rem;min-height:min(80vh,720px)}}
+.hero__kicker{font-weight:500;color:var(--doux);margin-bottom:1rem}
+.hero__title{font-size:clamp(2.8rem,7.6vw,6.4rem);line-height:.98;letter-spacing:-.02em;color:var(--encre)}
+.hero__title .ln{display:block}
+.hero__tag{font-size:clamp(1.0625rem,.6vw + .95rem,1.3rem);line-height:1.5;max-width:36ch;margin:1.5rem 0 1.5rem;color:var(--doux)}
+.devanture{position:relative;margin:0;border-radius:1.25rem;overflow:hidden;box-shadow:0 0 0 10px var(--fond2)}
+.devanture img{width:100%;aspect-ratio:5/4;object-fit:cover}
+.devanture figcaption{position:absolute;right:1rem;top:1rem;background:var(--accent);color:var(--accent-encre);font-weight:500;padding:.4rem .8rem;border-radius:999px;font-size:.9375rem;transform:rotate(3deg)}
+.produits{background:var(--fond2)}
+.produits__head{display:grid;gap:1rem;margin-bottom:3rem}
+@media (min-width:900px){.produits__head{grid-template-columns:1fr 1fr;align-items:end}}
+.etal{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(2,1fr);gap:clamp(1rem,2vw,1.5rem)}
+@media (min-width:900px){.etal{grid-template-columns:repeat(3,1fr)}}
+.etal li{background:var(--fond);border-radius:1rem;overflow:hidden;box-shadow:0 1px 0 var(--trait)}
+.etal img{width:100%;aspect-ratio:4/3;object-fit:cover}
+.etal div{padding:1rem 1.1rem 1.2rem}
+.etal h3{font-size:1.3rem;margin-bottom:.25rem}
+.etal p{color:var(--doux);font-size:.9375rem}
+.liste{list-style:none;margin:3rem 0 0;padding:0;display:grid;gap:0}
+@media (min-width:800px){.liste{grid-template-columns:1fr 1fr;column-gap:3rem}}
+.liste li{display:flex;justify-content:space-between;gap:1rem;padding:1rem 0;border-top:1px solid var(--trait)}
+.liste strong{font-weight:500}
+.liste span{color:var(--doux);text-align:right}
+.maison__grid{display:grid;gap:2.5rem;align-items:center}
+@media (min-width:900px){.maison__grid{grid-template-columns:1.1fr 1fr;gap:5rem}}
+.maison img{width:100%;aspect-ratio:1;object-fit:cover;border-radius:50% 50% 1.25rem 1.25rem}
+.faits{list-style:none;margin:2rem 0 0;padding:0}
+.faits li{display:grid;grid-template-columns:7rem 1fr;gap:1rem;padding:1rem 0;border-top:1px solid var(--trait)}
+.faits strong{font-family:var(--f-titre);font-weight:var(--titre-poids);font-size:1.3rem;color:var(--bouton)}
+/* intro : le rideau métallique se lève */
+.i-rideau{position:absolute;inset:0;background:repeating-linear-gradient(180deg,#b9bcc0 0 14px,#9ea2a7 14px 16px,#c9ccd0 16px 30px,#8f9398 30px 32px);display:grid;place-items:center;animation:leve 1.05s cubic-bezier(.7,0,.84,0) 1.45s both;box-shadow:0 10px 30px rgba(0,0,0,.3)}
+.i-rideau::after{content:"";position:absolute;left:0;right:0;bottom:0;height:22px;background:#6f7378;border-top:3px solid #55595e}
+.i-peint{font-family:var(--f-titre);font-weight:var(--titre-poids);color:var(--bouton);font-size:clamp(2rem,8vw,5.5rem);line-height:1;text-align:center;padding:0 1rem;max-width:92vw;opacity:0;transform:translateY(10px);animation:peint .5s cubic-bezier(.16,1,.3,1) .25s both;text-shadow:2px 2px 0 rgba(255,255,255,.35)}
+.i-peint small{display:block;font-family:var(--f-texte);font-weight:500;font-size:clamp(.9rem,2.4vw,1.2rem);color:#2b2d30;margin-top:.6rem}
+.i-lumiere{position:absolute;inset:0;background:radial-gradient(ellipse at 50% 100%,color-mix(in srgb,var(--accent) 45%,#fff),var(--fond) 70%)}
+@keyframes leve{to{transform:translateY(-102%)}}
+@keyframes peint{to{opacity:1;transform:none}}
+</style>
+</head>
+<body class="f-commerce">
+<div class="intro" id="intro" aria-hidden="true">
+  <div class="i-lumiere"></div>
+  <div class="i-rideau"><p class="i-peint">L&#39;Empreinte d&#39;Or<small>Salon de toilettage</small></p></div>
+  <p class="intro__skip"><span>Cliquer pour passer</span></p>
+</div>
+<div class="demo" role="note"><strong>Maquette réalisée par Gaspard Culli</strong> pour L&#39;Empreinte d&#39;Or. Ce site n'est pas encore en ligne.</div>
+<header class="top" id="top">
+  <div class="page top__in">
+    <a class="brand" href="#accueil"><img src="{{img:logo}}" alt=""><span>L&#39;Empreinte d&#39;Or</span></a>
+    <nav class="nav" aria-label="Navigation principale">
+<a href="#produits">Le salon</a><a href="#maison">Morgane</a><a href="#horaires">Horaires</a>    </nav>
+    <a class="btn btn--p" href="tel:+33615069647">Appeler</a>
+    <button class="menu-btn" id="menu-btn" aria-expanded="false" aria-controls="nav-panel" aria-label="Ouvrir le menu">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+    </button>
+  </div>
+  <nav class="nav-panel" id="nav-panel" aria-label="Menu">
+<a href="#produits">Le salon</a><a href="#maison">Morgane</a><a href="#horaires">Horaires</a><a href="tel:+33615069647">Appeler le 06 15 06 96 47</a>  </nav>
+</header>
+<main>
+  <section class="hero" id="accueil">
+    <div class="store" aria-hidden="true"></div>
+    <div class="page hero__grid">
+      <div>
+        <p class="hero__kicker">Salon de toilettage à Colmar</p>
+        <h1 class="hero__title"><span class="ln">L&#39;Empreinte</span><span class="ln">d&#39;Or</span></h1>
+<p class="hero__tag">Passion, bien-être animal et excellence au bout des ciseaux : chiens, chats et lapins, rue Saint-Guidon.</p>        <p class="status" data-status><span class="status__dot"></span><span data-status-text></span></p>
+        <div class="actions">
+          <a class="btn btn--p" href="tel:+33615069647">Appeler le 06 15 06 96 47</a>
+          <a class="btn btn--t" href="https://www.google.com/maps/dir/?api=1&amp;destination=48.0763043%2C7.365443" target="_blank" rel="noopener">Itinéraire</a>
+        </div>
+<p class="preuve">Noté 5,0 sur 5 sur Google (42 avis).</p>      </div>
+      <figure class="devanture"><img src="{{img:salon}}" alt="Le salon de L&#39;Empreinte d&#39;Or : table de toilettage turquoise, baignoire, séchoirs, mur à lattes et étagère de shampoings" style="object-position:50% 60%"><figcaption>Toiletteuse diplômée et médaillée</figcaption></figure>
+    </div>
+  </section>
+  <section class="sec produits" id="produits">
+    <div class="page">
+      <div class="produits__head">
+        <h2>Au salon</h2>
+<p class="lead">Morgane Kern, artisan toiletteuse diplômée, s&#39;occupe de chaque animal, de la baignoire à la dernière coupe aux ciseaux.</p>      </div>
+      <ul class="etal">
+<li><img src="{{img:caniche}}" alt="Un caniche noir toiletté aux ciseaux, présenté sur une table rouge"><div><h3>La coupe aux ciseaux</h3><p>Le travail de précision, poil par poil.</p></div></li><li><img src="{{img:golden}}" alt="Un golden retriever crème présenté sur un tapis bleu, en concours"><div><h3>En concours</h3><p>Les concours, là où tout a commencé.</p></div></li><li><img src="{{img:chat}}" alt="Le peignage d&#39;un chat persan gris lors d&#39;un concours de toilettage"><div><h3>Les chats</h3><p>Shampoing, peignage, coupe.</p></div></li><li><img src="{{img:westie}}" alt="Un westie blanc toiletté, sur une table de présentation en concours"><div><h3>L&#39;épilation</h3><p>Sa spécialité.</p></div></li><li><img src="{{img:salon}}" alt="La table de toilettage turquoise et la baignoire du salon"><div><h3>Le salon</h3><p>Ouvert en 2026, rue Saint-Guidon.</p></div></li>      </ul>
+<ul class="liste"><li><strong>Shampoing</strong><span>bain et séchage</span></li><li><strong>Coupe aux ciseaux</strong><span>précise, poil par poil</span></li><li><strong>Épilation</strong><span>sa spécialité</span></li><li><strong>Pour qui</strong><span>chiens, chats et lapins</span></li></ul>    </div>
+  </section>
+  <section class="sec maison" id="maison">
+    <div class="page maison__grid">
+      <div>
+        <h2>Morgane Kern, toiletteuse médaillée</h2>
+        <p class="lead">Initiée au toilettage pour présenter son propre chien en concours, Morgane a fait son apprentissage puis travaillé dans plusieurs salons alsaciens avant d&#39;ouvrir le sien à Colmar. Compétitrice dans l&#39;âme, elle a remporté plusieurs médailles en concours de toilettage.</p>
+<ul class="faits"><li><strong>Diplômée</strong><span>Artisan toiletteuse, formée en apprentissage.</span></li><li><strong>Médaillée</strong><span>En concours de toilettage.</span></li></ul>      </div>
+<img src="{{img:westie}}" alt="Un westie toiletté en concours">    </div>
+  </section>
+  <section class="sec visite" id="horaires">
+    <div class="page visite__grid">
+      <div>
+        <h2>Horaires</h2>
+        <table class="hours">
+          {{hours}}
+        </table>
+      </div>
+      <div id="acces">
+        <h2>Nous trouver</h2>
+        <div class="contact-carte">
+          <address>26 rue Saint-Guidon<br>68000 Colmar</address>
+          <p class="lignes"><a href="tel:+33615069647">06 15 06 96 47</a><br><a href="mailto:lempreinte.or@gmail.com">lempreinte.or@gmail.com</a></p>
+          <div class="actions">
+<a class="btn btn--p" href="tel:+33615069647">Appeler</a>            <a class="btn btn--t" href="https://www.google.com/maps/dir/?api=1&amp;destination=48.0763043%2C7.365443" target="_blank" rel="noopener">Calculer l'itinéraire</a>
+          </div>
+<p class="preuve">Noté 5,0 sur 5 sur Google, 42 avis.</p>        </div>
+      </div>
+    </div>
+  </section>
+</main>
+<footer class="foot">
+  <div class="page foot__grid">
+<img class="foot__logo" src="{{img:logo}}" alt="Logo de L&#39;Empreinte d&#39;Or">    <div>
+      <p><strong>L&#39;Empreinte d&#39;Or</strong><br>26 rue Saint-Guidon, 68000 Colmar<br><a href="tel:+33615069647">06 15 06 96 47</a></p>
+      <div class="foot__liens">
+<a href="https://www.facebook.com/61583354561909/" target="_blank" rel="noopener">Facebook</a><a href="https://www.instagram.com/empreinte.dor/" target="_blank" rel="noopener">Instagram</a>      </div>
+    </div>
+    <p class="foot__demo">Maquette réalisée par Gaspard Culli pour présenter un projet de site à L&#39;Empreinte d&#39;Or. Photos issues des pages publiques de l'établissement. Ce site n'est pas encore en ligne.</p>
+  </div>
+</footer>
+<div class="mbar" id="mbar">
+  <a class="btn btn--p" href="tel:+33615069647">Appeler</a>
+  <a class="btn btn--t" href="https://www.google.com/maps/dir/?api=1&amp;destination=48.0763043%2C7.365443" target="_blank" rel="noopener">Itinéraire</a>
+</div>
+<script>
+(function () {
+  var root = document.documentElement;
+  var reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  var intro = document.getElementById("intro");
+  function skip() { root.classList.add("intro-skip"); setTimeout(function(){ intro.style.display = "none"; }, 200); }
+  if (root.classList.contains("js-intro")) {
+    intro.addEventListener("click", skip);
+    window.addEventListener("keydown", function once() { skip(); window.removeEventListener("keydown", once); });
+    setTimeout(function () { intro.style.display = "none"; }, 2600);
+  }
+  var H = {{hours_js}};
+  var JOURS = ["dimanche","lundi","mardi","mercredi","jeudi","vendredi","samedi"];
+  function m(s){var p=s.split(":");return (+p[0])*60+(+p[1]);}
+  function fh(s){var p=s.split(":");return (+p[0])+"h"+(p[1]==="00"?"":p[1]);}
+  var now=new Date(), d=now.getDay(), t=now.getHours()*60+now.getMinutes();
+  var row=document.querySelector('.hours tr[data-day="'+d+'"]'); if(row) row.classList.add("is-today");
+  var label=null, open=false;
+  (H[d]||[]).forEach(function(r){ if(t>=m(r[0]) && t<m(r[1])){open=true; label="Ouvert maintenant, jusqu'à "+fh(r[1]);} });
+  if(!open){
+    for(var i=0;i<8 && !label;i++){
+      var dd=(d+i)%7, slots=H[dd]||[];
+      for(var k=0;k<slots.length;k++){
+        if(i>0 || m(slots[k][0])>t){ label="Fermé pour l'instant, ouvre "+(i===0?"aujourd'hui":(i===1?"demain":JOURS[dd]))+" à "+fh(slots[k][0]); break; }
+      }
+    }
+  }
+  if(label){
+    document.querySelectorAll("[data-status]").forEach(function(el){
+      el.setAttribute("data-open", open?"1":"0");
+      el.querySelector("[data-status-text]").textContent=label;
+      el.classList.add("is-ready");
+    });
+  }
+  var mb=document.getElementById("menu-btn"), panel=document.getElementById("nav-panel");
+  function setMenu(o){ panel.classList.toggle("is-open",o); mb.setAttribute("aria-expanded",o?"true":"false"); mb.setAttribute("aria-label",o?"Fermer le menu":"Ouvrir le menu"); }
+  mb.addEventListener("click",function(){ setMenu(!panel.classList.contains("is-open")); });
+  panel.addEventListener("click",function(e){ if(e.target.closest("a")) setMenu(false); });
+  document.addEventListener("keydown",function(e){ if(e.key==="Escape" && panel.classList.contains("is-open")){ setMenu(false); mb.focus(); } });
+  var top=document.getElementById("top"), mbar=document.getElementById("mbar"), ticking=false;
+  var auDefil=[];
+  window.__auDefil=function(fn){auDefil.push(fn);};
+  function onScroll(){
+    var y=window.scrollY||0;
+    top.classList.toggle("is-solid", y > 40);
+    mbar.classList.toggle("is-on", y > window.innerHeight*0.7);
+    if(!reduce) auDefil.forEach(function(fn){fn(y);});
+    ticking=false;
+  }
+  window.addEventListener("scroll",function(){ if(!ticking){ ticking=true; requestAnimationFrame(onScroll);} },{passive:true});
+  onScroll();
+})();
+</script>
+</body>
+</html>
