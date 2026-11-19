@@ -1,0 +1,40 @@
+{
+ "fonts": [
+  {
+   "key": "titre",
+   "family": "rammetto-one",
+   "weight": 400
+  },
+  {
+   "key": "texte",
+   "family": "dm-sans",
+   "variable": true
+  }
+ ],
+ "horaires": {
+  "lundi": [
+   "17:30-21:30"
+  ],
+  "mardi": [
+   "17:30-21:30"
+  ],
+  "mercredi": [
+   "17:30-21:30"
+  ],
+  "jeudi": [
+   "11:30-13:30",
+   "17:30-21:30"
+  ],
+  "vendredi": [
+   "11:30-13:30",
+   "17:30-22:00"
+  ],
+  "samedi": [
+   "11:30-13:30",
+   "17:30-22:00"
+  ],
+  "dimanche": [
+   "17:30-21:30"
+  ]
+ }
+}

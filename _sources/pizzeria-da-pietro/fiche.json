@@ -1,0 +1,198 @@
+{
+ "slug": "pizzeria-da-pietro",
+ "famille": "emporter",
+ "nom": "Pizzeria Da Pietro",
+ "activite": "Pizzas à emporter, pâtes et salades",
+ "description": "Pizzeria Da Pietro à Volgelsheim : pizzas, tartes flambées, pâtes et salades à emporter, livraison offerte dès 3 pizzas dans un rayon de 5 à 6 km.",
+ "ville": "Volgelsheim",
+ "adresse": "6 rue du Pourquoi Pas",
+ "cp_ville": "68600 Volgelsheim",
+ "maps_dest": "48.0112475,7.5407202",
+ "tel": "+33389586291",
+ "tel_affiche": "03 89 58 62 91",
+ "email": "herciupetru44@gmail.com",
+ "facebook": "https://www.facebook.com/PIZZADAPIETRO2021/",
+ "note": "4,5",
+ "avis": 59,
+ "preuve_extra": "livraison offerte dès 3 pizzas",
+ "hero": "pizza-oeufs",
+ "hero_alt": "Une pizza garnie d'œufs, d'artichauts, de poivrons, de champignons et d'olives, dans sa boîte",
+ "accroche": "Pizzas à emporter à Volgelsheim",
+ "titre_lignes": [
+  "Pizzeria",
+  "Da Pietro"
+ ],
+ "slogan": "Pizzas, tartes flambées, pâtes et salades à emporter. Dès 3 pizzas, la livraison est offerte dans un rayon de 5 à 6 km.",
+ "couleurs": {
+  "principale": "#e2462b",
+  "accent": "#f2b632"
+ },
+ "offre_titre": "La carte",
+ "offre_intro": "Les pizzas changent souvent : demandez celles du moment au téléphone. Voici le reste de la carte, tel qu'il est affiché.",
+ "offre_groupes": [
+  {
+   "titre": "Tartes flambées",
+   "items": [
+    {
+     "titre": "Traditionnelle",
+     "texte": "lardons, oignons",
+     "prix": "8,00 €"
+    },
+    {
+     "titre": "Gratinée",
+     "texte": "lardons, oignons, fromage",
+     "prix": "8,50 €"
+    },
+    {
+     "titre": "Forestière",
+     "texte": "lardons, oignons, champignons",
+     "prix": "9,00 €"
+    },
+    {
+     "titre": "Munster",
+     "texte": "lardons, oignons, munster",
+     "prix": "9,50 €"
+    },
+    {
+     "titre": "Saumon",
+     "texte": "saumon, ail, mozzarella",
+     "prix": "10,50 €"
+    }
+   ]
+  },
+  {
+   "titre": "Salades",
+   "items": [
+    {
+     "titre": "Caprese",
+     "texte": "tomates avec mozzarella",
+     "prix": "9,00 €"
+    },
+    {
+     "titre": "Salade maison",
+     "texte": "salade composée avec thon, œuf, jambon, Edamer",
+     "prix": "11,50 €"
+    },
+    {
+     "titre": "Insalata calabrese",
+     "texte": "fromage de brebis, olives vertes, oignons",
+     "prix": "11,50 €"
+    },
+    {
+     "titre": "Insalata salmone e gambas",
+     "texte": "salade composée avec saumon et crevettes",
+     "prix": "17,50 €"
+    }
+   ]
+  },
+  {
+   "titre": "Et aussi",
+   "items": [
+    {
+     "titre": "Escalope milanaise",
+     "texte": "frites et petite salade",
+     "prix": "17,50 €"
+    },
+    {
+     "titre": "Cordon bleu",
+     "texte": "frites et petite salade",
+     "prix": "20,50 €"
+    },
+    {
+     "titre": "Nuggets et frites",
+     "prix": "9,50 €"
+    },
+    {
+     "titre": "Tiramisu",
+     "texte": "la portion",
+     "prix": "4,00 €"
+    }
+   ]
+  }
+ ],
+ "notes": [
+  {
+   "k": "Livraison",
+   "v": "offerte à partir de 3 pizzas, dans un rayon de 5 à 6 km"
+  },
+  {
+   "k": "Paiement",
+   "v": "carte bancaire, sans contact ou chèque"
+  },
+  {
+   "k": "Allergènes",
+   "v": "renseignez-vous auprès de l'équipe"
+  }
+ ],
+ "moment": {
+  "titre": "Sortie du four",
+  "intro": "Quelques pizzas de la maison, prêtes à partir.",
+  "items": [
+   {
+    "img": "pizza-artichauts",
+    "titre": "Artichauts et câpres",
+    "texte": "Jambon, champignons, artichauts, câpres et olives.",
+    "alt": "Une pizza au jambon, champignons, artichauts, câpres et olives"
+   },
+   {
+    "img": "pizza-jambon",
+    "titre": "Jambon cru",
+    "texte": "Tomate, mozzarella et jambon cru.",
+    "alt": "Une pizza au jambon cru dans sa boîte"
+   },
+   {
+    "img": "salade",
+    "titre": "La salade maison",
+    "texte": "Thon, œuf, jambon et Edamer.",
+    "alt": "La salade maison avec thon, œufs, jambon et fromage"
+   }
+  ]
+ },
+ "commande_intro": "Par téléphone ou par WhatsApp, puis vous passez la prendre, ou on vous la livre.",
+ "etapes": [
+  {
+   "titre": "Appelez ou écrivez",
+   "texte": "Au 03 89 58 62 91, ou sur WhatsApp au 06 32 78 36 40."
+  },
+  {
+   "titre": "On la prépare",
+   "texte": "Pizza, tarte flambée, pâtes ou salade : dites-nous ce qui vous fait envie."
+  },
+  {
+   "titre": "À emporter ou livrée",
+   "texte": "Passez au 6 rue du Pourquoi Pas, ou faites-vous livrer dès 3 pizzas."
+  }
+ ],
+ "photos": [
+  {
+   "img": "facade",
+   "alt": "La façade de la Pizzeria Da Pietro, avec sa tour bleue, rue du Pourquoi Pas"
+  }
+ ],
+ "horaires": {
+  "lundi": [
+   "17:30-21:30"
+  ],
+  "mardi": [
+   "17:30-21:30"
+  ],
+  "mercredi": [
+   "17:30-21:30"
+  ],
+  "jeudi": [
+   "11:30-13:30",
+   "17:30-21:30"
+  ],
+  "vendredi": [
+   "11:30-13:30",
+   "17:30-22:00"
+  ],
+  "samedi": [
+   "11:30-13:30",
+   "17:30-22:00"
+  ],
+  "dimanche": [
+   "17:30-21:30"
+  ]
+ }
+}
