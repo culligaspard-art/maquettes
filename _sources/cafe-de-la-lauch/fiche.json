@@ -1,0 +1,108 @@
+{
+ "slug": "cafe-de-la-lauch",
+ "famille": "patisserie",
+ "nom": "Café de la Lauch",
+ "activite": "Salon de thé",
+ "description": "Café de la Lauch, salon de thé au 7 rue de la Poissonnerie à Colmar : petits-déjeuners, cafés, viennoiseries, une terrasse au bord de la Lauch et un bac de disques vinyles. Horaires et accès.",
+ "ville": "Colmar",
+ "adresse": "7 rue de la Poissonnerie",
+ "cp_ville": "68000 Colmar",
+ "maps_dest": "48.0740626,7.3581865",
+ "tel": "+33368613659",
+ "tel_affiche": "03 68 61 36 59",
+ "email": "cafedelalauch@gmail.com",
+ "facebook": "https://www.facebook.com/cafedelalauch/",
+ "note": "4,1",
+ "avis": 334,
+ "preuve_extra": "recommandé à 100 % sur Facebook",
+ "couleurs": {
+  "principale": "#d9a521",
+  "accent": "#5b3420"
+ },
+ "nom_plaque": "Lauch",
+ "ruban": "salon de thé",
+ "hero": "rue",
+ "hero_alt": "La rue de la Poissonnerie, ses pavés et ses maisons colorées ; à gauche, la façade jaune du Café de la Lauch, ses volets bruns et son ardoise de vente à emporter",
+ "hero_pos": "30% 60%",
+ "accroche": "Salon de thé, rue de la Poissonnerie à Colmar",
+ "titre_lignes": [
+  "Café",
+  "de la Lauch"
+ ],
+ "slogan": "Un salon de thé chaleureux et authentique, au bord de la Lauch.",
+ "offre_titre": "Au comptoir",
+ "offre_intro": "Un petit-déjeuner, un café et sa viennoiserie, une pause sur la terrasse : ce qui vous attend chez nous.",
+ "photos": [
+  {
+   "img": "petit-dejeuner",
+   "alt": "Un petit-déjeuner sur une table de bistrot en marbre : pancakes au sucre glace, croissant, pain au chocolat, demi-baguette, beurre, confiture, jus d'orange et café"
+  },
+  {
+   "img": "croissant",
+   "alt": "Un croissant et un café sur une table en marbre, une bougie allumée, la salle jaune et ses guirlandes derrière"
+  },
+  {
+   "img": "terrasse",
+   "alt": "La terrasse : tables et chaises de bistrot en bois sur les pavés, le long de la balustrade au-dessus de la Lauch"
+  },
+  {
+   "img": "salle",
+   "alt": "La salle aux murs jaunes, ses gravures anciennes encadrées, ses tables de bistrot et le comptoir en bois"
+  },
+  {
+   "img": "vinyles",
+   "alt": "Le bac à disques vinyles devant le mur jaune, une affiche « Voilà, disquaire indépendant » et des guirlandes de couleur"
+  },
+  {
+   "img": "fenetre",
+   "alt": "Une fenêtre du salon de thé encadrée de jaune, avec une petite lampe et une plante, ouverte sur une façade rouge de la ruelle"
+  }
+ ],
+ "bloc2": {
+  "titre": "La maison",
+  "texte": "Une façade jaune à volets bruns au 7 rue de la Poissonnerie, des murs couverts de gravures de Colmar, des tables de bistrot et, au fond, une verrière qui donne sur la terrasse. Dans la salle, un bac de disques vinyles attend les curieux.",
+  "img": "salle-disques",
+  "alt": "La salle du Café de la Lauch : le bac à vinyles, les guirlandes, les gravures, et la verrière qui mène à la terrasse",
+  "faits": [
+   {
+    "k": "La terrasse",
+    "v": "Des tables sur les pavés, au bord de la Lauch."
+   },
+   {
+    "k": "Les vinyles",
+    "v": "Un bac de disques à feuilleter, dans la salle."
+   }
+  ]
+ },
+ "commande": {
+  "titre": "À emporter",
+  "texte": "Un café, un cappuccino ou un chocolat chaud à emporter : l'ardoise est devant la porte, rue de la Poissonnerie.",
+  "img": "facade",
+  "alt": "La façade jaune du Café de la Lauch, la porte ouverte sur la salle et l'ardoise « Café de la Lauch, salon de thé » à la fenêtre"
+ },
+ "horaires": {
+  "lundi": [
+   "09:30-18:00"
+  ],
+  "mardi": [
+   "09:30-12:00",
+   "13:30-18:00"
+  ],
+  "mercredi": [],
+  "jeudi": [
+   "09:30-12:00",
+   "13:30-18:00"
+  ],
+  "vendredi": [
+   "09:30-12:00",
+   "13:30-18:00"
+  ],
+  "samedi": [
+   "09:30-18:00"
+  ],
+  "dimanche": []
+ },
+ "nav_labels": {
+  "vitrine": "Au comptoir"
+ }
+}
