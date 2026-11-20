@@ -1,0 +1,109 @@
+{
+ "slug": "arizona-tattoo",
+ "famille": "beaute",
+ "forme": "miroir",
+ "nom": "Arizona Tattoo",
+ "activite": "Salon de tatouage",
+ "description": "Arizona Tattoo, salon de tatouage privé au 3 rue de la Bagatelle à Colmar : tatouages noir et gris sur mesure, recouvrements, sur rendez-vous du lundi au vendredi.",
+ "ville": "Colmar",
+ "adresse": "3 rue de la Bagatelle",
+ "cp_ville": "68000 Colmar",
+ "maps_dest": "48.082953,7.3471265",
+ "tel": "",
+ "tel_affiche": "",
+ "email": "arizonatattoo@outlook.fr",
+ "facebook": "https://www.facebook.com/arizonatattoocolmar/",
+ "instagram": "https://www.instagram.com/arizonatattoocolmar/",
+ "note": "4,9",
+ "avis": 188,
+ "preuve_extra": "recommandé à 98 % sur Facebook (214 avis)",
+ "logo_blanc": "logo-blanc",
+ "couleurs": {
+  "principale": "#2b1d24",
+  "accent": "#d9a7b4"
+ },
+ "hero": "vitrine",
+ "hero_alt": "La vitrine d'Arizona Tattoo : un grand cadre gravé « Arizona Tattoo, Tattoo et Lifestyle », la porte rose et la façade en granit",
+ "hero_pos": "50% 40%",
+ "accroche": "Salon de tatouage privé, rue de la Bagatelle à Colmar",
+ "titre_lignes": [
+  "Arizona",
+  "Tattoo"
+ ],
+ "slogan": "Un salon de tatouage privé, sur rendez-vous du lundi au vendredi. Envoyez-nous votre projet par mail.",
+ "offre_titre": "Le salon",
+ "offre_intro": "Chaque pièce est dessinée pour vous, puis tatouée au salon, sur rendez-vous.",
+ "offre": [
+  {
+   "titre": "Tatouage sur mesure",
+   "texte": "Du petit motif au trait fin jusqu'à la jambe ou au dos entiers, en noir et gris."
+  },
+  {
+   "titre": "Recouvrement",
+   "texte": "Un ancien tatouage repris et recouvert par un nouveau dessin."
+  },
+  {
+   "titre": "Sur rendez-vous",
+   "texte": "Du lundi au vendredi. Envoyez-nous votre idée par mail pour fixer un rendez-vous."
+  }
+ ],
+ "offre_note": "Pour un projet ou un rendez-vous, écrivez-nous à",
+ "galerie_titre": "Nos tatouages",
+ "galerie_intro": "Quelques pièces réalisées au salon.",
+ "photos": [
+  {
+   "img": "viking",
+   "alt": "Un tatouage de mollet en noir et gris : un visage de dieu nordique barbu, une épée, des runes et un compas viking"
+  },
+  {
+   "img": "corbeau",
+   "alt": "Un corbeau aux motifs celtiques sur un bouclier entrelacé, tatoué sur la poitrine"
+  },
+  {
+   "img": "loup",
+   "alt": "Une tête de loup entourée de fleurs, sous un croissant de lune, tatouée sur l'avant-bras"
+  },
+  {
+   "img": "foire",
+   "alt": "Une jambe tatouée façon fête foraine : grande roue, maison hantée, clown, citrouille et panneaux « Arizona »"
+  },
+  {
+   "img": "lune",
+   "alt": "Une fiole en forme de lune, des étoiles et des roses rouges, tatouées sur l'avant-bras, devant des dessins préparatoires"
+  },
+  {
+   "img": "sphynx",
+   "alt": "Un chat sphynx et un crâne en noir et gris, avec des motifs graphiques, sur le bras"
+  }
+ ],
+ "bloc2": {
+  "titre": "Tattoo et lifestyle",
+  "texte": "Au 3 rue de la Bagatelle, derrière la grande vitrine gravée, un salon privé où l'on prend le temps de dessiner votre projet. Les rendez-vous se prennent par mail, du lundi au vendredi.",
+  "img": "vitrine",
+  "alt": "La vitrine gravée d'Arizona Tattoo"
+ },
+ "horaires": {
+  "lundi": [
+   "10:00-17:00"
+  ],
+  "mardi": [
+   "10:00-17:00"
+  ],
+  "mercredi": [
+   "10:00-17:00"
+  ],
+  "jeudi": [
+   "10:00-17:00"
+  ],
+  "vendredi": [
+   "10:00-17:00"
+  ],
+  "samedi": [],
+  "dimanche": []
+ },
+ "nav_labels": {
+  "soins": "Le salon",
+  "galerie": "Nos tatouages"
+ },
+ "voir_label": "Voir le salon"
+}

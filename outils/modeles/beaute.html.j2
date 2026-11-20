@@ -108,8 +108,8 @@
         [% if f.slogan %]<p class="hero__tag">[[ f.slogan ]]</p>[% endif %]
         <p class="status" data-status><span class="status__dot"></span><span data-status-text></span></p>
         <div class="actions">
-          <a class="btn btn--p" href="[[ cta.href ]]"[% if cta.ext %] target="_blank" rel="noopener"[% endif %]>[% if cta.ext %][[ cta.label ]][% else %]Appeler le [[ f.tel_affiche ]][% endif %]</a>
-          [% if f.email %]<a class="btn btn--t" href="mailto:[[ f.email ]]">Écrire un mail</a>[% else %]<a class="btn btn--t" href="#soins">Voir les soins</a>[% endif %]
+          <a class="btn btn--p" href="[[ cta.href ]]"[% if cta.ext %] target="_blank" rel="noopener"[% endif %]>[% if cta.ext or not f.tel %][[ cta.label ]][% else %]Appeler le [[ f.tel_affiche ]][% endif %]</a>
+          [% if f.email and f.tel %]<a class="btn btn--t" href="mailto:[[ f.email ]]">Écrire un mail</a>[% else %]<a class="btn btn--t" href="#soins">[[ f.voir_label|default("Voir les soins") ]]</a>[% endif %]
         </div>
         [% if f.note %]<p class="preuve">Noté [[ f.note ]] sur 5 sur Google ([[ f.avis ]] avis)[% if f.preuve_extra %], [[ f.preuve_extra ]][% endif %].</p>[% endif %]
       </div>
@@ -133,7 +133,7 @@
         <ul class="soins__list">
           [% for o in f.offre %]<li><div><h3>[[ o.titre ]]</h3>[% if o.texte %]<p>[[ o.texte ]]</p>[% endif %]</div>[% if o.prix %]<span class="soins__prix">[[ o.prix ]]</span>[% else %]<span></span>[% endif %]</li>[% endfor %]
         </ul>
-        <p class="soins__note">[[ f.offre_note|default("Pour les prestations et les tarifs, appelez-nous au") ]] <a href="tel:[[ f.tel ]]">[[ f.tel_affiche ]]</a>.</p>
+        <p class="soins__note">[% if f.tel %][[ f.offre_note|default("Pour les prestations et les tarifs, appelez-nous au") ]] <a href="tel:[[ f.tel ]]">[[ f.tel_affiche ]]</a>.[% else %][[ f.offre_note|default("Pour les prestations et les tarifs, écrivez-nous à") ]] <a href="mailto:[[ f.email ]]">[[ f.email ]]</a>.[% endif %]</p>
       </div>
     </div>
   </section>

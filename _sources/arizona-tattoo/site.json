@@ -1,0 +1,33 @@
+{
+ "fonts": [
+  {
+   "key": "titre",
+   "family": "syne",
+   "variable": true
+  },
+  {
+   "key": "texte",
+   "family": "inter-tight",
+   "variable": true
+  }
+ ],
+ "horaires": {
+  "lundi": [
+   "10:00-17:00"
+  ],
+  "mardi": [
+   "10:00-17:00"
+  ],
+  "mercredi": [
+   "10:00-17:00"
+  ],
+  "jeudi": [
+   "10:00-17:00"
+  ],
+  "vendredi": [
+   "10:00-17:00"
+  ],
+  "samedi": [],
+  "dimanche": []
+ }
+}
