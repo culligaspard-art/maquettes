@@ -1,0 +1,61 @@
+{
+ "slug": "envie-detre",
+ "famille": "beaute",
+ "forme": "miroir",
+ "nom": "EnVie d'Être",
+ "activite": "Coiffeur et visagiste",
+ "description": "EnVie d'Être, coiffeur et visagiste au 30 rue de l'Est à Colmar : coupe hommes, femmes et enfants, coloration végétale ou sans ammoniaque, mèches, ombrés, balayages, lissage à la kératine.",
+ "ville": "Colmar",
+ "adresse": "30 rue de l'Est",
+ "cp_ville": "68000 Colmar",
+ "maps_dest": "48.0768636,7.3640617",
+ "tel": "+33390505998",
+ "tel_affiche": "03 90 50 59 98",
+ "email": "enviedetre.isa@gmail.com",
+ "facebook": "https://www.facebook.com/enviedetrecoiffeurvisagiste/",
+ "note": "4,7",
+ "avis": 52,
+ "logo_blanc": "logo-blanc",
+ "couleurs": {"principale": "#3d3b3c", "accent": "#d63a8c"},
+ "hero": "balayage",
+ "hero_alt": "Un carré ondulé au balayage caramel et cuivré, devant la vitrine du salon EnVie d'Être, coiffeur et visagiste",
+ "hero_pos": "50% 45%",
+ "accroche": "Coiffeur et visagiste, rue de l'Est à Colmar",
+ "titre_lignes": ["EnVie", "d'Être"],
+ "slogan": "Un salon de coiffure pour les hommes, les femmes et les enfants, avec des colorations végétales ou sans ammoniaque.",
+ "offre_titre": "Les prestations",
+ "offre_intro": "Coupe, couleur et soins, avec un conseil de visagiste pour trouver ce qui vous va.",
+ "offre": [
+  {"titre": "Coupe et coiffage", "texte": "Pour les femmes, les hommes et les enfants."},
+  {"titre": "Coloration végétale ou sans ammoniaque", "texte": "Avec Chromalya et Hélène Seward."},
+  {"titre": "Mèches, ombrés, balayages", "texte": "Et décoloration, pour éclaircir en douceur."},
+  {"titre": "Soin lissant à la kératine", "texte": "Avec GK Hair, pour des cheveux lisses et disciplinés."},
+  {"titre": "Conseil de visagiste", "texte": "La coupe et la couleur choisies selon votre visage."}
+ ],
+ "offre_note": "Pour les tarifs et les rendez-vous, appelez-nous au",
+ "nav_labels": {"soins": "Les prestations", "galerie": "En images"},
+ "galerie_titre": "En images",
+ "galerie_intro": "Quelques coupes et couleurs réalisées au salon.",
+ "photos": [
+  {"img": "boucles", "alt": "Une coiffure de cérémonie : boucles relevées sur le côté, mèches caramel, robe en dentelle bleue"},
+  {"img": "cuivre", "alt": "Des cheveux mi-longs cuivrés aux boucles souples, dans une rue de Colmar aux maisons à colombages"},
+  {"img": "carre", "alt": "Un carré court plongeant brun, dans le salon au mur de lames de bois"},
+  {"img": "rouge", "alt": "Un carré lisse d'un rouge profond et brillant, au soleil"},
+  {"img": "balayage", "alt": "Un carré ondulé au balayage caramel"}
+ ],
+ "bloc2": {
+  "titre": "Rue de l'Est",
+  "texte": "Au 30 rue de l'Est, Isabelle vous accueille dans un salon clair, avec son mur de bois et ses produits Lakmé, GK Hair et Hélène Seward. Pour une coupe, une couleur ou un conseil, appelez-nous pour prendre rendez-vous.",
+  "img": "carre",
+  "alt": "Le salon EnVie d'Être, son mur en lames de bois et ses étagères de produits"
+ },
+ "horaires": {
+  "lundi": ["08:30-12:00"],
+  "mardi": ["08:30-18:00"],
+  "mercredi": ["08:30-19:00"],
+  "jeudi": ["08:30-16:00"],
+  "vendredi": ["08:30-19:00"],
+  "samedi": ["08:00-15:00"],
+  "dimanche": []
+ }
+}
