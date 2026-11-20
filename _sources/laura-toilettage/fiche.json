@@ -1,0 +1,131 @@
+{
+ "slug": "laura-toilettage",
+ "famille": "commerce",
+ "nom": "Laura Toilettage",
+ "activite": "Salon de toilettage",
+ "description": "Laura Toilettage, salon de toilettage toutes races au 147 route de Colmar à Ingersheim : chiens et chats, bain, brushing, tonte, épilation, soins de la peau, friandises naturelles. Parking devant le salon.",
+ "ville": "Ingersheim",
+ "adresse": "147 route de Colmar",
+ "cp_ville": "68040 Ingersheim",
+ "maps_dest": "48.089286,7.3209539",
+ "tel": "+33389808290",
+ "tel_affiche": "03 89 80 82 90",
+ "email": "laura-68@orange.fr",
+ "facebook": "https://www.facebook.com/Lg68140/",
+ "note": "4,7",
+ "avis": 74,
+ "preuve_extra": "recommandé à 100 % sur Facebook",
+ "couleurs": {
+  "principale": "#5f6b45",
+  "accent": "#c98a4b"
+ },
+ "hero": "shihtzu-salon",
+ "hero_alt": "Un shih tzu blanc et brun fraîchement toiletté sur la table du salon, devant la vitrine au nom de Laura Toilettage",
+ "hero_pos": "40% 55%",
+ "hero_legende": "Sur la table du salon, route de Colmar.",
+ "accroche": "Salon de toilettage, route de Colmar à Ingersheim",
+ "titre_lignes": [
+  "Laura",
+  "Toilettage"
+ ],
+ "slogan": "Salon de toilettage toutes races, chiens et chats. Plus qu'un métier, une passion.",
+ "offre_titre": "Au salon",
+ "offre_intro": "Pour les chiens de toutes races et pour les chats, sur rendez-vous.",
+ "offre": [
+  {
+   "titre": "Bain et brushing"
+  },
+  {
+   "titre": "Tonte et coupe"
+  },
+  {
+   "titre": "Épilation"
+  },
+  {
+   "titre": "Soins spécifiques pour les problèmes de peau"
+  },
+  {
+   "titre": "Friandises naturelles et produits de soin à emporter"
+  }
+ ],
+ "photos": [
+  {
+   "img": "shihtzu",
+   "titre": "Tout beau",
+   "texte": "Un shih tzu à la sortie du toilettage.",
+   "alt": "Un shih tzu blanc et brun, fraîchement toiletté, sur la table de toilettage devant la fenêtre"
+  },
+  {
+   "img": "terrasse",
+   "titre": "Prêt à rentrer",
+   "texte": "Avec son harnais à pois.",
+   "alt": "Un petit chien crème au museau noir, toiletté, avec un harnais noir à pois blancs, sur la terrasse en bois"
+  },
+  {
+   "img": "bichon",
+   "titre": "Harnais vert",
+   "texte": "Coupe courte et oreilles longues.",
+   "alt": "Un shih tzu blanc et brun au harnais vert, sur la terrasse en bois du salon"
+  },
+  {
+   "img": "tessy",
+   "titre": "Tessy",
+   "texte": "Bien toilettée, et fière de son bandana.",
+   "alt": "Une petite chienne crème au bandana bleu « Tessy », assise devant l'ardoise « Tessy est bien toilettée »"
+  },
+  {
+   "img": "harnais",
+   "titre": "De profil",
+   "texte": "Le poil égalisé, du nez à la queue.",
+   "alt": "Un petit chien crème toiletté, de profil, sur le plancher du salon"
+  },
+  {
+   "img": "friandises",
+   "titre": "Les friandises",
+   "texte": "Des mastications naturelles, en vente au salon.",
+   "alt": "Des friandises naturelles pour chiens, en sachets et en bâtons de bois, accrochées au mur en lambris du salon"
+  }
+ ],
+ "bloc2": {
+  "titre": "Votre toiletteuse",
+  "texte": "Au 147 route de Colmar, à Ingersheim, Laura prend soin de vos chiens et de vos chats dans un salon tout en bois clair. Trois places de parking vous attendent devant le salon.",
+  "img": "shihtzu-salon",
+  "alt": "Le salon : la table de toilettage, les sacs de croquettes et la vitrine au nom de Laura Toilettage",
+  "faits": [
+   {
+    "k": "Parking",
+    "v": "Trois places devant le salon."
+   },
+   {
+    "k": "Dès janvier 2027",
+    "v": "Fermé le mercredi, un samedi matin par mois, rendez-vous possibles à midi."
+   }
+  ]
+ },
+ "horaires": {
+  "lundi": [
+   "09:00-12:00",
+   "14:00-18:00"
+  ],
+  "mardi": [
+   "09:00-12:00",
+   "14:00-18:00"
+  ],
+  "mercredi": [],
+  "jeudi": [
+   "09:00-12:00",
+   "14:00-18:00"
+  ],
+  "vendredi": [
+   "09:00-12:00",
+   "14:00-18:00"
+  ],
+  "samedi": [
+   "09:00-12:00"
+  ],
+  "dimanche": []
+ },
+ "nav_labels": {
+  "produits": "Au salon"
+ }
+}
