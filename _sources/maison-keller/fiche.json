@@ -1,0 +1,146 @@
+{
+ "slug": "maison-keller",
+ "famille": "commerce",
+ "ouverture": "sapin",
+ "nom": "Maison Keller & Fils",
+ "activite": "Sapins de Noël et vin nouveau",
+ "description": "Maison Keller & Fils, 27 rue du Ladhof à Colmar : sapins de Noël de 80 cm à plus de 3 mètres, branches de Nordmann en fagots, vin nouveau à l'automne, fleurs de la Toussaint. Livraison pour les professionnels.",
+ "ville": "Colmar",
+ "adresse": "27 rue du Ladhof",
+ "cp_ville": "68000 Colmar",
+ "maps_dest": "48.0843223,7.3661651",
+ "tel": "+33618183084",
+ "tel_affiche": "06 18 18 30 84",
+ "email": "maisonkeller@hotmail.fr",
+ "facebook": "https://www.facebook.com/maisonkelleretfils/",
+ "note": "4,7",
+ "avis": 19,
+ "couleurs": {
+  "principale": "#2E5B3F",
+  "accent": "#B8326A"
+ },
+ "hero": "sapins",
+ "hero_alt": "Une plantation de sapins sous un ciel bleu, avec des herbes dorées au premier plan",
+ "hero_pos": "60% 50%",
+ "hero_legende": "De 80 cm à plus de 3 mètres",
+ "accroche": "Rue du Ladhof, à Colmar",
+ "titre_lignes": [
+  "Maison Keller",
+  "& Fils"
+ ],
+ "slogan": "Nous produisons le vin nouveau à l'automne et vendons les sapins de Noël en hiver. Un large choix vous attend.",
+ "offre_titre": "Au fil des saisons",
+ "offre_intro": "Le vin nouveau à l'automne, les fleurs de la Toussaint, puis les sapins et les branches jusqu'à Noël.",
+ "offre": [
+  {
+   "titre": "Sapins de Noël",
+   "texte": "De 80 cm à plus de 3 mètres"
+  },
+  {
+   "titre": "Sapins Épicéa",
+   "texte": "Pour les jardins et les terrasses"
+  },
+  {
+   "titre": "Branches de Nordmann en fagots",
+   "texte": "Balcons, couronnes de porte, décorations extérieures"
+  },
+  {
+   "titre": "Vin nouveau",
+   "texte": "Du vin en fermentation, à l'automne"
+  },
+  {
+   "titre": "Fleurs de la Toussaint",
+   "texte": "Chrysanthèmes et plantes en pots"
+  },
+  {
+   "titre": "Livraison pour les professionnels",
+   "texte": "Villages, commerces, écoles"
+  }
+ ],
+ "photos": [
+  {
+   "img": "raisins",
+   "titre": "Le vin nouveau",
+   "texte": "Le raisin, juste avant les vendanges.",
+   "alt": "Une grappe de raisin rose et pourpre sur un cep, dans une rangée de vigne au soleil"
+  },
+  {
+   "img": "cour",
+   "titre": "La cour",
+   "texte": "Rue du Ladhof, pleine de fleurs pour la Toussaint.",
+   "alt": "La cour pavée de la maison, bordée de chrysanthèmes jaunes, rouges et roses et de bruyères en pots",
+   "pos": "50% 60%"
+  },
+  {
+   "img": "composition",
+   "titre": "Les plantes de saison",
+   "texte": "Bruyères, choux décoratifs et skimmias pour les jardinières.",
+   "alt": "Des plantes en pots serrées les unes contre les autres : bruyères, choux décoratifs violets, cinéraires argentées et skimmias rouges"
+  },
+  {
+   "img": "bruyeres",
+   "titre": "Les bruyères",
+   "texte": "Blanches, roses et pourpres.",
+   "alt": "Des bruyères blanches, roses et pourpres en pots, avec leurs étiquettes"
+  },
+  {
+   "img": "pensees",
+   "titre": "Les pensées",
+   "texte": "Pour fleurir les balcons.",
+   "alt": "Des pensées violettes, blanches, rouges et orangées, encore couvertes de gouttes de pluie"
+  },
+  {
+   "img": "bruyere",
+   "titre": "De près",
+   "texte": "Une bruyère rose, en pot.",
+   "alt": "Gros plan sur une bruyère rose vif couverte de petites fleurs"
+  }
+ ],
+ "bloc2": {
+  "titre": "La maison",
+  "texte": "Au 27 rue du Ladhof, à Colmar, la Maison Keller & Fils produit son vin nouveau et vend ses sapins de Noël. En novembre, nous livrons nos clients professionnels et nous sommes souvent dans les Vosges : appelez avant de venir.",
+  "img": "vigne",
+  "alt": "Une rangée de vigne en automne, les feuilles encore vertes, avec les collines au loin",
+  "faits": [
+   {
+    "k": "27 nov.",
+    "v": "Ouverture tous les jours en continu, avec un large choix de sapins."
+   },
+   {
+    "k": "Vigne",
+    "v": "Nos parcelles donnent le vin nouveau de l'automne."
+   },
+   {
+    "k": "Pros",
+    "v": "Livraison des commandes pour les villages, commerces et écoles."
+   }
+  ]
+ },
+ "horaires": {
+  "lundi": [
+   "09:00-17:30"
+  ],
+  "mardi": [
+   "09:00-17:30"
+  ],
+  "mercredi": [
+   "09:00-17:30"
+  ],
+  "jeudi": [
+   "09:00-17:30"
+  ],
+  "vendredi": [
+   "09:00-17:30"
+  ],
+  "samedi": [
+   "09:00-17:30"
+  ],
+  "dimanche": [
+   "09:30-17:00"
+  ]
+ },
+ "nav_labels": {
+  "produits": "Au fil des saisons"
+ },
+ "polices": 4
+}
