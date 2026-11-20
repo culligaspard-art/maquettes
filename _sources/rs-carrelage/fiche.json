@@ -1,0 +1,131 @@
+{
+ "slug": "rs-carrelage",
+ "famille": "artisan",
+ "dessin": "plan",
+ "nom": "RS Carrelage",
+ "activite": "Carreleur",
+ "description": "RS Carrelage, carreleur à Colmar : sols, salles de bain, douches à l'italienne, escaliers et murs. Réalisations en photos, horaires et demande de devis.",
+ "ville": "Colmar",
+ "adresse": "Sur vos chantiers",
+ "cp_ville": "68000 Colmar",
+ "maps_dest": "RS Carrelage, Colmar",
+ "tel": "+33637103797",
+ "tel_affiche": "06 37 10 37 97",
+ "email": "rscarrelage10@gmail.com",
+ "facebook": "https://www.facebook.com/100087513313829/",
+ "note": "5,0",
+ "avis": 16,
+ "couleurs": {
+  "principale": "#e2453a",
+  "accent": "#3a3a3c"
+ },
+ "hero": "salle-de-bain",
+ "hero_alt": "Une salle de bain sous les combles posée par RS Carrelage : grands carreaux gris, frise de mosaïque, douche vitrée et sol imitation parquet",
+ "hero_pos": "50% 45%",
+ "accroche": "Carreleur à Colmar",
+ "titre_lignes": [
+  "RS",
+  "Carrelage"
+ ],
+ "slogan": "Sols, salles de bain, douches et escaliers : la pose de carrelage, au laser et au millimètre.",
+ "offre_titre": "Nos services",
+ "offre_intro": "Ce que nous posons, d'après nos chantiers.",
+ "offre": [
+  {
+   "titre": "Sols",
+   "texte": "Grands carreaux, imitation parquet, poses en chevrons."
+  },
+  {
+   "titre": "Salles de bain",
+   "texte": "Murs, sols et faïence, de la douche aux toilettes."
+  },
+  {
+   "titre": "Douches à l'italienne",
+   "texte": "Receveur au sol, parois carrelées et niches."
+  },
+  {
+   "titre": "Escaliers",
+   "texte": "Marches et contremarches carrelées."
+  },
+  {
+   "titre": "Murs décoratifs",
+   "texte": "Têtes de lit, crédences et murs en carreaux à motifs."
+  }
+ ],
+ "galerie_titre": "Réalisations",
+ "galerie_intro": "Quelques chantiers, du traçage au laser jusqu'à la finition.",
+ "photos": [
+  {
+   "img": "salle-de-bain",
+   "alt": "Une salle de bain sous pente : grands carreaux gris, frise de mosaïque, douche vitrée et sol imitation bois clair",
+   "titre": "Salle de bain sous les combles"
+  },
+  {
+   "img": "douche-bois",
+   "alt": "Une douche aux murs en carreaux imitation bois posés en décalé, avec trois tablettes d'angle",
+   "titre": "Douche imitation bois"
+  },
+  {
+   "img": "trace-laser",
+   "alt": "Un sol en préparation : le laser vert trace les lignes, des lames imitation parquet posées en chevrons",
+   "titre": "Pose en chevrons, au laser"
+  },
+  {
+   "img": "escalier",
+   "alt": "Un escalier tournant aux marches carrelées en grès gris anthracite",
+   "titre": "Escalier carrelé"
+  },
+  {
+   "img": "vasques",
+   "alt": "Une salle de bain avec double vasque noire, miroir galet, murs clairs et imitation bois en escalier",
+   "titre": "Salle de bain terminée"
+  },
+  {
+   "img": "comptoir",
+   "alt": "Un local commercial au sol en carrelage imitation bois, devant un comptoir et un mur vert",
+   "titre": "Local commercial"
+  },
+  {
+   "img": "tete-de-lit",
+   "alt": "Une chambre mansardée au mur rose, une tête de lit en grands carreaux à motif de feuillage",
+   "titre": "Tête de lit en carreaux"
+  }
+ ],
+ "zone": "Colmar et ses environs",
+ "devis_texte": "Décrivez votre projet (pièce, surface, type de carrelage) et envoyez-nous quelques photos : nous vous répondons avec un devis.",
+ "bloc2": {
+  "titre": "Le savoir-faire",
+  "texte": "Avant de poser, nous traçons : un niveau laser projette les lignes au sol et aux murs, pour que les joints tombent juste, même en chevrons. Sols, douches, escaliers ou têtes de lit, chaque chantier est photographié de l'avant à l'après sur notre page.",
+  "img": "trace-laser",
+  "alt": "Le niveau laser posé au sol, ses lignes vertes guident la pose des lames en chevrons",
+  "faits": [
+   {
+    "k": "5,0 / 5",
+    "v": "La note de nos clients sur Google."
+   },
+   {
+    "k": "Avant / après",
+    "v": "Chaque chantier est photographié, étape par étape."
+   }
+  ]
+ },
+ "horaires": {
+  "lundi": [
+   "08:00-18:00"
+  ],
+  "mardi": [
+   "08:00-18:00"
+  ],
+  "mercredi": [
+   "08:00-18:00"
+  ],
+  "jeudi": [
+   "08:00-18:00"
+  ],
+  "vendredi": [
+   "08:00-18:00"
+  ],
+  "samedi": [],
+  "dimanche": []
+ }
+}
