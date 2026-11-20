@@ -1,0 +1,61 @@
+{
+ "slug": "caveau-saint-jean",
+ "famille": "restaurant",
+ "nom": "Caveau Saint Jean",
+ "activite": "Restaurant",
+ "description": "Caveau Saint Jean, restaurant au 47 Grand'Rue à Colmar : pizzas à la pâte bio pétrie à la main, tartes flambées, viandes et suggestions, midi et soir. Horaires et accès.",
+ "ville": "Colmar",
+ "adresse": "47 Grand'Rue",
+ "cp_ville": "68000 Colmar",
+ "maps_dest": "48.074773,7.3573763",
+ "tel": "+33368612330",
+ "tel_affiche": "03 68 61 23 30",
+ "email": "caveau.stjean@gmail.com",
+ "facebook": "https://www.facebook.com/100061943928536/",
+ "note": "4,7",
+ "avis": 1292,
+ "preuve_extra": "recommandé à 96 % sur Facebook",
+ "couleurs": {"principale": "#1d4a42", "accent": "#e2583a"},
+ "hero": "salle",
+ "hero_alt": "La salle du Caveau Saint Jean : murs vert profond, poutres anciennes, guirlandes lumineuses, papier peint de feuilles tropicales et chaises bleues, jaunes et orange autour des tables en bois",
+ "hero_pos": "50% 55%",
+ "accroche": "Restaurant, 47 Grand'Rue à Colmar",
+ "titre_lignes": ["Caveau", "Saint Jean"],
+ "slogan": "Pizzas, tartes flambées, viandes et suggestions, midi et soir, dans une salle aux murs verts et aux chaises de toutes les couleurs.",
+ "offre_titre": "La carte",
+ "offre_intro": "Quelques-unes de nos assiettes, à déguster sur place ou à emporter :",
+ "offre": [
+  {"titre": "Les pizzas", "texte": "Pâte à la farine bio, pétrie à la main, et sauce tomate bio. La Saint Jean : mozzarella di bufala, parmesan affiné, huile d'olive vierge extra bio et basilic frais."},
+  {"titre": "Les tartes flambées", "texte": "Traditionnelle, gratinée, munster, escargots au beurre d'ail, chèvre-miel-noix ou roquefort-noix. Et la moitié-moitié : deux moitiés au choix."},
+  {"titre": "Les viandes", "texte": "Faux-filet au beurre maître d'hôtel fait maison, entrecôte au four, tartare de bœuf au couteau, jarret braisé. Avec frites ou pâtes à l'ail, salade ou légumes et sauce maison."},
+  {"titre": "Les entrées", "texte": "Salade paysanne au munster fermier et lardons grillés, œuf cocotte au jambon cru, escargots à croquer, salade de gésiers de canard."}
+ ],
+ "encart": {"titre": "Aussi en version végétarienne", "texte": "Nos entrées et nos plats existent aussi en version végétarienne : demandez-la en commandant."},
+ "photos": [
+  {"img": "tarte", "alt": "Une tarte flambée gratinée au munster, oignons et lardons, à la croûte bien saisie, dans sa boîte à emporter"},
+  {"img": "banquette", "alt": "Une table ronde en bois dans l'angle de la banquette, sous une suspension en rotin, contre le mur vert et la fenêtre fleurie"},
+  {"img": "salade", "alt": "Un bol de salade composée : chou rouge et pomme, carottes râpées, tomate, champignons, radis et courge rôtie"},
+  {"img": "enseigne", "alt": "L'enseigne en fer forgé « Caveau Saint Jean » devant les façades colorées de la Grand'Rue, sous un ciel bleu"},
+  {"img": "table", "alt": "Une table dressée, un vase en forme de visage garni de fleurs, l'ardoise des suggestions et la colonne aux guirlandes lumineuses"},
+  {"img": "terrasse", "alt": "La terrasse sous les stores, sur les pavés de la Grand'Rue"}
+ ],
+ "bloc2": {
+  "titre": "Nouvelle carte, nouvelle déco",
+  "texte": "Au 47 Grand'Rue, Claire et Julien vous accueillent midi et soir sous les poutres anciennes du caveau. Murs vert profond, feuilles tropicales, guirlandes lumineuses et chaises bleues, jaunes et orange : on y vient pour une pizza, une tarte flambée ou les suggestions de l'ardoise.",
+  "img": "vitrine",
+  "alt": "La salle vue de la fenêtre, avec ses suspensions, ses tables dressées et un bouquet de fleurs rouges au premier plan",
+  "faits": [
+   {"k": "Pâte bio", "v": "Farine bio, pétrie à la main, et sauce tomate bio."},
+   {"k": "À emporter", "v": "Vos plats à retirer sur place."}
+  ]
+ },
+ "horaires": {
+  "lundi": ["12:00-14:00", "18:30-21:00"],
+  "mardi": ["12:00-14:00", "18:30-21:00"],
+  "mercredi": [],
+  "jeudi": ["12:00-14:00", "18:30-21:00"],
+  "vendredi": ["12:00-14:00", "18:30-21:45"],
+  "samedi": ["12:00-14:00", "18:30-21:30"],
+  "dimanche": ["12:00-14:00", "18:30-21:00"]
+ }
+}
