@@ -1,0 +1,61 @@
+{
+ "slug": "djerba-la-douce",
+ "famille": "restaurant",
+ "polices": 6,
+ "nom": "D'Jerba la Douce",
+ "activite": "Restaurant tunisien",
+ "description": "D'Jerba la Douce, restaurant tunisien au 10 rue du Mouton à Colmar : couscous, pâtisseries, une salle aux lanternes et une terrasse au cœur de la vieille ville. Horaires et accès.",
+ "ville": "Colmar",
+ "adresse": "10 rue du Mouton",
+ "cp_ville": "68000 Colmar",
+ "maps_dest": "48.0774738,7.3602827",
+ "tel": "+33389241712",
+ "tel_affiche": "03 89 24 17 12",
+ "email": "nora.oui@hotmail.fr",
+ "facebook": "https://www.facebook.com/HabibDjerbaladouce/",
+ "note": "4,6",
+ "avis": 1003,
+ "couleurs": {"principale": "#1f3f5c", "accent": "#e0a63b"},
+ "hero": "salle",
+ "hero_alt": "La salle de D'Jerba la Douce : poutres anciennes, lanternes orientales aux verres bleus, verts et rouges, nappes tissées et grandes baies sur la rue",
+ "hero_pos": "50% 35%",
+ "accroche": "Restaurant tunisien, rue du Mouton à Colmar",
+ "titre_lignes": ["D'Jerba", "la Douce"],
+ "slogan": "Une table tunisienne au cœur du vieux Colmar, sous les lanternes, midi et soir.",
+ "offre_titre": "À table",
+ "offre_intro": "Ce qui vous attend chez nous, en salle ou en terrasse :",
+ "offre": [
+  {"titre": "Le couscous", "texte": "La semoule, les légumes, les pois chiches, le poulet et la merguez, servis dans l'assiette décorée."},
+  {"titre": "Le couscous aux légumes", "texte": "Carottes, courgettes, potiron, navets et piment, avec son bouillon à part."},
+  {"titre": "Les pâtisseries", "texte": "Un plateau de douceurs tunisiennes aux amandes, aux pistaches et aux noix."},
+  {"titre": "La terrasse", "texte": "Aux beaux jours, des tables dehors, sur les pavés de la rue du Mouton."}
+ ],
+ "encart": {"titre": "Au Marché couvert aussi", "texte": "Vous nous trouvez rue du Mouton, et aussi au Marché couvert de Colmar."},
+ "photos": [
+  {"img": "couscous", "alt": "Un couscous dans une assiette décorée : semoule, poulet, merguez, carotte, courgette, pomme de terre, oignon et pois chiches"},
+  {"img": "salle-soir", "alt": "La salle le soir : lanternes allumées, tables dressées, banquette au fond, fleurs le long de la vitrine et une table en mosaïque au premier plan"},
+  {"img": "couscous-legumes", "alt": "Un couscous aux légumes dans un plat en terre : carottes, courgettes, potiron, navets, pois chiches et un piment rouge, avec le bouillon à côté"},
+  {"img": "patisseries", "alt": "Un plateau de pâtisseries orientales : croissants au sucre glace, baklawas, pâtes d'amande colorées et gâteaux aux noix"},
+  {"img": "facade", "alt": "La façade du restaurant rue du Mouton, son enseigne éclairée au soir, un olivier et les maisons à colombages"},
+  {"img": "salle", "alt": "Les lanternes colorées sous les poutres de la salle"}
+ ],
+ "bloc2": {
+  "titre": "Sous les lanternes",
+  "texte": "Au 10 rue du Mouton, des poutres anciennes, des lanternes aux verres de couleur, des nappes tissées et des tables en mosaïque. Le soir, la salle s'allume et la terrasse s'installe sur les pavés, entre l'olivier et les maisons à colombages.",
+  "img": "salle-soir",
+  "alt": "La salle de D'Jerba la Douce le soir",
+  "faits": [
+   {"k": "Midi et soir", "v": "Du lundi au samedi."},
+   {"k": "En terrasse", "v": "Sur les pavés de la rue du Mouton."}
+  ]
+ },
+ "horaires": {
+  "lundi": ["12:00-14:00", "18:30-21:30"],
+  "mardi": ["12:00-14:00", "18:30-21:30"],
+  "mercredi": ["12:00-14:00", "18:30-21:30"],
+  "jeudi": ["12:00-14:00", "18:30-21:30"],
+  "vendredi": ["12:00-14:00", "18:30-21:30"],
+  "samedi": ["12:00-14:00", "18:30-21:30"],
+  "dimanche": []
+ }
+}
