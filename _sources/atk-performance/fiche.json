@@ -1,0 +1,143 @@
+{
+ "slug": "atk-performance",
+ "famille": "artisan",
+ "dessin": "plan",
+ "nom": "ATK Performance",
+ "activite": "Garage multimarque",
+ "description": "ATK Performance, garage multimarque au 124 rue du Logelbach à Colmar : mécanique, carrosserie, peinture, pneumatiques, pare-brise, detailing, achat et vente. Horaires, devis et accès.",
+ "ville": "Colmar",
+ "adresse": "124 rue du Logelbach",
+ "cp_ville": "68000 Colmar",
+ "maps_dest": "48.0843773,7.3333991",
+ "tel": "+33978801911",
+ "tel_affiche": "09 78 80 19 11",
+ "email": "atk.perfs@gmail.com",
+ "facebook": "https://www.facebook.com/100093021696827/",
+ "note": "4,7",
+ "avis": 73,
+ "couleurs": {
+  "principale": "#1f6fc4",
+  "accent": "#e2452f"
+ },
+ "logo": "logo",
+ "hero": "atelier",
+ "hero_alt": "L'atelier d'ATK Performance : une BMW au premier plan, un pont élévateur, d'autres voitures en réparation et une bannière Michelin au mur",
+ "hero_pos": "50% 55%",
+ "accroche": "Garage multimarque, rue du Logelbach à Colmar",
+ "titre_lignes": [
+  "ATK",
+  "Performance"
+ ],
+ "slogan": "Mécanique, carrosserie, peinture et pneus, toutes marques, sous le même toit.",
+ "offre_titre": "Nos services",
+ "offre_intro": "Tout ce qui est écrit sur notre enseigne, pour toutes les marques.",
+ "offre": [
+  {
+   "titre": "Mécanique",
+   "texte": "Entretien et réparation, toutes marques."
+  },
+  {
+   "titre": "Carrosserie",
+   "texte": "Réparation des chocs et remise en forme."
+  },
+  {
+   "titre": "Peinture",
+   "texte": "Dans notre cabine de peinture."
+  },
+  {
+   "titre": "Pneumatiques",
+   "texte": "Montage et équilibrage sur place."
+  },
+  {
+   "titre": "Pare-brise",
+   "texte": "Remplacement et réparation."
+  },
+  {
+   "titre": "Detailing",
+   "texte": "Nettoyage et préparation soignée de votre voiture."
+  },
+  {
+   "titre": "Achat et vente",
+   "texte": "Des véhicules d'occasion, à voir au garage."
+  }
+ ],
+ "galerie_titre": "L'atelier",
+ "galerie_intro": "La cabine de peinture, l'atelier mécanique et le coin pneus, au 124 rue du Logelbach.",
+ "photos": [
+  {
+   "img": "cabine",
+   "alt": "Une Opel Corsa grise dans la cabine de peinture, masquée de plastique et de ruban jaune, prête à être peinte",
+   "titre": "La cabine de peinture"
+  },
+  {
+   "img": "marbre",
+   "alt": "Une Citroën C3 blanche sur le banc, dans l'atelier carrosserie, avec les tréteaux et les tuyaux d'air",
+   "titre": "La carrosserie"
+  },
+  {
+   "img": "pneus",
+   "alt": "La démonte-pneus et l'équilibreuse de l'atelier, contre un mur blanc et gris",
+   "titre": "Le coin pneus"
+  },
+  {
+   "img": "passage",
+   "alt": "Une BMW bleu nuit garée dans l'atelier, sous les bannières Michelin et Toyo",
+   "titre": "L'atelier mécanique"
+  },
+  {
+   "img": "porsche",
+   "alt": "Une Porsche 911 blanche garée devant le garage",
+   "titre": "Devant le garage"
+  },
+  {
+   "img": "facade",
+   "alt": "La façade du garage ATK Performance : l'enseigne et la liste des services au-dessus de la porte, une Jeep jaune devant",
+   "titre": "Le garage",
+   "pos": "50% 35%"
+  }
+ ],
+ "zone": "Colmar et ses environs",
+ "devis_texte": "Décrivez votre voiture (marque, modèle, année) et ce qu'il faut faire : nous vous répondons avec un devis.",
+ "bloc2": {
+  "titre": "Le garage",
+  "texte": "ATK Performance est un garage multimarque installé au 124 rue du Logelbach, à Colmar. Mécanique, carrosserie, peinture, pneus, pare-brise et detailing : votre voiture reste au même endroit du début à la fin, et nous achetons et vendons aussi des véhicules.",
+  "img": "facade",
+  "alt": "La façade du garage ATK Performance rue du Logelbach",
+  "faits": [
+   {
+    "k": "Toutes marques",
+    "v": "Citadines comme sportives."
+   },
+   {
+    "k": "7 métiers",
+    "v": "Mécanique, carrosserie, peinture, pneus, pare-brise, detailing, achat et vente."
+   }
+  ]
+ },
+ "horaires": {
+  "lundi": [
+   "08:00-12:00",
+   "14:00-18:00"
+  ],
+  "mardi": [
+   "08:00-12:00",
+   "14:00-18:00"
+  ],
+  "mercredi": [
+   "08:00-12:00",
+   "14:00-18:00"
+  ],
+  "jeudi": [
+   "08:00-12:00",
+   "14:00-18:00"
+  ],
+  "vendredi": [
+   "08:00-12:00",
+   "14:00-18:00"
+  ],
+  "samedi": [
+   "08:30-12:00"
+  ],
+  "dimanche": []
+ }
+}

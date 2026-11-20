@@ -1,0 +1,40 @@
+{
+ "fonts": [
+  {
+   "key": "titre",
+   "family": "archivo",
+   "variable": true
+  },
+  {
+   "key": "texte",
+   "family": "familjen-grotesk",
+   "variable": true
+  }
+ ],
+ "horaires": {
+  "lundi": [
+   "08:00-12:00",
+   "14:00-18:00"
+  ],
+  "mardi": [
+   "08:00-12:00",
+   "14:00-18:00"
+  ],
+  "mercredi": [
+   "08:00-12:00",
+   "14:00-18:00"
+  ],
+  "jeudi": [
+   "08:00-12:00",
+   "14:00-18:00"
+  ],
+  "vendredi": [
+   "08:00-12:00",
+   "14:00-18:00"
+  ],
+  "samedi": [
+   "08:30-12:00"
+  ],
+  "dimanche": []
+ }
+}
