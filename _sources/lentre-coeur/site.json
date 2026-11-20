@@ -1,0 +1,11 @@
+{
+  "fonts": [
+    {"key": "corm", "family": "cormorant-garamond", "weight": 500},
+    {"key": "corm-i", "family": "cormorant-garamond", "weight": 500, "style": "italic"},
+    {"key": "jost", "family": "jost", "variable": true}
+  ],
+  "horaires": {
+    "lundi": [], "mardi": ["11:30-14:00", "18:30-21:00"], "mercredi": ["11:30-14:00", "18:30-21:00"], "jeudi": ["11:30-14:00", "18:30-21:00"],
+    "vendredi": ["11:30-14:00", "18:30-21:00"], "samedi": ["11:30-14:00", "18:30-21:00"], "dimanche": []
+  }
+}
