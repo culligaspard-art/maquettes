@@ -1,0 +1,121 @@
+{
+ "slug": "orabbits",
+ "famille": "restaurant",
+ "nom": "O'Rabbit's Irish Pub",
+ "activite": "Pub irlandais",
+ "description": "O'Rabbit's Irish Pub, rue des Clefs et rue Reiset à Colmar : bières à la pression, plat du jour sur place ou à emporter, carte pub et ambiance musicale. Horaires et accès.",
+ "ville": "Colmar",
+ "adresse": "45 rue des Clefs, 5-7 rue Reiset",
+ "cp_ville": "68000 Colmar",
+ "maps_dest": "48.0789555,7.3574966",
+ "tel": "+33389415464",
+ "tel_affiche": "03 89 41 54 64",
+ "email": "orabbitcolmar@gmail.com",
+ "facebook": "https://www.facebook.com/orabbitcolmar/",
+ "note": "4,3",
+ "avis": 967,
+ "preuve_extra": "recommandé à 98 % sur Facebook",
+ "couleurs": {
+  "principale": "#0f4a32",
+  "accent": "#d9a441"
+ },
+ "hero": "comptoir",
+ "hero_alt": "Le long comptoir en bois sombre du O'Rabbit's, ses tabourets, ses vitrines de verres et de bouteilles éclairées en vert, les lustres et la pompe à Guinness",
+ "hero_pos": "50% 50%",
+ "accroche": "Irish pub, rue des Clefs à Colmar",
+ "titre_lignes": [
+  "O'Rabbit's",
+  "Irish Pub"
+ ],
+ "slogan": "Un bar à bières avec de la musique, un plat du jour sur place ou à emporter et une carte pub.",
+ "offre_titre": "Au pub",
+ "offre_intro": "Les plats du jour de la semaine du 17 novembre, et ce qui vous attend au comptoir :",
+ "offre": [
+  {
+   "titre": "Mardi 17 : pot-au-feu",
+   "texte": "Le plat du jour, sur place ou à emporter."
+  },
+  {
+   "titre": "Mercredi 18 : filet mignon de porc",
+   "texte": "Sauce moutarde et fusilli."
+  },
+  {
+   "titre": "Jeudi 19 : sauté de cerf",
+   "texte": "Légumes anciens et purée."
+  },
+  {
+   "titre": "Vendredi 20 : araignée de veau",
+   "texte": "Frites et salade."
+  }
+ ],
+ "encart": {
+  "titre": "La formule : 16,50 €",
+  "texte": "Le plat du jour avec une entrée, ou avec un dessert. Les plats de la semaine sont annoncés sur notre page."
+ },
+ "photos": [
+  {
+   "img": "plats",
+   "alt": "L'ardoise des plats du jour de la semaine du 17 novembre, entourée de nœuds celtiques verts"
+  },
+  {
+   "img": "pompes",
+   "alt": "Le comptoir en contre-jour : les pompes à bière éclairées, la harpe de la Guinness et les lustres en cristal"
+  },
+  {
+   "img": "bouteilles",
+   "alt": "Les vitrines en bois sombre derrière le bar : whiskys, gins et verres, sous une lumière verte"
+  },
+  {
+   "img": "salle",
+   "alt": "Un coin de la salle : banquettes en cuir, tables en bois, mur vert et ardoise des bières à la pression"
+  },
+  {
+   "img": "banquettes",
+   "alt": "La salle aux banquettes de cuir, aux gravures encadrées sur le mur vert, avec une vieille radio et un grand écran"
+  },
+  {
+   "img": "bieres",
+   "alt": "L'ardoise Guinness des bières à la pression, écrite à la craie"
+  }
+ ],
+ "bloc2": {
+  "titre": "Le pub",
+  "texte": "Un long comptoir en bois sombre, des vitrines de bouteilles, des banquettes en cuir et des murs verts : entre la rue des Clefs et la rue Reiset, on vient au O'Rabbit's pour une pinte, le plat du jour ou un match sur grand écran, en salle ou en terrasse.",
+  "img": "banquettes",
+  "alt": "La salle du O'Rabbit's, ses banquettes et ses tables en bois",
+  "faits": [
+   {
+    "k": "Sur place ou à emporter",
+    "v": "Le plat du jour, à table ou à la maison."
+   },
+   {
+    "k": "Terrasse",
+    "v": "Des sièges dehors quand il fait beau."
+   }
+  ]
+ },
+ "nav_labels": {
+  "carte": "Au pub"
+ },
+ "horaires": {
+  "lundi": [],
+  "mardi": [
+   "11:00-00:00"
+  ],
+  "mercredi": [
+   "11:00-00:00"
+  ],
+  "jeudi": [
+   "11:00-00:00"
+  ],
+  "vendredi": [
+   "11:00-01:30"
+  ],
+  "samedi": [
+   "11:00-01:30"
+  ],
+  "dimanche": [
+   "16:00-00:00"
+  ]
+ }
+}
