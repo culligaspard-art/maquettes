@@ -1,0 +1,31 @@
+{
+ "fonts": [
+  {
+   "key": "titre",
+   "family": "bebas-neue",
+   "weight": 400
+  },
+  {
+   "key": "texte",
+   "family": "barlow",
+   "weight": 400
+  }
+ ],
+ "horaires": {
+  "lundi": [],
+  "mardi": [],
+  "mercredi": [],
+  "jeudi": [
+   "17:00-01:00"
+  ],
+  "vendredi": [
+   "17:00-01:00"
+  ],
+  "samedi": [
+   "17:00-01:00"
+  ],
+  "dimanche": [
+   "17:00-22:30"
+  ]
+ }
+}

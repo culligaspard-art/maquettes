@@ -201,7 +201,9 @@ p{margin:0}
   var now=new Date(), d=now.getDay(), t=now.getHours()*60+now.getMinutes();
   var row=document.querySelector('.hours tr[data-day="'+d+'"]'); if(row) row.classList.add("is-today");
   var label=null, open=false;
-  (H[d]||[]).forEach(function(r){ if(t>=m(r[0]) && t<m(r[1])){open=true; label="Ouvert maintenant, jusqu'à "+fh(r[1]);} });
+  function sp(r){var s=m(r[0]),e=m(r[1]); if(e<=s) e+=1440; return [s,e];}
+  (H[d]||[]).forEach(function(r){ var x=sp(r); if(t>=x[0] && t<x[1]){open=true; label="Ouvert maintenant, jusqu'à "+fh(r[1]);} });
+  (H[(d+6)%7]||[]).forEach(function(r){ var x=sp(r); if(x[1]>1440 && t<x[1]-1440){open=true; label="Ouvert maintenant, jusqu'à "+fh(r[1]);} });
   if(!open){
     for(var i=0;i<8 && !label;i++){
       var dd=(d+i)%7, slots=H[dd]||[];

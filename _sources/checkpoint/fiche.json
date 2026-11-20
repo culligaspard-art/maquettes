@@ -1,0 +1,119 @@
+{
+ "slug": "checkpoint",
+ "famille": "restaurant",
+ "polices": 4,
+ "nom": "Checkpoint",
+ "activite": "Bar, retro-gaming",
+ "description": "Checkpoint Lounge and Games, bar au 1 rue des Tilleuls à Colmar : retro-gaming, consoles next-gen, snacking, boissons, et des soirées chaque semaine. Horaires et accès.",
+ "ville": "Colmar",
+ "adresse": "1 rue des Tilleuls",
+ "cp_ville": "68000 Colmar",
+ "maps_dest": "48.0791604,7.3622628",
+ "tel": "+33695720913",
+ "tel_affiche": "06 95 72 09 13",
+ "email": "contact.checkpointlag@gmail.com",
+ "facebook": "https://www.facebook.com/Checkpointbarcolmar/",
+ "instagram": "https://www.instagram.com/checkpoint_colmar/",
+ "note": "4,8",
+ "avis": 311,
+ "preuve_extra": "recommandé à 100 % sur Facebook",
+ "couleurs": {
+  "principale": "#1d2350",
+  "accent": "#5fe6ea"
+ },
+ "hero": "ecrans",
+ "hero_alt": "Dans la lumière bleue du Checkpoint, une partie de jeu de combat sur un grand écran, des figurines et un autre écran au-dessus",
+ "hero_pos": "50% 50%",
+ "accroche": "Lounge and games, rue des Tilleuls à Colmar",
+ "titre_lignes": [
+  "Check",
+  "point"
+ ],
+ "slogan": "Un bar avec du retro-gaming, des consoles next-gen, du snacking, des boissons et une ambiance chill.",
+ "offre_titre": "Au programme",
+ "offre_intro": "Des consoles en libre accès, un bar, et chaque semaine ses soirées :",
+ "offre": [
+  {
+   "titre": "Weekly Smash",
+   "texte": "Les tournois de la semaine, de 17 h à 0 h 30, avec l'happy hour de 17 h à 20 h."
+  },
+  {
+   "titre": "JDR",
+   "texte": "La soirée jeu de rôle, de 19 h à 22 h."
+  },
+  {
+   "titre": "Karaoké",
+   "texte": "Micro ouvert à partir de 21 h."
+  },
+  {
+   "titre": "Checkflix and chill",
+   "texte": "Jeux vidéo, jeux de société, cartes et comics, pour finir la semaine."
+  }
+ ],
+ "encart": {
+  "titre": "Le mercredi, jusqu'en janvier",
+  "texte": "Depuis le 25 novembre, le Checkpoint est fermé le mercredi, et ce jusqu'en janvier."
+ },
+ "photos": [
+  {
+   "img": "mojito-passion",
+   "alt": "Un mojito au fruit de la passion, menthe fraîche et glace pilée, devant les bouteilles du bar"
+  },
+  {
+   "img": "salle",
+   "alt": "La salle voûtée en lumière rose et violette, son pilier de galets, l'escalier blanc et une peluche jaune sur l'étagère"
+  },
+  {
+   "img": "bar",
+   "alt": "Derrière le comptoir, l'équipe en t-shirts Checkpoint sert les clients, devant les étagères de bouteilles éclairées"
+  },
+  {
+   "img": "facade",
+   "alt": "La façade en grès rose et l'enseigne Checkpoint, la terrasse sur le trottoir de la rue des Tilleuls et les maisons à colombages"
+  },
+  {
+   "img": "mojito",
+   "alt": "Un mojito au citron vert et à la menthe sur une table de terrasse"
+  },
+  {
+   "img": "banniere",
+   "alt": "L'affiche Checkpoint, Lounge and Games : le nom en lettres chromées au-dessus d'une grille rose et cyan"
+  }
+ ],
+ "bloc2": {
+  "titre": "Lounge and games",
+  "texte": "Au 1 rue des Tilleuls, une salle voûtée en lumière bleue et rose, des écrans, des manettes, des figurines et un bar. On y vient jouer à des jeux rétro ou next-gen, boire un verre et grignoter, seul ou entre amis.",
+  "img": "consoles",
+  "alt": "Un poste de jeu : un grand écran, une partie en cours, une table en bois et deux verres",
+  "faits": [
+   {
+    "k": "Retro et next-gen",
+    "v": "Des consoles d'hier et d'aujourd'hui."
+   },
+   {
+    "k": "Happy hour",
+    "v": "De 17 h à 20 h les soirs de Weekly Smash."
+   }
+  ]
+ },
+ "nav_labels": {
+  "carte": "Au programme"
+ },
+ "horaires": {
+  "lundi": [],
+  "mardi": [],
+  "mercredi": [],
+  "jeudi": [
+   "17:00-01:00"
+  ],
+  "vendredi": [
+   "17:00-01:00"
+  ],
+  "samedi": [
+   "17:00-01:00"
+  ],
+  "dimanche": [
+   "17:00-22:30"
+  ]
+ }
+}
