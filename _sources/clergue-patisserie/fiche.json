@@ -1,0 +1,63 @@
+{
+ "slug": "clergue-patisserie",
+ "famille": "patisserie",
+ "polices": 2,
+ "nom": "Clergue Pâtisserie",
+ "activite": "Pâtisserie, traiteur",
+ "description": "Clergue Pâtisserie, pâtisserie et traiteur au 7D rue Montgolfier à Sainte-Croix-en-Plaine : tartes, bûches, beignets, plateaux apéritifs et plats du jour. Horaires et accès.",
+ "ville": "Sainte-Croix-en-Plaine",
+ "adresse": "7D rue Montgolfier",
+ "cp_ville": "68127 Sainte-Croix-en-Plaine",
+ "tel": "+33389294661",
+ "tel_affiche": "03 89 29 46 61",
+ "email": "patisserie.clergue@gmail.com",
+ "facebook": "https://www.facebook.com/61553089920560/",
+ "instagram": "https://www.instagram.com/clerguepatisserie/",
+ "note": "4,5",
+ "avis": 50,
+ "preuve_extra": "recommandé à 100 % sur Facebook",
+ "couleurs": {"principale": "#e8692c", "accent": "#4a1f1a"},
+ "nom_plaque": "Clergue",
+ "ruban": "pâtisserie",
+ "hero": "tarte-citron",
+ "hero_alt": "Une tarte au citron meringuée sur une planche en bois, avec des tranches de citron et des fleurs jaune et blanche",
+ "hero_pos": "60% 50%",
+ "accroche": "Pâtisserie et traiteur, à Sainte-Croix-en-Plaine",
+ "titre_lignes": ["Clergue", "Pâtisserie"],
+ "slogan": "Pâtisserie et traiteur, rue Montgolfier : des gâteaux pour tous les jours et des bûches pour les fêtes.",
+ "offre_titre": "La vitrine",
+ "offre_intro": "Quelques douceurs de la maison, à emporter ou à commander.",
+ "photos": [
+  {"img": "buche-framboise", "alt": "Une bûche aux framboises et aux pistaches, son étoile, son bonhomme en pain d'épices et la plaque en chocolat « Clergue Pâtisserie », sur un plateau doré"},
+  {"img": "beignets", "alt": "Des beignets dorés au sucre glace et des beignets roulés au cacao, sur une planche en bois"},
+  {"img": "coeurs", "alt": "Deux gâteaux en forme de cœur, l'un aux framboises et aux fraises, l'autre au chocolat et aux noisettes, parmi des pétales de rose"},
+  {"img": "buches", "alt": "Quatre bûches de fêtes sur deux plateaux dorés : chocolat, praliné, framboise-pistache et exotique, avec leurs plaques « Joyeuses fêtes »"},
+  {"img": "tarte-citron", "alt": "La tarte au citron meringuée"},
+  {"img": "cocktail", "alt": "Des plateaux de traiteur : mini-burgers, wraps, cakes salés, tartares en verrine et chou rouge"}
+ ],
+ "bloc2": {
+  "titre": "Pâtisserie et traiteur",
+  "texte": "Au 7D rue Montgolfier, à Sainte-Croix-en-Plaine, nous préparons les gâteaux de tous les jours, les bûches des fêtes et des plateaux salés pour vos réceptions. Chaque semaine, nos plats du jour sont annoncés sur notre page.",
+  "img": "buches",
+  "alt": "Les bûches de fêtes de Clergue Pâtisserie",
+  "faits": [
+   {"k": "À emporter", "v": "Retrait en boutique, achats sur place."},
+   {"k": "Traiteur", "v": "Plateaux apéritifs et plats du jour."}
+  ]
+ },
+ "commande": {
+  "titre": "Pour vos réceptions",
+  "texte": "Plateaux apéritifs, mini-burgers, wraps et verrines, ou une bûche pour les fêtes : appelez-nous pour passer commande.",
+  "img": "cocktail",
+  "alt": "Des plateaux apéritifs préparés par Clergue Pâtisserie"
+ },
+ "horaires": {
+  "lundi": [],
+  "mardi": ["06:30-13:30"],
+  "mercredi": ["06:30-13:30"],
+  "jeudi": ["06:30-13:30"],
+  "vendredi": ["06:30-13:30"],
+  "samedi": ["08:00-12:00"],
+  "dimanche": []
+ }
+}
