@@ -1,0 +1,65 @@
+{
+ "slug": "cem-energies",
+ "famille": "artisan",
+ "dessin": "toit",
+ "nom": "CEM Énergies",
+ "activite": "Électricité générale et photovoltaïque",
+ "description": "CEM Énergies, la Colmarienne d'Électricité et de Maintenance : électricité générale depuis 2007 et installations photovoltaïques pour particuliers, professionnels et agriculteurs, 8 rue Denis Papin à Colmar.",
+ "ville": "Colmar",
+ "adresse": "8 rue Denis Papin, zone industrielle Nord",
+ "cp_ville": "68000 Colmar",
+ "maps_dest": "CEM Energies, 8 Rue Denis Papin, 68000 Colmar",
+ "tel": "+33389414000",
+ "tel_affiche": "03 89 41 40 00",
+ "email": "cem68@orange.fr",
+ "facebook": "https://www.facebook.com/cemenergies/",
+ "note": "4,3",
+ "avis": 11,
+ "couleurs": {"principale": "#2a9fd8", "accent": "#8a8d91"},
+ "logo": "logo",
+ "hero": "batiment",
+ "hero_alt": "Vue aérienne d'un grand bâtiment industriel dont la toiture et les façades sont équipées de panneaux photovoltaïques par CEM Énergies, avec un étang et la plaine d'Alsace en fond",
+ "hero_pos": "50% 60%",
+ "accroche": "Électricien et installateur photovoltaïque à Colmar",
+ "titre_lignes": ["CEM", "Énergies"],
+ "slogan": "Électricité générale depuis 2007, et des installations solaires de l'étude à la réalisation.",
+ "offre_titre": "Nos services",
+ "offre_intro": "L'électricité et le solaire, pour l'habitat, le tertiaire et l'industrie.",
+ "offre": [
+  {"titre": "Électricité générale", "texte": "Habitat, tertiaire et industrie, depuis 2007."},
+  {"titre": "Maintenance", "texte": "Entretien et dépannage de vos installations électriques."},
+  {"titre": "Photovoltaïque en vente totale", "texte": "Pour les grandes toitures : toute la production est revendue."},
+  {"titre": "Autoconsommation et vente du surplus", "texte": "Pour les maisons et les entreprises : vous consommez votre électricité et revendez le reste."},
+  {"titre": "De l'étude à la réalisation", "texte": "Particuliers, professionnels ou agriculteurs : nous vous accompagnons sur tout le projet."}
+ ],
+ "galerie_titre": "Réalisations",
+ "galerie_intro": "Quelques installations solaires réalisées par nos équipes en Alsace.",
+ "photos": [
+  {"img": "toiture", "alt": "Une grande toiture industrielle couverte de rangées de panneaux solaires, face aux Vosges sous un ciel nuageux", "titre": "211,6 kWc en vente totale"},
+  {"img": "cooperative", "alt": "Vue aérienne d'un bâtiment à bardage bois dont le toit plat porte deux longues rangées de panneaux solaires, dans une zone d'activités", "titre": "44 kWc en autoconsommation"},
+  {"img": "vignoble", "alt": "Une rangée de panneaux solaires noirs sur un toit en zinc, au-dessus d'une terrasse, avec le vignoble en contrebas", "titre": "4,5 kWc au cœur du vignoble"},
+  {"img": "vue-dessus", "alt": "Vue de dessus d'un bâtiment dont les deux toits plats sont entièrement couverts de panneaux solaires, au milieu d'un parking", "titre": "Toitures de bureaux"},
+  {"img": "batiment-large", "alt": "Un long bâtiment industriel orange, équipé de panneaux solaires en toiture et en façade, avec un étang derrière", "titre": "Toiture et façades"}
+ ],
+ "zone": "Colmar et l'Alsace",
+ "devis_texte": "Un projet électrique ou solaire ? Décrivez-le (maison, entreprise, exploitation agricole, surface de toiture) : nous vous recontactons pour l'étude.",
+ "bloc2": {
+  "titre": "L'entreprise",
+  "texte": "La Colmarienne d'Électricité et de Maintenance est une entreprise d'électricité générale basée à Colmar depuis 2007, gérée par Jean-Marie Masson. Elle intervient sur l'habitat, le tertiaire et l'industrie, et réalise sous le nom CEM Énergies des installations photovoltaïques pour les particuliers, les professionnels et les agriculteurs.",
+  "img": "batiment-large",
+  "alt": "Un bâtiment industriel équipé de panneaux solaires par CEM Énergies",
+  "faits": [
+   {"k": "2007", "v": "Électricité générale à Colmar."},
+   {"k": "211,6 kWc", "v": "Une installation en vente totale sur une toiture industrielle."}
+  ]
+ },
+ "horaires": {
+  "lundi": ["08:00-12:00", "13:30-17:30"],
+  "mardi": ["08:00-12:00", "13:30-17:30"],
+  "mercredi": ["08:00-12:00", "13:30-17:30"],
+  "jeudi": ["08:00-12:00", "13:30-17:30"],
+  "vendredi": ["08:00-12:00"],
+  "samedi": [],
+  "dimanche": []
+ }
+}
