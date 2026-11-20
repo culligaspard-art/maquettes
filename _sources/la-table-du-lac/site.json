@@ -1,0 +1,11 @@
+{
+  "fonts": [
+    {"key": "instr", "family": "instrument-serif", "weight": 400},
+    {"key": "instr-i", "family": "instrument-serif", "weight": 400, "style": "italic"},
+    {"key": "onest", "family": "onest", "variable": true}
+  ],
+  "horaires": {
+    "lundi": [], "mardi": ["12:00-14:00", "19:00-21:00"], "mercredi": ["12:00-14:00", "19:00-21:00"], "jeudi": ["12:00-14:00", "19:00-21:00"],
+    "vendredi": ["12:00-14:00", "19:00-21:00"], "samedi": ["12:00-14:00", "19:00-21:00"], "dimanche": []
+  }
+}
