@@ -1,0 +1,60 @@
+{
+ "slug": "villa-romana",
+ "famille": "restaurant",
+ "nom": "Villa Romana",
+ "activite": "Restaurant italien, pizzeria",
+ "description": "Villa Romana, restaurant italien et pizzeria au 8 rue de l'Ill à Colmar : pizzas, plats, véranda couverte et terrasse, sur place ou à emporter. Horaires et accès.",
+ "ville": "Colmar",
+ "adresse": "8 rue de l'Ill",
+ "cp_ville": "68000 Colmar",
+ "tel": "+33389242566",
+ "tel_affiche": "03 89 24 25 66",
+ "email": "villa.romana68@gmail.com",
+ "facebook": "https://www.facebook.com/100063621664419/",
+ "note": "4,2",
+ "avis": 1054,
+ "preuve_extra": "recommandé à 84 % sur Facebook",
+ "couleurs": {"principale": "#2f6b3a", "accent": "#e3a72f"},
+ "hero": "terrasse",
+ "hero_alt": "La terrasse de la Villa Romana au soleil : tables dressées, chaises jaune moutarde et rouges sous de grands parasols, la façade jaune et des palmiers en pot",
+ "hero_pos": "50% 60%",
+ "accroche": "Restaurant italien, rue de l'Ill à Colmar",
+ "titre_lignes": ["Villa", "Romana"],
+ "slogan": "Un restaurant italien à l'ambiance familiale : véranda lumineuse, petite salle plus intime ou grande salle, comme il vous plaira.",
+ "offre_titre": "À table",
+ "offre_intro": "Ce qui sort de notre cuisine, en salle, en terrasse ou à emporter.",
+ "offre": [
+  {"titre": "Les pizzas", "texte": "Des pizzas sorties du four, à déguster en salle, en terrasse ou chez vous."},
+  {"titre": "La diavola", "texte": "Pour ceux qui aiment quand ça pique : elle revient avec le froid, au piment frais."},
+  {"titre": "Les plats", "texte": "Des viandes et des plats, servis avec leurs légumes."},
+  {"titre": "À emporter", "texte": "Toutes nos pizzas existent aussi à emporter : appelez-nous pour commander."}
+ ],
+ "encart": {"titre": "Trois salles, une terrasse", "texte": "Une véranda couverte et lumineuse, une petite salle plus intime, une grande salle et, aux beaux jours, la terrasse sous les parasols."},
+ "photos": [
+  {"img": "pizza-crudo", "alt": "Une pizza au jambon cru, roquette, tomates cerises et billes de mozzarella, filet de crème de balsamique, sur une assiette blanche"},
+  {"img": "veranda", "alt": "La terrasse couverte : poutres sombres, lanternes et paniers tressés au mur, banquette grise à coussins et chaises rouges et jaunes"},
+  {"img": "preparation", "alt": "En cuisine, les pizzas prêtes à enfourner sur le plan inox : courgettes et chèvre, oignons, calzone"},
+  {"img": "plat", "alt": "Une pièce de bœuf aux pleurotes, sa sauce, et des légumes croquants, sur un plat blanc"},
+  {"img": "tables", "alt": "Des tables dressées de serviettes rouges sous la charpente, une banquette à coussins jaunes et des palmiers en pot"},
+  {"img": "enseigne", "alt": "L'enseigne lumineuse verte « Villa Romana » au-dessus de la verrière d'entrée"}
+ ],
+ "bloc2": {
+  "titre": "Comme il vous plaira",
+  "texte": "Au 8 rue de l'Ill, la Villa Romana vous reçoit dans une ambiance familiale. Vous choisissez votre place : la véranda couverte et lumineuse, la petite salle plus intime, la grande salle, ou la terrasse sous les parasols quand il fait beau.",
+  "img": "veranda",
+  "alt": "La terrasse couverte de la Villa Romana, ses lanternes et sa banquette",
+  "faits": [
+   {"k": "Sur place", "v": "Véranda, petite salle, grande salle et terrasse."},
+   {"k": "À emporter", "v": "Toutes nos pizzas, sur commande par téléphone."}
+  ]
+ },
+ "horaires": {
+  "lundi": ["12:00-14:00", "18:45-22:30"],
+  "mardi": ["12:00-14:00", "18:45-22:30"],
+  "mercredi": [],
+  "jeudi": [],
+  "vendredi": ["12:00-14:00", "18:45-23:00"],
+  "samedi": ["12:00-14:00", "18:45-23:00"],
+  "dimanche": ["12:00-14:00", "18:45-22:30"]
+ }
+}
