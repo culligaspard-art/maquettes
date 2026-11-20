@@ -1,0 +1,62 @@
+{
+ "slug": "las-ink",
+ "famille": "beaute",
+ "forme": "miroir",
+ "nom": "L'As Ink",
+ "activite": "Salon de tatouage",
+ "description": "L'As Ink, salon de tatouage au 4 Grand Rue à Horbourg-Wihr : grandes pièces en noir et gris ou avec des touches de rouge, fleurs, thème japonais, animaux. Renseignements et rendez-vous par mail.",
+ "ville": "Horbourg-Wihr",
+ "adresse": "4 Grand Rue",
+ "cp_ville": "68180 Horbourg-Wihr",
+ "maps_dest": "48.0811451,7.3886642",
+ "tel": "",
+ "tel_affiche": "",
+ "email": "pauline.lasink@gmail.com",
+ "facebook": "https://www.facebook.com/pauline.lasink/",
+ "note": "4,9",
+ "avis": 80,
+ "preuve_extra": "recommandé à 100 % sur Facebook (52 avis)",
+ "couleurs": {"principale": "#1b1918", "accent": "#c8a35a"},
+ "hero": "samourai",
+ "hero_alt": "Une jambe tatouée d'une samouraï en noir et rouge, entourée de lys araignées rouges, dans le salon aux plantes vertes",
+ "hero_pos": "50% 35%",
+ "accroche": "Salon de tatouage, Grand Rue à Horbourg-Wihr",
+ "titre_lignes": ["L'As", "Ink"],
+ "slogan": "Des tatouages dessinés pour vous, à deux pas de Colmar. Pour tout renseignement, écrivez-nous.",
+ "offre_titre": "Les tatouages",
+ "offre_intro": "Chaque pièce est dessinée pour vous : fleurs, ornements, thème japonais, animaux et symboles.",
+ "offre": [
+  {"titre": "Grandes pièces", "texte": "Jambes, manchettes et dos, en noir et gris ou avec des touches de rouge."},
+  {"titre": "Fleurs et ornements", "texte": "Pivoines, mandalas et motifs géométriques en pointillé."},
+  {"titre": "Thème japonais", "texte": "Samouraïs, kitsune, érable et lys araignée."},
+  {"titre": "Sur rendez-vous", "texte": "Envoyez votre idée par mail : nous vous répondons pour en parler."}
+ ],
+ "offre_note": "Pour un projet ou un renseignement, écrivez-nous à",
+ "voir_label": "Voir les tatouages",
+ "nav_labels": {"soins": "Les tatouages", "galerie": "Galerie"},
+ "galerie_titre": "Galerie",
+ "galerie_intro": "Quelques pièces réalisées au salon, cicatrisées pour la plupart.",
+ "photos": [
+  {"img": "kitsune", "alt": "Un kitsune blanc aux neuf queues, des feuilles d'érable rouges, tatoué sur la cuisse"},
+  {"img": "hibou", "alt": "Une tête de hibou aux bois de cerf, en noir et gris, tatouée sur la nuque"},
+  {"img": "boussole", "alt": "Un vegvisir, deux corbeaux et l'arbre de vie, tatoués sur l'avant-bras, cicatrisés"},
+  {"img": "fleurs", "alt": "Des pivoines, des fleurs de cerisier et des ornements, tatoués sur trois avant-bras"},
+  {"img": "pivoines", "alt": "Une cuisse fleurie, une manchette en mandala géométrique et un bras couvert de pivoines"},
+  {"img": "samourai", "alt": "La samouraï aux lys araignées rouges, sur toute la jambe"}
+ ],
+ "bloc2": {
+  "titre": "Au 4 Grand Rue",
+  "texte": "L'As Ink est un salon de tatouage à Horbourg-Wihr, à deux pas de Colmar. Les renseignements et les rendez-vous se prennent par mail, à pauline.lasink@gmail.com.",
+  "img": "banniere",
+  "alt": "La carte de L'As Ink, 4 Grand Rue à Horbourg-Wihr, à côté de tatouages floraux et géométriques"
+ },
+ "horaires": {
+  "lundi": [],
+  "mardi": [],
+  "mercredi": [],
+  "jeudi": [],
+  "vendredi": [],
+  "samedi": ["10:00-13:00"],
+  "dimanche": []
+ }
+}

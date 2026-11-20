@@ -1,0 +1,25 @@
+{
+ "fonts": [
+  {
+   "key": "titre",
+   "family": "italiana",
+   "weight": 400
+  },
+  {
+   "key": "texte",
+   "family": "karla",
+   "variable": true
+  }
+ ],
+ "horaires": {
+  "lundi": [],
+  "mardi": [],
+  "mercredi": [],
+  "jeudi": [],
+  "vendredi": [],
+  "samedi": [
+   "10:00-13:00"
+  ],
+  "dimanche": []
+ }
+}
