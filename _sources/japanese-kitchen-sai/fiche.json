@@ -1,0 +1,164 @@
+{
+ "slug": "japanese-kitchen-sai",
+ "famille": "emporter",
+ "nom": "Japanese Kitchen Sai",
+ "activite": "Food truck japonais",
+ "description": "Japanese Kitchen Sai, food truck de cuisine japonaise autour de Colmar : gyozas faits maison, donburi, bentos, mochis et glace au matcha. Emplacements de la semaine et carte.",
+ "ville": "Colmar",
+ "adresse": "Food truck, emplacements de la semaine",
+ "cp_ville": "Colmar, Ingersheim, Rouffach",
+ "maps_dest": "Japanese Kitchen SAI Food Truck",
+ "tel": "+33698344455",
+ "tel_affiche": "06 98 34 44 55",
+ "email": "jpkitchensai@gmail.com",
+ "facebook": "https://www.facebook.com/jp.kitchen.sai/",
+ "note": "4,5",
+ "avis": 16,
+ "preuve_extra": "recommandé à 100 % sur Facebook",
+ "couleurs": {
+  "principale": "#c8201e",
+  "accent": "#1f6b3a"
+ },
+ "kraft": "#e9dcc4",
+ "hero": "soboro",
+ "hero_alt": "Un soboro bento vu de dessus : bœuf haché à la sauce sucrée-salée, omelette émiettée, radis, pois gourmands, shiitakés et carottes en fleur, dans un bol en carton",
+ "accroche": "Food truck japonais, autour de Colmar",
+ "titre_lignes": [
+  "Japanese",
+  "Kitchen Sai"
+ ],
+ "slogan": "Des gyozas faits maison, des bols de riz et des bentos, avec des légumes bio d'Alsace.",
+ "offre_titre": "La carte",
+ "offre_intro": "Les plats de la semaine, à emporter. Les allergènes sont indiqués sur notre carte au camion.",
+ "offre_groupes": [
+  {
+   "titre": "Les plats",
+   "items": [
+    {
+     "titre": "Gyozas au porc",
+     "texte": "Raviolis japonais faits maison : blé d'Alsace, porc, chou et poireaux bio, gingembre bio.",
+     "prix": "10 €"
+    },
+    {
+     "titre": "Gyozas au bœuf curry",
+     "texte": "Faits maison : vermicelles de riz, bœuf, carottes, céleri et oignons bio d'Alsace.",
+     "prix": "10 €"
+    },
+    {
+     "titre": "Poulet teriyaki don",
+     "texte": "Riz, poulet, poireau bio d'Alsace et algue.",
+     "prix": "12 €"
+    },
+    {
+     "titre": "Yakiniku bento",
+     "texte": "Porc sauté au sésame, riz, carottes sautées, chou rouge mariné et tofu frit.",
+     "prix": "13 €"
+    },
+    {
+     "titre": "Soboro bento",
+     "texte": "Riz, bœuf à la sauce sucrée-salée, omelette, radis marinés et légumes mijotés.",
+     "prix": "15 €"
+    }
+   ]
+  },
+  {
+   "titre": "Les desserts",
+   "items": [
+    {
+     "titre": "Mochi à la crème de haricot rouge",
+     "texte": "Fabriqué au Japon : nature, sésame ou armoise.",
+     "prix": "3 €"
+    },
+    {
+     "titre": "Mochi sakura",
+     "prix": "3,50 €"
+    },
+    {
+     "titre": "Glace au thé matcha",
+     "texte": "Faite maison.",
+     "prix": "2,50 €"
+    }
+   ]
+  }
+ ],
+ "notes": [
+  {
+   "k": "Légumes",
+   "v": "carottes, chou, poireaux et radis bio d'Alsace"
+  },
+  {
+   "k": "Nos emplacements",
+   "v": "ils changent chaque semaine : le programme est sur notre page Facebook"
+  }
+ ],
+ "moment": {
+  "titre": "Cette semaine, du 16 au 22 novembre",
+  "intro": "Où trouver le camion cette semaine :",
+  "items": [
+   {
+    "img": "gyoza",
+    "titre": "Lundi, de 11h30 à 13h30",
+    "texte": "Parking de la CPAM, 14 rue Denis Papin, Colmar.",
+    "alt": "Des gyozas dorés sur une assiette en céramique, avec des baguettes et une coupelle de sauce soja en fleur"
+   },
+   {
+    "img": "teriyaki",
+    "titre": "Mercredi, à partir de 16h30",
+    "texte": "Au marché de Rouffach, dans le centre-ville.",
+    "alt": "Un poulet teriyaki don : poulet laqué, poireau émincé et algue sur un bol de riz"
+   },
+   {
+    "img": "mochis",
+    "titre": "Samedi et dimanche",
+    "texte": "Au salon du livre de Colmar, au Parc des expositions.",
+    "alt": "Deux mochis, l'un rose, l'autre au matcha, sur un plateau en bois entre des fleurs blanches"
+   }
+  ]
+ },
+ "commande_intro": "Pour une commande ou un événement, appelez-nous ou écrivez-nous.",
+ "photos": [
+  {
+   "img": "yakiniku",
+   "alt": "Un yakiniku bento : porc sauté au sésame, carottes, chou rouge mariné et tofu frit, sur du riz"
+  },
+  {
+   "img": "gyoza",
+   "alt": "Des gyozas faits maison"
+  },
+  {
+   "img": "mochis",
+   "alt": "Des mochis sur un plateau en bois"
+  }
+ ],
+ "horaires": {
+  "lundi": [
+   "11:30-13:30"
+  ],
+  "mardi": [],
+  "mercredi": [
+   "16:30-19:00"
+  ],
+  "jeudi": [],
+  "vendredi": [],
+  "samedi": [
+   "10:00-19:00"
+  ],
+  "dimanche": [
+   "10:00-18:00"
+  ]
+ },
+ "etapes": [
+  {
+   "titre": "Appelez-nous",
+   "texte": "Au 06 98 34 44 55, ou par mail à jpkitchensai@gmail.com."
+  },
+  {
+   "titre": "Choisissez sur la carte",
+   "texte": "Gyozas, bols de riz, bentos et desserts."
+  },
+  {
+   "titre": "Passez au camion",
+   "texte": "À l'emplacement de la semaine, annoncé sur notre page Facebook."
+  }
+ ]
+}
