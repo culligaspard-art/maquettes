@@ -59,6 +59,8 @@ FAMILLES = {
             [("titre", "dm-serif-display", False, "normal", 400), ("texte", "dm-sans", True, "normal", None)],
             [("titre", "grenze-gotisch", False, "normal", 600), ("texte", "schibsted-grotesk", True, "normal", None)],
             [("titre", "bebas-neue", False, "normal", 400), ("texte", "barlow", False, "normal", 400)],
+            [("titre", "marcellus", False, "normal", 400), ("texte", "figtree", True, "normal", None)],
+            [("titre", "rozha-one", False, "normal", 400), ("texte", "hanken-grotesk", True, "normal", None)],
         ],
     },
     "artisan": {

@@ -1,0 +1,137 @@
+{
+ "slug": "sens-unik-tergal",
+ "famille": "restaurant",
+ "polices": 5,
+ "nom": "Sens Unik Tergal",
+ "activite": "Restaurant halal",
+ "description": "Sens Unik Tergal, restaurant halal au 5 rue Édouard Richard à Colmar : entrées, pièce du boucher, burger maison, couscous le week-end, desserts maison. Carte, horaires et accès.",
+ "ville": "Colmar",
+ "adresse": "5 rue Édouard Richard",
+ "cp_ville": "68000 Colmar",
+ "maps_dest": "48.079293,7.3515386",
+ "tel": "+33645596964",
+ "tel_affiche": "06 45 59 69 64",
+ "email": "sensunik68@gmail.com",
+ "facebook": "https://www.facebook.com/61582427047005/",
+ "instagram": "https://www.instagram.com/sens_unik_colmar/",
+ "note": "4,9",
+ "avis": 134,
+ "couleurs": {
+  "principale": "#2a1f17",
+  "accent": "#d8a648"
+ },
+ "hero": "couscous",
+ "hero_alt": "Une assiette de couscous : semoule, potiron, courgette, agneau et poulet, la soupe de légumes à côté et une salade, sur une table sombre",
+ "hero_pos": "50% 55%",
+ "accroche": "Restaurant halal, rue Édouard Richard à Colmar",
+ "titre_lignes": [
+  "Sens Unik",
+  "Tergal"
+ ],
+ "slogan": "Une cuisine généreuse, de l'entrée au dessert maison, et le couscous du vendredi au dimanche.",
+ "offre_titre": "La carte",
+ "offre_intro": "Les plats sont servis avec frites ou penne. Le midi, demandez le plat du jour.",
+ "offre": [
+  {
+   "titre": "Pièce du boucher",
+   "texte": "Sauce de saison, frites ou penne.",
+   "prix": "15,90 €"
+  },
+  {
+   "titre": "Filet ou darne de saumon",
+   "texte": "Sauce de saison, frites ou penne.",
+   "prix": "15,90 €"
+  },
+  {
+   "titre": "Cordon bleu fusion",
+   "texte": "Poulet, mozzarella, épices douces, frites ou penne.",
+   "prix": "14,90 €"
+  },
+  {
+   "titre": "Burger maison",
+   "texte": "Servi avec des frites.",
+   "prix": "13,50 €"
+  },
+  {
+   "titre": "Escalope de poulet",
+   "texte": "À la crème et aux champignons, frites ou penne.",
+   "prix": "13,50 €"
+  },
+  {
+   "titre": "Samoussas ou bourek",
+   "texte": "Les deux, au poulet ou à la viande hachée.",
+   "prix": "5,50 €"
+  }
+ ],
+ "encart": {
+  "titre": "Le couscous, du vendredi au dimanche",
+  "texte": "Couscous deux viandes et légumes à 17,90 €, couscous royal trois viandes et légumes à 19,90 €."
+ },
+ "photos": [
+  {
+   "img": "bricks",
+   "alt": "Des bricks dorées sur un lit de salade, avec des pousses de betterave, une tomate et du citron, sur une assiette noire"
+  },
+  {
+   "img": "chorba",
+   "alt": "Un bol de soupe aux légumes, à la viande et au persil, avec une tranche de citron, et des bricks en arrière-plan"
+  },
+  {
+   "img": "the",
+   "alt": "Une théière en argent qui verse le thé dans un petit verre, devant une assiette de pâtisseries au miel, au sésame et aux noix"
+  },
+  {
+   "img": "desserts",
+   "alt": "Un tiramisu maison dans une tasse en verre et une crème aux pistaches dans un ramequin blanc"
+  },
+  {
+   "img": "facade",
+   "alt": "La façade jaune du Sens Unik Tergal le soir, l'enseigne éclairée et l'affiche « Ouvert » dans la vitrine"
+  },
+  {
+   "img": "couscous",
+   "alt": "Le couscous aux viandes, au potiron et aux légumes"
+  }
+ ],
+ "bloc2": {
+  "titre": "Au 5 rue Édouard Richard",
+  "texte": "Une façade jaune, une enseigne lumineuse et une salle où l'on vient manger le midi comme le soir : entrées, viandes, burgers, couscous le week-end, et pour finir un thé avec ses pâtisseries, ou un tiramisu maison.",
+  "img": "the",
+  "alt": "Le thé servi avec des pâtisseries orientales",
+  "faits": [
+   {
+    "k": "Le midi",
+    "v": "Un plat du jour, en plus de la carte."
+   },
+   {
+    "k": "Desserts maison",
+    "v": "Tiramisu, mousse au chocolat, salade de fruits."
+   }
+  ]
+ },
+ "horaires": {
+  "lundi": [],
+  "mardi": [
+   "12:00-14:00",
+   "18:00-21:00"
+  ],
+  "mercredi": [
+   "12:00-14:00",
+   "18:00-21:00"
+  ],
+  "jeudi": [
+   "12:00-14:00",
+   "18:00-21:00"
+  ],
+  "vendredi": [
+   "18:30-21:00"
+  ],
+  "samedi": [
+   "12:00-14:30",
+   "18:00-22:00"
+  ],
+  "dimanche": [
+   "18:00-21:30"
+  ]
+ }
+}
