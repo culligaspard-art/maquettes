@@ -1,0 +1,109 @@
+{
+ "slug": "cordonnier-gianluca-et-sonia",
+ "famille": "commerce",
+ "nom": "Cordonnier Gianluca & Sonia",
+ "activite": "Cordonnerie, couture, maroquinerie",
+ "description": "Cordonnier Gianluca & Sonia, au 11 rue du Maréchal de Lattre de Tassigny à Saint-Louis : cordonnerie, couture, réparation de chaussures, vestes et robes, cuir, nettoyage et maroquinerie. Rendez-vous en ligne.",
+ "ville": "Saint-Louis",
+ "adresse": "11 rue du Maréchal de Lattre de Tassigny",
+ "cp_ville": "68300 Saint-Louis",
+ "maps_dest": "47.5753549,7.5530018",
+ "tel": "+33638516142",
+ "tel_affiche": "06 38 51 61 42",
+ "email": "sonia.carlino@gmail.com",
+ "resa_url": "https://cordonniergianlucaesonia.simplybook.it/",
+ "note": "4,8",
+ "avis": 25,
+ "polices": 1,
+ "couleurs": {
+  "principale": "#6b2232",
+  "accent": "#c88a4a"
+ },
+ "hero": "sac-bordeaux",
+ "hero_alt": "Un cabas en daim bordeaux aux flancs de cuir naturel, posé dans la vitrine sur la rue",
+ "hero_pos": "50% 55%",
+ "hero_legende": "Dans la vitrine, rue du Maréchal de Lattre de Tassigny.",
+ "accroche": "Cordonnier, rue du Maréchal de Lattre de Tassigny à Saint-Louis",
+ "titre_lignes": [
+  "Gianluca",
+  "& Sonia"
+ ],
+ "slogan": "Cordonnerie, couture et maroquinerie : on répare, on retouche, on travaille le cuir.",
+ "offre_titre": "À l'atelier",
+ "offre_intro": "Sur rendez-vous, en ligne ou par téléphone :",
+ "offre": [
+  {
+   "titre": "Cordonnerie et réparation de chaussures"
+  },
+  {
+   "titre": "Couture et retouches : vestes, robes"
+  },
+  {
+   "titre": "Travail du cuir et maroquinerie"
+  },
+  {
+   "titre": "Nettoyage"
+  }
+ ],
+ "photos": [
+  {
+   "img": "sac-tresse",
+   "titre": "Tressé",
+   "texte": "Des lanières de cuir rivetées sur un tissu fleuri.",
+   "alt": "Un sac fait de lanières de cuir brun tressées et rivetées sur un tissu fleuri"
+  },
+  {
+   "img": "sac-hiboux",
+   "titre": "Les hiboux",
+   "texte": "Tapisserie et bandoulière en cuir orange.",
+   "alt": "Un sac en tapisserie aux hiboux et à l'arbre, bordé de cuir orange"
+  },
+  {
+   "img": "sac-creme",
+   "titre": "Le repoussé",
+   "texte": "Un motif floral travaillé dans le cuir.",
+   "alt": "Un sac en cuir crème au motif floral repoussé, anses en cuir noir"
+  },
+  {
+   "img": "vide-poche",
+   "titre": "Le vide-poche",
+   "texte": "En cuir rouge.",
+   "alt": "Un vide-poche en cuir rouge aux coins pincés"
+  }
+ ],
+ "bloc2": {
+  "titre": "L'atelier",
+  "texte": "Au 11 rue du Maréchal de Lattre de Tassigny, Gianluca et Sonia réparent vos chaussures, retouchent vos vêtements et travaillent le cuir. Prenez rendez-vous en ligne ou passez aux heures d'ouverture.",
+  "img": "sac-tresse",
+  "alt": "Un sac en cuir tressé",
+  "faits": [
+   {
+    "k": "Rendez-vous en ligne",
+    "v": "Réservez votre créneau sur notre page."
+   },
+   {
+    "k": "Deux numéros",
+    "v": "06 38 51 61 42 ou 07 65 73 36 97."
+   }
+  ]
+ },
+ "horaires": {
+  "lundi": [],
+  "mardi": [
+   "17:00-19:00"
+  ],
+  "mercredi": [
+   "17:00-19:00"
+  ],
+  "jeudi": [
+   "17:00-19:00"
+  ],
+  "vendredi": [
+   "17:00-19:00"
+  ],
+  "samedi": [
+   "13:00-17:00"
+  ],
+  "dimanche": []
+ }
+}
