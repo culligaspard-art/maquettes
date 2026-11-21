@@ -1,0 +1,55 @@
+{
+ "slug": "la-terrasse-du-marche",
+ "famille": "restaurant",
+ "nom": "La Terrasse du Marché",
+ "activite": "Café, bar, tartes flambées",
+ "description": "La Terrasse du Marché, café, bar et tartes flambées au Marché couvert de Colmar, 13 rue des Écoles : tartes flambées salées et sucrées, vins d'Alsace et bières, en terrasse au bord de la Lauch. Horaires et accès.",
+ "ville": "Colmar",
+ "adresse": "Marché couvert, 13 rue des Écoles",
+ "cp_ville": "68000 Colmar",
+ "maps_dest": "48.0744607,7.3597576",
+ "tel": "+33662169204",
+ "tel_affiche": "06 62 16 92 04",
+ "email": "laterrassedumarchecolmar@gmail.com",
+ "facebook": "https://www.facebook.com/Terrassedumarchecolmar",
+ "note": "4,5",
+ "avis": 533,
+ "polices": 10,
+ "couleurs": {"principale": "#2b3a3f", "accent": "#4fb3d9"},
+ "hero": "terrasse-lauch",
+ "hero_alt": "La terrasse de La Terrasse du Marché au bord de la Lauch, les cygnes sur l'eau et les maisons à colombages en face",
+ "hero_pos": "50% 60%",
+ "accroche": "Café, bar et tartes flambées au Marché couvert de Colmar",
+ "titre_lignes": ["La Terrasse", "du Marché"],
+ "slogan": "Tartes flambées, vins d'Alsace et bières, dans la halle du Marché couvert ou en terrasse au bord de la Lauch.",
+ "offre_titre": "Tartes flambées",
+ "offre_intro": "Servies dès 11 h 30, sur leur planche en bois :",
+ "offre": [
+  {"titre": "Les salées", "texte": "Nature, gratinée, munster, forestière, végétarienne ou chèvre-miel."},
+  {"titre": "Les sucrées", "texte": "Pomme-cannelle, pomme flambée au calvados, banane-chocolat."},
+  {"titre": "Les vins d'Alsace", "texte": "Edelzwicker, pinot blanc, riesling, muscat, pinot gris, gewurztraminer, pinot noir, au verre ou en bouteille, de vignerons de la région."},
+  {"titre": "Bières et crémant", "texte": "Bières à la pression, palette de dégustation, crémant d'Alsace."}
+ ],
+ "encart": {"titre": "Réserver", "texte": "Par mail à laterrassedumarchecolmar@gmail.com ou au 06 62 16 92 04. Nous accueillons aussi les événements privés."},
+ "photos": [
+  {"img": "tarte-bieres", "alt": "Une tarte flambée et une palette de bières sur la terrasse au bord de la Lauch"},
+  {"img": "deux-tartes", "alt": "Une tarte forestière et une tarte végétarienne sur leurs planches, avec deux verres de vin d'Alsace à pied vert"},
+  {"img": "enseigne", "alt": "L'enseigne en bois « La Terrasse du Marché, Café, Bar, Tartes flambées » et l'équipe au comptoir"},
+  {"img": "halle", "alt": "Le café dans la halle du Marché couvert, sous la charpente métallique et les verrières"},
+  {"img": "terrasse-lauch", "alt": "La terrasse au bord de la Lauch"}
+ ],
+ "bloc2": {
+  "titre": "Dans le Marché couvert",
+  "texte": "Notre comptoir est installé dans la halle du Marché couvert de Colmar, sous la charpente métallique et les grandes verrières. Aux beaux jours, la terrasse s'ouvre au bord de la Lauch, face à la Petite Venise.",
+  "img": "halle",
+  "alt": "La halle du Marché couvert",
+  "faits": [
+   {"k": "Du mardi au samedi", "v": "Aux horaires du Marché couvert. Le lundi est notre jour de repos."},
+   {"k": "Au bord de l'eau", "v": "La terrasse sur la Lauch."}
+  ]
+ },
+ "horaires": {
+  "lundi": [], "mardi": ["08:00-18:00"], "mercredi": ["08:00-18:00"], "jeudi": ["08:00-18:00"],
+  "vendredi": ["08:00-19:00"], "samedi": ["08:00-17:00"], "dimanche": []
+ }
+}
