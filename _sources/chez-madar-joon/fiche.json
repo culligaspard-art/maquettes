@@ -1,0 +1,131 @@
+{
+ "slug": "chez-madar-joon",
+ "famille": "restaurant",
+ "nom": "Chez Madar Joon",
+ "activite": "Restaurant afghan",
+ "description": "Chez Madar Joon, restaurant afghan au 5 rue des Jardins à Saint-Louis : kebabs, palaws au riz safrané, mantow, bolani et samoussas, midi et soir du lundi au samedi. Horaires et accès.",
+ "ville": "Saint-Louis",
+ "adresse": "5 rue des Jardins",
+ "cp_ville": "68300 Saint-Louis",
+ "maps_dest": "47.5847188,7.5684325",
+ "tel": "+33389671088",
+ "tel_affiche": "03 89 67 10 88",
+ "email": "hosein.abbassi91@gmail.com",
+ "note": "4,6",
+ "avis": 538,
+ "polices": 9,
+ "couleurs": {
+  "principale": "#7a1b22",
+  "accent": "#e5b33b"
+ },
+ "hero": "salle",
+ "hero_alt": "La salle de Chez Madar Joon : rideaux de pompons multicolores aux fenêtres, fauteuils en patchwork, arches blanches et suspensions cuivrées",
+ "hero_pos": "50% 50%",
+ "accroche": "Restaurant afghan, 5 rue des Jardins à Saint-Louis",
+ "titre_lignes": [
+  "Chez",
+  "Madar Joon"
+ ],
+ "slogan": "Kebabs, palaws au riz safrané, mantow et bolani : la cuisine afghane, midi et soir.",
+ "offre_titre": "La cuisine afghane",
+ "offre_intro": "Quelques plats de notre cuisine :",
+ "offre": [
+  {
+   "titre": "Kebab koobideh",
+   "texte": "Brochettes de viande hachée grillées, riz safrané et salade."
+  },
+  {
+   "titre": "Zereshk palaw",
+   "texte": "Poulet mariné, riz safrané aux baies d'épine-vinette et amandes."
+  },
+  {
+   "titre": "Ghabeli palaw",
+   "texte": "Viande de veau, riz parfumé à l'eau de rose."
+  },
+  {
+   "titre": "Mantow",
+   "texte": "Raviolis farcis à la viande hachée."
+  },
+  {
+   "titre": "Ghormé banjan",
+   "texte": "Aubergines mijotées, végétarien."
+  },
+  {
+   "titre": "Les entrées",
+   "texte": "Bolani, samoussas à la viande ou aux légumes, chutneys maison et pain cuit au four."
+  }
+ ],
+ "encart": {
+  "titre": "Même talent, nouvel écrin",
+  "texte": "Nous vous accueillons désormais au 5 rue des Jardins à Saint-Louis. Vous pouvez aussi nous joindre au 07 82 46 38 47."
+ },
+ "photos": [
+  {
+   "img": "koobideh",
+   "alt": "Une assiette de kebab koobideh, riz safrané et salade, sur une nappe brodée de paisley bleu"
+  },
+  {
+   "img": "zereshk",
+   "alt": "Un curry de poulet aux amandes et un riz safrané aux baies d'épine-vinette"
+  },
+  {
+   "img": "entrees",
+   "alt": "Une ardoise d'entrées : bolani, samoussas, crevettes, salade et sauces en coupelles dorées"
+  },
+  {
+   "img": "pain-sauces",
+   "alt": "Le pain cuit au four et trois chutneys : tomate, coriandre et yaourt"
+  },
+  {
+   "img": "arcades",
+   "alt": "Les arcades blanches, la frise colorée, les plantes et la carte de l'Afghanistan"
+  },
+  {
+   "img": "salle",
+   "alt": "La salle et ses rideaux de pompons multicolores"
+  }
+ ],
+ "bloc2": {
+  "titre": "Rue des Jardins",
+  "texte": "Des rideaux de pompons multicolores aux fenêtres, des arches blanches, des fauteuils en patchwork et des nappes brodées de paisley : notre nouvelle salle à Saint-Louis.",
+  "img": "arcades",
+  "alt": "La salle de Chez Madar Joon",
+  "faits": [
+   {
+    "k": "Midi et soir",
+    "v": "Du lundi au samedi."
+   },
+   {
+    "k": "Végétarien",
+    "v": "Le ghormé banjan, aux aubergines."
+   }
+  ]
+ },
+ "horaires": {
+  "lundi": [
+   "11:30-14:30",
+   "18:30-22:30"
+  ],
+  "mardi": [
+   "11:30-14:30",
+   "18:30-22:30"
+  ],
+  "mercredi": [
+   "11:30-14:30",
+   "18:30-22:30"
+  ],
+  "jeudi": [
+   "11:30-14:30",
+   "18:00-22:30"
+  ],
+  "vendredi": [
+   "11:30-14:30",
+   "18:00-22:30"
+  ],
+  "samedi": [
+   "11:30-14:30",
+   "18:00-22:30"
+  ],
+  "dimanche": []
+ }
+}
