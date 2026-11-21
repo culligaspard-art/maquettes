@@ -1,0 +1,55 @@
+{
+ "slug": "le-mars",
+ "famille": "restaurant",
+ "nom": "Le Mar's",
+ "activite": "Restaurant & cocktails",
+ "description": "Le Mar's, restaurant et bar à cocktails au 26 avenue de la République à Colmar : pizzas, burgers, assiettes à partager, bières et apéritifs, tous les jours jusqu'à minuit. Horaires et accès.",
+ "ville": "Colmar",
+ "adresse": "26 avenue de la République",
+ "cp_ville": "68000 Colmar",
+ "maps_dest": "48.0769124,7.352357",
+ "tel": "+33369450389",
+ "tel_affiche": "03 69 45 03 89",
+ "email": "lemarscolmar@gmail.com",
+ "note": "4,3",
+ "avis": 119,
+ "polices": 2,
+ "couleurs": {"principale": "#1c1a1c", "accent": "#b3121f"},
+ "hero": "terrasse",
+ "hero_alt": "La terrasse du Mar's sous son store éclairé, avenue de la République, et le bar aux lumières violettes derrière la vitrine",
+ "hero_pos": "50% 55%",
+ "accroche": "Restaurant et cocktails, 26 avenue de la République à Colmar",
+ "titre_lignes": ["Le Mar's"],
+ "slogan": "Pizzas, burgers et assiettes à partager, bières et apéritifs, tous les jours jusqu'à minuit.",
+ "offre_titre": "À la carte",
+ "offre_intro": "Ce que l'on sert au Mar's :",
+ "offre": [
+  {"titre": "Les pizzas", "texte": "Margherita, trois fromages, végétarienne et nos recettes du moment."},
+  {"titre": "Les burgers", "texte": "Servis avec leurs frites, comme le Mar's burger ou le Mar's crispy."},
+  {"titre": "À partager", "texte": "Crevettes panées, nems, assiettes à grignoter avec l'apéritif."},
+  {"titre": "Bières et apéritifs", "texte": "Bières pression en 25 cl, 50 cl ou en litre, kir alsacien, crémant, champagne et plateaux de shooters."}
+ ],
+ "encart": {"titre": "Ouvert tard", "texte": "Tous les jours dès 10 h, jusqu'à minuit et jusqu'à 1 h 30 le vendredi et le samedi."},
+ "photos": [
+  {"img": "burger", "alt": "Un burger, son panier de frites et une chope de bière"},
+  {"img": "pizza", "alt": "Une pizza aux olives noires"},
+  {"img": "crevettes", "alt": "Des crevettes panées et leur sauce sur une salade"},
+  {"img": "table-soir", "alt": "Une table du soir près de la vitrine : pâtes à la burrata, nems et une coupe, face aux lumières de l'avenue"},
+  {"img": "salle", "alt": "La salle et ses fauteuils cannés le long de la baie vitrée"},
+  {"img": "facade", "alt": "La façade du Mar's, son enseigne rouge et l'ardoise des burgers et des pizzas"}
+ ],
+ "bloc2": {
+  "titre": "Avenue de la République",
+  "texte": "Une grande baie vitrée, des fauteuils cannés, un bar éclairé de violet et une terrasse sous le store, chauffée aux beaux soirs d'hiver.",
+  "img": "salle",
+  "alt": "La salle du Mar's",
+  "faits": [
+   {"k": "Jusqu'à 1 h 30", "v": "Le vendredi et le samedi."},
+   {"k": "En terrasse", "v": "Sur l'avenue de la République."}
+  ]
+ },
+ "horaires": {
+  "lundi": ["10:00-00:00"], "mardi": ["10:00-00:00"], "mercredi": ["10:00-00:00"], "jeudi": ["10:00-00:00"],
+  "vendredi": ["10:00-01:30"], "samedi": ["10:00-01:30"], "dimanche": ["10:00-00:00"]
+ }
+}
