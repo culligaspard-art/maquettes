@@ -1,0 +1,57 @@
+{
+ "slug": "deliciosa",
+ "famille": "restaurant",
+ "nom": "Deliciosa",
+ "activite": "Restaurant turc traditionnel, halal",
+ "description": "Deliciosa, restaurant turc traditionnel et halal au 15 rue Étroite à Colmar : mezzes, grillades au feu, döner, iskender et ali nazik, menu midi à 16,90 €. Carte, horaires et accès.",
+ "ville": "Colmar",
+ "adresse": "15 rue Étroite",
+ "cp_ville": "68000 Colmar",
+ "maps_dest": "48.0798166,7.360201",
+ "tel": "+33389417951",
+ "tel_affiche": "03 89 41 79 51",
+ "email": "deliciosa.68@hotmail.com",
+ "note": "4,9",
+ "avis": 990,
+ "polices": 5,
+ "couleurs": {"principale": "#1a1410", "accent": "#c9b28f"},
+ "logo": "logo",
+ "hero": "grillades",
+ "hero_alt": "Une assiette de grillades mixtes : côtelette et brochettes d'agneau, poulet mariné, adana, tomate et piment grillés, frites",
+ "hero_pos": "50% 55%",
+ "accroche": "Restaurant turc traditionnel, 15 rue Étroite à Colmar",
+ "titre_lignes": ["Deliciosa"],
+ "slogan": "Mezzes, grillades, döner et desserts turcs, halal, tous les jours midi et soir au cœur de Colmar.",
+ "offre_titre": "La carte",
+ "offre_intro": "Grillades et plats servis avec riz, blé ou frites et une salade :",
+ "offre": [
+  {"titre": "Karışık ızgara", "texte": "Grillades mixtes : brochettes de poulet et d'agneau, adana, côtelettes d'agneau.", "prix": "25,90 €"},
+  {"titre": "Iskender", "texte": "Viande döner sur pain croustillant, sauce tomate, salade.", "prix": "18,50 €"},
+  {"titre": "Ali nazik", "texte": "Émincé d'agneau sur une purée d'aubergine au yaourt.", "prix": "19,50 €"},
+  {"titre": "Adana", "texte": "Brochettes de viande hachée.", "prix": "16,50 €"},
+  {"titre": "Mezze mix", "texte": "Deliciosa, cacık, yoğurtlu patlıcan, houmous, sarma et paçanga.", "prix": "19,00 €"},
+  {"titre": "Menu duo", "texte": "3 mezzes froids, grillades mixtes pour deux et desserts.", "prix": "56,90 €"}
+ ],
+ "encart": {"titre": "Menu midi à 16,90 €", "texte": "Du lundi au vendredi de 12 h à 14 h, hors jours fériés : un mezze froid, un döner, tavuk şiş, kuzu şiş, köfte ou adana, et une boisson. Menu enfant à 9,90 € pour les moins de 12 ans."},
+ "photos": [
+  {"img": "table-doner", "alt": "Une table vue de dessus : assiettes de döner et frites, salades, pain pide dans sa corbeille"},
+  {"img": "assiettes-doner", "alt": "Une assiette de döner, frites, tomate, piment grillé et salade au sumac"},
+  {"img": "miroir-fleurs", "alt": "Le miroir aux bords ondulés couronné de roses, la porte-bibliothèque et le mur végétal fleuri"},
+  {"img": "salle", "alt": "La salle aux murs de bois, ses fauteuils en cuir camel et ses suspensions géométriques"},
+  {"img": "grillades", "alt": "Une assiette de grillades mixtes"}
+ ],
+ "bloc2": {
+  "titre": "Au 15 rue Étroite",
+  "texte": "Des murs de bois, des fauteuils en cuir camel, un miroir couronné de roses et un mur végétal fleuri : une salle chaleureuse en plein centre de Colmar, avec une cuisine turque halal servie tous les jours.",
+  "img": "miroir-fleurs",
+  "alt": "Le miroir couronné de roses et la salle de Deliciosa",
+  "faits": [
+   {"k": "Halal", "v": "Une cuisine turque traditionnelle."},
+   {"k": "7 jours sur 7", "v": "De 11 h 30 à 21 h 30, dès 12 h 30 le dimanche."}
+  ]
+ },
+ "horaires": {
+  "lundi": ["11:30-21:30"], "mardi": ["11:30-21:30"], "mercredi": ["11:30-21:30"], "jeudi": ["11:30-21:30"],
+  "vendredi": ["11:30-21:30"], "samedi": ["11:30-21:30"], "dimanche": ["12:30-21:30"]
+ }
+}
