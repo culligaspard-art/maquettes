@@ -1,0 +1,118 @@
+{
+ "slug": "esprit-jardins",
+ "famille": "artisan",
+ "nom": "Esprit Jardins",
+ "activite": "Paysagiste",
+ "description": "Esprit Jardins, paysagiste à Bartenheim : entretien et aménagement de vos espaces verts, massifs, allées et escaliers pavés, terrasses, bassins et gazon. Devis par téléphone ou par mail.",
+ "ville": "Bartenheim",
+ "adresse": "16 rue des Prés",
+ "cp_ville": "68870 Bartenheim",
+ "maps_dest": "47.6360054,7.4850676",
+ "tel": "+33636974866",
+ "tel_affiche": "06 36 97 48 66",
+ "email": "espritjardins68@gmail.com",
+ "facebook": "https://www.facebook.com/Espritjardinspaysagiste",
+ "note": "4,3",
+ "avis": 30,
+ "couleurs": {
+  "principale": "#2f6b3a",
+  "accent": "#f2c230"
+ },
+ "logo": "logo",
+ "hero": "bassin",
+ "hero_alt": "Un jardin avec un bassin bordé d'ardoises, un érable du Japon rouge et des massifs fleuris",
+ "hero_pos": "50% 55%",
+ "hero_legende": "Bassin, rocaille et massifs fleuris",
+ "accroche": "Paysagiste à Bartenheim",
+ "titre_lignes": [
+  "Esprit",
+  "Jardins"
+ ],
+ "slogan": "Le professionnel qu'il vous faut pour votre jardin.",
+ "offre_titre": "Nos services",
+ "offre_intro": "Entretien et aménagement de vos espaces verts.",
+ "offre": [
+  {
+   "titre": "Entretien",
+   "texte": "Tonte, taille des haies et des arbustes, nettoyage des massifs."
+  },
+  {
+   "titre": "Massifs et rocailles",
+   "texte": "Paillage minéral, galets, ardoise, bordures et plantations."
+  },
+  {
+   "titre": "Allées et escaliers",
+   "texte": "Pavés, marches en pierre, murets et bordures."
+  },
+  {
+   "titre": "Terrasses",
+   "texte": "Dallage et motifs, autour de la maison ou d'un spa."
+  },
+  {
+   "titre": "Bassins",
+   "texte": "Bassins d'agrément et leurs abords, plantes et pierres."
+  },
+  {
+   "titre": "Gazon",
+   "texte": "Création et remise en état de pelouses."
+  }
+ ],
+ "photos": [
+  {
+   "img": "escalier",
+   "alt": "Un escalier et une allée en pierre reconstituée, un petit bassin et des pots de bambou",
+   "titre": "Escalier, allée pavée et bassin"
+  },
+  {
+   "img": "terrasse",
+   "alt": "Une grande terrasse en dalles claires avec motifs de carrés gris, un spa et des transats",
+   "titre": "Terrasse en dalles avec spa"
+  },
+  {
+   "img": "massif",
+   "alt": "Un massif d'ardoise avec un érable du Japon et deux lanternes en pierre, au bord d'une pelouse",
+   "titre": "Massif d'ardoise et érable du Japon"
+  },
+  {
+   "img": "galets",
+   "alt": "Des massifs en galets blancs et gris avec conifères et arbustes, bordés de pavés",
+   "titre": "Massifs de galets"
+  },
+  {
+   "img": "haies",
+   "alt": "Des arbustes taillés en boule dans un massif de gravier noir bordé de bordures en granit",
+   "titre": "Arbustes taillés et bordures"
+  },
+  {
+   "img": "gazon",
+   "alt": "Une pelouse neuve au pied d'un mur en pierre",
+   "titre": "Gazon et mur en pierre"
+  },
+  {
+   "img": "escalier-pave",
+   "alt": "Un escalier en arc en pierre reconstituée et une allée pavée",
+   "titre": "Escalier en arc"
+  }
+ ],
+ "devis_texte": "Décrivez votre jardin et votre projet par téléphone ou par mail : nous revenons vers vous pour fixer un rendez-vous.",
+ "horaires": {
+  "lundi": [
+   "08:30-18:00"
+  ],
+  "mardi": [
+   "08:30-18:00"
+  ],
+  "mercredi": [
+   "08:30-18:00"
+  ],
+  "jeudi": [
+   "08:30-18:00"
+  ],
+  "vendredi": [
+   "08:30-18:00"
+  ],
+  "samedi": [],
+  "dimanche": []
+ },
+ "dessin": "plan"
+}
