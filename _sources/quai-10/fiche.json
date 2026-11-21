@@ -1,0 +1,49 @@
+{
+ "slug": "quai-10",
+ "famille": "restaurant",
+ "nom": "Quai 10",
+ "activite": "Café, guinguette, biergarten",
+ "description": "Quai 10, café, guinguette et biergarten au bord du Rhin, 10 quai de la République à Huningue : tartes flambées salées ou sucrées, salades, finger food, fondue et boissons, en terrasse face à l'eau. Horaires et accès.",
+ "ville": "Huningue",
+ "adresse": "10 quai de la République",
+ "cp_ville": "68330 Huningue",
+ "maps_dest": "47.5893787,7.5869262",
+ "tel": "+33683980468",
+ "tel_affiche": "06 83 98 04 68",
+ "email": "quai10.huningue@gmail.com",
+ "facebook": "https://www.facebook.com/Quai10Huningue",
+ "note": "4,8",
+ "avis": 129,
+ "preuve_extra": "recommandé à 100 % sur Facebook",
+ "polices": 8,
+ "couleurs": {"principale": "#1f2f9e", "accent": "#e2231a"},
+ "logo": "logo",
+ "hero": "rhin",
+ "hero_alt": "Un vieux voilier décoré de filets de pêche sur la rive, le Rhin au soleil couchant derrière",
+ "hero_pos": "40% 60%",
+ "accroche": "Café, guinguette et biergarten au bord du Rhin à Huningue",
+ "titre_lignes": ["Quai 10"],
+ "slogan": "Tartes flambées, salades et finger food, avec vue sur le Rhin.",
+ "offre_titre": "À la carte",
+ "offre_intro": "Sur place, en terrasse ou à emporter :",
+ "offre": [
+  {"titre": "Tartes flambées salées", "texte": "Comme celle au saumon, oignons rouges, aneth et sésame."},
+  {"titre": "Tartes flambées sucrées", "texte": "Comme celle aux pommes et au caramel."},
+  {"titre": "Salades", "texte": "Pour le déjeuner, au bord de l'eau."},
+  {"titre": "Finger food", "texte": "À partager autour d'un verre."},
+  {"titre": "Fondue", "texte": "Quand il fait froid dehors, avec un blanc d'Apremont."},
+  {"titre": "À boire", "texte": "Cafés, bières, vins, cocktails et apéritifs."}
+ ],
+ "encart": {"titre": "Ouvert le mardi", "texte": "Nouveau cet automne et cet hiver : le Quai 10 est ouvert le mardi. Fermé le mercredi."},
+ "photos": [
+  {"img": "tarte-saumon", "alt": "Une tarte flambée au saumon, oignons rouges, aneth et sésame sur sa planche en bois"},
+  {"img": "terrasse", "alt": "La terrasse du Quai 10 sous les parasols bleus, beiges et rayés, tables et fauteuils tressés, le Rhin au fond"},
+  {"img": "tarte-pommes", "alt": "Une tarte flambée sucrée aux pommes et au caramel sur une pelle en bois"},
+  {"img": "fondue", "alt": "Un caquelon à fondue décoré de vaches et de sapins, à côté d'une bouteille d'Apremont"}
+ ],
+ "bloc2": {"titre": "Au bord du Rhin", "texte": "Notre terrasse s'ouvre sur le Rhin, quai de la République : parasols, tables en bois et vue sur l'eau jusqu'au soleil couchant. Quand il fait froid dehors, il fait chaud dedans.", "img": "terrasse"},
+ "horaires": {
+  "lundi": ["11:30-17:00"], "mardi": ["11:30-17:00"], "mercredi": [], "jeudi": ["11:30-17:00"],
+  "vendredi": ["11:30-17:00"], "samedi": ["11:30-21:30"], "dimanche": ["11:30-17:00"]
+ }
+}
