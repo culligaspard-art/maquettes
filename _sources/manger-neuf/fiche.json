@@ -1,0 +1,233 @@
+{
+ "slug": "manger-neuf",
+ "famille": "emporter",
+ "nom": "Manger'Neuf",
+ "activite": "Traiteur, portage de repas",
+ "description": "Manger'Neuf, traiteur à Village-Neuf : un menu du jour fait maison livré à domicile ou au bureau, de Village-Neuf à Saint-Louis et Huningue. Menu complet 15 €, livraison 2 €. Menus de fêtes, fondue chinoise, raclette.",
+ "ville": "Village-Neuf",
+ "adresse": "1 faubourg du Rhin",
+ "cp_ville": "68128 Village-Neuf",
+ "maps_dest": "47.6086174,7.5726046",
+ "tel": "+33786007008",
+ "tel_affiche": "07 86 00 70 08",
+ "email": "manger.v9@gmail.com",
+ "facebook": "https://www.facebook.com/mangerneuf",
+ "note": "4,5",
+ "avis": 15,
+ "preuve_extra": "recommandé à 100 % sur Facebook",
+ "polices": 0,
+ "couleurs": {
+  "principale": "#2a2522",
+  "accent": "#b8916a"
+ },
+ "kraft": "#efe4d2",
+ "logo": "logo",
+ "hero": "paella",
+ "hero_alt": "Une grande poêle de paella : riz safrané, moules, crevettes et gambas",
+ "accroche": "Traiteur et portage de repas à Village-Neuf",
+ "titre_lignes": [
+  "Manger'",
+  "Neuf"
+ ],
+ "slogan": "Chaque jour, un menu frais livré chez vous.",
+ "offre_titre": "La carte",
+ "offre_intro": "Un menu différent chaque jour, publié chaque semaine sur notre page Facebook. Des plats faits maison, livrés directement à votre porte.",
+ "offre_groupes": [
+  {
+   "titre": "Le menu du jour",
+   "items": [
+    {
+     "titre": "Potage du jour",
+     "prix": "1,00 €"
+    },
+    {
+     "titre": "Entrée du jour",
+     "prix": "2,00 €"
+    },
+    {
+     "titre": "Plat du jour",
+     "prix": "11,00 €"
+    },
+    {
+     "titre": "Dessert du jour",
+     "prix": "2,00 €"
+    },
+    {
+     "titre": "Menu complet",
+     "texte": "Potage, entrée, plat et dessert.",
+     "prix": "15,00 €"
+    },
+    {
+     "titre": "Livraison",
+     "texte": "Par adresse, à domicile ou au bureau.",
+     "prix": "2,00 €"
+    }
+   ]
+  },
+  {
+   "titre": "Pour les fêtes",
+   "items": [
+    {
+     "titre": "Menu de Noël",
+     "texte": "Croûte forestière et escargots, ou foie gras de canard. Pavé de cabillaud sauce aux algues wakamé et mousseline de panais, ou suprême de pintade aux morilles et gratin dauphinois. Bûche de Noël.",
+     "prix": "28,50 € / pers."
+    },
+    {
+     "titre": "Apéro toasts maison",
+     "texte": "Plateau de 15 pièces, au choix : foie gras, saumon fumé, magret de canard fumé.",
+     "prix": "1,50 € la pièce"
+    },
+    {
+     "titre": "Fondue chinoise",
+     "texte": "Environ 250 g de viande (bœuf, canard, dinde), 3 sauces, bouillon de légumes. Veau : + 2,50 €.",
+     "prix": "22,50 € / pers."
+    },
+    {
+     "titre": "Raclette",
+     "texte": "250 g de fromages à raclette, 130 g de charcuterie (4 sortes), 350 g de pommes de terre en robe des champs, cornichons, lardons, champignons, oignons.",
+     "prix": "18,00 € / pers."
+    }
+   ]
+  },
+  {
+   "titre": "Le fait maison du chef",
+   "items": [
+    {
+     "titre": "Saumon fumé",
+     "prix": "6,00 € / 100 g"
+    },
+    {
+     "titre": "Foie gras Cognac, sel et poivre",
+     "prix": "9,50 € / 100 g"
+    },
+    {
+     "titre": "Foie gras Armagnac et Porto, truffé",
+     "prix": "11,00 € / 100 g"
+    },
+    {
+     "titre": "Magret de canard fumé",
+     "texte": "Vendu à la pièce.",
+     "prix": "36,00 € / kg"
+    },
+    {
+     "titre": "Saint-Jacques grillées",
+     "texte": "Risotto aux girolles, morilles et brunoise de légumes.",
+     "prix": "17,00 €"
+    },
+    {
+     "titre": "Civet de cerf",
+     "texte": "Spaetzlés, chou rouge et poire aux airelles.",
+     "prix": "16,50 €"
+    },
+    {
+     "titre": "Panna cotta et caviar de fruits rouges",
+     "prix": "4,00 €"
+    }
+   ]
+  }
+ ],
+ "notes": [
+  {
+   "k": "Commande",
+   "v": "au plus tard 24 h à l'avance"
+  },
+  {
+   "k": "Le mercredi",
+   "v": "votre repas est livré le mardi"
+  },
+  {
+   "k": "Nous livrons",
+   "v": "Village-Neuf, Huningue, Rosenau, Saint-Louis (tous secteurs), Hésingue, Hégenheim, Blotzheim, Bartenheim, Attenschwiller, Ranspach-le-Bas et Michelbach-le-Bas"
+  }
+ ],
+ "moment": {
+  "titre": "De notre cuisine",
+  "intro": "Quelques plats sortis de chez nous :",
+  "items": [
+   {
+    "img": "plateau",
+    "titre": "Le plateau de viandes",
+    "texte": "Bœuf, magret de canard et volaille, tranchés et dressés.",
+    "alt": "Un plateau de viandes tranchées, bœuf, magret et volaille, décoré de romarin, kiwi et fruit de la passion"
+   },
+   {
+    "img": "pate",
+    "titre": "Le pâté en croûte",
+    "texte": "Fait maison, servi en tranches.",
+    "alt": "Une tranche de pâté en croûte"
+   },
+   {
+    "img": "tartare",
+    "titre": "Le tartare de saumon",
+    "texte": "Avec ses roses de saumon fumé.",
+    "alt": "Un tartare de saumon couronné de saumon fumé, sur salade"
+   },
+   {
+    "img": "fraisier",
+    "titre": "Le fraisier",
+    "texte": "Fraises, crème et menthe fraîche.",
+    "alt": "Un fraisier décoré de fraises, de crème et de feuilles de menthe"
+   },
+   {
+    "img": "paris-brest",
+    "titre": "Le paris-brest",
+    "texte": "Aux amandes effilées.",
+    "alt": "Un paris-brest aux amandes effilées et sucre glace"
+   },
+   {
+    "img": "asperges",
+    "titre": "Les asperges",
+    "texte": "Asperges blanches, jambon et crudités.",
+    "alt": "Des asperges blanches sur salade, avec jambon et carottes"
+   }
+  ]
+ },
+ "photos": [
+  {
+   "img": "paella",
+   "alt": "La grande poêle de paella"
+  },
+  {
+   "img": "magret",
+   "alt": "Une assiette de viande en sauce, pommes de terre et tomates cerises"
+  },
+  {
+   "img": "burger",
+   "alt": "Un burger au pain croustillant, sur salade"
+  }
+ ],
+ "commande_intro": "Par téléphone, SMS, WhatsApp, Messenger ou e-mail. Nous livrons à domicile ou au bureau.",
+ "etapes": [
+  {
+   "titre": "Choisissez",
+   "texte": "Le menu de la semaine est publié sur notre page Facebook."
+  },
+  {
+   "titre": "Commandez",
+   "texte": "Au 07 86 00 70 08 ou à manger.v9@gmail.com, au plus tard 24 h à l'avance."
+  },
+  {
+   "titre": "On vous livre",
+   "texte": "À domicile ou au bureau, 2 € par adresse."
+  }
+ ],
+ "horaires": {
+  "lundi": [
+   "09:00-14:00"
+  ],
+  "mardi": [
+   "09:00-14:00"
+  ],
+  "mercredi": [],
+  "jeudi": [
+   "09:00-14:00"
+  ],
+  "vendredi": [
+   "09:00-14:00"
+  ],
+  "samedi": [
+   "09:00-14:00"
+  ],
+  "dimanche": []
+ }
+}

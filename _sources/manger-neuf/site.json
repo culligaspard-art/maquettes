@@ -1,0 +1,33 @@
+{
+ "fonts": [
+  {
+   "key": "titre",
+   "family": "chango",
+   "weight": 400
+  },
+  {
+   "key": "texte",
+   "family": "work-sans",
+   "variable": true
+  }
+ ],
+ "horaires": {
+  "lundi": [
+   "09:00-14:00"
+  ],
+  "mardi": [
+   "09:00-14:00"
+  ],
+  "mercredi": [],
+  "jeudi": [
+   "09:00-14:00"
+  ],
+  "vendredi": [
+   "09:00-14:00"
+  ],
+  "samedi": [
+   "09:00-14:00"
+  ],
+  "dimanche": []
+ }
+}
