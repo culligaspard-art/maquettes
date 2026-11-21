@@ -1,0 +1,129 @@
+{
+ "slug": "les-miches-a-molly",
+ "famille": "patisserie",
+ "nom": "Les Miches à Molly",
+ "nom_plaque": "Molly",
+ "activite": "Boulangerie",
+ "description": "Les Miches à Molly, boulangerie au 1 rue des Métiers à Hégenheim : miches, pains spéciaux, brioches et viennoiseries. Ouverte le mardi, le vendredi et le samedi matin, et sur six marchés du secteur. Horaires et marchés.",
+ "ville": "Hégenheim",
+ "adresse": "1 rue des Métiers",
+ "cp_ville": "68220 Hégenheim",
+ "maps_dest": "47.5609941,7.5401141",
+ "tel": "+33771642175",
+ "tel_affiche": "07 71 64 21 75",
+ "email": "bigfoot68@laposte.net",
+ "facebook": "https://www.facebook.com/profile.php?id=100023152167016",
+ "note": "4,4",
+ "avis": 41,
+ "preuve_extra": "recommandé à 92 % sur Facebook",
+ "couleurs": {
+  "principale": "#d81b72",
+  "accent": "#7a4a22"
+ },
+ "hero": "miches",
+ "hero_alt": "Deux grosses miches farinées aux grignes en éventail, posées sur l'étagère en bois",
+ "hero_pos": "50% 45%",
+ "accroche": "Boulangerie à Hégenheim",
+ "titre_lignes": [
+  "Les Miches",
+  "à Molly"
+ ],
+ "slogan": "Des miches, des pains spéciaux et des brioches, à la boutique et sur six marchés du secteur.",
+ "offre_titre": "Le pain et les viennoiseries",
+ "offre_intro": "Quelques-uns de nos pains, avec leurs prix :",
+ "offre": [
+  {
+   "titre": "Miche paysanne",
+   "texte": "1 kg.",
+   "prix": "6,00 €"
+  },
+  {
+   "titre": "Pain aux noix",
+   "texte": "750 g.",
+   "prix": "6,00 €"
+  },
+  {
+   "titre": "Pain au quinoa",
+   "prix": "5,50 €"
+  },
+  {
+   "titre": "Pain de mie",
+   "texte": "600 g.",
+   "prix": "4,00 €"
+  },
+  {
+   "titre": "Baguette",
+   "prix": "1,30 €"
+  },
+  {
+   "titre": "Croissant, pain au chocolat",
+   "prix": "1,30 €"
+  },
+  {
+   "titre": "Chausson aux pommes",
+   "prix": "2,50 €"
+  }
+ ],
+ "photos": [
+  {
+   "img": "miches-etageres",
+   "alt": "Les étagères de miches, couronnes et pains au quinoa avec leurs étiquettes"
+  },
+  {
+   "img": "viennoiseries",
+   "alt": "La vitrine des viennoiseries : croissants, pains au chocolat, torsades, brioches tressées et leurs étiquettes roses"
+  },
+  {
+   "img": "brioches",
+   "alt": "Des brioches dorées aux pépites de chocolat"
+  },
+  {
+   "img": "etageres",
+   "alt": "Les étagères de la boutique : miche paysanne, pain complet, pain de seigle, pain aux noix, multi-céréales"
+  },
+  {
+   "img": "tarte-jambon",
+   "alt": "Une plaque de tarte jambon-fromage gratinée, coupée en parts"
+  },
+  {
+   "img": "vin-chaud",
+   "alt": "Le vin chaud aux oranges, citrons, cannelle et badiane, servi sur les marchés d'hiver"
+  }
+ ],
+ "bloc2": {
+  "titre": "Sur les marchés",
+  "texte": "Retrouvez-nous le mardi à Ranspach-le-Bas (parking Sud Alsace, 15 h – 19 h) ; le vendredi à Huningue (place Abbatucci, 8 h – 12 h), à Sierentz (petit marché à la ferme, 14 h – 18 h), à Village-Neuf (EARL Morgenweider, 15 h – 19 h) et à Buschwiller (17 h 30 – 19 h) ; le samedi à Saint-Louis (place de l'Europe, 7 h 30 – 13 h).",
+  "img": "etageres",
+  "alt": "La boutique des Miches à Molly",
+  "faits": [
+   {
+    "k": "Six marchés",
+    "v": "Du mardi au samedi, dans les communes autour de Saint-Louis."
+   },
+   {
+    "k": "La boutique",
+    "v": "1 rue des Métiers à Hégenheim, le mardi, le vendredi et le samedi matin."
+   }
+  ]
+ },
+ "commande": {
+  "titre": "Pour vos commandes",
+  "texte": "Manneles de la Saint-Nicolas, grosses commandes, fêtes : appelez-nous au 07 71 64 21 75 ou écrivez-nous.",
+  "img": "brioches"
+ },
+ "horaires": {
+  "lundi": [],
+  "mardi": [
+   "07:00-12:00"
+  ],
+  "mercredi": [],
+  "jeudi": [],
+  "vendredi": [
+   "06:30-12:00"
+  ],
+  "samedi": [
+   "06:00-12:00"
+  ],
+  "dimanche": []
+ }
+}
