@@ -1,0 +1,130 @@
+{
+ "slug": "la-baie-dhalong",
+ "famille": "restaurant",
+ "nom": "La Baie d'Halong",
+ "activite": "Restaurant vietnamien et thaïlandais",
+ "description": "La Baie d'Halong, restaurant vietnamien et thaïlandais au 8 rue de l'Ange à Colmar : phở, soupes, salade de papaye, plats au lait de coco et basilic thaï, marmites. Carte, horaires et accès.",
+ "ville": "Colmar",
+ "adresse": "8 rue de l'Ange",
+ "cp_ville": "68000 Colmar",
+ "maps_dest": "48.0784999,7.360711",
+ "tel": "+33389238844",
+ "tel_affiche": "03 89 23 88 44",
+ "email": "seaserey@outlook.fr",
+ "note": "4,3",
+ "avis": 585,
+ "polices": 5,
+ "couleurs": {
+  "principale": "#3b2a1f",
+  "accent": "#e2622c"
+ },
+ "logo": "logo",
+ "hero": "pho",
+ "hero_alt": "Un bol de phở au bœuf, oignons et boulettes, à côté de son assiette d'herbes fraîches, de pousses de soja, de citron et de piment",
+ "hero_pos": "40% 50%",
+ "accroche": "Restaurant vietnamien et thaïlandais, 8 rue de l'Ange à Colmar",
+ "titre_lignes": [
+  "La Baie",
+  "d'Halong"
+ ],
+ "slogan": "Phở, soupes parfumées, salade de papaye et plats au lait de coco, midi et soir au cœur de Colmar.",
+ "offre_titre": "Cuisine thaïlandaise",
+ "offre_intro": "Quelques plats de notre carte :",
+ "offre": [
+  {
+   "titre": "Tom yam crevettes",
+   "texte": "Bouillon relevé aux crevettes.",
+   "prix": "8,90 €"
+  },
+  {
+   "titre": "Salade de papaye",
+   "texte": "Relevée, aux cacahuètes concassées.",
+   "prix": "12,50 €"
+  },
+  {
+   "titre": "Poulet au lait de coco et basilic thaï",
+   "prix": "15,50 €"
+  },
+  {
+   "titre": "Canard au lait de coco et basilic thaï",
+   "prix": "18,10 €"
+  },
+  {
+   "titre": "Saint-jacques au lait de coco et basilic thaï",
+   "prix": "20,90 €"
+  },
+  {
+   "titre": "Marmite aux gambas du chef",
+   "prix": "19,90 €"
+  }
+ ],
+ "encart": {
+  "titre": "Les marmites",
+  "texte": "Fruits de mer, gambas du chef, saint-jacques ou crevettes façon thaï, servis dans leur marmite en terre, de 17,50 € à 20,90 €."
+ },
+ "photos": [
+  {
+   "img": "soupe-crevettes",
+   "alt": "Une soupe aux crevettes, bœuf et coriandre, avec son assiette de pousses de soja"
+  },
+  {
+   "img": "salade-papaye",
+   "alt": "Une salade de papaye verte aux cacahuètes, menthe et carotte sculptée en fleur"
+  },
+  {
+   "img": "pho",
+   "alt": "Un phở au bœuf et ses herbes"
+  },
+  {
+   "img": "salle-vitrail",
+   "alt": "La salle et son vitrail rétroéclairé, ses orchidées roses et ses serviettes rouges"
+  },
+  {
+   "img": "salle",
+   "alt": "La longue salle aux tables dressées, sous les verrières du plafond"
+  }
+ ],
+ "bloc2": {
+  "titre": "Rue de l'Ange",
+  "texte": "Un vitrail rétroéclairé, des orchidées roses, des tableaux et des serviettes rouges pliées en éventail : une salle au calme, à deux pas de la place de la Cathédrale.",
+  "img": "salle",
+  "alt": "La salle de La Baie d'Halong",
+  "faits": [
+   {
+    "k": "Midi et soir",
+    "v": "De 12 h à 14 h et de 18 h 45 à 22 h."
+   },
+   {
+    "k": "Fermé le mercredi",
+    "v": "Ouvert tous les autres jours, dimanche compris."
+   }
+  ]
+ },
+ "horaires": {
+  "lundi": [
+   "12:00-14:00",
+   "18:45-22:00"
+  ],
+  "mardi": [
+   "12:00-14:00",
+   "18:45-22:00"
+  ],
+  "mercredi": [],
+  "jeudi": [
+   "12:00-14:00",
+   "18:45-22:00"
+  ],
+  "vendredi": [
+   "12:00-14:00",
+   "18:45-22:00"
+  ],
+  "samedi": [
+   "12:00-14:00",
+   "18:45-22:00"
+  ],
+  "dimanche": [
+   "12:00-14:00",
+   "18:45-22:00"
+  ]
+ }
+}
