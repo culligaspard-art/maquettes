@@ -1,0 +1,225 @@
+{
+ "slug": "o-dix7",
+ "famille": "emporter",
+ "nom": "O'dix7",
+ "activite": "Food & snack",
+ "description": "O'dix7, food & snack au 17 rue Vauban à Colmar : tacos à composer, crêpes salées et sucrées, burgers et frites, sur place ou à emporter. Carte, prix et horaires.",
+ "ville": "Colmar",
+ "adresse": "17 rue Vauban",
+ "cp_ville": "68000 Colmar",
+ "tel": "+33952090308",
+ "tel_affiche": "09 52 09 03 08",
+ "email": "odix7@yahoo.fr",
+ "facebook": "https://www.facebook.com/100064819459461",
+ "note": "4,7",
+ "avis": 511,
+ "couleurs": {
+  "principale": "#1a1612",
+  "accent": "#edc178"
+ },
+ "kraft": "#edc178",
+ "logo": "logo",
+ "hero": "tacos-frites",
+ "hero_alt": "Un tacos grillé, marqué en losanges, et une portion de frites sur une assiette blanche",
+ "accroche": "Food & snack, 17 rue Vauban à Colmar",
+ "titre_lignes": [
+  "O'dix7"
+ ],
+ "slogan": "Compose ton tacos ou ta crêpe : la taille, la viande, la sauce, le fromage. Depuis 2021.",
+ "offre_titre": "La carte",
+ "offre_intro": "Tous nos tacos sont garnis de frites et de sauce fromagère. Sur place ou à emporter.",
+ "offre_groupes": [
+  {
+   "titre": "Compose ton tacos",
+   "items": [
+    {
+     "titre": "Taille M",
+     "texte": "1 viande.",
+     "prix": "6,00 €"
+    },
+    {
+     "titre": "Taille L",
+     "texte": "2 viandes.",
+     "prix": "8,00 €"
+    },
+    {
+     "titre": "Taille XL",
+     "texte": "3 viandes, 2 galettes.",
+     "prix": "10,00 €"
+    },
+    {
+     "titre": "Les viandes",
+     "texte": "Steak haché, kebab, kefta, cordon bleu, escalope, nuggets, merguez, poulet chicken chika, tenders, poulet curry, poulet tandoori."
+    },
+    {
+     "titre": "En plus",
+     "texte": "Gratiné 1 €, ingrédients 0,50 €, fromages 1 €, bacon, lardons, chorizo ou œuf 1 €. En menu : + 2 €."
+    }
+   ]
+  },
+  {
+   "titre": "Les burgers",
+   "items": [
+    {
+     "titre": "Hamburger",
+     "texte": "Steak 45 g, cornichons, ketchup ou moutarde.",
+     "prix": "2,50 €"
+    },
+    {
+     "titre": "Cheese",
+     "texte": "Steak 45 g, cheddar, cornichons, oignons.",
+     "prix": "3,00 €"
+    },
+    {
+     "titre": "Double cheese",
+     "texte": "2 steaks, cheddar, salade, cornichons, oignons.",
+     "prix": "4,00 €"
+    },
+    {
+     "titre": "Triple cheese",
+     "texte": "3 steaks, cheddar, salade, cornichons, oignons.",
+     "prix": "5,50 €"
+    },
+    {
+     "titre": "Chicken",
+     "texte": "Poulet, cheddar, salade, mayonnaise.",
+     "prix": "4,50 €"
+    },
+    {
+     "titre": "Fish",
+     "texte": "Filet de poisson, salade, cheddar, sauce tartare.",
+     "prix": "4,00 €"
+    }
+   ]
+  },
+  {
+   "titre": "Les crêpes",
+   "items": [
+    {
+     "titre": "Crêpe salée à composer",
+     "texte": "Crêpe et emmental, puis 2 € par viande, 1 € par fromage.",
+     "prix": "dès 4,00 €"
+    },
+    {
+     "titre": "Crêpe au sucre",
+     "prix": "2,00 €"
+    },
+    {
+     "titre": "Crêpe Nutella",
+     "prix": "3,00 €"
+    },
+    {
+     "titre": "Crêpe spéculoos à tartiner",
+     "prix": "3,50 €"
+    },
+    {
+     "titre": "Crêpe Nutella-banane",
+     "prix": "4,00 €"
+    }
+   ]
+  },
+  {
+   "titre": "Frites et menus",
+   "items": [
+    {
+     "titre": "Frites",
+     "texte": "La petite ou la grande.",
+     "prix": "2,50 € / 3,50 €"
+    },
+    {
+     "titre": "Menu enfant",
+     "texte": "Cheese, mini tacos ou nuggets, petite frite et Capri-Sun.",
+     "prix": "6,00 €"
+    },
+    {
+     "titre": "Menu étudiant",
+     "texte": "De 11 h à 13 h 30 : tacos taille M 1 viande, frites et boisson.",
+     "prix": "6,50 €"
+    }
+   ]
+  }
+ ],
+ "notes": [
+  {
+   "k": "17 sauces",
+   "v": "de la classique mayonnaise à la samouraï, l'andalouse ou le chili thaï"
+  },
+  {
+   "k": "Menu étudiant",
+   "v": "6,50 € de 11 h à 13 h 30"
+  }
+ ],
+ "moment": {
+  "titre": "Sortis de la plaque",
+  "intro": "Quelques-unes de nos recettes :",
+  "items": [
+   {
+    "img": "tacos-cheddar",
+    "titre": "Le tacos gratiné",
+    "texte": "Couvert de cheddar fondu.",
+    "alt": "Un tacos ouvert, nappé de cheddar fondu"
+   },
+   {
+    "img": "crepes-gratinees",
+    "titre": "Les crêpes salées",
+    "texte": "Gratinées, à composer selon vos envies.",
+    "alt": "Deux crêpes salées gratinées sur une grille"
+   }
+  ]
+ },
+ "photos": [
+  {
+   "img": "facade",
+   "alt": "La façade d'O'dix7 au 17 rue Vauban, son enseigne noire et dorée et sa petite terrasse"
+  },
+  {
+   "img": "tacos-cheddar",
+   "alt": "Un tacos nappé de cheddar fondu"
+  },
+  {
+   "img": "crepes-gratinees",
+   "alt": "Des crêpes salées gratinées"
+  }
+ ],
+ "etapes": [
+  {
+   "titre": "Choisis ta taille",
+   "texte": "M, L ou XL, et le nombre de viandes."
+  },
+  {
+   "titre": "Ta viande et ta sauce",
+   "texte": "Onze viandes, dix-sept sauces."
+  },
+  {
+   "titre": "Tes suppléments",
+   "texte": "Fromages, ingrédients, gratiné : à toi de voir."
+  }
+ ],
+ "horaires": {
+  "lundi": [],
+  "mardi": [
+   "11:00-14:00",
+   "18:00-22:30"
+  ],
+  "mercredi": [
+   "11:00-14:00",
+   "18:00-22:30"
+  ],
+  "jeudi": [
+   "11:00-14:00",
+   "18:00-22:30"
+  ],
+  "vendredi": [
+   "11:00-14:00",
+   "18:00-22:30"
+  ],
+  "samedi": [
+   "11:00-14:00",
+   "18:00-22:30"
+  ],
+  "dimanche": [
+   "18:00-22:30"
+  ]
+ },
+ "polices": 2
+}
