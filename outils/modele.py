@@ -61,6 +61,10 @@ FAMILLES = {
             [("titre", "bebas-neue", False, "normal", 400), ("texte", "barlow", False, "normal", 400)],
             [("titre", "marcellus", False, "normal", 400), ("texte", "figtree", True, "normal", None)],
             [("titre", "rozha-one", False, "normal", 400), ("texte", "hanken-grotesk", True, "normal", None)],
+            [("titre", "pirata-one", False, "normal", 400), ("texte", "lora", True, "normal", None)],
+            [("titre", "abril-fatface", False, "normal", 400), ("texte", "source-sans-3", True, "normal", None)],
+            [("titre", "gloock", False, "normal", 400), ("texte", "manrope", True, "normal", None)],
+            [("titre", "libre-caslon-display", False, "normal", 400), ("texte", "public-sans", True, "normal", None)],
         ],
     },
     "artisan": {

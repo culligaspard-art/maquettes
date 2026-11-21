@@ -1,0 +1,121 @@
+{
+ "slug": "la-taverne-de-schongauer",
+ "famille": "restaurant",
+ "nom": "La Taverne de Schongauer",
+ "activite": "Bar, taverne",
+ "description": "La Taverne de Schongauer, bar et taverne au 43 rue Vauban à Colmar : bières à la pompe de cuivre, planches et spaetzle gratinés, dans un décor médiéval. Ouvert tous les soirs de 18 h à minuit.",
+ "ville": "Colmar",
+ "adresse": "43 rue Vauban",
+ "cp_ville": "68000 Colmar",
+ "maps_dest": "48.079549,7.3621516",
+ "tel": "+33663037759",
+ "tel_affiche": "06 63 03 77 59",
+ "email": "leschongauer@outlook.com",
+ "facebook": "https://www.facebook.com/taverne.schongauer",
+ "note": "4,7",
+ "avis": 72,
+ "polices": 7,
+ "couleurs": {
+  "principale": "#1a0f0d",
+  "accent": "#d0763a"
+ },
+ "hero": "bar-cuivre",
+ "hero_alt": "Le bar de la taverne : la grande cuve de cuivre et ses pompes à bière, l'arche éclairée de rouge, la gravure de dragon au plafond",
+ "hero_pos": "45% 50%",
+ "accroche": "Bar et taverne, 43 rue Vauban à Colmar",
+ "titre_lignes": [
+  "La Taverne",
+  "de Schongauer"
+ ],
+ "slogan": "Une bière tirée à la pompe de cuivre, une planche à partager, sous les gravures de Martin Schongauer. Tous les soirs jusqu'à minuit.",
+ "offre_titre": "À la taverne",
+ "offre_intro": "Ce que l'on sert le soir :",
+ "offre": [
+  {
+   "titre": "Les bières",
+   "texte": "Tirées à la pompe, sous la grande cuve de cuivre du bar."
+  },
+  {
+   "titre": "Les planches",
+   "texte": "Charcuterie, fromages, petits pains et fruits, à partager sur l'ardoise."
+  },
+  {
+   "titre": "Les spaetzle gratinés",
+   "texte": "Servis brûlants dans leur poêlon en fonte."
+  },
+  {
+   "titre": "Les vins",
+   "texte": "Rangés dans nos armoires vitrées, à choisir au verre ou à la bouteille."
+  }
+ ],
+ "encart": {
+  "titre": "Tous les soirs",
+  "texte": "De 18 h à minuit, sept jours sur sept."
+ },
+ "photos": [
+  {
+   "img": "planche",
+   "alt": "Une planche de charcuterie, fromages, petits pains, raisin et kiwi sur une ardoise"
+  },
+  {
+   "img": "spaetzle",
+   "alt": "Deux poêlons en fonte de spaetzle gratinés aux lardons, sur des ardoises"
+  },
+  {
+   "img": "chevalier",
+   "alt": "L'armure de templier, le lustre en fer à bougies et la niche de pierre éclairée"
+  },
+  {
+   "img": "salle-gravures",
+   "alt": "La salle sous les poutres : gravures de Martin Schongauer encadrées, sanglier, écu à croix et lanternes"
+  },
+  {
+   "img": "etagere-renard",
+   "alt": "L'étagère aux livres anciens, fioles d'apothicaire et faisan, le renard sur sa branche"
+  },
+  {
+   "img": "griffon",
+   "alt": "Le griffon de Martin Schongauer, emblème de la taverne"
+  }
+ ],
+ "bloc2": {
+  "titre": "Le décor",
+  "texte": "Une armure de templier, des lustres en fer, un sanglier sous les poutres, des fioles d'apothicaire et les gravures de Martin Schongauer, le peintre de Colmar, encadrées au nom de la taverne.",
+  "img": "salle-gravures",
+  "alt": "La salle aux gravures de La Taverne de Schongauer",
+  "faits": [
+   {
+    "k": "18 h – minuit",
+    "v": "Tous les soirs."
+   },
+   {
+    "k": "Rue Vauban",
+    "v": "À deux pas du musée du Jouet."
+   }
+  ]
+ },
+ "horaires": {
+  "lundi": [
+   "18:00-00:00"
+  ],
+  "mardi": [
+   "18:00-00:00"
+  ],
+  "mercredi": [
+   "18:00-00:00"
+  ],
+  "jeudi": [
+   "18:00-00:00"
+  ],
+  "vendredi": [
+   "18:00-00:00"
+  ],
+  "samedi": [
+   "18:00-00:00"
+  ],
+  "dimanche": [
+   "18:00-00:00"
+  ]
+ },
+ "logo": "logo"
+}
