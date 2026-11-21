@@ -1,0 +1,116 @@
+{
+ "slug": "flamm-anna",
+ "famille": "restaurant",
+ "nom": "Flamm'Anna",
+ "activite": "Tartes flambées",
+ "description": "Flamm'Anna, restaurant de tartes flambées au 21 quai de la Poissonnerie à Colmar : tartes flambées, raclette, salades et vins d'Alsace, 7 jours sur 7. Horaires et accès.",
+ "ville": "Colmar",
+ "adresse": "21 quai de la Poissonnerie",
+ "cp_ville": "68000 Colmar",
+ "tel": "+33389299937",
+ "tel_affiche": "03 89 29 99 37",
+ "email": "flamm.anna@outlook.fr",
+ "facebook": "https://www.facebook.com/61568959869378",
+ "note": "4,3",
+ "avis": 347,
+ "couleurs": {
+  "principale": "#111d2b",
+  "accent": "#d8a46b"
+ },
+ "logo": "logo",
+ "hero": "tarte-petite-venise",
+ "hero_alt": "Une tarte flambée servie sur une planche en bois, devant les maisons et le canal de la Petite Venise",
+ "hero_pos": "50% 60%",
+ "accroche": "Tartes flambées, 21 quai de la Poissonnerie à Colmar",
+ "titre_lignes": [
+  "Flamm'",
+  "Anna"
+ ],
+ "slogan": "La tarte flambée sort du four et arrive sur sa planche, à deux pas de la Petite Venise.",
+ "offre_titre": "La carte",
+ "offre_intro": "Ce qui sort de nos fours :",
+ "offre": [
+  {
+   "titre": "Les tartes flambées",
+   "texte": "Pâte fine, crème, oignons et lardons, servie brûlante sur sa planche en bois."
+  },
+  {
+   "titre": "La raclette",
+   "texte": "Le fromage fond au four à raclette, directement à votre table."
+  },
+  {
+   "titre": "Les salades",
+   "texte": "Comme la salade au chèvre chaud, pour une assiette plus légère."
+  },
+  {
+   "titre": "Vins et bières",
+   "texte": "Des vins d'Alsace, dont un pinot gris médaillé, et des bières pour accompagner la tarte."
+  }
+ ],
+ "photos": [
+  {
+   "img": "tarte-flambee",
+   "alt": "Une tarte flambée posée sur la table, devant une chaise gravée au nom de Flamm'Anna"
+  },
+  {
+   "img": "salle-pierre",
+   "alt": "La salle aux murs de pierre et de brique, des tulipes sur les tables et les chaises gravées Flamm'Anna"
+  },
+  {
+   "img": "raclette",
+   "alt": "Une raclette au four à raclette sur la table"
+  },
+  {
+   "img": "salade-chevre",
+   "alt": "Une salade au chèvre chaud"
+  },
+  {
+   "img": "tarte-pinot-gris",
+   "alt": "Une tarte flambée et une bouteille de pinot gris médaillé"
+  },
+  {
+   "img": "facade-nuit",
+   "alt": "La façade illuminée de Flamm'Anna, le soir, avec sa vitrine de Noël"
+  }
+ ],
+ "bloc2": {
+  "titre": "Au bord du quai",
+  "texte": "Au 21 quai de la Poissonnerie, une salle aux murs de pierre et de brique, des chaises gravées à notre nom, et une terrasse au soleil dès les beaux jours.",
+  "img": "terrasse",
+  "alt": "La terrasse ensoleillée de Flamm'Anna, ses parasols et ses fauteuils",
+  "faits": [
+   {
+    "k": "7 jours sur 7",
+    "v": "De midi à 21 h, jusqu'à 22 h du vendredi au dimanche."
+   },
+   {
+    "k": "Sans interruption",
+    "v": "Ouvert de midi au soir, sans fermeture l'après-midi."
+   }
+  ]
+ },
+ "horaires": {
+  "lundi": [
+   "12:00-21:00"
+  ],
+  "mardi": [
+   "12:00-21:00"
+  ],
+  "mercredi": [
+   "12:00-21:00"
+  ],
+  "jeudi": [
+   "12:00-21:00"
+  ],
+  "vendredi": [
+   "12:00-22:00"
+  ],
+  "samedi": [
+   "12:00-22:00"
+  ],
+  "dimanche": [
+   "12:00-22:00"
+  ]
+ },
+ "polices": 3
+}

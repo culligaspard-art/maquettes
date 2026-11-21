@@ -1,0 +1,125 @@
+{
+ "slug": "le-palais-gourmand",
+ "famille": "restaurant",
+ "nom": "Le Palais Gourmand",
+ "activite": "Crêperie, restaurant",
+ "description": "Le Palais Gourmand, crêperie et restaurant au 14 Grand'Rue à Colmar : galettes au blé noir sans gluten, crêpes, tartes flambées et pizzas cuisinées à la demande. Carte, horaires et accès.",
+ "ville": "Colmar",
+ "adresse": "14 Grand'Rue",
+ "cp_ville": "68000 Colmar",
+ "maps_dest": "48.0772187,7.3602281",
+ "tel": "+33389240427",
+ "tel_affiche": "03 89 24 04 27",
+ "email": "geze.fatma@outlook.fr",
+ "facebook": "https://www.facebook.com/100054291590788",
+ "note": "4,4",
+ "avis": 1039,
+ "couleurs": {
+  "principale": "#55702a",
+  "accent": "#c97b55"
+ },
+ "hero": "facade",
+ "hero_alt": "La façade rose du Palais Gourmand au 14 Grand'Rue, ses deux arcades, sa décoration de planches fleuries et sa terrasse sur les pavés",
+ "hero_pos": "50% 70%",
+ "accroche": "Crêperie et restaurant, 14 Grand'Rue à Colmar",
+ "titre_lignes": [
+  "Le Palais",
+  "Gourmand"
+ ],
+ "slogan": "Galettes au blé noir, crêpes, tartes flambées et pizzas, cuisinées à la demande au 14 Grand'Rue.",
+ "offre_titre": "La carte",
+ "offre_intro": "Tout est préparé à la commande :",
+ "offre": [
+  {
+   "titre": "Les galettes au blé noir",
+   "texte": "Sans gluten. Une vingtaine de recettes : Chat Botté, Gargantua, Grincheux, Reblochon, Olive aux cuisses de grenouilles, Joyeux au saumon fumé… Salade verte en accompagnement pour 3 €.",
+   "prix": "de 13,90 à 15,20 €"
+  },
+  {
+   "titre": "Les tartes flambées",
+   "texte": "Pâte fine, crème, oignons et lardons, nature ou gratinée."
+  },
+  {
+   "titre": "Les pizzas",
+   "texte": "Comme celle au chorizo et à l'œuf au plat."
+  },
+  {
+   "titre": "Crêpes, pâtes, salades et glaces",
+   "texte": "Et des plats comme le steak de veau aux tagliatelles et sa salade."
+  }
+ ],
+ "encart": {
+  "titre": "Une chaise, un plat",
+  "texte": "Tout est cuisiné à la demande, ce qui demande parfois quelques instants de patience. Menu enfant à 9,90 € pour les moins de 10 ans. Paiement en espèces, chèques vacances ANCV ou carte bancaire dès 10 €."
+ },
+ "photos": [
+  {
+   "img": "tarte-flambee",
+   "alt": "Une tarte flambée gratinée, oignons et lardons, sur un set rouge"
+  },
+  {
+   "img": "pizza-oeuf",
+   "alt": "Une pizza au chorizo garnie d'un œuf au plat, et une assiette de tagliatelles"
+  },
+  {
+   "img": "tarte-galette",
+   "alt": "Une tarte flambée, une galette au blé noir et un verre de vin d'Alsace au pied vert"
+  },
+  {
+   "img": "steak-tagliatelles",
+   "alt": "Un steak de veau, des tagliatelles, une salade et sa sauce"
+  },
+  {
+   "img": "salle",
+   "alt": "La salle au mur de bois, ses tables aux sets rouges, ses chaises bleues et beiges et l'ardoise des suggestions"
+  },
+  {
+   "img": "salle-colombages",
+   "alt": "La salle aux colombages bleus, ses poutres et ses suspensions rondes"
+  }
+ ],
+ "bloc2": {
+  "titre": "Au 14 Grand'Rue",
+  "texte": "Une façade rose aux deux arcades, une terrasse sur les pavés de la Grand'Rue et, à l'intérieur, des colombages bleus, des poutres anciennes et un mur de bois.",
+  "img": "salle-colombages",
+  "alt": "La salle aux colombages bleus et aux poutres anciennes",
+  "faits": [
+   {
+    "k": "Sans gluten",
+    "v": "Nos galettes au blé noir."
+   },
+   {
+    "k": "Midi et soir",
+    "v": "Tous les jours sauf le mardi."
+   }
+  ]
+ },
+ "horaires": {
+  "lundi": [
+   "11:30-14:00",
+   "18:30-22:00"
+  ],
+  "mardi": [],
+  "mercredi": [
+   "11:30-14:00",
+   "18:30-22:00"
+  ],
+  "jeudi": [
+   "11:30-14:00",
+   "18:30-22:00"
+  ],
+  "vendredi": [
+   "11:30-14:00",
+   "18:30-22:00"
+  ],
+  "samedi": [
+   "11:30-14:00",
+   "18:30-22:00"
+  ],
+  "dimanche": [
+   "11:30-14:00",
+   "18:30-22:00"
+  ]
+ },
+ "polices": 4
+}

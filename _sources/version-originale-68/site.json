@@ -1,0 +1,37 @@
+{
+ "fonts": [
+  {
+   "key": "titre",
+   "family": "dm-serif-display",
+   "weight": 400
+  },
+  {
+   "key": "texte",
+   "family": "dm-sans",
+   "variable": true
+  }
+ ],
+ "horaires": {
+  "lundi": [
+   "11:30-22:00"
+  ],
+  "mardi": [
+   "11:30-22:00"
+  ],
+  "mercredi": [
+   "11:30-22:00"
+  ],
+  "jeudi": [
+   "11:30-22:00"
+  ],
+  "vendredi": [
+   "11:30-22:30"
+  ],
+  "samedi": [
+   "11:30-22:30"
+  ],
+  "dimanche": [
+   "11:30-22:00"
+  ]
+ }
+}

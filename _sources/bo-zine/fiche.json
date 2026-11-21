@@ -1,0 +1,134 @@
+{
+ "slug": "bo-zine",
+ "famille": "restaurant",
+ "nom": "Bo&zine",
+ "activite": "Restaurant méditerranéen",
+ "description": "Bo&zine, restaurant méditerranéen au 2 route de Sélestat à Colmar : assiettes à partager, burgers, pâtes et grillades, midi et soir. Carte, horaires et accès.",
+ "ville": "Colmar",
+ "adresse": "2 route de Sélestat",
+ "cp_ville": "68000 Colmar",
+ "maps_dest": "48.0806099,7.3638966",
+ "tel": "+33954223679",
+ "tel_affiche": "09 54 22 36 79",
+ "email": "treizetreize@hotmail.fr",
+ "facebook": "https://www.facebook.com/100063775290645",
+ "note": "4,6",
+ "avis": 1400,
+ "couleurs": {
+  "principale": "#2b1d15",
+  "accent": "#c97a3c"
+ },
+ "hero": "salle-banquettes",
+ "hero_alt": "La salle de Bo&zine : banquettes moutarde, fauteuils de velours et suspensions noir et or dans une lumière orangée",
+ "hero_pos": "50% 50%",
+ "accroche": "Restaurant méditerranéen, 2 route de Sélestat à Colmar",
+ "titre_lignes": [
+  "Bo&zine"
+ ],
+ "slogan": "Assiettes à partager, burgers, pâtes et grillades, midi et soir, sous nos suspensions noir et or.",
+ "offre_titre": "La carte",
+ "offre_intro": "Quelques-uns de nos plats et leurs prix :",
+ "offre": [
+  {
+   "titre": "L'assiette Bo Zine",
+   "texte": "Deux pièces de chaque : nems, samoussas, bruschettas, toasts chèvre-miel, dynamite crevette et dynamite chicken.",
+   "prix": "18,90 €"
+  },
+  {
+   "titre": "Les burgers",
+   "texte": "Servis avec frites : Bō & Zine, double, chicken, Brooklyn, fish ou végé.",
+   "prix": "de 10,90 à 14,90 €"
+  },
+  {
+   "titre": "Les pâtes",
+   "texte": "Syracuse, 4 fromages, saumon, lasagne, indienne, Bombay, scampi ou gratin d'escalope.",
+   "prix": "de 10,90 à 14,90 €"
+  },
+  {
+   "titre": "Les grillades",
+   "texte": "Brochettes de poulet tandoori, faux-filet ou entrecôte de 220 g, brochettes et côtelettes d'agneau, assiette mixte.",
+   "prix": "de 14,90 à 21,90 €"
+  },
+  {
+   "titre": "Les plats",
+   "texte": "Forestière, cordon bleu, pavé de saumon, bouchée à la reine, milanaise, tajine kefta, tapas aux crevettes.",
+   "prix": "de 13,90 à 16,90 €"
+  }
+ ],
+ "encart": {
+  "titre": "Menu étudiant le midi",
+  "texte": "9,90 € à midi pour les étudiants. Menu enfant : 6,90 €."
+ },
+ "photos": [
+  {
+   "img": "assiette-bozine",
+   "alt": "L'assiette Bo Zine : nems, samoussa, bruschetta, toast au chèvre et dynamite chicken"
+  },
+  {
+   "img": "penne",
+   "alt": "Une assiette de penne"
+  },
+  {
+   "img": "nems",
+   "alt": "Des nems dorés et leur sauce"
+  },
+  {
+   "img": "entrecote",
+   "alt": "Une entrecôte grillée servie sur une planche en bois"
+  },
+  {
+   "img": "tagliatelles",
+   "alt": "Une assiette de tagliatelles"
+  },
+  {
+   "img": "suspensions",
+   "alt": "Les suspensions noir et or au-dessus des tables"
+  }
+ ],
+ "bloc2": {
+  "titre": "La salle",
+  "texte": "Banquettes moutarde, fauteuils de velours, suspensions noir et or, bar en relief cuivré et mur végétal : une salle chaleureuse pour un déjeuner rapide comme pour un dîner entre amis.",
+  "img": "salle",
+  "alt": "Vue d'ensemble de la salle de Bo&zine, ses tables dressées et son bar",
+  "faits": [
+   {
+    "k": "Midi et soir",
+    "v": "Du lundi au samedi, le dimanche soir."
+   },
+   {
+    "k": "Jusqu'à 23 h",
+    "v": "Le vendredi et le samedi soir."
+   }
+  ]
+ },
+ "horaires": {
+  "lundi": [
+   "12:00-13:30",
+   "18:00-22:30"
+  ],
+  "mardi": [
+   "12:00-13:30",
+   "18:00-22:30"
+  ],
+  "mercredi": [
+   "12:00-13:30",
+   "18:30-22:30"
+  ],
+  "jeudi": [
+   "12:00-13:30",
+   "18:00-22:30"
+  ],
+  "vendredi": [
+   "12:00-13:30",
+   "18:00-23:00"
+  ],
+  "samedi": [
+   "12:00-13:30",
+   "18:00-23:00"
+  ],
+  "dimanche": [
+   "18:00-22:30"
+  ]
+ },
+ "polices": 0
+}

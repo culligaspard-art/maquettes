@@ -1,0 +1,122 @@
+{
+ "slug": "version-originale-68",
+ "famille": "restaurant",
+ "nom": "Version Originale 68",
+ "activite": "Restaurant",
+ "description": "Version Originale 68, restaurant au 22 quai de la Poissonnerie à Colmar : planches, tartes, salades et vins, dans la cour à colombages ou en salle, 7 jours sur 7. Horaires et accès.",
+ "ville": "Colmar",
+ "adresse": "22 quai de la Poissonnerie",
+ "cp_ville": "68000 Colmar",
+ "maps_dest": "48.0744748,7.3605952",
+ "tel": "+33389296594",
+ "tel_affiche": "03 89 29 65 94",
+ "email": "versionoriginale68@gmail.com",
+ "facebook": "https://www.facebook.com/versionoriginale68",
+ "note": "4,3",
+ "avis": 883,
+ "preuve_extra": "recommandé à 92 % sur Facebook",
+ "couleurs": {
+  "principale": "#5b2630",
+  "accent": "#d2a668"
+ },
+ "logo": "logo",
+ "hero": "cour-figuier",
+ "hero_alt": "La cour de Version Originale 68 : tables en terrasse au pied des façades à colombages",
+ "hero_pos": "50% 55%",
+ "accroche": "Restaurant, 22 quai de la Poissonnerie à Colmar",
+ "titre_lignes": [
+  "Version",
+  "Originale"
+ ],
+ "slogan": "Planches, tartes, salades et vins à partager, dans notre cour à colombages ou dans la salle, 7 jours sur 7.",
+ "offre_titre": "À la carte",
+ "offre_intro": "Ce que l'on vient partager chez nous, à midi comme le soir :",
+ "offre": [
+  {
+   "titre": "Les planches",
+   "texte": "Fromages, charcuterie et pain, à partager autour d'un verre ou d'une bière."
+  },
+  {
+   "titre": "Les tartes",
+   "texte": "Nos tartes salées, comme celle aux tomates cerises, et des salades composées pour les accompagner."
+  },
+  {
+   "titre": "Les vins",
+   "texte": "Rouges, blancs et rosés au verre ou à la bouteille, dont des vins de Corse : demandez conseil, nous aimons en parler."
+  },
+  {
+   "titre": "Les desserts",
+   "texte": "Gâteaux et tartes sucrées pour finir le repas."
+  }
+ ],
+ "encart": {
+  "titre": "Concerts",
+  "texte": "Des musiciens viennent jouer chez nous : les prochaines dates sont annoncées sur notre page Facebook."
+ },
+ "photos": [
+  {
+   "img": "salle-poissons",
+   "alt": "La terrasse de Version Originale 68, ses tables dressées et sa décoration de poissons colorés"
+  },
+  {
+   "img": "planche-fromage",
+   "alt": "Une planche de fromages et de charcuterie avec du pain, une bière et la carte au logo VO"
+  },
+  {
+   "img": "tartes-tomates",
+   "alt": "Des tartes salées aux tomates cerises servies sur les sets Version Originale 68"
+  },
+  {
+   "img": "vin-charcuterie",
+   "alt": "Un verre de vin rouge et une assiette de charcuterie sur une table de la cour"
+  },
+  {
+   "img": "veranda-spuntino",
+   "alt": "La véranda et son enseigne « Spuntino Clandestinu »"
+  },
+  {
+   "img": "trinquer",
+   "alt": "Des verres de vin qui trinquent"
+  }
+ ],
+ "bloc2": {
+  "titre": "La cour",
+  "texte": "Au 22 quai de la Poissonnerie, une cour pavée entourée de façades à colombages et de balcons en bois. Aux beaux jours, on s'y installe pour une planche et un verre ; le reste de l'année, la salle et la véranda vous attendent.",
+  "img": "cour-balcons",
+  "alt": "La cour pavée, ses balcons en bois et ses drapeaux",
+  "faits": [
+   {
+    "k": "7 jours sur 7",
+    "v": "De 11 h 30 à 22 h, jusqu'à 22 h 30 le vendredi et le samedi."
+   },
+   {
+    "k": "À emporter",
+    "v": "Vos plats à retirer sur place."
+   }
+  ]
+ },
+ "horaires": {
+  "lundi": [
+   "11:30-22:00"
+  ],
+  "mardi": [
+   "11:30-22:00"
+  ],
+  "mercredi": [
+   "11:30-22:00"
+  ],
+  "jeudi": [
+   "11:30-22:00"
+  ],
+  "vendredi": [
+   "11:30-22:30"
+  ],
+  "samedi": [
+   "11:30-22:30"
+  ],
+  "dimanche": [
+   "11:30-22:00"
+  ]
+ },
+ "polices": 2
+}
