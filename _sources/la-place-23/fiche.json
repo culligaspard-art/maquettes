@@ -1,0 +1,59 @@
+{
+ "slug": "la-place-23",
+ "famille": "restaurant",
+ "nom": "La Place 23",
+ "activite": "Café, restaurant",
+ "description": "La Place 23, café-restaurant au 23 place de la Cathédrale à Colmar : tartes flambées, bagels, tartines et salades, en terrasse face à la collégiale Saint-Martin, tous les jours. Carte, horaires et accès.",
+ "ville": "Colmar",
+ "adresse": "23 place de la Cathédrale",
+ "cp_ville": "68000 Colmar",
+ "maps_dest": "48.077723,7.3577098",
+ "tel": "+33389243626",
+ "tel_affiche": "03 89 24 36 26",
+ "email": "23laplace@gmail.com",
+ "note": "4,3",
+ "avis": 918,
+ "polices": 6,
+ "couleurs": {"principale": "#1f4a40", "accent": "#c8302c"},
+ "hero": "terrasse-collegiale",
+ "hero_alt": "La collégiale Saint-Martin vue depuis la terrasse de La Place 23, à travers la vitre découpée de motifs végétaux",
+ "hero_pos": "50% 45%",
+ "accroche": "Café et restaurant, 23 place de la Cathédrale à Colmar",
+ "titre_lignes": ["La Place", "23"],
+ "slogan": "Tartes flambées, bagels et tartines, en terrasse face à la collégiale Saint-Martin, tous les jours.",
+ "offre_titre": "Nos tartes flambées",
+ "offre_intro": "Toutes nos tartes flambées sont faites sur une base de crème et de fromage blanc aux oignons :",
+ "offre": [
+  {"titre": "Classique", "texte": "Lardons.", "prix": "10 €"},
+  {"titre": "Gratinée", "texte": "Lardons, emmental.", "prix": "11 €"},
+  {"titre": "Forestière", "texte": "Lardons, emmental, champignons.", "prix": "12 €"},
+  {"titre": "Végétarienne", "prix": "12 €"},
+  {"titre": "Bichette", "texte": "Au fromage de chèvre.", "prix": "14 €"},
+  {"titre": "Saumon", "prix": "14 €"},
+  {"titre": "Champignon et coppa", "prix": "14 €"},
+  {"titre": "Truffée", "prix": "15 €"}
+ ],
+ "encart": {"titre": "Bagels, tartines et salades", "texte": "Bagels chauds, tartines sur pain de campagne avec leur salade (saumon et avocat, chèvre et noix…), et desserts : la carte complète est affichée au comptoir."},
+ "photos": [
+  {"img": "tarte-roquette", "alt": "Une tarte flambée au chèvre, jambon cru, tomates confites et roquette, à côté d'un burger et d'un verre de vin blanc"},
+  {"img": "tartine-saumon", "alt": "Une tartine au saumon, avocat et pousses de betterave, avec sa salade"},
+  {"img": "bagel", "alt": "Un bagel garni coupé en deux sur un plateau rouge"},
+  {"img": "tartine-chevre", "alt": "Une tartine gratinée au fromage de chèvre, noix et jambon, avec sa salade"},
+  {"img": "ardoise", "alt": "L'ardoise des tartes flambées devant la terrasse et ses chaises en rotin tressé"},
+  {"img": "salle-verte", "alt": "Une table ronde sous un miroir ancien, contre le mur vert de la salle"}
+ ],
+ "bloc2": {
+  "titre": "Face à la collégiale",
+  "texte": "Au 23 place de la Cathédrale, notre terrasse et ses chaises en rotin donnent sur la collégiale Saint-Martin. À l'intérieur, un lustre de cristal, un comptoir en aluminium et un petit avion rouge accroché au plafond.",
+  "img": "salle",
+  "alt": "La salle de La Place 23 : lustre de cristal, comptoir et menus affichés au mur",
+  "faits": [
+   {"k": "Tous les jours", "v": "Dès 10 h, jusqu'à 22 h le vendredi et le samedi."},
+   {"k": "En terrasse", "v": "Sur la place de la Cathédrale."}
+  ]
+ },
+ "horaires": {
+  "lundi": ["10:00-21:00"], "mardi": ["10:00-21:00"], "mercredi": ["10:00-21:00"], "jeudi": ["10:00-21:00"],
+  "vendredi": ["10:00-22:00"], "samedi": ["10:00-22:00"], "dimanche": ["10:00-21:00"]
+ }
+}

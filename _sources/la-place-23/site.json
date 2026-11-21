@@ -1,0 +1,37 @@
+{
+ "fonts": [
+  {
+   "key": "titre",
+   "family": "rozha-one",
+   "weight": 400
+  },
+  {
+   "key": "texte",
+   "family": "hanken-grotesk",
+   "variable": true
+  }
+ ],
+ "horaires": {
+  "lundi": [
+   "10:00-21:00"
+  ],
+  "mardi": [
+   "10:00-21:00"
+  ],
+  "mercredi": [
+   "10:00-21:00"
+  ],
+  "jeudi": [
+   "10:00-21:00"
+  ],
+  "vendredi": [
+   "10:00-22:00"
+  ],
+  "samedi": [
+   "10:00-22:00"
+  ],
+  "dimanche": [
+   "10:00-21:00"
+  ]
+ }
+}
