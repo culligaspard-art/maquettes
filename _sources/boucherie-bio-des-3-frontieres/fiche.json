@@ -1,0 +1,115 @@
+{
+ "slug": "boucherie-bio-des-3-frontieres",
+ "famille": "commerce",
+ "nom": "Boucherie Bio des 3 Frontières",
+ "activite": "Boucherie, charcuterie, traiteur bio",
+ "description": "Boucherie Bio des 3 Frontières, boucherie-charcuterie bio au 4 rue de Strasbourg à Saint-Louis : viandes à la coupe, charcuterie, plateaux, pâtés en croûte et boudins, salades et glaces bio. Horaires et accès.",
+ "ville": "Saint-Louis",
+ "adresse": "4 rue de Strasbourg",
+ "cp_ville": "68300 Saint-Louis",
+ "tel": "+33389671327",
+ "tel_affiche": "03 89 67 13 27",
+ "email": "boucheriebio.weber@hotmail.fr",
+ "facebook": "https://www.facebook.com/profile.php?id=61555437647459",
+ "note": "4,3",
+ "avis": 81,
+ "polices": 4,
+ "couleurs": {
+  "principale": "#c93c2c",
+  "accent": "#7dae3c"
+ },
+ "logo": "logo",
+ "hero": "boucher",
+ "hero_alt": "Le boucher, tablier rouge brodé « Boucherie Bio des 3 frontières », tient un gigot et une pièce de bœuf devant la vitrine",
+ "hero_pos": "50% 40%",
+ "hero_legende": "À la coupe, au 4 rue de Strasbourg.",
+ "accroche": "Boucherie bio, rue de Strasbourg à Saint-Louis",
+ "titre_lignes": [
+  "Boucherie Bio",
+  "des 3 Frontières"
+ ],
+ "slogan": "Viandes bio à la coupe, charcuterie, plateaux et traiteur, au cœur de Saint-Louis.",
+ "offre_titre": "À la boutique",
+ "offre_intro": "Sur place, à emporter ou à commander pour le retrait en boutique :",
+ "offre": [
+  {
+   "titre": "Viandes bio à la coupe"
+  },
+  {
+   "titre": "Charcuterie et saucisses"
+  },
+  {
+   "titre": "Plateaux de charcuterie pour vos fêtes"
+  },
+  {
+   "titre": "Pâtés en croûte, boudins et spécialités maison"
+  },
+  {
+   "titre": "Salades composées, olives et glaces bio"
+  }
+ ],
+ "photos": [
+  {
+   "img": "plateau-charcuterie",
+   "titre": "Le plateau",
+   "texte": "Jambon, viande séchée, coppa, salami : à commander pour vos fêtes.",
+   "alt": "Un plateau de charcuterie : jambon cru et cuit, viande séchée, coppa, salami et lard"
+  },
+  {
+   "img": "plateau-eventail",
+   "titre": "En éventail",
+   "texte": "Viande séchée et fromage roulés.",
+   "alt": "Un plateau de viande séchée et de fromage roulés, disposés en éventail"
+  },
+  {
+   "img": "pate-en-croute",
+   "titre": "Pâté en croûte",
+   "texte": "Sorti du four, prêt à trancher.",
+   "alt": "Des tranches de pâté en croûte sur la planche, devant la vitrine"
+  },
+  {
+   "img": "boudins",
+   "titre": "Les boudins",
+   "texte": "Noirs et blancs, sur le billot.",
+   "alt": "Des boudins noirs et blancs posés sur le billot en bois"
+  }
+ ],
+ "bloc2": {
+  "titre": "Rue de Strasbourg",
+  "texte": "Une boucherie-charcuterie bio au centre de Saint-Louis : la vitrine, le billot, la coupe à la demande et des conseils en français et en allemand.",
+  "img": "plateau-charcuterie",
+  "alt": "La Boucherie Bio des 3 Frontières",
+  "faits": [
+   {
+    "k": "Bio",
+    "v": "Viandes et produits issus de l'agriculture biologique."
+   },
+   {
+    "k": "Retrait en boutique",
+    "v": "Commandez, passez prendre."
+   }
+  ]
+ },
+ "horaires": {
+  "lundi": [],
+  "mardi": [
+   "07:00-12:30",
+   "15:00-19:00"
+  ],
+  "mercredi": [
+   "07:00-12:30",
+   "15:00-19:00"
+  ],
+  "jeudi": [
+   "07:00-12:30",
+   "15:00-19:00"
+  ],
+  "vendredi": [
+   "07:00-19:00"
+  ],
+  "samedi": [
+   "07:00-16:00"
+  ],
+  "dimanche": []
+ }
+}
