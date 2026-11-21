@@ -1,0 +1,77 @@
+{
+ "slug": "antep-doner",
+ "famille": "emporter",
+ "nom": "Antep Döner",
+ "activite": "Kebab, tacos, pizzas",
+ "description": "Antep Döner, restaurant kebab, tacos et pizzas halal au 28 rue du Docteur Albert Schweitzer à Colmar : sandwiches, assiettes grillades, pides et menus, du lundi au samedi en non-stop. Carte, prix et horaires.",
+ "ville": "Colmar",
+ "adresse": "28 rue du Docteur Albert Schweitzer",
+ "cp_ville": "68000 Colmar",
+ "maps_dest": "48.0781834,7.3358917",
+ "tel": "+33389805542",
+ "tel_affiche": "03 89 80 55 42",
+ "email": "antepcolmar@gmail.com",
+ "note": "4,1",
+ "avis": 757,
+ "polices": 3,
+ "couleurs": {"principale": "#5a0c12", "accent": "#e8d8b0"},
+ "kraft": "#e8d8b0",
+ "logo": "logo",
+ "hero": "box-mixte",
+ "hero_alt": "Une barquette vue de dessus : côtelette d'agneau, poulet grillé, döner, boulgour, frites, tomates grillées et salade",
+ "accroche": "Kebab, tacos et pizzas, rue du Docteur Albert Schweitzer à Colmar",
+ "titre_lignes": ["Antep", "Döner"],
+ "slogan": "Kebab, tacos, pizzas et grillades halal, du lundi au samedi en non-stop.",
+ "offre_titre": "La carte",
+ "offre_intro": "Sur place ou à emporter. Tous nos menus sont servis avec une petite portion de frites et une boisson de 33 cl au choix.",
+ "offre_groupes": [
+  {"titre": "Les sandwiches", "items": [
+   {"titre": "Döner kebab", "prix": "6,50 €"},
+   {"titre": "Yufka döner", "prix": "7,50 €"},
+   {"titre": "Box döner", "prix": "7,00 €"},
+   {"titre": "Escalope, köfte, merguez ou niçois au thon", "prix": "6,50 €"},
+   {"titre": "Döner géant", "prix": "11,00 €"},
+   {"titre": "Tacos", "texte": "Döner, escalope, steak haché, köfte, cordon bleu, nuggets, tender's ou merguez.", "prix": "8,00 €"}
+  ]},
+  {"titre": "Les menus", "items": [
+   {"titre": "Döner, escalope, köfte, merguez, cheese ou nuggets", "prix": "10,00 €"},
+   {"titre": "Yufka", "prix": "11,00 €"},
+   {"titre": "Tacos", "prix": "11,50 €"}
+  ]},
+  {"titre": "Les assiettes grillades", "items": [
+   {"titre": "Döner, escalope, köfte, merguez, cordon bleu ou tender's", "prix": "12,50 €"},
+   {"titre": "Adana", "prix": "13,00 €"},
+   {"titre": "Brochette d'agneau", "prix": "16,50 €"},
+   {"titre": "Côtelettes d'agneau", "prix": "18,50 €"},
+   {"titre": "Assiette mixte", "prix": "20,00 €"}
+  ]},
+  {"titre": "Pizzas et pides", "items": [
+   {"titre": "Pizza marguerita", "prix": "9,50 €"},
+   {"titre": "Pizzas", "texte": "4 fromages, thon, salami, suçuk, merguez, köfte, végétarienne, viande hachée, fruits de mer.", "prix": "11,00 €"},
+   {"titre": "Pizza döner ou chicken", "prix": "12,00 €"},
+   {"titre": "Pides", "texte": "Döner, viande hachée, suçuk, fromage ou épinards.", "prix": "10,00 €"}
+  ]}
+ ],
+ "notes": [
+  {"k": "Halal", "v": "toutes nos viandes"},
+  {"k": "Non-stop", "v": "du lundi au samedi"}
+ ],
+ "moment": {"titre": "Chez Antep", "intro": "Au comptoir et en salle :", "items": [
+  {"img": "sandwich", "titre": "Le döner", "texte": "Pain garni de viande grillée à la broche, salade et sauce.", "alt": "Un sandwich döner bien garni tenu devant la broche"},
+  {"img": "comptoir", "titre": "Le comptoir", "texte": "La broche et le comptoir, côté rue.", "alt": "Le comptoir et la broche d'Antep Döner"}
+ ]},
+ "photos": [
+  {"img": "salle", "alt": "La salle d'Antep Döner : sol en marbre clair, chaises en bois, suspensions dorées"},
+  {"img": "sandwich", "alt": "Un sandwich döner"},
+  {"img": "comptoir", "alt": "Le comptoir et la broche"}
+ ],
+ "etapes": [
+  {"titre": "Choisissez", "texte": "Sandwich, tacos, assiette, pizza ou pide."},
+  {"titre": "En menu", "texte": "Avec une petite frite et une boisson de 33 cl."},
+  {"titre": "Sur place ou à emporter", "texte": "Ou appelez-nous pour préparer votre commande."}
+ ],
+ "horaires": {
+  "lundi": ["10:00-23:00"], "mardi": ["10:00-23:00"], "mercredi": ["10:00-23:00"], "jeudi": ["10:00-23:00"],
+  "vendredi": ["10:00-23:00"], "samedi": ["10:00-23:00"], "dimanche": []
+ }
+}
