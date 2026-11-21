@@ -1,0 +1,58 @@
+{
+ "slug": "anka",
+ "famille": "restaurant",
+ "nom": "Anka",
+ "activite": "Restaurant turc traditionnel",
+ "description": "Anka, restaurant turc traditionnel au 4 chemin du Dornig à Colmar : petit-déjeuner turc, grillades, beyti, kiremit en cocotte de terre cuite et filet de bœuf, midi et soir. Carte, horaires et accès.",
+ "ville": "Colmar",
+ "adresse": "4 chemin du Dornig",
+ "cp_ville": "68000 Colmar",
+ "maps_dest": "48.0809214,7.3783508",
+ "tel": "+33389295539",
+ "tel_affiche": "03 89 29 55 39",
+ "email": "ankarestaurant99@gmail.com",
+ "facebook": "https://www.facebook.com/61585302181492",
+ "note": "4,9",
+ "avis": 272,
+ "polices": 1,
+ "couleurs": {"principale": "#24282c", "accent": "#e0442f"},
+ "hero": "table-plats",
+ "hero_alt": "Cinq assiettes vues de dessus sur une table en bois : mezzes, adana et frites, beytepe kebabi au yaourt, köfte et riz, kiremit gratiné et boulgour",
+ "hero_pos": "50% 50%",
+ "accroche": "Restaurant turc traditionnel, 4 chemin du Dornig à Colmar",
+ "titre_lignes": ["Anka"],
+ "slogan": "Le petit-déjeuner turc le matin, les grillades et les spécialités de la maison midi et soir.",
+ "offre_titre": "Nos spécialités",
+ "offre_intro": "Servies avec boulgour, frites ou riz :",
+ "offre": [
+  {"titre": "Anka beyti", "texte": "Brochette adana roulée dans un pain yufka, sauce tomate, yaourt et sésame.", "prix": "19,90 €"},
+  {"titre": "Kiremit kuzu ou tavuk", "texte": "Agneau ou poulet émincé, servi dans sa cocotte en terre cuite.", "prix": "19,90 €"},
+  {"titre": "Beytepe kebabi", "texte": "Viande hachée sur croûtons de pain, yaourt nature et sauce tomate.", "prix": "18,90 €"},
+  {"titre": "Ufo", "texte": "Viande hachée farcie au fromage, sauce aux champignons.", "prix": "17,90 €"},
+  {"titre": "Limon ve mozzarella tavuk", "texte": "Poulet haché farci à la mozzarella, sauce au citron.", "prix": "18,90 €"},
+  {"titre": "Anka bonfile", "texte": "Filet de bœuf, sauce aux champignons.", "prix": "27,00 €"}
+ ],
+ "encart": {"titre": "Le petit-déjeuner turc", "texte": "Le matin : menemen, œufs au sucuk, muhlama, toasts, simit et thé turc. Et le gourmet breakfast à 10,90 € : crêpes fourrées à la crème vanille, au chocolat et à la fraise, fruits de saison et un latte."},
+ "photos": [
+  {"img": "grillades", "alt": "Une assiette de grillades : côtelette d'agneau, brochettes de poulet et de viande, köfte, boulgour, piment et salade"},
+  {"img": "kiremit", "alt": "Un kiremit gratiné dans sa cocotte en terre cuite, servi avec du boulgour"},
+  {"img": "petit-dejeuner", "alt": "Le petit-déjeuner turc : œufs au sucuk en poêlon, muhlama, menemen, assiette garnie avec simit, et un verre de thé"},
+  {"img": "ufo", "alt": "Un plat en sauce servi dans un plat en terre cuite avec yaourt, frites et salade"},
+  {"img": "facade", "alt": "L'entrée du restaurant, l'enseigne « Restaurant Anka » et son phénix rouge"},
+  {"img": "salle", "alt": "La salle aux tables en bois clair, chaises en cuir camel et anthracite, murs végétaux fleuris"}
+ ],
+ "bloc2": {
+  "titre": "Chemin du Dornig",
+  "texte": "Une salle lumineuse sous une grande verrière, des tables en bois clair, des chaises en cuir et des murs végétaux fleuris de rouge. Le phénix rouge de notre enseigne vous accueille du petit-déjeuner au dîner.",
+  "img": "salle",
+  "alt": "La salle d'Anka",
+  "faits": [
+   {"k": "Dès 10 h", "v": "Petit-déjeuner et brunch turcs."},
+   {"k": "Midi et soir", "v": "Tous les jours, selon nos horaires."}
+  ]
+ },
+ "horaires": {
+  "lundi": ["10:00-14:00", "18:00-21:00"], "mardi": ["10:00-14:00", "18:00-21:30"], "mercredi": ["10:00-14:00", "18:00-21:30"], "jeudi": ["10:00-14:00", "18:00-21:00"],
+  "vendredi": ["10:00-14:00", "18:00-21:30"], "samedi": ["10:00-14:30", "18:00-21:30"], "dimanche": ["10:00-14:00", "18:00-21:00"]
+ }
+}
