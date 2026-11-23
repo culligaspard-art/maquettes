@@ -1,0 +1,164 @@
+{
+ "slug": "chez-aydin",
+ "famille": "restaurant",
+ "nom": "Chez Aydin",
+ "activite": "Restaurant, grillades au feu de bois",
+ "description": "Restaurant grill Chez Aydin, 1 rue de Kingersheim à Wittenheim : cuisine du marché, grillades au feu de bois, carpes-frites, tête de veau, bouchée à la reine. Ouvert midi et soir, plats à emporter.",
+ "ville": "Wittenheim",
+ "adresse": "1 rue de Kingersheim",
+ "cp_ville": "68270 Wittenheim",
+ "maps_dest": "47.8092082,7.3376233",
+ "tel": "+33954417482",
+ "tel_affiche": "09 54 41 74 82",
+ "email": "chez.aydin.wittenheim@gmail.com",
+ "facebook": "https://www.facebook.com/people/Restaurant-Grill-CHEZ-AYDIN/100051088795711/",
+ "note": "4,3",
+ "avis": 504,
+ "couleurs": {
+  "principale": "#33373c",
+  "accent": "#d9822b"
+ },
+ "hero": "salle",
+ "hero_alt": "La salle de Chez Aydin, chaises noires et sets jaunes, l'ardoise des plats et les grandes fenêtres sur la rue",
+ "hero_pos": "50% 55%",
+ "accroche": "Restaurant grill à Wittenheim",
+ "titre_lignes": [
+  "Chez Aydin"
+ ],
+ "slogan": "Grillades au feu de bois et plats de brasserie, midi et soir.",
+ "offre_titre": "L'ardoise",
+ "offre_intro": "Les plats de notre ardoise. Nouveauté : les grillades au feu de bois, côte de bœuf, côtelette d'agneau, brochette et pièce de bœuf.",
+ "offre": [
+  {
+   "titre": "Salade vigneronne",
+   "texte": "Petite ou grande.",
+   "prix": "8,90 € / 12,90 €"
+  },
+  {
+   "titre": "Salade chèvre chaud",
+   "texte": "Petite ou grande.",
+   "prix": "8,90 € / 12,90 €"
+  },
+  {
+   "titre": "Assiette de crudités",
+   "texte": "Petite ou grande.",
+   "prix": "5,90 € / 8,90 €"
+  },
+  {
+   "titre": "Croûte forestière",
+   "prix": "6,90 €"
+  },
+  {
+   "titre": "Salade périgourdine",
+   "prix": "17,90 €"
+  },
+  {
+   "titre": "Salade océane",
+   "prix": "17,90 €"
+  },
+  {
+   "titre": "Tartare de bœuf",
+   "prix": "16,90 €"
+  },
+  {
+   "titre": "Faux-filet",
+   "prix": "19,90 €"
+  },
+  {
+   "titre": "Tête de veau",
+   "prix": "17,90 €"
+  },
+  {
+   "titre": "Bœuf gros sel",
+   "prix": "17,90 €"
+  },
+  {
+   "titre": "Rognons de veau",
+   "prix": "17,90 €"
+  },
+  {
+   "titre": "Carpes-frites",
+   "prix": "15,90 €"
+  },
+  {
+   "titre": "Cordon bleu de veau",
+   "prix": "18,90 €"
+  },
+  {
+   "titre": "Souris d'agneau",
+   "prix": "21,90 €"
+  },
+  {
+   "titre": "Bouchée à la reine",
+   "prix": "15,90 €"
+  },
+  {
+   "titre": "Escalope de veau à la crème",
+   "prix": "15,50 €"
+  }
+ ],
+ "encart": {
+  "titre": "À emporter",
+  "texte": "Nos plats se commandent aussi à emporter, midi et soir : appelez-nous au 09 54 41 74 82."
+ },
+ "photos": [
+  {
+   "img": "carpes-frites",
+   "alt": "Une assiette de carpes-frites, frites maison, salade et tomate"
+  },
+  {
+   "img": "os-a-moelle",
+   "alt": "Deux os à moelle gratinés aux herbes, salade, chou rouge et carottes râpées"
+  },
+  {
+   "img": "salle-ardoise",
+   "alt": "La salle aux murs jaunes, l'ardoise « Bienvenue chez Aydin » au-dessus du buffet"
+  },
+  {
+   "img": "ardoise",
+   "alt": "L'ardoise « Bienvenue chez Aydin » avec les entrées et les plats du jour"
+  },
+  {
+   "img": "facade",
+   "alt": "La façade ocre du restaurant, 1 rue de Kingersheim"
+  },
+  {
+   "img": "salle",
+   "alt": "La salle et ses grandes fenêtres sur la rue"
+  }
+ ],
+ "bloc2": {
+  "titre": "Bienvenue chez Aydin",
+  "texte": "Une grande salle claire au coin de la rue de Kingersheim, l'ardoise des plats au mur, et le grill au feu de bois pour la côte de bœuf, la côtelette d'agneau et les brochettes.",
+  "img": "salle-ardoise"
+ },
+ "horaires": {
+  "lundi": [
+   "11:00-14:00"
+  ],
+  "mardi": [
+   "11:00-14:00",
+   "18:00-22:00"
+  ],
+  "mercredi": [
+   "11:00-14:00",
+   "18:00-22:00"
+  ],
+  "jeudi": [
+   "11:00-14:00",
+   "18:00-22:00"
+  ],
+  "vendredi": [
+   "11:00-14:00",
+   "18:00-22:00"
+  ],
+  "samedi": [
+   "11:00-14:00",
+   "18:00-22:00"
+  ],
+  "dimanche": [
+   "11:00-14:00",
+   "18:00-22:00"
+  ]
+ }
+}
