@@ -1,0 +1,233 @@
+{
+ "slug": "il-piatto",
+ "famille": "emporter",
+ "polices": 1,
+ "nom": "Il Piatto",
+ "activite": "Pizzeria, ristorante",
+ "description": "Il Piatto, pizzeria et restaurant italien au 25 rue des 3 Frontières à Illzach : pizzas, salades, pâtes et risottos, sur place ou à emporter. Carte et prix à emporter.",
+ "ville": "Illzach",
+ "adresse": "25 rue des 3 Frontières",
+ "cp_ville": "68110 Illzach",
+ "maps_dest": "47.7731807,7.3905556",
+ "tel": "+33389618899",
+ "tel_affiche": "03 89 61 88 99",
+ "email": "ilpiatto68@gmail.com",
+ "note": "4,2",
+ "avis": 983,
+ "couleurs": {
+  "principale": "#1f3f86",
+  "accent": "#b39b6a"
+ },
+ "logo": "logo",
+ "hero": "pizza-piccante",
+ "hero_alt": "Une pizza au salami piquant et aux poivrons, la croûte marquée par le four",
+ "accroche": "Ristorante pizzeria à Illzach",
+ "titre_lignes": [
+  "Il Piatto"
+ ],
+ "slogan": "Pizza, pasta, insalate : à table dans notre salle, ou à emporter.",
+ "offre_titre": "La carte à emporter",
+ "offre_intro": "Les prix de notre carte à emporter. Au restaurant, la carte propose aussi des antipasti et des viandes, à d'autres prix.",
+ "offre_groupes": [
+  {
+   "titre": "Pizze",
+   "items": [
+    {
+     "titre": "Margherita",
+     "texte": "Tomate, mozzarella fior di latte, basilic, olives.",
+     "prix": "10,20 €"
+    },
+    {
+     "titre": "Mista, Napoletana, Al salame piccante, Regina, Hawaï",
+     "prix": "11,90 €"
+    },
+    {
+     "titre": "4 Stagioni",
+     "texte": "Tomate, mozzarella fior di latte, câpres, jambon, olives, champignons, artichauts.",
+     "prix": "12,50 €"
+    },
+    {
+     "titre": "Reno, Emiliana, Calabrese, 4 Fromaggi, Pollo, Capra",
+     "prix": "12,50 €"
+    },
+    {
+     "titre": "Calzone",
+     "texte": "Pizza fermée : tomate, mozzarella fior di latte, jambon, champignons, œuf.",
+     "prix": "12,50 €"
+    },
+    {
+     "titre": "Vegetariana",
+     "texte": "Champignons, olives, artichauts, oignons rouges, poivrons, aubergines.",
+     "prix": "13,50 €"
+    },
+    {
+     "titre": "Marinara, Salmone, Bresaola, Pancetta, Parma",
+     "prix": "13,90 €"
+    },
+    {
+     "titre": "Dolce Vita",
+     "texte": "Crème fraîche, mozzarella de bufflonne, roquette, chèvre, gorgonzola, jambon de Parme, Grana Padano, miel.",
+     "prix": "15,90 €"
+    }
+   ]
+  },
+  {
+   "titre": "Insalate",
+   "items": [
+    {
+     "titre": "Mista",
+     "texte": "Salade, tomates cerises, œuf, thon, olives, artichauts, anchois, oignons rouges.",
+     "prix": "12,80 €"
+    },
+    {
+     "titre": "Cesar",
+     "texte": "Salade, tomates cerises, œuf, poulet, croûtons, Grana Padano.",
+     "prix": "12,80 €"
+    },
+    {
+     "titre": "Italiana",
+     "texte": "Salade, tomates cerises, œuf, jambon de Parme, mozzarella de bufflonne, parmesan, basilic.",
+     "prix": "13,80 €"
+    },
+    {
+     "titre": "Salmone",
+     "texte": "Salade, tomates cerises, œuf, saumon fumé, câpres, oignons rouges, crème de raifort.",
+     "prix": "13,80 €"
+    },
+    {
+     "titre": "Salade verte",
+     "texte": "Et tomates cerises.",
+     "prix": "4,50 €"
+    }
+   ]
+  },
+  {
+   "titre": "Pasta e risotti",
+   "items": [
+    {
+     "titre": "Lasagne",
+     "texte": "Sauce tomate, viande hachée, mozzarella fior di latte, crème, Grana Padano.",
+     "prix": "12,90 €"
+    },
+    {
+     "titre": "Rigatoni al salmone",
+     "texte": "Saumon fumé, crème, oignons rouges, champignons, Grana Padano.",
+     "prix": "14,50 €"
+    },
+    {
+     "titre": "Rigatoni arrabiata",
+     "texte": "Sauce tomate, salami piquant, Grana Padano.",
+     "prix": "11,90 €"
+    },
+    {
+     "titre": "Rigatoni ou linguine bolognese",
+     "prix": "11,90 €"
+    },
+    {
+     "titre": "Rigatoni gorgonzola",
+     "prix": "11,90 €"
+    },
+    {
+     "titre": "Linguine carbonara",
+     "texte": "Crème, lard, Grana Padano, œuf.",
+     "prix": "12,90 €"
+    },
+    {
+     "titre": "Risotto pesto scampi",
+     "prix": "15,50 €"
+    },
+    {
+     "titre": "Risotto crème champignons",
+     "prix": "12,80 €"
+    }
+   ]
+  }
+ ],
+ "notes": [
+  {
+   "k": "Sur place",
+   "v": "en salle, réservation en ligne"
+  },
+  {
+   "k": "Au restaurant",
+   "v": "antipasti, pâtes, escalope de veau, entrecôte"
+  }
+ ],
+ "moment": {
+  "titre": "Chez Il Piatto",
+  "intro": "Quelques assiettes de la maison :",
+  "items": [
+   {
+    "img": "calzone",
+    "titre": "La calzone",
+    "texte": "Jambon, champignons et l'œuf au cœur de la pâte refermée.",
+    "alt": "Une calzone ouverte, jambon et jaune d'œuf coulant"
+   },
+   {
+    "img": "risotto-scampi",
+    "titre": "Le risotto pesto scampi",
+    "texte": "Crevettes, tomates cerises et copeaux de Grana Padano.",
+    "alt": "Un risotto au pesto garni de crevettes et de copeaux de parmesan"
+   },
+   {
+    "img": "salle",
+    "titre": "La salle",
+    "texte": "Suspensions en rotin et grandes baies vitrées.",
+    "alt": "La salle d'Il Piatto, tables dressées sous des suspensions en rotin"
+   }
+  ]
+ },
+ "photos": [
+  {
+   "img": "vitrine",
+   "alt": "La verrière gravée « Il Piatto Pizzeria » et le comptoir éclairé"
+  },
+  {
+   "img": "salle",
+   "alt": "La salle, tables dressées et fauteuils en rotin"
+  },
+  {
+   "img": "pizza-piccante",
+   "alt": "Une pizza au salami piquant"
+  }
+ ],
+ "commande_intro": "Par téléphone, aux heures d'ouverture, puis vous passez la chercher.",
+ "etapes": [
+  {
+   "titre": "Choisissez",
+   "texte": "Pizza, salade, pâtes ou risotto : toute la carte à emporter est ci-dessus."
+  },
+  {
+   "titre": "Appelez",
+   "texte": "Au 03 89 61 88 99, du mardi au samedi, de 12h à 14h et de 19h à 22h."
+  },
+  {
+   "titre": "Passez la chercher",
+   "texte": "Au 25 rue des 3 Frontières, à Illzach."
+  }
+ ],
+ "horaires": {
+  "lundi": [],
+  "mardi": [
+   "12:00-14:00",
+   "19:00-22:00"
+  ],
+  "mercredi": [
+   "12:00-14:00",
+   "19:00-22:00"
+  ],
+  "jeudi": [
+   "12:00-14:00",
+   "19:00-22:00"
+  ],
+  "vendredi": [
+   "12:00-14:00",
+   "19:00-22:00"
+  ],
+  "samedi": [
+   "12:00-14:00",
+   "19:00-22:00"
+  ],
+  "dimanche": []
+ }
+}
