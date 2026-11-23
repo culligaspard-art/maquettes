@@ -1,0 +1,98 @@
+{
+ "slug": "united-hair",
+ "famille": "beaute",
+ "forme": "miroir",
+ "polices": 3,
+ "nom": "United Hair",
+ "activite": "Styliste visagiste à Illzach",
+ "description": "United Hair, styliste visagiste au 26 rue du Puits à Illzach : coupes, couleurs, blonds, balayages, lissages et brushings ondulés. Horaires, accès et rendez-vous par téléphone.",
+ "ville": "Illzach",
+ "adresse": "26 rue du Puits",
+ "cp_ville": "68110 Illzach",
+ "maps_dest": "47.7723925,7.3654429",
+ "tel": "+33666710209",
+ "tel_affiche": "06 66 71 02 09",
+ "email": "emilie.souissi@hotmail.com",
+ "facebook": "https://www.facebook.com/p/United-hair-Illzach-100063595381401/",
+ "note": "4,8",
+ "avis": 115,
+ "couleurs": {
+  "principale": "#2b2b2e",
+  "accent": "#c4835e"
+ },
+ "logo": "logo",
+ "hero": "balayage-ondule",
+ "hero_alt": "Un balayage blond miel en longues ondulations, devant le mur en marbre gris du salon",
+ "hero_pos": "50% 45%",
+ "accroche": "Styliste visagiste, 26 rue du Puits à Illzach",
+ "titre_lignes": [
+  "United",
+  "Hair"
+ ],
+ "slogan": "Blonds lumineux, balayages, lissages et ondulations, pensés pour votre visage.",
+ "offre_titre": "Au salon",
+ "offre_intro": "Du lundi au samedi, sur rendez-vous par téléphone au 06 66 71 02 09.",
+ "offre": [
+  {
+   "titre": "Coupes",
+   "texte": "Conseillées selon la forme de votre visage"
+  },
+  {
+   "titre": "Blonds et couleurs",
+   "texte": "Du blond polaire aux nuances cuivrées"
+  },
+  {
+   "titre": "Balayages",
+   "texte": "Des reflets fondus, du miel au caramel"
+  },
+  {
+   "titre": "Lissages et brushings",
+   "texte": "Longueurs lisses et brillantes, ou ondulations souples"
+  }
+ ],
+ "photos": [
+  {
+   "img": "blond-polaire",
+   "alt": "Un blond polaire lissé sur cheveux longs"
+  },
+  {
+   "img": "ondulations-cuivre",
+   "alt": "Des ondulations brunes aux reflets cuivrés"
+  },
+  {
+   "img": "lissage-brun",
+   "alt": "Un lissage sur cheveux bruns, longueurs brillantes"
+  },
+  {
+   "img": "blond-lisse",
+   "alt": "Un blond beige lissé, pointes nettes"
+  }
+ ],
+ "bloc2": {
+  "titre": "Styliste visagiste",
+  "texte": "Un salon aux murs de marbre gris, rue du Puits. Chaque coupe et chaque couleur se pensent avec vous, pour votre visage.",
+  "img": "blond-lisse"
+ },
+ "horaires": {
+  "lundi": [
+   "09:00-18:00"
+  ],
+  "mardi": [
+   "09:00-18:00"
+  ],
+  "mercredi": [
+   "09:00-18:00"
+  ],
+  "jeudi": [
+   "09:00-18:00"
+  ],
+  "vendredi": [
+   "09:00-18:00"
+  ],
+  "samedi": [
+   "09:00-18:00"
+  ],
+  "dimanche": []
+ },
+ "logo_blanc": "logo-blanc"
+}
