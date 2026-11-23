@@ -1,0 +1,143 @@
+{
+ "slug": "pedichic-by-julia",
+ "famille": "beaute",
+ "forme": "ongle",
+ "polices": 2,
+ "nom": "Pedichic by Julia",
+ "activite": "Manucure et pédicure à Illzach",
+ "description": "Pedichic by Julia, manucure et pédicure au 7 rue Kielmann à Illzach : pédicure, vernis semi-permanent, renforcement gel, French, soins à la paraffine. Tarifs, horaires et rendez-vous.",
+ "ville": "Illzach",
+ "adresse": "7 rue Kielmann",
+ "cp_ville": "68110 Illzach",
+ "maps_dest": "47.7802228,7.351038",
+ "tel": "+33783983114",
+ "tel_affiche": "07 83 98 31 14",
+ "email": "juliaesina457@gmail.com",
+ "note": "5,0",
+ "avis": 11,
+ "couleurs": {
+  "principale": "#5a1726",
+  "accent": "#c9a07a"
+ },
+ "hero": "bordeaux",
+ "hero_alt": "Des ongles courts vernis bordeaux, la main posée sur la manche d'un pull en laine",
+ "accroche": "Manucure et pédicure, 7 rue Kielmann à Illzach",
+ "titre_lignes": [
+  "Pedichic",
+  "by Julia"
+ ],
+ "slogan": "Pédicure, semi-permanent et gel, pour des mains et des pieds nets et soignés.",
+ "offre_titre": "Les soins",
+ "offre_intro": "Sur rendez-vous, le lundi, le mercredi et le jeudi.",
+ "offre": [
+  {
+   "titre": "Pédicure nettoyage",
+   "texte": "1 h",
+   "prix": "45 €"
+  },
+  {
+   "titre": "Pédicure avec vernis",
+   "texte": "1 h 15",
+   "prix": "50 €"
+  },
+  {
+   "titre": "Pédicure avec UV",
+   "texte": "Nettoyage et vernis semi-permanent, 1 h 20",
+   "prix": "55 €"
+  },
+  {
+   "titre": "Pédicure avec UV et French",
+   "texte": "1 h 30",
+   "prix": "70 €"
+  },
+  {
+   "titre": "Manucure",
+   "texte": "45 min",
+   "prix": "30 €"
+  },
+  {
+   "titre": "Manucure avec vernis",
+   "texte": "1 h",
+   "prix": "35 €"
+  },
+  {
+   "titre": "Manucure avec UV",
+   "texte": "1 h 20",
+   "prix": "45 €"
+  },
+  {
+   "titre": "Semi-permanent et French",
+   "texte": "Mains, 1 h 30",
+   "prix": "55 €"
+  },
+  {
+   "titre": "Renforcement gel",
+   "texte": "Sur l'ongle naturel, 1 h 30",
+   "prix": "50 €"
+  },
+  {
+   "titre": "Renforcement gel et French",
+   "texte": "2 h 25",
+   "prix": "60 €"
+  },
+  {
+   "titre": "Massage des pieds",
+   "texte": "15 min",
+   "prix": "25 €"
+  },
+  {
+   "titre": "Soin à la paraffine",
+   "texte": "Pieds ou mains, 20 min",
+   "prix": "17 €"
+  }
+ ],
+ "offre_note": "Nous proposons aussi les déposes, le remplissage, le nettoyage des talons et les réparations d'ongle. Pour la liste complète, appelez-nous au",
+ "galerie_titre": "Nos poses",
+ "photos": [
+  {
+   "img": "rouge",
+   "alt": "Des ongles carrés vernis rouge vif",
+   "pos": "50% 40%"
+  },
+  {
+   "img": "degrade",
+   "alt": "Des ongles ovales en dégradé blanc pailleté"
+  },
+  {
+   "img": "pedicure-rouge",
+   "alt": "Une pédicure au vernis rouge sombre"
+  },
+  {
+   "img": "rose-paillettes",
+   "alt": "Des ongles vieux rose à rayures pailletées, deux ongles entièrement pailletés"
+  },
+  {
+   "img": "bordeaux",
+   "alt": "Des ongles courts vernis bordeaux"
+  },
+  {
+   "img": "cabine",
+   "alt": "La cabine de pédicure : fauteuil blanc et chariot de soins"
+  }
+ ],
+ "bloc2": {
+  "titre": "Au 7 rue Kielmann",
+  "texte": "Un salon lumineux à Illzach : un mur en lattes de bois, un fauteuil jaune pour patienter, et une cabine avec son fauteuil de pédicure.",
+  "img": "salon"
+ },
+ "horaires": {
+  "lundi": [
+   "09:00-18:00"
+  ],
+  "mardi": [],
+  "mercredi": [
+   "09:00-18:00"
+  ],
+  "jeudi": [
+   "09:00-18:00"
+  ],
+  "vendredi": [],
+  "samedi": [],
+  "dimanche": []
+ }
+}
