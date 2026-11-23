@@ -1,0 +1,123 @@
+{
+ "slug": "real-kebab",
+ "famille": "emporter",
+ "nom": "Real Kebab",
+ "activite": "Kebab, pizzas, sur place ou à emporter",
+ "description": "Real Kebab, 180 rue d'Ensisheim à Wittenheim : döner, yufka, lahmacun, assiettes, pizzas, pides, tacos, gratins et salades, sur place ou à emporter. Viande halal. Carte et prix.",
+ "ville": "Wittenheim",
+ "adresse": "180 rue d'Ensisheim",
+ "cp_ville": "68270 Wittenheim",
+ "maps_dest": "47.8229956,7.3402723",
+ "tel": "+33954489326",
+ "tel_affiche": "09 54 48 93 26",
+ "email": "bahoz.6363@hotmail.fr",
+ "note": "4,5",
+ "avis": 372,
+ "couleurs": {
+  "principale": "#1e7f96",
+  "accent": "#d9262c"
+ },
+ "logo": "logo",
+ "hero": "doner-frites",
+ "hero_alt": "Un döner dans son pain, frites dorées et sauce blanche, sur le plateau",
+ "accroche": "Kebab et pizzas à Wittenheim",
+ "titre_lignes": ["Real", "Kebab"],
+ "slogan": "Sur place ou à emporter, rue d'Ensisheim.",
+ "offre_titre": "La carte",
+ "offre_intro": "Sandwichs seuls ou en menu (avec frites et boisson). Supplément viande 1,50 €, autre supplément 1,00 €.",
+ "offre_groupes": [
+  {
+   "titre": "Sandwichs",
+   "items": [
+    {"titre": "Döner kebab", "texte": "Menu 9,50 €", "prix": "6,50 €"},
+    {"titre": "Döner frites", "prix": "7,00 €"},
+    {"titre": "Döner fondue, fromage ou feta", "texte": "Menu 10,50 €", "prix": "7,50 €"},
+    {"titre": "Maxi kebab", "texte": "Menu 13,00 €", "prix": "10,00 €"},
+    {"titre": "Yufka", "texte": "Fromage ou feta : 8,00 €. Menu à partir de 10,50 €", "prix": "7,50 €"},
+    {"titre": "Escalope, merguez ou köfte", "texte": "Menu 10,00 €", "prix": "7,00 €"},
+    {"titre": "Lahmacun", "texte": "Crudités 5,50 €, fromage 7,00 €, kebab 7,50 €", "prix": "dès 5,50 €"},
+    {"titre": "Hamburger, cheeseburger", "texte": "Menu 8,00 €", "prix": "4,50 €"},
+    {"titre": "Panini kebab, poulet ou sucuk", "texte": "Menu 10,00 €", "prix": "7,00 €"}
+   ]
+  },
+  {
+   "titre": "Tacos",
+   "items": [
+    {"titre": "Kebab, escalope, steak ou köfte", "texte": "Menu 9,50 €", "prix": "6,50 €"},
+    {"titre": "Real", "texte": "Deux viandes au choix. Menu 10,50 €", "prix": "7,50 €"}
+   ]
+  },
+  {
+   "titre": "Assiettes",
+   "items": [
+    {"titre": "Köfte, lahmacun, kebab, merguez ou escalope de poulet", "prix": "12,00 €"},
+    {"titre": "Escalope à la crème", "prix": "14,00 €"},
+    {"titre": "Real", "prix": "15,00 €"}
+   ]
+  },
+  {
+   "titre": "Pizzas",
+   "items": [
+    {"titre": "Margherita", "texte": "Fromage.", "prix": "8,50 €"},
+    {"titre": "Champignons", "texte": "Champignons, fromage.", "prix": "9,00 €"},
+    {"titre": "Végétarienne", "texte": "Champignons, olives, oignons, poivrons.", "prix": "9,50 €"},
+    {"titre": "Thon, chicken, kebab, merguez ou sucuk", "prix": "9,50 €"},
+    {"titre": "Fruits de mer", "texte": "Fruits de mer, fromage.", "prix": "10,00 €"},
+    {"titre": "4 fromages", "prix": "10,50 €"},
+    {"titre": "Calzone kebab ou sucuk", "prix": "11,00 €"},
+    {"titre": "Memo", "texte": "Escalope, olives, oignon, poivrons.", "prix": "12,00 €"},
+    {"titre": "Real", "texte": "Poulet, kebab, merguez, fromage.", "prix": "13,00 €"}
+   ]
+  },
+  {
+   "titre": "Pides, pâtes, gratins",
+   "items": [
+    {"titre": "Pide fromage", "prix": "7,00 €"},
+    {"titre": "Pide escalope, viande hachée, sucuk ou kebab", "prix": "8,00 €"},
+    {"titre": "Pide Real", "prix": "10,00 €"},
+    {"titre": "Pâtes champignons", "prix": "10,00 €"},
+    {"titre": "Pâtes Real", "prix": "11,00 €"},
+    {"titre": "Gratins mémo, végétarien, kebab ou Real", "prix": "11,00 €"}
+   ]
+  },
+  {
+   "titre": "Box et salades",
+   "items": [
+    {"titre": "Box kebab ou nuggets", "prix": "6,00 €"},
+    {"titre": "Salade poulet, thon ou variée feta", "prix": "6,00 €"},
+    {"titre": "Salade mixte", "prix": "5,00 €"}
+   ]
+  }
+ ],
+ "notes": [
+  {"k": "Viande", "v": "halal"},
+  {"k": "Sur place", "v": "ou à emporter"}
+ ],
+ "moment": {
+  "titre": "Sortis de la cuisine",
+  "intro": "Nos classiques :",
+  "items": [
+   {"img": "doner-frites", "titre": "Le döner frites", "texte": "Le pain garni, frites dorées et sauce blanche.", "alt": "Un döner et ses frites"},
+   {"img": "assiette", "titre": "L'assiette kebab", "texte": "Viande de döner, frites, salade, tomates et sauce blanche.", "alt": "Une assiette kebab avec frites, salade et sauce blanche"}
+  ]
+ },
+ "photos": [
+  {"img": "facade", "alt": "La façade rose du Real Kebab, rue d'Ensisheim, son enseigne et sa terrasse"},
+  {"img": "assiette", "alt": "Une assiette kebab"}
+ ],
+ "commande_intro": "Par téléphone, puis vous passez la chercher, ou vous mangez sur place.",
+ "etapes": [
+  {"titre": "Choisissez", "texte": "Sandwich, assiette, pizza, pide ou tacos : toute la carte est ci-dessus."},
+  {"titre": "Appelez", "texte": "Au 09 54 48 93 26, aux heures d'ouverture."},
+  {"titre": "Passez la chercher", "texte": "Au 180 rue d'Ensisheim, à Wittenheim."}
+ ],
+ "horaires": {
+  "lundi": [],
+  "mardi": ["11:30-14:00", "17:00-22:00"],
+  "mercredi": ["11:30-14:00", "17:00-22:00"],
+  "jeudi": ["11:30-14:00", "17:00-22:00"],
+  "vendredi": ["11:30-14:00", "17:00-22:00"],
+  "samedi": ["11:30-14:00", "17:00-22:00"],
+  "dimanche": ["11:30-14:00", "17:00-22:00"]
+ }
+}
