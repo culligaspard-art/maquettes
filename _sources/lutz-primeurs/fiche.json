@@ -1,0 +1,111 @@
+{
+ "slug": "lutz-primeurs",
+ "famille": "commerce",
+ "polices": 3,
+ "nom": "Lutz Primeurs",
+ "activite": "Primeur, fruits et légumes",
+ "description": "Lutz Primeurs, fruits et légumes au 146 rue de Richwiller à Kingersheim : légumes d'Alsace de saison, fruits, herbes aromatiques, promotion de la semaine. Horaires et accès.",
+ "ville": "Kingersheim",
+ "adresse": "146 rue de Richwiller",
+ "cp_ville": "68260 Kingersheim",
+ "maps_dest": "47.7892254,7.313464",
+ "tel": "+33389503689",
+ "tel_affiche": "03 89 50 36 89",
+ "email": "lutzprimeurs.foodplace@gmail.com",
+ "facebook": "https://www.facebook.com/p/Lutz-Primeurs-SARL-100034819616299/",
+ "note": "4,8",
+ "avis": 26,
+ "couleurs": {
+  "principale": "#c23b22",
+  "accent": "#6f9a2e"
+ },
+ "hero": "etal",
+ "hero_alt": "L'étal de la promotion de la semaine : clémentines, poires Williams, herbes aromatiques, mâche et pommes, ardoises à la craie",
+ "hero_pos": "50% 45%",
+ "hero_legende": "La promotion de la semaine, du mardi au lundi.",
+ "accroche": "Primeur à Kingersheim",
+ "titre_lignes": [
+  "Lutz",
+  "Primeurs"
+ ],
+ "slogan": "Fruits et légumes d'Alsace et de saison, pour retrouver le goût des saisons.",
+ "offre_titre": "À l'étal",
+ "offre_intro": "Selon la saison, sur nos étals en bois :",
+ "offre": [
+  {
+   "titre": "Légumes d'Alsace",
+   "texte": "Choux, potimarrons, courges, mâche, pommes de terre"
+  },
+  {
+   "titre": "Fruits",
+   "texte": "Pommes, poires, agrumes"
+  },
+  {
+   "titre": "Herbes aromatiques",
+   "texte": "En pot ou en bouquet"
+  },
+  {
+   "titre": "Promotion de la semaine",
+   "texte": "Du mardi au lundi, à l'ardoise"
+  },
+  {
+   "titre": "L'origine sur chaque ardoise",
+   "texte": "Alsace, France ou ailleurs"
+  }
+ ],
+ "photos": [
+  {
+   "img": "potimarrons",
+   "titre": "Potimarrons",
+   "texte": "La peau se mange : en soupe, rôti, gratin, cru ou en dessert.",
+   "alt": "Un panier de potimarrons orange et d'une courge verte, ardoise « Fr Alsace, potimarron »"
+  },
+  {
+   "img": "fruits",
+   "titre": "Les fruits",
+   "texte": "Clémentines de Corse et poires Williams, le prix au kilo à la craie.",
+   "alt": "Des clémentines et des poires Williams en cagettes, ardoises à la craie"
+  },
+  {
+   "img": "recolte",
+   "titre": "La récolte",
+   "texte": "Les choux ramassés à la main et chargés en caisse.",
+   "alt": "L'équipe récolte des choux à la main et les charge dans une caisse en bois, tracteurs derrière"
+  }
+ ],
+ "bloc2": {
+  "titre": "Rue de Richwiller",
+  "texte": "Une boutique de fruits et légumes à Kingersheim : des étals en bois, des ardoises écrites à la main avec l'origine et le prix, et chaque semaine une promotion du mardi au lundi.",
+  "img": "champ-choux",
+  "alt": "Des rangs de choux dans un champ, les Vosges à l'horizon"
+ },
+ "horaires": {
+  "lundi": [
+   "09:00-12:30",
+   "13:30-18:30"
+  ],
+  "mardi": [
+   "09:00-12:30",
+   "13:30-18:30"
+  ],
+  "mercredi": [
+   "09:00-18:30"
+  ],
+  "jeudi": [
+   "09:00-18:30"
+  ],
+  "vendredi": [
+   "09:00-18:30"
+  ],
+  "samedi": [
+   "09:00-18:30"
+  ],
+  "dimanche": [
+   "09:00-12:00"
+  ]
+ },
+ "nav_labels": {
+  "produits": "À l'étal",
+  "maison": "La boutique"
+ }
+}
