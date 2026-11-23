@@ -1,0 +1,269 @@
+{
+ "slug": "t-gourmand-traiteur",
+ "famille": "emporter",
+ "nom": "T.Gourmand Traiteur",
+ "activite": "Traiteur",
+ "description": "T.Gourmand Traiteur, 2B rue de Pfastatt à Kingersheim : menu de la semaine, plats de fête, produits en croûte, spécialités fumées maison. Livraison à Kingersheim et environs. Tarifs 2026.",
+ "ville": "Kingersheim",
+ "adresse": "2B rue de Pfastatt",
+ "cp_ville": "68260 Kingersheim",
+ "maps_dest": "47.7873298,7.3337374",
+ "tel": "+33610971049",
+ "tel_affiche": "06 10 97 10 49",
+ "email": "tanguy.gourmand@gmail.com",
+ "facebook": "https://www.facebook.com/Tanguy.Granklaten",
+ "note": "4,9",
+ "avis": 44,
+ "couleurs": {
+  "principale": "#8f2226",
+  "accent": "#e3b04b"
+ },
+ "logo": "logo",
+ "hero": "pate-en-croute",
+ "hero_alt": "Un pâté en croûte tranché, sa gelée dorée, sur une ardoise avec la carte T.Gourmand Traiteur",
+ "accroche": "Traiteur à Kingersheim",
+ "titre_lignes": [
+  "T.Gourmand",
+  "Traiteur"
+ ],
+ "slogan": "Une histoire de goût : des plats faits avec des produits frais, pour la semaine et pour vos fêtes.",
+ "offre_titre": "La carte",
+ "offre_intro": "Tarifs 2026. Plats de fête au prix par personne, avec l'accompagnement au choix (gratin, spätzle ou légumes) et la sauce au choix (forestière, miel et romarin, ou brune).",
+ "offre_groupes": [
+  {
+   "titre": "Le menu de la semaine",
+   "items": [
+    {
+     "titre": "Plat du jour",
+     "texte": "Un plat différent chaque jour.",
+     "prix": "12,00 €"
+    },
+    {
+     "titre": "Entrée ou potage + plat",
+     "prix": "14,50 €"
+    },
+    {
+     "titre": "Entrée + plat + potage",
+     "prix": "15,50 €"
+    }
+   ]
+  },
+  {
+   "titre": "Apéritifs",
+   "items": [
+    {
+     "titre": "Pain surprise",
+     "texte": "50 pièces",
+     "prix": "45,00 €"
+    },
+    {
+     "titre": "Mini pâtés en croûte",
+     "texte": "20 pièces",
+     "prix": "25,00 €"
+    },
+    {
+     "titre": "Mini moricettes",
+     "texte": "20 pièces",
+     "prix": "25,00 €"
+    },
+    {
+     "titre": "Wraps",
+     "texte": "25 pièces",
+     "prix": "22,50 €"
+    },
+    {
+     "titre": "Mini friands",
+     "texte": "40 pièces",
+     "prix": "22,50 €"
+    },
+    {
+     "titre": "Feuilletés",
+     "texte": "40 pièces",
+     "prix": "21,50 €"
+    }
+   ]
+  },
+  {
+   "titre": "Produits en croûte",
+   "items": [
+    {
+     "titre": "Filet de bœuf Wellington en sauce",
+     "texte": "Par personne",
+     "prix": "19,50 €"
+    },
+    {
+     "titre": "Saumon en croûte",
+     "texte": "Par personne",
+     "prix": "17,50 €"
+    },
+    {
+     "titre": "Mignon en croûte aux champignons",
+     "texte": "Par personne",
+     "prix": "16,50 €"
+    },
+    {
+     "titre": "Pâté lorrain ou tourte",
+     "texte": "Par personne",
+     "prix": "13,50 €"
+    },
+    {
+     "titre": "Jambon en croûte",
+     "texte": "Par personne",
+     "prix": "13,50 €"
+    }
+   ]
+  },
+  {
+   "titre": "Plats festifs",
+   "items": [
+    {
+     "titre": "Baeckeoffe viande ou poisson",
+     "texte": "Par personne",
+     "prix": "18,00 €"
+    },
+    {
+     "titre": "Quasi de veau",
+     "texte": "Par personne",
+     "prix": "17,50 €"
+    },
+    {
+     "titre": "Ballotine de volaille farcie",
+     "texte": "Par personne",
+     "prix": "16,50 €"
+    },
+    {
+     "titre": "Bouchée à la reine et croûte",
+     "texte": "Par personne",
+     "prix": "16,50 €"
+    },
+    {
+     "titre": "Mignon de porc",
+     "texte": "Par personne",
+     "prix": "15,50 €"
+    }
+   ]
+  },
+  {
+   "titre": "Spécialités maison",
+   "items": [
+    {
+     "titre": "Foie gras de canard",
+     "texte": "Les 250 g",
+     "prix": "27,50 €"
+    },
+    {
+     "titre": "Saumon fumé",
+     "texte": "Les 250 g",
+     "prix": "16,00 €"
+    },
+    {
+     "titre": "Magret de canard fumé",
+     "texte": "Les 250 g",
+     "prix": "16,00 €"
+    },
+    {
+     "titre": "Mignon de porc fumé",
+     "texte": "Les 250 g",
+     "prix": "8,00 €"
+    },
+    {
+     "titre": "Lard paysan",
+     "texte": "Les 250 g",
+     "prix": "8,00 €"
+    },
+    {
+     "titre": "Filet de poulet fumé",
+     "texte": "Les 250 g",
+     "prix": "7,00 €"
+    }
+   ]
+  }
+ ],
+ "notes": [
+  {
+   "k": "Livraison",
+   "v": "offerte à Kingersheim et environs"
+  },
+  {
+   "k": "Services",
+   "v": "traiteur, livraison, événements privés"
+  },
+  {
+   "k": "Paiement",
+   "v": "espèces, chèque, carte"
+  }
+ ],
+ "moment": {
+  "titre": "Pour vos tablées",
+  "intro": "Repas de famille, fêtes et événements privés :",
+  "items": [
+   {
+    "img": "pate-en-croute",
+    "titre": "Le pâté en croûte",
+    "texte": "La farce, la gelée et la pâte dorée.",
+    "alt": "Un pâté en croûte tranché sur une ardoise"
+   },
+   {
+    "img": "table",
+    "titre": "Les grandes tablées",
+    "texte": "Pour vos repas de fête et vos événements privés.",
+    "alt": "Une longue table dressée pour un repas de fête"
+   },
+   {
+    "img": "salle",
+    "titre": "La salle dressée",
+    "texte": "Une salle dressée pour un repas de fête.",
+    "alt": "Une salle de fête dressée, nappes et couverts en place"
+   }
+  ]
+ },
+ "photos": [
+  {
+   "img": "salle",
+   "alt": "Une salle de fête dressée, nappes et couverts en place"
+  },
+  {
+   "img": "table",
+   "alt": "Une longue table dressée"
+  },
+  {
+   "img": "pate-en-croute",
+   "alt": "Un pâté en croûte tranché"
+  }
+ ],
+ "commande_intro": "Par téléphone : vous passez chercher votre commande, ou nous vous la livrons.",
+ "etapes": [
+  {
+   "titre": "Choisissez",
+   "texte": "Menu de la semaine, plats de fête ou spécialités : tout est ci-dessus."
+  },
+  {
+   "titre": "Appelez",
+   "texte": "Au 06 10 97 10 49. Pour le menu de la semaine, pensez à commander dès le lundi matin."
+  },
+  {
+   "titre": "Retrait ou livraison",
+   "texte": "Au 2B rue de Pfastatt à Kingersheim, ou livré chez vous à Kingersheim et environs."
+  }
+ ],
+ "horaires": {
+  "lundi": [
+   "08:30-18:00"
+  ],
+  "mardi": [
+   "08:30-18:00"
+  ],
+  "mercredi": [],
+  "jeudi": [
+   "08:30-18:00"
+  ],
+  "vendredi": [
+   "08:30-18:00"
+  ],
+  "samedi": [
+   "08:30-18:00"
+  ],
+  "dimanche": []
+ },
+ "polices": 4
+}

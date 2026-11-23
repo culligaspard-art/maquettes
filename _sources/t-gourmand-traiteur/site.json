@@ -1,0 +1,33 @@
+{
+ "fonts": [
+  {
+   "key": "titre",
+   "family": "lilita-one",
+   "weight": 400
+  },
+  {
+   "key": "texte",
+   "family": "rubik",
+   "variable": true
+  }
+ ],
+ "horaires": {
+  "lundi": [
+   "08:30-18:00"
+  ],
+  "mardi": [
+   "08:30-18:00"
+  ],
+  "mercredi": [],
+  "jeudi": [
+   "08:30-18:00"
+  ],
+  "vendredi": [
+   "08:30-18:00"
+  ],
+  "samedi": [
+   "08:30-18:00"
+  ],
+  "dimanche": []
+ }
+}
