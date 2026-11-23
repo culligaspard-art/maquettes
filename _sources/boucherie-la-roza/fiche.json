@@ -1,0 +1,111 @@
+{
+ "slug": "boucherie-la-roza",
+ "famille": "commerce",
+ "polices": 2,
+ "nom": "Boucherie La Roza",
+ "activite": "Boucherie halal, traiteur",
+ "description": "Boucherie La Roza, boucherie familiale halal au 2 rue de Bourtzwiller à Illzach : viandes d'origine France, merguez maison, brochettes, préparations marinées, service traiteur. Horaires et accès.",
+ "ville": "Illzach",
+ "adresse": "2 rue de Bourtzwiller",
+ "cp_ville": "68110 Illzach",
+ "maps_dest": "47.780323,7.3425012",
+ "tel": "+33659318432",
+ "tel_affiche": "06 59 31 84 32",
+ "email": "boucherielaroza@gmail.com",
+ "note": "4,9",
+ "avis": 278,
+ "couleurs": {
+  "principale": "#b3262e",
+  "accent": "#2f3b5c"
+ },
+ "hero": "facade",
+ "hero_alt": "La façade de la Boucherie La Roza, son enseigne noire et sa longue jardinière de géraniums roses et rouges",
+ "hero_pos": "50% 50%",
+ "hero_legende": "Au 2 rue de Bourtzwiller, derrière les géraniums.",
+ "accroche": "Boucherie familiale halal à Illzach",
+ "titre_lignes": [
+  "Boucherie",
+  "La Roza"
+ ],
+ "slogan": "Viande d'origine France, merguez maison et préparations du jour, par quatre frères.",
+ "offre_titre": "Au comptoir",
+ "offre_intro": "Viandes halal, découpées et préparées sur place :",
+ "offre": [
+  {
+   "titre": "Viandes rouges",
+   "texte": "Gigot et côtelettes d'agneau, bœuf à la coupe"
+  },
+  {
+   "titre": "Viandes blanches",
+   "texte": "Poulet entier, cuisses, filets et escalopes"
+  },
+  {
+   "titre": "Merguez maison",
+   "texte": "Aux épices naturelles"
+  },
+  {
+   "titre": "Brochettes et marinades",
+   "texte": "Poulet, bœuf, prêtes à griller"
+  },
+  {
+   "titre": "Steaks hachés et panés",
+   "texte": "Fabrication maison"
+  },
+  {
+   "titre": "Charcuterie",
+   "texte": "Halal"
+  },
+  {
+   "titre": "Traiteur et buffets",
+   "texte": "Sur commande, pour vos réceptions"
+  }
+ ],
+ "photos": [
+  {
+   "img": "roti-epices",
+   "titre": "Le rôti épicé",
+   "texte": "Un rôti enrobé de quatre épices, monté sur ses brochettes.",
+   "alt": "Un rôti de bœuf enrobé de bandes d'épices jaune, orange, verte et rouge, piqué de brochettes"
+  },
+  {
+   "img": "vitrine-maison",
+   "titre": "Marinades",
+   "texte": "Brochettes, émincés marinés et steaks hachés faits maison.",
+   "alt": "La vitrine des préparations : brochettes, émincés marinés, panés et steaks hachés"
+  },
+  {
+   "img": "vitrine-volaille",
+   "titre": "Volaille",
+   "texte": "Poulet entier, cuisses, pilons, filets et escalopes.",
+   "alt": "La vitrine de volaille : cuisses, pilons, filets et escalopes de poulet"
+  }
+ ],
+ "bloc2": {
+  "titre": "Quatre frères",
+  "texte": "La Roza est née au marché de Mulhouse. Aujourd'hui, les quatre frères vous accueillent rue de Bourtzwiller, derrière la vitrine et les géraniums, avec des viandes d'origine France et un élevage local.",
+  "img": "comptoir",
+  "alt": "Le comptoir réfrigéré de la boucherie, préparations colorées et rôtis"
+ },
+ "horaires": {
+  "lundi": [
+   "09:30-18:30"
+  ],
+  "mardi": [],
+  "mercredi": [
+   "09:00-18:30"
+  ],
+  "jeudi": [
+   "09:00-18:30"
+  ],
+  "vendredi": [
+   "09:00-12:00",
+   "14:30-18:30"
+  ],
+  "samedi": [
+   "09:00-18:00"
+  ],
+  "dimanche": [
+   "09:30-16:00"
+  ]
+ }
+}
