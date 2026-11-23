@@ -1,0 +1,117 @@
+{
+ "slug": "les-jardins-de-quentin",
+ "famille": "commerce",
+ "polices": 0,
+ "nom": "Les Jardins de Quentin",
+ "activite": "Horticulture et maraîchage",
+ "description": "Les Jardins de Quentin, horticulture et maraîchage au 105 rue de Ruelisheim à Illzach : légumes de saison cultivés sans produits chimiques, géraniums, chrysanthèmes, annuelles et vivaces, vente directe sous serre. Horaires et accès.",
+ "ville": "Illzach",
+ "adresse": "105 rue de Ruelisheim",
+ "cp_ville": "68110 Illzach",
+ "maps_dest": "47.7915451,7.3470806",
+ "tel": "+33786398229",
+ "tel_affiche": "07 86 39 82 29",
+ "email": "lesjardinsquentin@gmail.com",
+ "facebook": "https://www.facebook.com/p/Les-Jardins-de-Quentin-%C3%A0-Illzach-61556235332615/",
+ "note": "4,8",
+ "avis": 86,
+ "preuve_extra": "recommandé à 100 % sur Facebook",
+ "couleurs": {
+  "principale": "#2f6b3a",
+  "accent": "#e2572b"
+ },
+ "hero": "etal",
+ "hero_alt": "L'étal de vente sous la serre : paniers de courgettes, tomates, potimarrons, poivrons et betteraves sur une nappe rouge",
+ "hero_pos": "50% 60%",
+ "hero_legende": "La vente directe, sous la serre.",
+ "accroche": "Horticulture et maraîchage à Illzach",
+ "titre_lignes": [
+  "Les Jardins",
+  "de Quentin"
+ ],
+ "slogan": "Nos légumes cultivés sans produits chimiques, nos fleurs et nos plants, vendus là où ils poussent.",
+ "offre_titre": "À la serre",
+ "offre_intro": "Ce que nous cultivons et vendons sur place, selon la saison :",
+ "offre": [
+  {
+   "titre": "Légumes de saison",
+   "texte": "Tomates, courgettes, courges, poivrons, pommes de terre"
+  },
+  {
+   "titre": "Sans produits chimiques",
+   "texte": "Par choix et par conviction"
+  },
+  {
+   "titre": "Géraniums",
+   "texte": "Au printemps"
+  },
+  {
+   "titre": "Chrysanthèmes",
+   "texte": "À l'automne"
+  },
+  {
+   "titre": "Annuelles et vivaces",
+   "texte": "Bruyères, heuchères, sauges, graminées"
+  },
+  {
+   "titre": "Décorations de Noël",
+   "texte": "Couronnes de l'Avent"
+  }
+ ],
+ "photos": [
+  {
+   "img": "tomates",
+   "titre": "Tomates",
+   "texte": "Rouges, jaunes, zébrées : en cagettes, à la fin de l'été.",
+   "alt": "Des cagettes de tomates anciennes rouges, orange et jaunes zébrées de vert"
+  },
+  {
+   "img": "chrysanthemes",
+   "titre": "Fleurs",
+   "texte": "Des allées de chrysanthèmes sous la serre, à l'automne.",
+   "alt": "Une allée de chrysanthèmes orange et rouges sous une serre"
+  },
+  {
+   "img": "vivaces",
+   "titre": "Plants",
+   "texte": "Bruyères, heuchères et sauges pour vos jardinières.",
+   "alt": "Des bruyères jaunes et violettes, des heuchères et des pensées en pots"
+  }
+ ],
+ "bloc2": {
+  "titre": "Rue de Ruelisheim",
+  "texte": "Nos serres sont au bord des champs d'Illzach, avec les Vosges au loin. On y cultive les légumes et les fleurs, et on vous les vend sur place, sous la serre de vente.",
+  "img": "serres",
+  "alt": "Vue aérienne des serres des Jardins de Quentin au bord des champs, les Vosges à l'horizon"
+ },
+ "horaires": {
+  "lundi": [
+   "09:00-12:00",
+   "14:00-18:00"
+  ],
+  "mardi": [
+   "09:00-12:00",
+   "14:00-18:00"
+  ],
+  "mercredi": [
+   "09:00-12:00",
+   "14:00-18:00"
+  ],
+  "jeudi": [
+   "09:00-12:00",
+   "14:00-18:00"
+  ],
+  "vendredi": [
+   "09:00-12:00",
+   "14:00-18:00"
+  ],
+  "samedi": [
+   "09:00-12:00"
+  ],
+  "dimanche": []
+ },
+ "nav_labels": {
+  "produits": "À la serre",
+  "maison": "Les serres"
+ }
+}
