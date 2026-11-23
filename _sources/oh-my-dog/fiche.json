@@ -1,0 +1,102 @@
+{
+ "slug": "oh-my-dog",
+ "famille": "commerce",
+ "polices": 4,
+ "nom": "Oh My Dog",
+ "activite": "Salon de toilettage",
+ "description": "Oh My Dog, salon de toilettage au 5 rue du Noyer à Illzach : bain, séchage, coupe et tonte, pour les petits comme pour les grands chiens. Horaires, accès et rendez-vous par téléphone.",
+ "ville": "Illzach",
+ "adresse": "5 rue du Noyer",
+ "cp_ville": "68110 Illzach",
+ "maps_dest": "47.7808332,7.3513023",
+ "tel": "+33749148303",
+ "tel_affiche": "07 49 14 83 03",
+ "email": "ohmydog.nf@gmail.com",
+ "facebook": "https://www.facebook.com/p/OH-MY-DOG-100083382489186/",
+ "note": "5,0",
+ "avis": 30,
+ "couleurs": {
+  "principale": "#1f4fa3",
+  "accent": "#5ec8c0"
+ },
+ "hero": "berger-belge",
+ "hero_alt": "Un berger belge tervueren, poil brossé et langue rose, debout sur la table de toilettage",
+ "hero_pos": "50% 30%",
+ "hero_legende": "Tout beau, tout propre, sur la table du salon.",
+ "accroche": "Salon de toilettage, rue du Noyer à Illzach",
+ "titre_lignes": [
+  "Oh My Dog"
+ ],
+ "slogan": "Bain, séchage, coupe et tonte, du papillon au berger allemand.",
+ "offre_titre": "Au salon",
+ "offre_intro": "Sur rendez-vous, du lundi au samedi matin :",
+ "offre": [
+  {
+   "titre": "Bain et séchage",
+   "texte": "Pour tous les types de poil"
+  },
+  {
+   "titre": "Brossage et démêlage",
+   "texte": "Pour les poils longs"
+  },
+  {
+   "titre": "Coupe et tonte",
+   "texte": "Selon la race ou votre envie"
+  },
+  {
+   "titre": "Petits et grands chiens",
+   "texte": "Table élévatrice, baignoire adaptée"
+  }
+ ],
+ "photos": [
+  {
+   "img": "fox-avant-apres",
+   "titre": "Avant, après",
+   "texte": "Un fox-terrier à poil dur, de la boule de boucles à la coupe nette.",
+   "alt": "Un fox-terrier à poil dur avant et après la toilette"
+  },
+  {
+   "img": "papillon",
+   "titre": "Les petits",
+   "texte": "Un épagneul papillon, oreilles en éventail.",
+   "alt": "Un épagneul papillon tricolore sur la table de toilettage"
+  },
+  {
+   "img": "berger-allemand",
+   "titre": "Les grands",
+   "texte": "Un berger allemand, le poil propre et brillant.",
+   "alt": "Un berger allemand assis sur la table de toilettage"
+  }
+ ],
+ "bloc2": {
+  "titre": "Rue du Noyer",
+  "texte": "Un salon lumineux à Illzach : un coin accueil avec ses colliers et laisses accrochés à une branche, une table de toilettage éclairée, une grande baignoire, et des serviettes bleues en pile pour chaque chien.",
+  "img": "salon",
+  "alt": "Le salon de toilettage : table éclairée, séchoirs, baignoire et produits de soin"
+ },
+ "horaires": {
+  "lundi": [
+   "08:00-18:00"
+  ],
+  "mardi": [
+   "08:00-18:00"
+  ],
+  "mercredi": [
+   "08:00-18:00"
+  ],
+  "jeudi": [
+   "08:00-18:00"
+  ],
+  "vendredi": [
+   "08:00-18:00"
+  ],
+  "samedi": [
+   "08:00-12:00"
+  ],
+  "dimanche": []
+ },
+ "nav_labels": {
+  "produits": "Au salon",
+  "maison": "Le salon"
+ }
+}
