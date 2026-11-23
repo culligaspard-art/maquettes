@@ -1,0 +1,34 @@
+{
+ "fonts": [
+  {
+   "key": "titre",
+   "family": "playfair-display",
+   "variable": true,
+   "style": "italic"
+  },
+  {
+   "key": "texte",
+   "family": "outfit",
+   "variable": true
+  }
+ ],
+ "horaires": {
+  "lundi": [],
+  "mardi": [
+   "08:30-18:30"
+  ],
+  "mercredi": [
+   "08:30-18:30"
+  ],
+  "jeudi": [
+   "08:30-18:00"
+  ],
+  "vendredi": [
+   "09:00-19:00"
+  ],
+  "samedi": [
+   "09:00-16:00"
+  ],
+  "dimanche": []
+ }
+}

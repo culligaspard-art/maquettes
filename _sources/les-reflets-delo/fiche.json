@@ -1,0 +1,59 @@
+{
+ "slug": "les-reflets-delo",
+ "famille": "beaute",
+ "forme": "miroir",
+ "nom": "Les Reflets d'Elo",
+ "activite": "Coiffure mixte à Wittenheim",
+ "description": "Les Reflets d'Elo, coiffure mixte au 88 rue des Mines à Wittenheim : coupes femmes et hommes, barbe, couleurs, mèches et balayages. Horaires, accès et rendez-vous par téléphone.",
+ "ville": "Wittenheim",
+ "adresse": "88 rue des Mines",
+ "cp_ville": "68270 Wittenheim",
+ "maps_dest": "47.8036774,7.3267012",
+ "tel": "+33389572254",
+ "tel_affiche": "03 89 57 22 54",
+ "email": "lesrefletsdelo@outlook.fr",
+ "facebook": "https://www.facebook.com/people/Les-Reflets-dElo/100054267350197/",
+ "note": "4,9",
+ "avis": 139,
+ "preuve_extra": "recommandé à 100 % sur Facebook",
+ "couleurs": {
+  "principale": "#2c2a30",
+  "accent": "#2e8fe0"
+ },
+ "hero": "salon",
+ "hero_alt": "Le salon des Reflets d'Elo : bacs, fauteuils gris, plans en bois et murs anthracite",
+ "hero_pos": "50% 55%",
+ "accroche": "Coiffure mixte, 88 rue des Mines à Wittenheim",
+ "titre_lignes": ["Les Reflets", "d'Elo"],
+ "slogan": "Coupes, couleurs et mèches pour elles, dégradés et barbe pour eux.",
+ "offre_titre": "Au salon",
+ "offre_intro": "Coiffure mixte, sur rendez-vous par téléphone au 03 89 57 22 54.",
+ "offre": [
+  {"titre": "Coupes femmes", "texte": "Courtes, dégradées ou longues"},
+  {"titre": "Coupes hommes et barbe", "texte": "Dégradés et taille de barbe"},
+  {"titre": "Couleurs", "texte": "Des nuances naturelles aux couleurs vives"},
+  {"titre": "Mèches et balayages", "texte": "Reflets blonds et caramel"}
+ ],
+ "photos": [
+  {"img": "rose", "alt": "Une couleur rose pastel, carré long lissé, réalisée au salon"},
+  {"img": "meches", "alt": "Un dégradé méché blond et caramel"},
+  {"img": "barbe", "alt": "Un dégradé homme blond polaire et une barbe taillée"},
+  {"img": "postes", "alt": "Les postes de coiffage, miroirs et plans en bois"},
+  {"img": "accueil", "alt": "Le coin attente devant la grande baie vitrée, et les bacs"},
+  {"img": "banderole", "alt": "La banderole « Les Reflets d'Elo, coiffure mixte » et son papillon bleu, devant le salon"}
+ ],
+ "bloc2": {
+  "titre": "Coiffure mixte",
+  "texte": "Un salon clair derrière sa grande baie vitrée, rue des Mines : trois bacs, des fauteuils gris et des plans en bois. Pour elles comme pour eux, on prend le temps.",
+  "img": "accueil"
+ },
+ "horaires": {
+  "lundi": [],
+  "mardi": ["08:30-18:30"],
+  "mercredi": ["08:30-18:30"],
+  "jeudi": ["08:30-18:00"],
+  "vendredi": ["09:00-19:00"],
+  "samedi": ["09:00-16:00"],
+  "dimanche": []
+ }
+}
