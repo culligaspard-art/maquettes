@@ -1,0 +1,40 @@
+{
+ "fonts": [
+  {
+   "key": "titre",
+   "family": "gloock",
+   "weight": 400
+  },
+  {
+   "key": "script",
+   "family": "parisienne",
+   "weight": 400
+  },
+  {
+   "key": "texte",
+   "family": "outfit",
+   "variable": true
+  }
+ ],
+ "horaires": {
+  "lundi": [
+   "05:30-19:00"
+  ],
+  "mardi": [
+   "05:30-19:00"
+  ],
+  "mercredi": [
+   "05:30-19:00"
+  ],
+  "jeudi": [
+   "05:30-19:00"
+  ],
+  "vendredi": [
+   "05:30-19:00"
+  ],
+  "samedi": [
+   "06:00-13:30"
+  ],
+  "dimanche": []
+ }
+}

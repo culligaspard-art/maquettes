@@ -1,0 +1,114 @@
+{
+ "slug": "boulangerie-helwig",
+ "famille": "patisserie",
+ "nom": "Boulangerie Pâtisserie Helwig",
+ "nom_plaque": "Helwig",
+ "ruban": "Kougelhopf d'Argent 2026",
+ "activite": "Boulangerie, pâtisserie",
+ "description": "Boulangerie Pâtisserie Helwig, artisan boulanger-pâtissier au 160 rue des Mines à Wittenheim : baguettes de tradition, pains spéciaux, viennoiseries, pâtisseries, kougelhopfs, bretzels, snacking et traiteur. Kougelhopf d'Argent 2026.",
+ "ville": "Wittenheim",
+ "adresse": "160 rue des Mines",
+ "cp_ville": "68270 Wittenheim",
+ "maps_dest": "47.8002103,7.3178385",
+ "tel": "+33367769760",
+ "tel_affiche": "03 67 76 97 60",
+ "email": "boulangerie.helwig@hotmail.com",
+ "facebook": "https://www.facebook.com/people/Boulangerie-P%C3%A2tisserie-Helwig/61586987349483/",
+ "note": "4,6",
+ "avis": 31,
+ "couleurs": {
+  "principale": "#4f5a63",
+  "accent": "#c9a24a"
+ },
+ "hero": "vitrine",
+ "hero_alt": "La vitrine des pâtisseries : tartes aux fraises, éclairs, tropéziennes, babas et tartelettes, avec leurs ardoises",
+ "hero_pos": "50% 55%",
+ "accroche": "Artisan boulanger-pâtissier à Wittenheim",
+ "titre_lignes": [
+  "Boulangerie",
+  "Helwig"
+ ],
+ "slogan": "Baguettes de tradition, pains spéciaux, viennoiseries et pâtisseries, du lundi au samedi.",
+ "offre_titre": "La vitrine",
+ "offre_intro": "Baguettes de tradition, pains spéciaux, viennoiseries, pâtisseries, kougelhopfs et bretzels, faits par l'artisan.",
+ "offre": [
+  {
+   "titre": "Tartes aux fruits",
+   "texte": "Mirabelle, quetsche, abricot, myrtille, selon la saison.",
+   "prix": "3,00 €"
+  },
+  {
+   "titre": "Éclair Paris-Brest",
+   "prix": "2,50 €"
+  },
+  {
+   "titre": "Baba au rhum",
+   "prix": "3,90 €"
+  },
+  {
+   "titre": "Tartelette aux fraises",
+   "prix": "4,20 €"
+  },
+  {
+   "titre": "Tropézienne",
+   "prix": "5,60 €"
+  },
+  {
+   "titre": "Et aussi",
+   "texte": "Baguettes de tradition, pains spéciaux, viennoiseries, kougelhopfs, bretzels, snacking et traiteur."
+  }
+ ],
+ "photos": [
+  {
+   "img": "vitrine",
+   "alt": "La vitrine des pâtisseries et ses ardoises"
+  },
+  {
+   "img": "viennoiseries",
+   "alt": "Pains au chocolat, brioche, pain aux noisettes et tartelettes au citron meringuées"
+  },
+  {
+   "img": "tartelettes",
+   "alt": "Une boîte de tartelettes au citron meringuées et de babas à la chantilly"
+  },
+  {
+   "img": "kougelhopf-argent",
+   "alt": "Le macaron « Kougelhopf d'Argent 2026 » de la Fédération des boulangers du Haut-Rhin, sur la vitrine"
+  },
+  {
+   "img": "facade",
+   "alt": "La façade rose de la boulangerie, son enseigne Boulanger Pâtissier et le blason Artisan Helwig"
+  }
+ ],
+ "bloc2": {
+  "titre": "Kougelhopf d'Argent 2026",
+  "texte": "Notre kougelhopf a reçu le Kougelhopf d'Argent 2026 de la Fédération des boulangers du Haut-Rhin. Il vous attend, avec nos baguettes de tradition, nos pains spéciaux et nos bretzels, au 160 rue des Mines.",
+  "img": "kougelhopf-argent"
+ },
+ "commande": {
+  "titre": "Pour vos commandes",
+  "texte": "Kougelhopfs, pâtisseries, traiteur pour vos fêtes : appelez-nous au 03 67 76 97 60 ou écrivez-nous.",
+  "img": "tartelettes"
+ },
+ "horaires": {
+  "lundi": [
+   "05:30-19:00"
+  ],
+  "mardi": [
+   "05:30-19:00"
+  ],
+  "mercredi": [
+   "05:30-19:00"
+  ],
+  "jeudi": [
+   "05:30-19:00"
+  ],
+  "vendredi": [
+   "05:30-19:00"
+  ],
+  "samedi": [
+   "06:00-13:30"
+  ],
+  "dimanche": []
+ }
+}
