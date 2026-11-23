@@ -69,7 +69,9 @@ def img_uri(folder, name):
 
 
 def heure(s):
-    a, b = s.split(":"); return f"{int(a)}h{'' if b == '00' else b}"
+    a, b = s.split(":")
+    if s in ("00:00", "24:00"): return "minuit"
+    return f"{int(a)}h{'' if b == '00' else b}"
 
 
 def main():

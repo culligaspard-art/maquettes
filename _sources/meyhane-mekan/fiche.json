@@ -1,0 +1,123 @@
+{
+ "slug": "meyhane-mekan",
+ "famille": "restaurant",
+ "nom": "Mey'hane Mekan",
+ "activite": "Restaurant turc, grillades et mezzés",
+ "description": "Mey'hane Restaurant Mekan (M'Kan by Ercan), 2 rue de Ruelisheim à Wittenheim, au fond de la cour : grillades turques, adana kebab, brochettes d'agneau et de poulet, mezzés, künefe. Ouvert le soir du lundi au samedi.",
+ "ville": "Wittenheim",
+ "adresse": "2 rue de Ruelisheim, au fond de la cour",
+ "cp_ville": "68270 Wittenheim",
+ "maps_dest": "47.8101265,7.3404859",
+ "tel": "+33620542222",
+ "tel_affiche": "06 20 54 22 22",
+ "email": "ercan68270@hotmail.fr",
+ "facebook": "https://www.facebook.com/people/MKAN-by-ERCAN/100039103196533/",
+ "note": "4,7",
+ "avis": 217,
+ "couleurs": {
+  "principale": "#2b231d",
+  "accent": "#b3402f"
+ },
+ "hero": "salle-vegetal",
+ "hero_alt": "La salle du Mey'hane sous son plafond de feuillage, tables en bois, chaises bistrot et murs de photos noir et blanc",
+ "hero_pos": "50% 40%",
+ "accroche": "Restaurant turc à Wittenheim",
+ "titre_lignes": [
+  "Mey'hane",
+  "Mekan"
+ ],
+ "slogan": "Grillades au charbon, mezzés et thé turc, au fond de la cour.",
+ "offre_titre": "La carte",
+ "offre_intro": "Nos spécialités, servies avec salade et boulgour :",
+ "offre": [
+  {
+   "titre": "Adana kebab",
+   "texte": "Brochette de viande hachée d'agneau, épicée."
+  },
+  {
+   "titre": "Kuzu şiş",
+   "texte": "Brochette d'agneau."
+  },
+  {
+   "titre": "Tavuk şiş",
+   "texte": "Brochette de poulet."
+  },
+  {
+   "titre": "Karışık ızgara",
+   "texte": "La grillade mixte."
+  },
+  {
+   "titre": "Kiremit kebap",
+   "texte": "Agneau ou poulet, légumes au four."
+  },
+  {
+   "titre": "Kavurma pilav",
+   "texte": "Viande de bœuf mijotée."
+  },
+  {
+   "titre": "Mezzés",
+   "texte": "Ezme, cacık, salade d'oignons, çiğ köfte, purée d'aubergine."
+  },
+  {
+   "titre": "Desserts",
+   "texte": "Künefe et tiramisu."
+  }
+ ],
+ "encart": {
+  "titre": "Au fond de la cour",
+  "texte": "Nous sommes au 2 rue de Ruelisheim, au fond de la cour. Ouvert le soir du lundi au samedi, fermé le dimanche."
+ },
+ "photos": [
+  {
+   "img": "meze-grill",
+   "alt": "La grillade sur sa pierre, entourée de mezzés : ezme, cacık, frites, salade, oignons, çiğ köfte et purée d'aubergine"
+  },
+  {
+   "img": "adana",
+   "alt": "Deux adana kebabs, piment grillé, tomate et boulgour, devant le mur orange"
+  },
+  {
+   "img": "brochettes",
+   "alt": "Brochette de poulet mariné, frites et piment grillé, et adana kebab au boulgour"
+  },
+  {
+   "img": "salle",
+   "alt": "La salle aux boiseries, bûches empilées, cadres noir et blanc et miroir rond"
+  },
+  {
+   "img": "cay",
+   "alt": "Un verre de thé turc sur la nappe blanche"
+  },
+  {
+   "img": "salle-vegetal",
+   "alt": "La grande salle sous le plafond de feuillage"
+  }
+ ],
+ "bloc2": {
+  "titre": "Bois, feuillage et photos de famille",
+  "texte": "Des boiseries, des bûches empilées, un plafond de feuillage et des dizaines de portraits noir et blanc aux murs. On s'installe pour les grillades et les mezzés, et on termine par un thé.",
+  "img": "salle"
+ },
+ "horaires": {
+  "lundi": [
+   "17:00-00:00"
+  ],
+  "mardi": [
+   "17:00-00:00"
+  ],
+  "mercredi": [
+   "17:00-00:00"
+  ],
+  "jeudi": [
+   "17:00-00:00"
+  ],
+  "vendredi": [
+   "17:00-00:00"
+  ],
+  "samedi": [
+   "17:00-00:00"
+  ],
+  "dimanche": []
+ },
+ "polices": 9
+}

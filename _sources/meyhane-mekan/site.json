@@ -1,0 +1,35 @@
+{
+ "fonts": [
+  {
+   "key": "titre",
+   "family": "gloock",
+   "weight": 400
+  },
+  {
+   "key": "texte",
+   "family": "manrope",
+   "variable": true
+  }
+ ],
+ "horaires": {
+  "lundi": [
+   "17:00-00:00"
+  ],
+  "mardi": [
+   "17:00-00:00"
+  ],
+  "mercredi": [
+   "17:00-00:00"
+  ],
+  "jeudi": [
+   "17:00-00:00"
+  ],
+  "vendredi": [
+   "17:00-00:00"
+  ],
+  "samedi": [
+   "17:00-00:00"
+  ],
+  "dimanche": []
+ }
+}

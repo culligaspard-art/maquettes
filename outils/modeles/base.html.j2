@@ -197,7 +197,7 @@ p{margin:0}
   var H = {{hours_js}};
   var JOURS = ["dimanche","lundi","mardi","mercredi","jeudi","vendredi","samedi"];
   function m(s){var p=s.split(":");return (+p[0])*60+(+p[1]);}
-  function fh(s){var p=s.split(":");return (+p[0])+"h"+(p[1]==="00"?"":p[1]);}
+  function fh(s){if(s==="00:00"||s==="24:00")return "minuit";var p=s.split(":");return (+p[0])+"h"+(p[1]==="00"?"":p[1]);}
   var now=new Date(), d=now.getDay(), t=now.getHours()*60+now.getMinutes();
   var row=document.querySelector('.hours tr[data-day="'+d+'"]'); if(row) row.classList.add("is-today");
   var label=null, open=false;
