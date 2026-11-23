@@ -39,6 +39,9 @@ FAMILLES = {
             [("titre", "chango", False, "normal", 400), ("texte", "work-sans", True, "normal", None)],
             [("titre", "rammetto-one", False, "normal", 400), ("texte", "dm-sans", True, "normal", None)],
             [("titre", "caprasimo", False, "normal", 400), ("texte", "nunito-sans", True, "normal", None)],
+            [("titre", "lilita-one", False, "normal", 400), ("texte", "rubik", True, "normal", None)],
+            [("titre", "bowlby-one", False, "normal", 400), ("texte", "archivo", True, "normal", None)],
+            [("titre", "titan-one", False, "normal", 400), ("texte", "figtree", True, "normal", None)],
         ],
     },
     "patisserie": {

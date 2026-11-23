@@ -1,0 +1,272 @@
+{
+ "slug": "vite-cook",
+ "famille": "emporter",
+ "nom": "Vite Cook",
+ "activite": "Restauration rapide, kebab, pizzas",
+ "description": "Vite Cook, restauration rapide au 60 rue de l'Ancienne Filature à Wittenheim : döner kebab, yufka, tacos, pizzas, pides, lahmacuns, assiettes et burgers, sur place ou à emporter. Carte et prix.",
+ "ville": "Wittenheim",
+ "adresse": "60 rue de l'Ancienne Filature",
+ "cp_ville": "68270 Wittenheim",
+ "maps_dest": "47.8023796,7.3359821",
+ "tel": "+33389505169",
+ "tel_affiche": "03 89 50 51 69",
+ "email": "erwan682@hotmail.fr",
+ "note": "4,3",
+ "avis": 147,
+ "couleurs": {
+  "principale": "#1d1d1f",
+  "accent": "#f2a71b"
+ },
+ "hero": "pizza-kebab",
+ "hero_alt": "Une pizza au kebab et à la sauce blanche en spirale, sur sa planche en bois",
+ "accroche": "Restauration rapide à Wittenheim",
+ "titre_lignes": [
+  "Vite",
+  "Cook"
+ ],
+ "slogan": "Kebabs, pizzas, pides et lahmacuns, sur place ou à emporter.",
+ "offre_titre": "La carte",
+ "offre_intro": "Prix seul ou en menu (avec frites et boisson). Suppléments : fromage ou frites 1 €, viande 2 €.",
+ "offre_groupes": [
+  {
+   "titre": "Sandwichs",
+   "items": [
+    {
+     "titre": "Döner kebab",
+     "texte": "Kebab, crudités, sauce au choix. Menu 9,00 €",
+     "prix": "6,50 €"
+    },
+    {
+     "titre": "Döner kebab maxi",
+     "texte": "Double dose de kebab. Menu 13,00 €",
+     "prix": "10,00 €"
+    },
+    {
+     "titre": "Yufka kebab",
+     "texte": "Menu 9,00 €. Version maxi 10,00 €, menu 13,00 €",
+     "prix": "6,50 €"
+    },
+    {
+     "titre": "Merguez",
+     "texte": "Deux merguez, crudités. Menu 9,00 €",
+     "prix": "6,50 €"
+    },
+    {
+     "titre": "Escalope",
+     "texte": "Poulet mariné, cheddar, crudités. Menu 9,00 €",
+     "prix": "6,50 €"
+    },
+    {
+     "titre": "Cook",
+     "texte": "Deux steaks, cheddar, crudités. Menu 9,00 €",
+     "prix": "6,50 €"
+    },
+    {
+     "titre": "Kofte",
+     "texte": "180 g de kofte, crudités. Menu 9,00 €",
+     "prix": "6,50 €"
+    },
+    {
+     "titre": "Tenders",
+     "texte": "Tenders, cheddar, crudités. Menu 9,00 €",
+     "prix": "7,00 €"
+    },
+    {
+     "titre": "Tacos escalope ou kebab",
+     "texte": "Frites, sauce au choix. Menu 9,00 €",
+     "prix": "6,50 €"
+    },
+    {
+     "titre": "Menu spécial étudiant",
+     "texte": "Box kebab et boisson, de 12 h à 14 h.",
+     "prix": "6,50 €"
+    }
+   ]
+  },
+  {
+   "titre": "Pizzas",
+   "items": [
+    {
+     "titre": "Margherita",
+     "texte": "Sauce tomate, mozzarella.",
+     "prix": "8,50 €"
+    },
+    {
+     "titre": "Kebab, orientale, escalope, sucuk, 4 fromages, thon, fruits de mer, champignons, végétarienne, bolognaise",
+     "prix": "9,50 €"
+    },
+    {
+     "titre": "Cook",
+     "texte": "Sauce tomate, mozzarella, kebab, merguez, poulet.",
+     "prix": "11,00 €"
+    },
+    {
+     "titre": "Vite",
+     "texte": "Sauce tomate, mozzarella, escalope de poulet, merguez, sucuk.",
+     "prix": "11,00 €"
+    }
+   ]
+  },
+  {
+   "titre": "Pides et lahmacuns",
+   "items": [
+    {
+     "titre": "Pides",
+     "texte": "Viande hachée, fromage, sucuk, kebab, escalope, épinard, végétarien.",
+     "prix": "8,50 €"
+    },
+    {
+     "titre": "Lahmacun kebab",
+     "texte": "Menu 10,00 €",
+     "prix": "7,50 €"
+    },
+    {
+     "titre": "Lahmacun nature",
+     "texte": "Menu 8,50 €",
+     "prix": "6,50 €"
+    },
+    {
+     "titre": "Assiette lahmacun",
+     "texte": "Lahmacun, crudités, frites, sauce au choix.",
+     "prix": "8,50 €"
+    },
+    {
+     "titre": "Assiette lahmacun kebab",
+     "prix": "11,00 €"
+    }
+   ]
+  },
+  {
+   "titre": "Assiettes et burgers",
+   "items": [
+    {
+     "titre": "Assiette kebab, escalope, steak, kofte ou merguez",
+     "texte": "Servie avec frites ou blé.",
+     "prix": "11,00 €"
+    },
+    {
+     "titre": "Assiette mixte",
+     "texte": "Kebab, émincé de poulet, kofte, merguez.",
+     "prix": "15,00 €"
+    },
+    {
+     "titre": "Gratin kebab",
+     "texte": "Viande de kebab, frites, mozzarella gratinée.",
+     "prix": "9,50 €"
+    },
+    {
+     "titre": "Hamburger ou chicken burger",
+     "texte": "Menu 8,50 €",
+     "prix": "6,00 €"
+    },
+    {
+     "titre": "Chicken steak",
+     "texte": "Menu 11,00 €",
+     "prix": "8,50 €"
+    },
+    {
+     "titre": "Menu enfant",
+     "texte": "Kebab frites ou nuggets frites.",
+     "prix": "6,50 €"
+    },
+    {
+     "titre": "Salade thon ou feta",
+     "prix": "6,00 €"
+    },
+    {
+     "titre": "Salade poulet",
+     "prix": "8,00 €"
+    }
+   ]
+  }
+ ],
+ "notes": [
+  {
+   "k": "Viande",
+   "v": "halal"
+  },
+  {
+   "k": "Sur place",
+   "v": "ou à emporter"
+  }
+ ],
+ "moment": {
+  "titre": "Sortis du four",
+  "intro": "Quelques-unes de nos spécialités :",
+  "items": [
+   {
+    "img": "pide",
+    "titre": "La pide à la viande hachée",
+    "texte": "La pâte dorée, refermée en barque.",
+    "alt": "Une pide à la viande hachée sur sa planche"
+   },
+   {
+    "img": "pizza-sucuk",
+    "titre": "Les pizzas",
+    "texte": "Mozzarella gratinée, garniture au choix.",
+    "alt": "Une pizza garnie de rondelles de charcuterie"
+   },
+   {
+    "img": "doner",
+    "titre": "Le döner kebab",
+    "texte": "Le pain garni de viande grillée, crudités.",
+    "alt": "Un döner kebab dans son papier"
+   }
+  ]
+ },
+ "photos": [
+  {
+   "img": "facade",
+   "alt": "La façade de Vite Cook, son enseigne orange et sa terrasse"
+  },
+  {
+   "img": "pide",
+   "alt": "Une pide à la viande hachée"
+  },
+  {
+   "img": "pizza-sucuk",
+   "alt": "Une pizza garnie de rondelles de charcuterie"
+  }
+ ],
+ "commande_intro": "Par téléphone, puis vous passez la chercher, ou vous mangez sur place.",
+ "etapes": [
+  {
+   "titre": "Choisissez",
+   "texte": "Sandwich, pizza, pide ou assiette : toute la carte est ci-dessus."
+  },
+  {
+   "titre": "Appelez",
+   "texte": "Au 03 89 50 51 69, aux heures d'ouverture."
+  },
+  {
+   "titre": "Passez la chercher",
+   "texte": "Au 60 rue de l'Ancienne Filature, à Wittenheim."
+  }
+ ],
+ "horaires": {
+  "lundi": [],
+  "mardi": [
+   "11:00-14:30",
+   "17:30-21:30"
+  ],
+  "mercredi": [
+   "11:00-14:30",
+   "17:30-21:30"
+  ],
+  "jeudi": [
+   "11:00-14:30",
+   "17:30-21:30"
+  ],
+  "vendredi": [
+   "11:00-14:30",
+   "17:30-21:30"
+  ],
+  "samedi": [
+   "11:00-22:00"
+  ],
+  "dimanche": [
+   "11:30-22:00"
+  ]
+ },
+ "polices": 5
+}
