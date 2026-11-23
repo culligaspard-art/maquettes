@@ -1,0 +1,131 @@
+{
+ "slug": "lm-paella",
+ "famille": "emporter",
+ "nom": "LM Paëlla",
+ "activite": "Paëlla à emporter",
+ "description": "LM Paëlla, paëlla à emporter au 20 rue Claude Debussy à Kingersheim : paëlla aux fruits de mer, poulet et chorizo, cuite dans la grande poêle et servie depuis notre caravane. Sur réservation au 06 61 69 54 16.",
+ "ville": "Kingersheim",
+ "adresse": "20 rue Claude Debussy",
+ "cp_ville": "68260 Kingersheim",
+ "maps_dest": "47.7947443,7.3266326",
+ "tel": "+33661695416",
+ "tel_affiche": "06 61 69 54 16",
+ "email": "lmpaella68@gmail.com",
+ "facebook": "https://www.facebook.com/lmpaella",
+ "note": "4,9",
+ "avis": 66,
+ "preuve_extra": "recommandé à 100 % sur Facebook",
+ "couleurs": {
+  "principale": "#1c1a1a",
+  "accent": "#d7141f"
+ },
+ "kraft": "#f6e7b4",
+ "logo": "logo",
+ "hero": "paella",
+ "hero_alt": "Une grande poêle de paëlla : riz safrané, crevettes, moules, poulet, chorizo et poivrons",
+ "accroche": "Paëlla à emporter à Kingersheim",
+ "titre_lignes": [
+  "LM",
+  "Paëlla"
+ ],
+ "slogan": "Une envie d'évasion ? Embarquez pour un petit voyage culinaire avec notre paëlla aux mille saveurs.",
+ "offre_titre": "La paëlla",
+ "offre_intro": "Cuite dans la grande poêle et servie depuis notre caravane. Pensez à réserver.",
+ "offre_groupes": [
+  {
+   "titre": "À emporter",
+   "items": [
+    {
+     "titre": "La paëlla",
+     "texte": "Riz safrané, poulet, crevettes, moules, calamars, chorizo, poivrons et petits pois."
+    },
+    {
+     "titre": "La paëlla pour 2 personnes",
+     "texte": "La même, en portion pour deux."
+    }
+   ]
+  }
+ ],
+ "notes": [
+  {
+   "k": "Sur réservation",
+   "v": "au 06 61 69 54 16"
+  },
+  {
+   "k": "Retrait",
+   "v": "à la caravane, 20 rue Claude Debussy"
+  }
+ ],
+ "moment": {
+  "titre": "Sortis de nos poêles",
+  "intro": "Quelques-unes de nos paëllas :",
+  "items": [
+   {
+    "img": "paella-poulet",
+    "titre": "Poulet et fruits de mer",
+    "texte": "Cuisses de poulet dorées, crevettes, calamars et citron.",
+    "alt": "Une poêle de paëlla au poulet, crevettes, moules, calamars et citron"
+   },
+   {
+    "img": "plateau-poulet",
+    "titre": "Le plateau",
+    "texte": "Poulet et riz safrané, couronnés de crevettes.",
+    "alt": "Un plateau de paëlla au poulet couronné de crevettes et de citrons"
+   },
+   {
+    "img": "plateau",
+    "titre": "Le grand plateau",
+    "texte": "Poulet et crevettes, en grand bac.",
+    "alt": "Un grand bac de paëlla au poulet et aux crevettes"
+   }
+  ]
+ },
+ "photos": [
+  {
+   "img": "paella",
+   "alt": "La grande poêle de paëlla au soleil"
+  },
+  {
+   "img": "caravane",
+   "alt": "La caravane noire de LM Paëlla, bandeau jaune et rouge, rue Claude Debussy"
+  },
+  {
+   "img": "paella-poulet",
+   "alt": "Une poêle de paëlla au poulet et aux fruits de mer"
+  }
+ ],
+ "commande_intro": "Par téléphone, puis vous passez la chercher à la caravane.",
+ "etapes": [
+  {
+   "titre": "Choisissez",
+   "texte": "La paëlla, ou la paëlla pour deux."
+  },
+  {
+   "titre": "Réservez",
+   "texte": "Au 06 61 69 54 16 ou à lmpaella68@gmail.com."
+  },
+  {
+   "titre": "Passez la chercher",
+   "texte": "À la caravane, 20 rue Claude Debussy à Kingersheim, aux heures d'ouverture."
+  }
+ ],
+ "horaires": {
+  "lundi": [],
+  "mardi": [
+   "17:30-19:30"
+  ],
+  "mercredi": [],
+  "jeudi": [
+   "17:30-19:30"
+  ],
+  "vendredi": [
+   "11:30-13:30",
+   "17:30-19:30"
+  ],
+  "samedi": [
+   "11:30-13:30",
+   "17:30-19:30"
+  ],
+  "dimanche": []
+ }
+}

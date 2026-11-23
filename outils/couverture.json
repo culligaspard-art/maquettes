@@ -1,7 +1,9 @@
 {
   "explication": "Curseur de la tournée sur outils/villes.json (communes de 5 000 à 100 000 habitants : Haut-Rhin, Bas-Rhin, puis les autres départements dans l'ordre, chacun de la plus grande à la plus petite). Ne pas modifier à la main : utiliser python3 outils/zone.py.",
   "index": 2,
-  "familles_faites": [],
+  "familles_faites": [
+    "restaurant"
+  ],
   "villes_terminees": [
     "68|Colmar",
     "68|Saint-Louis"

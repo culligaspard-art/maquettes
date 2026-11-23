@@ -1,0 +1,33 @@
+{
+ "fonts": [
+  {
+   "key": "titre",
+   "family": "caprasimo",
+   "weight": 400
+  },
+  {
+   "key": "texte",
+   "family": "nunito-sans",
+   "variable": true
+  }
+ ],
+ "horaires": {
+  "lundi": [],
+  "mardi": [
+   "17:30-19:30"
+  ],
+  "mercredi": [],
+  "jeudi": [
+   "17:30-19:30"
+  ],
+  "vendredi": [
+   "11:30-13:30",
+   "17:30-19:30"
+  ],
+  "samedi": [
+   "11:30-13:30",
+   "17:30-19:30"
+  ],
+  "dimanche": []
+ }
+}
