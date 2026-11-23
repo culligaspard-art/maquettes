@@ -1,0 +1,65 @@
+{
+ "slug": "boulangerie-dobrocki",
+ "famille": "patisserie",
+ "nom": "Boulangerie Pâtisserie Dobrocki",
+ "nom_plaque": "Dobrocki",
+ "ruban": "le pain d'autrefois",
+ "activite": "Boulangerie, pâtisserie",
+ "description": "Boulangerie Pâtisserie Dobrocki, 128 rue des Mines à Wittenheim : pain d'autrefois aux farines du moulin Jenny de Hésingue, baguettes, kougelhopfs, tartes, pièces montées, plateaux de sandwichs. Ouvert tous les jours.",
+ "ville": "Wittenheim",
+ "adresse": "128 rue des Mines",
+ "cp_ville": "68270 Wittenheim",
+ "maps_dest": "47.8013584,7.3216151",
+ "tel": "+33980541123",
+ "tel_affiche": "09 80 54 11 23",
+ "email": "fabricedob@hotmail.fr",
+ "note": "4,2",
+ "avis": 95,
+ "couleurs": {
+  "principale": "#7a3b1e",
+  "accent": "#c8102e"
+ },
+ "hero": "baguettes",
+ "hero_alt": "Six baguettes farinées aux grignes dorées, sur le plan de travail en bois",
+ "hero_pos": "50% 45%",
+ "accroche": "Boulangerie, pâtisserie à Wittenheim",
+ "titre_lignes": ["Boulangerie", "Dobrocki"],
+ "slogan": "Le goût dans le respect de la tradition : du pain fait sur place, avec des farines de blés récoltés en Alsace.",
+ "offre_titre": "Au fournil",
+ "offre_intro": "De la baguette aux pains spéciaux, du sucré au sandwich, tout est fait sur place.",
+ "offre": [
+  {"titre": "Le pain d'autrefois", "texte": "Nos farines viennent du moulin Jenny de Hésingue, 100 % blés récoltés en Alsace."},
+  {"titre": "Baguettes et pains spéciaux", "texte": "Façonnés et cuits sur place, tout au long de la journée."},
+  {"titre": "Kougelhopfs, manalas et brioches", "texte": "Les classiques alsaciens, selon la saison."},
+  {"titre": "Tartes et pâtisseries", "texte": "Comme la tarte aux fraises nappées."},
+  {"titre": "Sandwichs et plateaux", "texte": "Pour le midi, ou en plateaux pour vos réceptions."},
+  {"titre": "Pièces montées", "texte": "Pour vos baptêmes, mariages et fêtes, sur commande."}
+ ],
+ "photos": [
+  {"img": "vitrine", "alt": "La vitrine de la boulangerie : pains, kougelhopfs, croissants et bûches de Noël"},
+  {"img": "kougelhopfs", "alt": "Des kougelhopfs aux amandes et raisins, sortis du four, sur la grille"},
+  {"img": "tarte-fraises", "alt": "Une tartelette aux fraises nappées"},
+  {"img": "sandwichs", "alt": "Un plateau de sandwichs en pain bretzel, œuf, tomate et salade"},
+  {"img": "piece-montee", "alt": "Une pièce montée de baptême en choux caramélisés et roses blanches"},
+  {"img": "magasin", "alt": "Le magasin : présentoirs de viennoiseries et vitrine des pâtisseries"}
+ ],
+ "bloc2": {
+  "titre": "La maison",
+  "texte": "Fabrice Dobrocki met en avant son savoir-faire : des produits faits sur place, dans le respect des recettes traditionnelles. Accès pour les personnes à mobilité réduite, parking, service traiteur et réceptions de mariage.",
+  "img": "magasin"
+ },
+ "commande": {
+  "titre": "Pour vos commandes",
+  "texte": "Pièces montées, plateaux de sandwichs, kougelhopfs pour vos fêtes : appelez-nous au 09 80 54 11 23 ou écrivez-nous.",
+  "img": "piece-montee"
+ },
+ "horaires": {
+  "lundi": ["06:00-19:00"],
+  "mardi": ["06:00-19:00"],
+  "mercredi": ["07:00-13:00"],
+  "jeudi": ["06:00-19:00"],
+  "vendredi": ["06:00-18:00"],
+  "samedi": ["07:00-12:00"],
+  "dimanche": ["07:00-11:45"]
+ }
+}

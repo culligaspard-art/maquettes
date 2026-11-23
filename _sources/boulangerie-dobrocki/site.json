@@ -1,0 +1,42 @@
+{
+ "fonts": [
+  {
+   "key": "titre",
+   "family": "yeseva-one",
+   "weight": 400
+  },
+  {
+   "key": "script",
+   "family": "pinyon-script",
+   "weight": 400
+  },
+  {
+   "key": "texte",
+   "family": "figtree",
+   "variable": true
+  }
+ ],
+ "horaires": {
+  "lundi": [
+   "06:00-19:00"
+  ],
+  "mardi": [
+   "06:00-19:00"
+  ],
+  "mercredi": [
+   "07:00-13:00"
+  ],
+  "jeudi": [
+   "06:00-19:00"
+  ],
+  "vendredi": [
+   "06:00-18:00"
+  ],
+  "samedi": [
+   "07:00-12:00"
+  ],
+  "dimanche": [
+   "07:00-11:45"
+  ]
+ }
+}
