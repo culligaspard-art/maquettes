@@ -1,0 +1,107 @@
+{
+ "slug": "l-arancina",
+ "famille": "emporter",
+ "nom": "L'Arancina",
+ "activite": "Pizzas à emporter",
+ "description": "L'Arancina, pizzas à emporter à Wittenheim : pizzas au four, calzones, lasagnes, arancine et tiramisu. Commande par téléphone au 03 89 32 19 58, 14 rue de Kingersheim.",
+ "ville": "Wittenheim",
+ "adresse": "14 rue de Kingersheim",
+ "cp_ville": "68270 Wittenheim",
+ "maps_dest": "47.808661,7.3373366",
+ "tel": "+33389321958",
+ "tel_affiche": "03 89 32 19 58",
+ "email": "sabrigiumunao@gmail.com",
+ "note": "4,5",
+ "avis": 174,
+ "couleurs": {
+  "principale": "#2f5a35",
+  "accent": "#c3292e"
+ },
+ "kraft": "#efe6d6",
+ "logo": "logo",
+ "hero": "bufalina",
+ "hero_alt": "Une pizza Bufalina vue de dessus : mozzarella di bufala, roquette, copeaux de parmesan, tomates cerises et basilic",
+ "accroche": "Pizzas à emporter à Wittenheim",
+ "titre_lignes": [
+  "L'Arancina"
+ ],
+ "slogan": "Pizza, arancini, lasagnes et tiramisu, à emporter.",
+ "offre_titre": "La carte",
+ "offre_intro": "Pizzas, calzones, lasagnes, arancine et tiramisu. Vente uniquement à emporter : appelez-nous pour commander.",
+ "offre_groupes": [
+  {
+   "titre": "Les pizzas",
+   "items": [
+    {"titre": "Margherita", "texte": "Sauce tomate, mozzarella, origan.", "prix": "9,00 €"},
+    {"titre": "L'Arancina", "texte": "Sauce tomate, mozzarella Fiordilatte, jambon cru, champignons, roquette.", "prix": "13,50 €"},
+    {"titre": "Napolitaine", "texte": "Sauce tomate, mozzarella, anchois, câpres.", "prix": "9,50 €"},
+    {"titre": "Bianca", "texte": "Crème fraîche, mozzarella Fiordilatte, olives, jambon.", "prix": "9,50 €"},
+    {"titre": "Capricciosa", "texte": "Sauce tomate, mozzarella, jambon, champignons, olives.", "prix": "11,00 €"},
+    {"titre": "Piccante", "texte": "Sauce tomate, mozzarella, salami piquant, gorgonzola.", "prix": "11,80 €"},
+    {"titre": "Quatre saisons", "texte": "Sauce tomate, mozzarella, jambon, artichauts, champignons, câpres.", "prix": "11,90 €"},
+    {"titre": "Quatre fromages", "texte": "Sauce tomate, mozzarella, gorgonzola, chèvre, copeaux de parmesan. Possible en base crème.", "prix": "12,80 €"},
+    {"titre": "Primavera", "texte": "Sauce tomate, mozzarella Fiordilatte, pesto maison, tomates cerises.", "prix": "11,50 €"},
+    {"titre": "Caprese", "texte": "Sauce tomate, mozzarella Fiordilatte, tomates cerises, origan, basilic.", "prix": "11,50 €"},
+    {"titre": "Knacky", "texte": "Sauce tomate, mozzarella, saucisse knack.", "prix": "12,00 €"},
+    {"titre": "Canadienne", "texte": "Sauce tomate, mozzarella, jambon, ananas.", "prix": "13,00 €"},
+    {"titre": "Campagnola", "texte": "Crème fraîche, mozzarella, pomme de terre, lardons, reblochon, oignons.", "prix": "13,80 €"},
+    {"titre": "Funghi", "texte": "Crème fraîche, farandole de champignons, ail, persil.", "prix": "12,50 €"},
+    {"titre": "Marinara", "texte": "Sauce tomate, mozzarella, fruits de mer, ail, persil.", "prix": "14,50 €"},
+    {"titre": "Bufalina", "texte": "Sauce tomate, mozzarella di bufala, tomates cerises, basilic.", "prix": "14,50 €"},
+    {"titre": "Ortolana", "texte": "Sauce tomate, mozzarella, aubergines, courgettes grillées, champignons.", "prix": "11,50 €"},
+    {"titre": "Tonno", "texte": "Sauce tomate, mozzarella, thon.", "prix": "11,50 €"}
+   ]
+  },
+  {
+   "titre": "Calzones et lasagnes",
+   "items": [
+    {"titre": "Calzone", "texte": "Sauce tomate, mozzarella, jambon, œuf, champignons, parmesan.", "prix": "13,00 €"},
+    {"titre": "Calzone spéciale", "texte": "Sauce tomate, mozzarella, chorizo, poivrons, oignons, anchois, câpres, copeaux de parmesan.", "prix": "14,50 €"},
+    {"titre": "Lasagnes bolognaise", "texte": "Sauce tomate, viande hachée de bœuf, béchamel, parmesan, mozzarella.", "prix": "9,80 €"},
+    {"titre": "Lasagnes blanches aux légumes grillés", "texte": "Béchamel, crème, aubergines, champignons, courgettes.", "prix": "8,50 €"}
+   ]
+  },
+  {
+   "titre": "Arancine et dessert",
+   "items": [
+    {"titre": "Arancina bolognaise", "prix": "4,00 € la pièce"},
+    {"titre": "Arancina au fromage", "prix": "4,20 € la pièce"},
+    {"titre": "Tiramisu", "prix": "5,00 € la part"}
+   ]
+  }
+ ],
+ "notes": [
+  {"k": "Uniquement", "v": "à emporter"},
+  {"k": "Commande", "v": "par téléphone au 03 89 32 19 58"}
+ ],
+ "moment": {
+  "titre": "Sortis du four",
+  "intro": "Quelques-unes de nos pizzas :",
+  "items": [
+   {"img": "bufalina", "titre": "La Bufalina", "texte": "Mozzarella di bufala, tomates cerises et basilic.", "alt": "La pizza Bufalina vue de dessus"},
+   {"img": "cepes", "titre": "Cèpes e saucisse", "texte": "Base blanche, cèpes, saucisse et basilic.", "alt": "Une pizza aux cèpes et à la saucisse dans sa boîte"},
+   {"img": "inzalatina", "titre": "Inzalatina di bufala", "texte": "Mozzarella di bufala, roquette, tomates cerises et olives.", "alt": "Une assiette de salade à la mozzarella di bufala, chorizo et toast au chèvre"}
+  ]
+ },
+ "photos": [
+  {"img": "bufalina", "alt": "La pizza Bufalina vue de dessus"},
+  {"img": "four", "alt": "Le four à pizza en mosaïque, dans le laboratoire aux murs orange"},
+  {"img": "facade", "alt": "La façade de L'Arancina, rue de Kingersheim, avec ses jardinières fleuries"},
+  {"img": "cepes", "alt": "Une pizza aux cèpes et à la saucisse"}
+ ],
+ "commande_intro": "Par téléphone, puis vous passez la chercher au 14 rue de Kingersheim.",
+ "etapes": [
+  {"titre": "Choisissez", "texte": "Pizza, calzone, lasagnes ou arancine : toute la carte est ci-dessus."},
+  {"titre": "Appelez", "texte": "Au 03 89 32 19 58, aux heures d'ouverture."},
+  {"titre": "Passez la chercher", "texte": "Au 14 rue de Kingersheim, à Wittenheim."}
+ ],
+ "horaires": {
+  "lundi": [],
+  "mardi": ["18:00-21:30"],
+  "mercredi": ["18:00-21:30"],
+  "jeudi": ["18:00-21:30"],
+  "vendredi": ["18:00-22:00"],
+  "samedi": ["11:30-14:00", "18:00-22:00"],
+  "dimanche": ["18:00-22:00"]
+ }
+}
