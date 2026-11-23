@@ -1,0 +1,62 @@
+{
+ "slug": "l-ambassade",
+ "famille": "restaurant",
+ "nom": "L'Ambassade",
+ "activite": "Restaurant, cuisine française et méditerranéenne",
+ "description": "L'Ambassade, restaurant à Wittenheim, 129 rue du Dr Albert Schweitzer : cuisine française et méditerranéenne, couscous, grillades, terrasse. Horaires, carte et réservation par téléphone.",
+ "ville": "Wittenheim",
+ "adresse": "129 rue du Dr Albert Schweitzer",
+ "cp_ville": "68270 Wittenheim",
+ "maps_dest": "47.8163618,7.3259769",
+ "tel": "+33981872846",
+ "tel_affiche": "09 81 87 28 46",
+ "email": "l-ambassade@outlook.fr",
+ "note": "4,6",
+ "avis": 333,
+ "couleurs": {
+  "principale": "#22304f",
+  "accent": "#b5603f"
+ },
+ "hero": "salle",
+ "hero_alt": "La salle de L'Ambassade sous ses arches de briques, tables dressées et serviettes noires pliées dans les verres",
+ "hero_pos": "50% 45%",
+ "accroche": "Restaurant à Wittenheim",
+ "titre_lignes": ["L'Ambassade"],
+ "slogan": "Cuisine française et méditerranéenne, couscous et grillades, sous nos arches de briques.",
+ "offre_titre": "La carte",
+ "offre_intro": "Produits frais, selon le marché : certains plats peuvent manquer certains jours. Selon l'affluence, comptez jusqu'à une heure d'attente.",
+ "offre": [
+  {"titre": "Couscous impérial", "texte": "Brochette d'agneau, merguez, poulet, boulette de bœuf, ragoût de veau, côtelette d'agneau.", "prix": "30 €"},
+  {"titre": "Couscous royal", "texte": "Brochette d'agneau, merguez, poulet, boulette de bœuf, ragoût de veau.", "prix": "27 €"},
+  {"titre": "Couscous grillades", "texte": "Brochette d'agneau, côtelette d'agneau, merguez, brochette de veau.", "prix": "26 €"},
+  {"titre": "Couscous côtelettes d'agneau", "texte": "Quatre pièces.", "prix": "26 €"},
+  {"titre": "Couscous boulettes de bœuf maison", "texte": "Quatre pièces.", "prix": "24 €"},
+  {"titre": "Couscous légumes", "texte": "Semoule et légumes.", "prix": "16 €"},
+  {"titre": "Cigares à la viande", "texte": "Deux pièces.", "prix": "13 €"},
+  {"titre": "Escargots", "texte": "La demi-douzaine ou la douzaine.", "prix": "9 € / 15 €"},
+  {"titre": "Terrine de campagne", "prix": "10 €"}
+ ],
+ "encart": {"titre": "Jours de repos", "texte": "Le dimanche soir et le lundi toute la journée. Tous les autres jours, nous serons heureux de vous servir."},
+ "photos": [
+  {"img": "couscous", "alt": "Une assiette de couscous : légumes, pois chiches, raisins secs et brochette d'agneau, avec un verre de rosé"},
+  {"img": "paellas", "alt": "Quatre grandes poêles de paella aux gambas, moules et citron, dont une avec des bougies étincelles"},
+  {"img": "escalope", "alt": "Une escalope panée nappée de sauce aux champignons, légumes et frites"},
+  {"img": "bar", "alt": "Le bar de L'Ambassade, son tonneau en bois et ses tables aux chaises bordeaux"},
+  {"img": "terrasse", "alt": "La terrasse sous les parasols, tables et fauteuils en résine tressée"},
+  {"img": "facade", "alt": "La façade du restaurant L'Ambassade et ses jardinières fleuries, rue du Dr Albert Schweitzer"}
+ ],
+ "bloc2": {
+  "titre": "Dedans comme dehors",
+  "texte": "Une salle sous des arches de briques, un bar, et une terrasse abritée sous les parasols quand il fait beau. Le wifi est offert. Nous acceptons la carte bancaire, le paiement sans contact, les espèces et les titres-restaurant.",
+  "img": "terrasse"
+ },
+ "horaires": {
+  "lundi": [],
+  "mardi": ["12:00-13:30", "19:00-21:00"],
+  "mercredi": ["12:00-13:30"],
+  "jeudi": ["12:00-13:30", "19:00-21:00"],
+  "vendredi": ["12:00-13:30", "19:00-21:00"],
+  "samedi": ["12:00-13:30", "19:00-21:00"],
+  "dimanche": ["12:00-13:30"]
+ }
+}
