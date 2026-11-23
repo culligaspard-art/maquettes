@@ -1,0 +1,110 @@
+{
+ "slug": "beauty-concept",
+ "famille": "beaute",
+ "forme": "miroir",
+ "polices": 4,
+ "nom": "L'Institut Beauty Concept",
+ "activite": "Institut de beauté à Rixheim",
+ "description": "L'Institut Beauty Concept, institut de beauté au 16 rue de l'Étang à Rixheim : soins du visage, luminothérapie LED, beauté des mains et vernis semi-permanent, bons cadeaux. Horaires et rendez-vous.",
+ "ville": "Rixheim",
+ "adresse": "16 rue de l'Étang",
+ "cp_ville": "68170 Rixheim",
+ "maps_dest": "47.7426054,7.3962423",
+ "tel": "+33679747889",
+ "tel_affiche": "06 79 74 78 89",
+ "email": "riccioaude@gmail.com",
+ "facebook": "https://www.facebook.com/riccioaude/",
+ "note": "5,0",
+ "avis": 36,
+ "preuve_extra": "recommandé à 100 % sur Facebook",
+ "couleurs": {
+  "principale": "#2f4a43",
+  "accent": "#c9a27a"
+ },
+ "hero": "serviettes",
+ "hero_alt": "Une serviette bleu canard roulée sur une serviette blanche, sur la table de soin, devant le mur vert sauge",
+ "hero_pos": "50% 60%",
+ "accroche": "Institut de beauté, 16 rue de l'Étang à Rixheim",
+ "titre_lignes": [
+  "Beauty",
+  "Concept"
+ ],
+ "slogan": "Une cabine au calme, couleur sauge, pour prendre soin de votre visage et de vos mains.",
+ "offre_titre": "Les soins",
+ "offre_intro": "Sur rendez-vous, du lundi au vendredi.",
+ "offre": [
+  {
+   "titre": "Soins du visage",
+   "texte": "Nettoyage, masques, soins sur mesure"
+  },
+  {
+   "titre": "Luminothérapie LED",
+   "texte": "En complément de votre soin visage"
+  },
+  {
+   "titre": "Beauté des mains",
+   "texte": "Ongles naturels soignés"
+  },
+  {
+   "titre": "Vernis semi-permanent",
+   "texte": "Du nude aux teintes nacrées"
+  },
+  {
+   "titre": "Soin visage au cacao",
+   "texte": "Édition de Noël, du 16 novembre au 18 décembre : soin du visage, massage des mains, boisson gourmande",
+   "prix": "80 €"
+  },
+  {
+   "titre": "Bons cadeaux",
+   "texte": "Pour faire plaisir"
+  }
+ ],
+ "offre_note": "Pour les autres soins et les tarifs, appelez-nous au",
+ "galerie_titre": "À l'institut",
+ "photos": [
+  {
+   "img": "cabine",
+   "alt": "La cabine de soin : mur vert sauge, miroir en raphia, fleurs séchées et table de soin"
+  },
+  {
+   "img": "ongles-cuivre",
+   "alt": "Des ongles vernis rose framboise aux reflets cuivrés"
+  },
+  {
+   "img": "led",
+   "alt": "Le masque de luminothérapie LED allumé en rouge sur la table de soin"
+  },
+  {
+   "img": "ongles-naturels",
+   "alt": "Des ongles naturels soignés, vernis nude"
+  },
+  {
+   "img": "cabine-hiver",
+   "alt": "La cabine en hiver : plaid, serviette roulée, étoile en bois et coton"
+  }
+ ],
+ "bloc2": {
+  "titre": "Rue de l'Étang",
+  "texte": "Une cabine au calme à Rixheim : des murs vert sauge, des fleurs séchées dans leurs paniers en raphia, et une table de soin où prendre le temps.",
+  "img": "cabine"
+ },
+ "horaires": {
+  "lundi": [
+   "09:00-19:00"
+  ],
+  "mardi": [
+   "09:00-19:00"
+  ],
+  "mercredi": [
+   "09:00-12:00"
+  ],
+  "jeudi": [
+   "14:00-19:00"
+  ],
+  "vendredi": [
+   "09:00-19:00"
+  ],
+  "samedi": [],
+  "dimanche": []
+ }
+}
