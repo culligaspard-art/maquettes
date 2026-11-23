@@ -1,0 +1,64 @@
+{
+ "slug": "coiffure-domi",
+ "famille": "beaute",
+ "forme": "miroir",
+ "nom": "Coiffure Domi",
+ "activite": "Salon de coiffure à Wittenheim",
+ "description": "Coiffure Domi, 1d rue Saint-Cloud à Wittenheim : coupes femme, homme et enfant, couleurs, mèches, permanentes, coiffures de mariage. Tarifs, horaires et réservation en ligne.",
+ "ville": "Wittenheim",
+ "adresse": "1d rue Saint-Cloud",
+ "cp_ville": "68270 Wittenheim",
+ "maps_dest": "47.8103982,7.3369787",
+ "tel": "+33389500605",
+ "tel_affiche": "03 89 50 06 05",
+ "email": "coiffuredomi.contacts@gmail.com",
+ "resa_url": "https://www.planity.com/coiffure-domi-68270-wittenheim",
+ "facebook": "https://www.facebook.com/CoiffeurWittenheim",
+ "note": "4,8",
+ "avis": 116,
+ "preuve_extra": "et 5,0 sur Planity avec 47 avis",
+ "couleurs": {
+  "principale": "#3a2a4a",
+  "accent": "#9bc43b"
+ },
+ "hero": "chignon",
+ "hero_alt": "Un chignon bouclé piqué de roses orange, rouges et de gypsophile, réalisé au salon",
+ "hero_pos": "50% 40%",
+ "accroche": "Salon de coiffure, rue Saint-Cloud à Wittenheim",
+ "titre_lignes": ["Coiffure", "Domi"],
+ "slogan": "Coupes, couleurs, mèches et coiffures de mariage, pour femmes, hommes et enfants.",
+ "offre_titre": "Les prestations",
+ "offre_intro": "Quelques tarifs, tels qu'affichés pour la réservation en ligne. Les soins spécifiques (patine, masque) peuvent s'ajouter.",
+ "offre": [
+  {"titre": "Shampooing, coupe, brushing", "texte": "Cheveux courts, mi-longs ou longs", "prix": "47 € – 63 €"},
+  {"titre": "Coupe courte, séchage", "texte": "Cheveux fins", "prix": "42 €"},
+  {"titre": "Brushing", "texte": "Court, mi-long ou long", "prix": "27 € – 42 €"},
+  {"titre": "Couleur, coupe, brushing", "texte": "Cheveux longs", "prix": "143 €"},
+  {"titre": "Shampooing et coupe homme", "prix": "24 €"},
+  {"titre": "Couleur et coupe homme", "prix": "64 €"},
+  {"titre": "Enfants", "texte": "Garçons et filles, de 5 à 15 ans", "prix": "16 € – 32 €"},
+  {"titre": "Mèches, décoloration, permanente", "texte": "Forfaits en ligne ou au salon"},
+  {"titre": "Coiffure de mariage", "texte": "Sur rendez-vous"}
+ ],
+ "photos": [
+  {"img": "rouge", "alt": "Une couleur rouge vif, longue et lissée, réalisée au salon"},
+  {"img": "salon", "alt": "Le salon : fauteuils noirs, bacs, escalier métallique et néon violet"},
+  {"img": "accueil", "alt": "L'accueil sous les poutres vert anis, au soleil"},
+  {"img": "facade", "alt": "La façade du salon et son enseigne Coiffure DoMi, rue Saint-Cloud"},
+  {"img": "chignon", "alt": "Un chignon fleuri de mariée"}
+ ],
+ "bloc2": {
+  "titre": "Sous les poutres vert anis",
+  "texte": "Un salon lumineux au 1d rue Saint-Cloud, avec ses poutres vert anis, son escalier métallique et ses grandes vitrines. Rendez-vous en ligne 24 h sur 24, par téléphone, ou par SMS et WhatsApp au 07 50 44 98 40.",
+  "img": "accueil"
+ },
+ "horaires": {
+  "lundi": ["09:00-18:00"],
+  "mardi": ["09:00-18:00"],
+  "mercredi": [],
+  "jeudi": ["09:00-18:00"],
+  "vendredi": ["09:00-18:00"],
+  "samedi": [],
+  "dimanche": []
+ }
+}
