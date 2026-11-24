@@ -1,0 +1,101 @@
+{
+ "slug": "mala-ongles-et-cils",
+ "famille": "beaute",
+ "forme": "miroir",
+ "polices": 1,
+ "nom": "Mala – Ongles et Cils",
+ "activite": "Onglerie et extensions de cils à Rixheim",
+ "description": "Mala – Ongles et Cils, esthéticienne au 6 rue Eugène Steinmetz à Rixheim : pose de gel, nail art, extensions et rehaussement de cils. Horaires et rendez-vous.",
+ "ville": "Rixheim",
+ "adresse": "6 rue Eugène Steinmetz",
+ "cp_ville": "68170 Rixheim",
+ "maps_dest": "47.7616203,7.3932574",
+ "tel": "+33681644150",
+ "tel_affiche": "06 81 64 41 50",
+ "email": "mala.onglesetcils@gmail.com",
+ "facebook": "https://www.facebook.com/profile.php?id=100082633036655",
+ "note": "5,0",
+ "avis": 38,
+ "preuve_extra": "recommandée à 100 % sur Facebook",
+ "couleurs": {
+  "principale": "#3a2a26",
+  "accent": "#b8875a"
+ },
+ "hero": "table",
+ "hero_alt": "La table de pose blanche, le nuancier de vernis et la chaise rouge, devant le mur aux feuilles de ginkgo dorées",
+ "hero_pos": "50% 50%",
+ "accroche": "Esthéticienne, 6 rue Eugène Steinmetz à Rixheim",
+ "titre_lignes": [
+  "Mala",
+  "Ongles et Cils"
+ ],
+ "slogan": "Beauté des mains, du regard et du visage.",
+ "offre_titre": "Les soins",
+ "offre_intro": "Sur rendez-vous, du lundi au vendredi.",
+ "offre": [
+  {
+   "titre": "Ongles en gel",
+   "texte": "Amande, carrés, courts ou longs"
+  },
+  {
+   "titre": "Nail art",
+   "texte": "French colorée, coquillages, marbré, paillettes"
+  },
+  {
+   "titre": "Extensions de cils",
+   "texte": "Pour un regard intense, du naturel au plus fourni"
+  },
+  {
+   "titre": "Beauté du visage",
+   "texte": "Soins du regard et du visage"
+  }
+ ],
+ "offre_note": "Pour les tarifs et les disponibilités, appelez-nous au",
+ "galerie_titre": "Les poses",
+ "photos": [
+  {
+   "img": "corail",
+   "alt": "Des ongles en amande vernis corail, un ongle décoré d'un coquillage nacré et d'une perle"
+  },
+  {
+   "img": "cils",
+   "alt": "Un regard avec des extensions de cils"
+  },
+  {
+   "img": "rose-marbre",
+   "alt": "Des ongles roses : marbré rose et blanc, coquillage et perle"
+  },
+  {
+   "img": "french-rouge",
+   "alt": "Une french rouge sur ongles en amande, posée sur une fourrure blanche"
+  },
+  {
+   "img": "table",
+   "alt": "La table de pose, le nuancier de vernis et la chaise rouge"
+  }
+ ],
+ "bloc2": {
+  "titre": "Rue Eugène Steinmetz",
+  "texte": "Une table de pose blanche, un nuancier de couleurs et des feuilles de ginkgo dorées au mur : le salon de Mala, à Rixheim.",
+  "img": "mur-ginkgo"
+ },
+ "horaires": {
+  "lundi": [
+   "09:00-19:00"
+  ],
+  "mardi": [
+   "09:00-19:00"
+  ],
+  "mercredi": [
+   "08:30-19:00"
+  ],
+  "jeudi": [
+   "09:00-19:00"
+  ],
+  "vendredi": [
+   "09:00-19:00"
+  ],
+  "samedi": [],
+  "dimanche": []
+ }
+}
