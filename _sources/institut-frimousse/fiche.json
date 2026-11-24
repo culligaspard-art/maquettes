@@ -1,0 +1,102 @@
+{
+ "slug": "institut-frimousse",
+ "famille": "beaute",
+ "forme": "ongle",
+ "polices": 5,
+ "nom": "Institut Frimousse",
+ "activite": "Institut de beauté et onglerie à Rixheim",
+ "description": "Institut Frimousse – Spot Beauté, 1a rue de l'Étang à Rixheim : onglerie sur rendez-vous, épilation sans rendez-vous, soins du visage et du corps, minceur, LPG. Horaires et rendez-vous.",
+ "ville": "Rixheim",
+ "adresse": "1a rue de l'Étang",
+ "cp_ville": "68170 Rixheim",
+ "maps_dest": "47.7431546,7.3986008",
+ "tel": "+33389544733",
+ "tel_affiche": "03 89 54 47 33",
+ "email": "institutfrimousserixheim@gmail.com",
+ "resa_url": "https://booksy.com/fr-fr/4459_frimousse-spot-beautee-institut_onglerie_79404_rixheim",
+ "facebook": "https://www.facebook.com/profile.php?id=100084038081221",
+ "instagram": "https://www.instagram.com/frimousse_institut/",
+ "note": "4,2",
+ "avis": 77,
+ "couleurs": {
+  "principale": "#3d1f2b",
+  "accent": "#8a3550"
+ },
+ "hero": "salle",
+ "hero_alt": "L'institut : le bar à ongles blanc et ses tabourets, le mur prune et les grands yuccas",
+ "hero_pos": "50% 55%",
+ "accroche": "Spot Beauté, 1a rue de l'Étang à Rixheim",
+ "titre_lignes": [
+  "Frimousse",
+  "Spot Beauté"
+ ],
+ "slogan": "Onglerie sur rendez-vous, épilation sans rendez-vous.",
+ "offre_titre": "Les soins",
+ "offre_intro": "Du mardi au samedi. L'épilation se fait sans rendez-vous ; pour l'onglerie, réservez 48 h à l'avance.",
+ "offre": [
+  {
+   "titre": "Onglerie",
+   "texte": "Sur rendez-vous, 48 h à l'avance"
+  },
+  {
+   "titre": "Épilation",
+   "texte": "Sans rendez-vous"
+  },
+  {
+   "titre": "Soins du visage et du corps",
+   "texte": "Dont les soins anti-âge"
+  },
+  {
+   "titre": "Minceur",
+   "texte": "Avec l'endermologie LPG"
+  }
+ ],
+ "offre_note": "Pour les tarifs et les disponibilités, réservez en ligne ou appelez-nous au",
+ "galerie_titre": "À l'institut",
+ "photos": [
+  {
+   "img": "ongles-feuillage",
+   "alt": "Des ongles en amande, en dégradé rose et blanc, décorés de feuillages blancs et de feuille d'or"
+  },
+  {
+   "img": "nuancier",
+   "alt": "Le nuancier de vernis en spirale, de toutes les couleurs"
+  },
+  {
+   "img": "ongles-nude",
+   "alt": "Des ongles courts en dégradé nude et blanc, posés sur des fleurs roses"
+  },
+  {
+   "img": "salle",
+   "alt": "Le bar à ongles et le mur prune de l'institut"
+  },
+  {
+   "img": "vitrine",
+   "alt": "La vitrine : onglerie, épilation sans rendez-vous, minceur, soins anti-âge, soins visage et corps"
+  }
+ ],
+ "bloc2": {
+  "titre": "Rue de l'Étang",
+  "texte": "Un bar à ongles, un mur prune et une vitrine qui annonce la couleur : poussez la porte, l'épilation se fait sans rendez-vous.",
+  "img": "sans-rdv"
+ },
+ "horaires": {
+  "lundi": [],
+  "mardi": [
+   "09:00-19:00"
+  ],
+  "mercredi": [
+   "09:00-19:00"
+  ],
+  "jeudi": [
+   "09:00-19:00"
+  ],
+  "vendredi": [
+   "09:00-19:00"
+  ],
+  "samedi": [
+   "09:00-17:00"
+  ],
+  "dimanche": []
+ }
+}
