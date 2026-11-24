@@ -1,0 +1,101 @@
+{
+ "slug": "mon-boudoir-beaute",
+ "famille": "beaute",
+ "forme": "ongle",
+ "polices": 0,
+ "nom": "Mon Boudoir Beauté",
+ "activite": "Institut de beauté à Rixheim",
+ "description": "Mon Boudoir Beauté, institut de beauté au 44 avenue du Général de Gaulle à Rixheim : soins du visage, beauté des mains, vernis, produits de soin. Horaires et rendez-vous en ligne.",
+ "ville": "Rixheim",
+ "adresse": "44 avenue du Général de Gaulle",
+ "cp_ville": "68170 Rixheim",
+ "maps_dest": "47.7466863,7.4010719",
+ "tel": "+33619947447",
+ "tel_affiche": "06 19 94 74 47",
+ "email": "monboudoirbeaute68@gmail.com",
+ "resa_url": "https://lsrdv.com/monboudoirbeaute",
+ "facebook": "https://www.facebook.com/monboudoirbeaute68",
+ "note": "5,0",
+ "avis": 25,
+ "couleurs": {
+  "principale": "#2b2228",
+  "accent": "#c834a7"
+ },
+ "logo": "logo",
+ "logo_blanc": "logo-blanc",
+ "hero": "accueil",
+ "hero_alt": "L'accueil de l'institut : le comptoir blanc au logo Mon Boudoir Beauté, le fauteuil capitonné rose et l'étagère de soins",
+ "hero_pos": "50% 55%",
+ "accroche": "Institut de beauté, 44 avenue du Général de Gaulle à Rixheim",
+ "titre_lignes": [
+  "Mon Boudoir",
+  "Beauté"
+ ],
+ "slogan": "Julia et Natalia vous accueillent dans une ambiance chaleureuse et chic.",
+ "offre_titre": "Les soins",
+ "offre_intro": "Sur rendez-vous, en ligne ou par téléphone.",
+ "offre": [
+  {
+   "titre": "Soins du visage",
+   "texte": "En cabine, au calme"
+  },
+  {
+   "titre": "Beauté des mains",
+   "texte": "Ongles soignés, mis en forme"
+  },
+  {
+   "titre": "Vernis",
+   "texte": "Du rose pâle au framboise et au bordeaux"
+  },
+  {
+   "titre": "Produits de soin",
+   "texte": "À retrouver sur les étagères de l'institut"
+  }
+ ],
+ "offre_note": "Pour la liste complète des soins et les tarifs, réservez en ligne ou appelez-nous au",
+ "galerie_titre": "À l'institut",
+ "photos": [
+  {
+   "img": "accueil",
+   "alt": "L'accueil de l'institut : le comptoir blanc au logo Mon Boudoir Beauté, le fauteuil capitonné rose et l'étagère de soins"
+  },
+  {
+   "img": "ongles-framboise",
+   "alt": "Des ongles vernis framboise, tenus dans une main gantée de noir"
+  },
+  {
+   "img": "soin-visage",
+   "alt": "Un soin du visage en cabine, la cliente allongée sous une serviette bleue"
+  },
+  {
+   "img": "vernis",
+   "alt": "Une rangée de flacons de vernis, du rose pâle au bordeaux, sur le comptoir"
+  },
+  {
+   "img": "facade",
+   "alt": "La façade blanche de l'institut et son enseigne Mon Boudoir Beauté"
+  }
+ ],
+ "bloc2": {
+  "titre": "Avenue du Général de Gaulle",
+  "texte": "Des murs roses, des carreaux de ciment noir et blanc et un fauteuil capitonné : un petit boudoir où prendre le temps.",
+  "img": "fauteuil"
+ },
+ "horaires": {
+  "lundi": [
+   "14:00-19:00"
+  ],
+  "mardi": [],
+  "mercredi": [
+   "14:00-19:00"
+  ],
+  "jeudi": [
+   "08:30-14:00"
+  ],
+  "vendredi": [
+   "08:30-14:00"
+  ],
+  "samedi": [],
+  "dimanche": []
+ }
+}

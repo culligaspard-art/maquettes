@@ -229,7 +229,7 @@ def main():
 
     journal = (ICI / "journal-design.md").read_text(encoding="utf-8") if (ICI / "journal-design.md").exists() else ""
     polices = choisir_polices(fam, fiche["slug"], journal)
-    if fiche.get("polices"):  # forcer un jeu précis : liste d'indices de FAMILLES[fam]["polices"]
+    if fiche.get("polices") is not None:  # forcer un jeu précis : liste d'indices de FAMILLES[fam]["polices"]
         polices = FAMILLES[fam]["polices"][int(fiche["polices"])]
     c = palette(fiche, dossier)
 

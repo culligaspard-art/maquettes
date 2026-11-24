@@ -1,0 +1,32 @@
+{
+ "fonts": [
+  {
+   "key": "titre",
+   "family": "bodoni-moda",
+   "variable": true,
+   "style": "italic"
+  },
+  {
+   "key": "texte",
+   "family": "jost",
+   "variable": true
+  }
+ ],
+ "horaires": {
+  "lundi": [
+   "14:00-19:00"
+  ],
+  "mardi": [],
+  "mercredi": [
+   "14:00-19:00"
+  ],
+  "jeudi": [
+   "08:30-14:00"
+  ],
+  "vendredi": [
+   "08:30-14:00"
+  ],
+  "samedi": [],
+  "dimanche": []
+ }
+}
