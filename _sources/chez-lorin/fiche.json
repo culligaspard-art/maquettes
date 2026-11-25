@@ -1,0 +1,125 @@
+{
+ "slug": "chez-lorin",
+ "famille": "restaurant",
+ "polices": 10,
+ "nom": "Chez Lorin",
+ "activite": "Restaurant turc, kebab, pizzas et pide",
+ "description": "Chez Lorin, restaurant au 2a parc Denise Ferrier à Pfastatt : kebab, pizzas, pide, tacos, paninis et salades, pain frais et tiramisu faits maison. Sur place ou à emporter. Horaires et accès.",
+ "ville": "Pfastatt",
+ "adresse": "2a parc Denise Ferrier",
+ "cp_ville": "68120 Pfastatt",
+ "maps_dest": "47.7665419,7.3165127",
+ "tel": "+33389508882",
+ "tel_affiche": "03 89 50 88 82",
+ "email": "celine.kork63@gmail.com",
+ "note": "4,8",
+ "avis": 129,
+ "couleurs": {
+  "principale": "#2a2321",
+  "accent": "#d2301f"
+ },
+ "hero": "pains",
+ "hero_alt": "Quatre pains maison dorés au sésame, tout juste sortis du four",
+ "hero_pos": "50% 50%",
+ "accroche": "Restaurant, 2a parc Denise Ferrier à Pfastatt",
+ "titre_lignes": [
+  "Chez",
+  "Lorin"
+ ],
+ "slogan": "Kebab, pizzas, pide et gratins, avec notre pain frais toujours fait maison. Une carte très variée, du midi au soir.",
+ "offre_titre": "La carte",
+ "offre_intro": "Une carte très variée, avec une touche fait maison. Pour les prix et les formules, appelez-nous au 03 89 50 88 82.",
+ "offre": [
+  {
+   "titre": "Kebab",
+   "texte": "En sandwich dans notre pain maison, ou en assiette avec boulgour, salade et sauce blanche."
+  },
+  {
+   "titre": "Pizzas",
+   "texte": "Végétarienne aux poivrons, champignons et olives, jambon fromage, et toutes les autres de la carte."
+  },
+  {
+   "titre": "Pide",
+   "texte": "La pizza turque, en barque."
+  },
+  {
+   "titre": "Gratins",
+   "texte": "Pâtes à la crème gratinées, servies avec une salade."
+  },
+  {
+   "titre": "Tacos et paninis",
+   "texte": "Pour le midi, sur place ou à emporter."
+  },
+  {
+   "titre": "Salades",
+   "texte": "Salade, tomates, chou rouge, oignons."
+  },
+  {
+   "titre": "Desserts",
+   "texte": "Notre tiramisu fait maison, en plusieurs parfums."
+  }
+ ],
+ "encart": {
+  "titre": "Le pain maison",
+  "texte": "Notre pain est toujours fait maison : il sort du four doré et parsemé de sésame, pour vos kebabs et vos assiettes."
+ },
+ "photos": [
+  {
+   "img": "pizza-legumes",
+   "alt": "Une pizza végétarienne aux poivrons, champignons, tomates et olives noires"
+  },
+  {
+   "img": "desserts-salle",
+   "alt": "Des tiramisus maison sur un plateau, devant les chaises rouges de la salle"
+  },
+  {
+   "img": "gratin",
+   "alt": "Un gratin de pâtes à la crème et sa salade"
+  },
+  {
+   "img": "kebab",
+   "alt": "Un kebab dans son pain maison, avec salade, tomates et sauce blanche"
+  },
+  {
+   "img": "pizza-jambon",
+   "alt": "Une pizza jambon fromage dans sa boîte à emporter"
+  },
+  {
+   "img": "assiette-kebab",
+   "alt": "Une assiette kebab : viande grillée, boulgour, salade, tomates, chou rouge et sauce blanche"
+  }
+ ],
+ "bloc2": {
+  "titre": "Parc Denise Ferrier",
+  "texte": "Chez Lorin, au 2a parc Denise Ferrier à Pfastatt : une salle aux chaises rouges, une carte très variée et une touche fait maison, du pain au tiramisu. Sur place ou à emporter, du mardi au dimanche, midi et soir.",
+  "img": "desserts-salle",
+  "alt": "La salle de Chez Lorin"
+ },
+ "horaires": {
+  "lundi": [],
+  "mardi": [
+   "11:00-14:00",
+   "17:00-22:00"
+  ],
+  "mercredi": [
+   "11:00-14:00",
+   "17:00-22:00"
+  ],
+  "jeudi": [
+   "11:00-14:00",
+   "17:00-22:00"
+  ],
+  "vendredi": [
+   "11:00-14:00",
+   "17:00-22:00"
+  ],
+  "samedi": [
+   "11:00-14:00",
+   "17:00-22:00"
+  ],
+  "dimanche": [
+   "11:00-14:00",
+   "17:00-22:00"
+  ]
+ }
+}
