@@ -1,0 +1,116 @@
+{
+ "slug": "ivana-beauty-studio",
+ "famille": "beaute",
+ "forme": "amande",
+ "polices": 6,
+ "nom": "Ivana Beauty Studio",
+ "activite": "Extensions de cils, microblading et sourcils à Cernay",
+ "description": "Ivana Beauty Studio, au 10 rue Saint-Joseph à Cernay : extensions de cils cil à cil, 3D, 5D et volume russe, rehaussement de cils, microblading, sourcils au henné, extensions de cheveux. Tarifs, horaires et contact.",
+ "ville": "Cernay",
+ "adresse": "10 rue Saint-Joseph",
+ "cp_ville": "68700 Cernay",
+ "maps_dest": "47.8015293,7.1775057",
+ "tel": "+33784595901",
+ "tel_affiche": "07 84 59 59 01",
+ "email": "ivana86ns@live.com",
+ "facebook": "https://www.facebook.com/profile.php?id=61566808966965",
+ "instagram": "https://www.instagram.com/ivanabeautystudio2024/",
+ "note": "5,0",
+ "avis": 33,
+ "couleurs": {
+  "principale": "#5b2a4e",
+  "accent": "#d98fb0"
+ },
+ "hero": "cils-mixte",
+ "hero_alt": "Un œil aux extensions de cils mixtes, longues et légères",
+ "accroche": "Cils, sourcils et extensions de cheveux, 10 rue Saint-Joseph à Cernay",
+ "titre_lignes": [
+  "Ivana",
+  "Beauty Studio"
+ ],
+ "slogan": "Extensions de cils, microblading et sourcils au henné.",
+ "offre_titre": "Les tarifs",
+ "offre_intro": "Les prestations du studio et leurs prix, repris de notre grille de tarifs.",
+ "offre": [
+  {
+   "titre": "Extensions de cils, cil à cil",
+   "texte": "Remplissage 40 €",
+   "prix": "60 €"
+  },
+  {
+   "titre": "Cils 3D, 5D, wispy ou mixtes",
+   "texte": "Remplissage 50 €",
+   "prix": "70 €"
+  },
+  {
+   "titre": "Volume russe",
+   "texte": "Remplissage 60 €",
+   "prix": "80 €"
+  },
+  {
+   "titre": "Rehaussement de cils",
+   "texte": "Avec teinture",
+   "prix": "50 €"
+  },
+  {
+   "titre": "Microblading",
+   "texte": "Retouche après 3 à 4 semaines, ou annuelle : 100 €",
+   "prix": "170 €"
+  },
+  {
+   "titre": "Épilation des sourcils",
+   "texte": "À la pince",
+   "prix": "15 €"
+  },
+  {
+   "titre": "Extensions de cheveux à la kératine",
+   "texte": "Pose à la mèche, dépose 50 €",
+   "prix": "1,50 € la mèche"
+  }
+ ],
+ "offre_note": "Aussi au studio : sourcils au henné et dépose de cils (20 €). Pour un rendez-vous, appelez-nous au",
+ "galerie_titre": "Avant, après",
+ "photos": [
+  {
+   "img": "cils-mixte",
+   "alt": "Extensions de cils mixtes sur un œil marron"
+  },
+  {
+   "img": "cils-yeux-bleus",
+   "alt": "Extensions de cils sur un œil bleu"
+  },
+  {
+   "img": "sourcils-avant-apres",
+   "alt": "Un sourcil avant et après, redessiné et plus dense",
+   "pos": "50% 70%"
+  },
+  {
+   "img": "volume",
+   "alt": "Des cils en volume sur deux yeux bleus",
+   "pos": "30% 50%"
+  },
+  {
+   "img": "regard",
+   "alt": "Un regard aux cils allongés et aux sourcils redessinés",
+   "pos": "22% 50%"
+  },
+  {
+   "img": "extensions-cheveux",
+   "alt": "Des cheveux châtains avant et après la pose d'extensions, devant le miroir lumineux du studio"
+  }
+ ],
+ "bloc2": {
+  "titre": "Rue Saint-Joseph",
+  "texte": "Le studio d'Ivana est au 10 rue Saint-Joseph, à Cernay : l'enseigne Ivana Beauty Studio est sur le portail blanc. Nous recevons du lundi au vendredi de 8 h à 17 h, et le samedi de 10 h à 17 h. Pour un rendez-vous, appelez-nous ou écrivez-nous.",
+  "img": "portail"
+ },
+ "horaires": {
+  "lundi": ["08:00-17:00"],
+  "mardi": ["08:00-17:00"],
+  "mercredi": ["08:00-17:00"],
+  "jeudi": ["08:00-17:00"],
+  "vendredi": ["08:00-17:00"],
+  "samedi": ["10:00-17:00"],
+  "dimanche": []
+ }
+}

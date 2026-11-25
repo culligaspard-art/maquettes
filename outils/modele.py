@@ -29,6 +29,7 @@ FAMILLES = {
             [("titre", "italiana", False, "normal", 400), ("texte", "karla", True, "normal", None)],
             [("titre", "marcellus", False, "normal", 400), ("texte", "mulish", True, "normal", None)],
             [("titre", "syne", True, "normal", None), ("texte", "inter-tight", True, "normal", None)],
+            [("titre", "prata", False, "normal", 400), ("texte", "albert-sans", True, "normal", None)],
         ],
     },
     "emporter": {

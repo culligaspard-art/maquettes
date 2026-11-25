@@ -1,0 +1,35 @@
+{
+ "fonts": [
+  {
+   "key": "titre",
+   "family": "prata",
+   "weight": 400
+  },
+  {
+   "key": "texte",
+   "family": "albert-sans",
+   "variable": true
+  }
+ ],
+ "horaires": {
+  "lundi": [
+   "08:00-17:00"
+  ],
+  "mardi": [
+   "08:00-17:00"
+  ],
+  "mercredi": [
+   "08:00-17:00"
+  ],
+  "jeudi": [
+   "08:00-17:00"
+  ],
+  "vendredi": [
+   "08:00-17:00"
+  ],
+  "samedi": [
+   "10:00-17:00"
+  ],
+  "dimanche": []
+ }
+}
