@@ -1,0 +1,139 @@
+{
+ "slug": "coq-o-grill",
+ "famille": "restaurant",
+ "polices": 4,
+ "nom": "Coq'O Grill",
+ "activite": "Churrasqueira, poulet grillé",
+ "description": "Coq'O Grill, churrasqueira au 10 rue Théodore Deck à Guebwiller : poulet grillé au feu de bois, marinade pimentée, persillade ou coriandre, brochettes, bitoque, pastel de nata. Sur place ou à emporter. Carte et horaires.",
+ "ville": "Guebwiller",
+ "adresse": "10 rue Théodore Deck",
+ "cp_ville": "68500 Guebwiller",
+ "maps_dest": "47.9022566,7.2157057",
+ "tel": "+33983525049",
+ "tel_affiche": "09 83 52 50 49",
+ "email": "pamelanellino@hotmail.fr",
+ "facebook": "https://www.facebook.com/100092211409015/",
+ "note": "4,8",
+ "avis": 289,
+ "couleurs": {
+  "principale": "#8e1f14",
+  "accent": "#f08a1c"
+ },
+ "hero": "demi-poulet",
+ "hero_alt": "Un demi-poulet grillé à la churrasco, frites et salade, dans une assiette en terre cuite peinte",
+ "hero_pos": "55% 45%",
+ "accroche": "Churrasqueira, 10 rue Théodore Deck à Guebwiller",
+ "titre_lignes": [
+  "Coq'O Grill"
+ ],
+ "slogan": "Le poulet grillé façon churrasco, marinade au choix : pimentée, persillade ou coriandre. Sur place ou à emporter.",
+ "offre_titre": "La carte",
+ "offre_intro": "Tous nos plats sont servis avec frites et salade. Marinade au choix : pimentée, persillade, coriandre.",
+ "offre": [
+  {
+   "titre": "Demi-poulet",
+   "texte": "Façon churrasco.",
+   "prix": "13,90 €"
+  },
+  {
+   "titre": "Poulet entier",
+   "texte": "1 kg, une frite, une salade.",
+   "prix": "18,90 €"
+  },
+  {
+   "titre": "Cuisse de poulet désossée",
+   "texte": "350 g.",
+   "prix": "15,90 €"
+  },
+  {
+   "titre": "Brochettes de poulet",
+   "texte": "Deux pièces, environ 200 g.",
+   "prix": "13,90 €"
+  },
+  {
+   "titre": "Brochettes de bœuf",
+   "texte": "Deux pièces, environ 200 g. Ou mix deux brochettes, même prix.",
+   "prix": "14,90 €"
+  },
+  {
+   "titre": "Burger maison",
+   "texte": "Cuisse de poulet désossée, salade, tomate, oignons, cornichons, cheddar.",
+   "prix": "14,90 €"
+  },
+  {
+   "titre": "Bavette d'aloyau",
+   "texte": "300 g, marinade du chef.",
+   "prix": "18,90 €"
+  },
+  {
+   "titre": "Bitoque",
+   "texte": "Escalope de veau de 250 g, œuf au plat, riz et salade.",
+   "prix": "23,90 €"
+  },
+  {
+   "titre": "Pastel de nata",
+   "texte": "Le dessert portugais.",
+   "prix": "2,60 €"
+  }
+ ],
+ "encart": {
+  "titre": "À emporter",
+  "texte": "Poulet entier à 13,50 €, demi-poulet à 7 €, cuisse désossée, brochettes, rissóis et accras de morue : la carte à emporter est sur notre ardoise. Commandez au 09 83 52 50 49."
+ },
+ "photos": [
+  {
+   "img": "assiette-poulet",
+   "alt": "Une cuisse de poulet grillée et marinée, frites et salade, dans l'assiette en terre peinte"
+  },
+  {
+   "img": "salle-tram",
+   "alt": "La salle : tables en bois clair, chaises noires, et le tram jaune de Lisbonne au mur"
+  },
+  {
+   "img": "salle-jaune",
+   "alt": "La petite salle au mur jaune, sa table en bois et ses plantes suspendues"
+  },
+  {
+   "img": "flyer",
+   "alt": "Le flyer de Coq'O Grill : le coq au pouce levé devant les flammes"
+  },
+  {
+   "img": "ardoise",
+   "alt": "L'ardoise des tarifs à emporter : poulet entier, demi-poulet, brochettes, rissóis, pastel de nata"
+  },
+  {
+   "img": "demi-poulet",
+   "alt": "Un demi-poulet grillé, frites et salade"
+  }
+ ],
+ "bloc2": {
+  "titre": "Churrasqueira",
+  "texte": "Au 10 rue Théodore Deck, à Guebwiller : le poulet grillé à la portugaise, servi dans des assiettes en terre peinte, des rissóis, des accras de morue et des pastéis de nata. Des tables en bois clair, et le tram jaune de Lisbonne au mur. Viandes d'origine France ou Union européenne.",
+  "img": "salle-tram",
+  "alt": "La salle de Coq'O Grill"
+ },
+ "horaires": {
+  "lundi": [],
+  "mardi": [
+   "12:00-14:00",
+   "18:30-21:00"
+  ],
+  "mercredi": [
+   "12:00-14:00",
+   "18:30-21:00"
+  ],
+  "jeudi": [
+   "12:00-14:00",
+   "18:30-21:00"
+  ],
+  "vendredi": [
+   "12:00-14:00",
+   "18:30-21:00"
+  ],
+  "samedi": [
+   "12:00-14:00",
+   "18:30-21:00"
+  ],
+  "dimanche": []
+ }
+}
