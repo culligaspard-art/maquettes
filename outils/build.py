@@ -27,7 +27,8 @@ JOURS = [("lundi", "Lundi", 1), ("mardi", "Mardi", 2), ("mercredi", "Mercredi", 
 
 def font_file(spec):
     fam, var, st = spec["family"], spec.get("variable", False), spec.get("style", "normal")
-    name = f"{fam}-latin-wght-{st}.woff2" if var else f"{fam}-latin-{spec.get('weight', 400)}-{st}.woff2"
+    sub = spec.get("subset", "latin")  # "vietnamese" pour les caractères ở, ố, ắ…
+    name = f"{fam}-{sub}-wght-{st}.woff2" if var else f"{fam}-{sub}-{spec.get('weight', 400)}-{st}.woff2"
     CACHE.mkdir(parents=True, exist_ok=True)
     out = CACHE / name
     if out.exists():

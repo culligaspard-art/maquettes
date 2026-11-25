@@ -1,0 +1,51 @@
+{
+ "fonts": [
+  {
+   "key": "titre",
+   "family": "fraunces",
+   "variable": true
+  },
+  {
+   "key": "texte",
+   "family": "work-sans",
+   "variable": true
+  },
+  {
+   "key": "titre-vi",
+   "family": "fraunces",
+   "variable": true,
+   "subset": "vietnamese"
+  },
+  {
+   "key": "texte-vi",
+   "family": "work-sans",
+   "variable": true,
+   "subset": "vietnamese"
+  }
+ ],
+ "horaires": {
+  "lundi": [
+   "12:00-14:00",
+   "18:30-21:30"
+  ],
+  "mardi": [
+   "12:00-14:00",
+   "18:30-21:30"
+  ],
+  "mercredi": [
+   "12:00-14:00",
+   "18:30-21:30"
+  ],
+  "jeudi": [],
+  "vendredi": [
+   "18:30-21:30"
+  ],
+  "samedi": [
+   "12:00-14:00",
+   "18:30-21:30"
+  ],
+  "dimanche": [
+   "10:00-14:00"
+  ]
+ }
+}

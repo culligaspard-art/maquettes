@@ -1,0 +1,153 @@
+{
+ "slug": "vanny",
+ "famille": "restaurant",
+ "polices": 0,
+ "nom": "Vanny",
+ "activite": "Restaurant vietnamien",
+ "description": "Vanny, le phở de mamie : restaurant vietnamien au 34 rue de Hirschau à Kingersheim. Phở au bouillon de bœuf mijoté, rouleaux de printemps, nems et raviolis faits maison, sur place ou à emporter. Carte, horaires et accès.",
+ "ville": "Kingersheim",
+ "adresse": "34 rue de Hirschau",
+ "cp_ville": "68260 Kingersheim",
+ "maps_dest": "47.7908333,7.3385667",
+ "tel": "+33389486387",
+ "tel_affiche": "03 89 48 63 87",
+ "email": "contact@vanny-restaurant.fr",
+ "facebook": "https://www.facebook.com/profile.php?id=61571669956157",
+ "note": "4,9",
+ "avis": 291,
+ "couleurs": {
+  "principale": "#5c3e2e",
+  "accent": "#4f8a8b"
+ },
+ "logo": "logo-blanc",
+ "logo_blanc": "logo-blanc",
+ "hero": "pho-boulettes",
+ "hero_alt": "Un bol de phở vu de dessus : nouilles de riz, tranches de bœuf, boulettes, herbes fraîches et bouillon dans un bol bleu",
+ "hero_pos": "50% 64%",
+ "accroche": "Restaurant vietnamien, rue de Hirschau à Kingersheim",
+ "titre_lignes": [
+  "Vanny"
+ ],
+ "slogan": "Le phở de mamie. Un bouillon de bœuf mijoté pendant plusieurs heures, sur place ou à emporter.",
+ "offre_titre": "La carte",
+ "offre_intro": "Chaque phở est servi avec un thé glacé offert.",
+ "offre": [
+  {
+   "titre": "Phở, grand bol",
+   "texte": "Nouilles de riz, fines tranches de bœuf, jarret, boulettes de bœuf faites maison, dans un bouillon de bœuf mijoté pendant plusieurs heures. Seconde portion : 10 €.",
+   "prix": "16 €"
+  },
+  {
+   "titre": "Phở, bol moyen",
+   "texte": "La même recette. Seconde portion : 7 €.",
+   "prix": "13,50 €"
+  },
+  {
+   "titre": "Phở kids",
+   "texte": "Pour les enfants, avec son thé glacé.",
+   "prix": "9 €"
+  },
+  {
+   "titre": "Bò lúc lắc",
+   "texte": "Bœuf tendre mariné et sauté, riz, crudités et sauce maison.",
+   "prix": "13,50 €"
+  },
+  {
+   "titre": "Gỏi cuốn",
+   "texte": "Deux rouleaux de printemps, poulet et crevette ou végétariens.",
+   "prix": "7,50 €"
+  },
+  {
+   "titre": "Chả giò",
+   "texte": "Trois nems au poulet, faits maison.",
+   "prix": "7,50 €"
+  },
+  {
+   "titre": "Hoành thánh",
+   "texte": "Trois raviolis frits aux crevettes et pousses de bambou, faits maison.",
+   "prix": "7,50 €"
+  },
+  {
+   "titre": "Bánh bao",
+   "texte": "Deux brioches vapeur, crevette et pousse de bambou.",
+   "prix": "7,50 €"
+  },
+  {
+   "titre": "Gỏi gà ou gỏi tôm",
+   "texte": "Salade vietnamienne au poulet, aux crevettes ou végétarienne. En plat : 14 €.",
+   "prix": "7,50 €"
+  }
+ ],
+ "encart": {
+  "titre": "Sur place ou à emporter",
+  "texte": "Le midi et le soir, fermé le jeudi. Pour commander à emporter, appelez le 03 89 48 63 87."
+ },
+ "photos": [
+  {
+   "img": "pho-bol",
+   "alt": "Un phở aux pousses de soja, boulettes et herbes dans un bol en terre, sur une table en bois"
+  },
+  {
+   "img": "goi-cuon",
+   "alt": "Deux rouleaux de printemps aux crevettes avec leurs deux sauces, cacahuètes concassées"
+  },
+  {
+   "img": "goi-salade",
+   "alt": "Deux salades vietnamiennes aux carottes, chou, herbes et cacahuètes, avec des baguettes"
+  },
+  {
+   "img": "pho-sriracha",
+   "alt": "Un phở au bœuf nappé de sauce pimentée, oignons et coriandre, dans un bol bleu"
+  },
+  {
+   "img": "carte-pho",
+   "alt": "La carte des phở affichée par le restaurant : The best phở in town"
+  },
+  {
+   "img": "carte-entrees",
+   "alt": "La carte des entrées affichée par le restaurant"
+  }
+ ],
+ "bloc2": {
+  "titre": "Le phở de mamie",
+  "texte": "C'est la devise de Vanny, écrite sous son logo : une mamie souriante au-dessus d'un bol fumant. Au menu, le phở au bœuf avec ses boulettes faites maison, et depuis septembre de nouveaux plats : bò lúc lắc, nems au poulet et raviolis frits, faits maison eux aussi.",
+  "img": "pho-sriracha",
+  "alt": "Un phở au bœuf nappé de sauce pimentée dans un bol bleu",
+  "faits": [
+   {
+    "k": "Midi et soir",
+    "v": "De 12 h à 14 h et de 18 h 30 à 21 h 30."
+   },
+   {
+    "k": "Fermé le jeudi",
+    "v": "Le vendredi le soir seulement, le dimanche de 10 h à 14 h."
+   }
+  ]
+ },
+ "resa_url": null,
+ "horaires": {
+  "lundi": [
+   "12:00-14:00",
+   "18:30-21:30"
+  ],
+  "mardi": [
+   "12:00-14:00",
+   "18:30-21:30"
+  ],
+  "mercredi": [
+   "12:00-14:00",
+   "18:30-21:30"
+  ],
+  "jeudi": [],
+  "vendredi": [
+   "18:30-21:30"
+  ],
+  "samedi": [
+   "12:00-14:00",
+   "18:30-21:30"
+  ],
+  "dimanche": [
+   "10:00-14:00"
+  ]
+ }
+}
