@@ -1,0 +1,107 @@
+{
+ "slug": "griffes-de-fee",
+ "famille": "beaute",
+ "forme": "amande",
+ "polices": 2,
+ "nom": "Griffes de Fée",
+ "activite": "Institut de beauté, head spa et drainage lymphatique à Wittelsheim",
+ "description": "Griffes de Fée, institut de beauté au 7 rue Poniatowski à Wittelsheim : head spa, drainage lymphatique, ongles, rehaussement coréen des cils, jelly spa des pieds et anniversaires à l'institut pour les enfants. Sur rendez-vous.",
+ "ville": "Wittelsheim",
+ "adresse": "7 rue Poniatowski",
+ "cp_ville": "68310 Wittelsheim",
+ "maps_dest": "47.7939511,7.2326974",
+ "tel": "+33634590415",
+ "tel_affiche": "06 34 59 04 15",
+ "email": "aurore.nestelhut@gmail.com",
+ "facebook": "https://www.facebook.com/Griffesdefee/",
+ "note": "5,0",
+ "avis": 44,
+ "couleurs": {
+  "principale": "#3a2722",
+  "accent": "#c9a46b"
+ },
+ "hero": "head-spa",
+ "hero_alt": "Le bac du head spa : une longue chevelure sous l'arche dorée, dans l'eau et la mousse",
+ "hero_pos": "50% 35%",
+ "accroche": "Institut de beauté, 7 rue Poniatowski à Wittelsheim",
+ "titre_lignes": [
+  "Griffes",
+  "de Fée"
+ ],
+ "slogan": "Head spa, drainage lymphatique, ongles et rehaussement des cils. Un moment pour lâcher prise, sur rendez-vous.",
+ "offre_titre": "Les soins",
+ "offre_intro": "Nous vous recevons sur rendez-vous, du lundi au samedi.",
+ "offre_note": "Pour un rendez-vous ou les tarifs des soins, appelez-nous au",
+ "offre": [
+  {
+   "titre": "Head spa",
+   "texte": "Un soin du cuir chevelu et du haut du corps, entre soin et massages, pour un vrai lâcher-prise."
+  },
+  {
+   "titre": "Drainage lymphatique",
+   "texte": "Sur rendez-vous, à l'institut."
+  },
+  {
+   "titre": "Ongles",
+   "texte": "Décors léopard, paillettes d'or, dégradés nude : vos mains comme vous les aimez."
+  },
+  {
+   "titre": "Rehaussement coréen",
+   "texte": "Le rehaussement de vos cils naturels."
+  },
+  {
+   "titre": "Jelly spa des pieds",
+   "texte": "Avec un soin anti-callosités, pour des pieds tout doux."
+  },
+  {
+   "titre": "Anniversaire à l'institut",
+   "texte": "De 4 à 13 ans, 10 enfants au plus, pendant 2 h : atelier beauté, création DIY, shooting photo et goûter. Chaque enfant repart avec sa création. 6 enfants inclus, 5 € par enfant en plus, gâteau et boisson 20 €. Invitations fournies, réservation validée après acompte.",
+   "prix": "dès 120 €"
+  }
+ ],
+ "galerie_titre": "En images",
+ "photos": [
+  {
+   "img": "ongles-leopard",
+   "alt": "Des ongles chocolat et nude à pois léopard, une bague dorée, sur une page de magazine"
+  },
+  {
+   "img": "head-spa",
+   "alt": "Le bac du head spa et son arche dorée"
+  },
+  {
+   "img": "rehaussement",
+   "alt": "Trois regards après un rehaussement coréen des cils"
+  },
+  {
+   "img": "ongles-or",
+   "alt": "Des ongles nude aux paillettes d'or et en dégradé blanc, une bague dorée"
+  }
+ ],
+ "bloc2": {
+  "titre": "Rue Poniatowski",
+  "texte": "Griffes de Fée vous accueille au 7 rue Poniatowski, à Wittelsheim : le bac du head spa sous son arche dorée, les soins des mains, des cils et des pieds, et des anniversaires pour les enfants. Du lundi au samedi, sur rendez-vous.",
+  "img": "ongles-or"
+ },
+ "horaires": {
+  "lundi": [
+   "08:00-19:00"
+  ],
+  "mardi": [
+   "08:00-19:00"
+  ],
+  "mercredi": [
+   "09:00-17:00"
+  ],
+  "jeudi": [
+   "08:00-19:00"
+  ],
+  "vendredi": [
+   "08:00-18:00"
+  ],
+  "samedi": [
+   "09:00-14:00"
+  ],
+  "dimanche": []
+ }
+}
