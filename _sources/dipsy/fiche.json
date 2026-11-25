@@ -1,0 +1,106 @@
+{
+ "slug": "dipsy",
+ "famille": "commerce",
+ "polices": 1,
+ "nom": "Dipsy",
+ "activite": "Toilettage, visites à domicile et promenades",
+ "description": "Dipsy, toilettage pour chiens au 12 rue du Furet à Rixheim, avec Caroline Vernhes : toilettage, visites à domicile et promenades. Horaires, accès et rendez-vous par téléphone.",
+ "ville": "Rixheim",
+ "adresse": "12 rue du Furet",
+ "cp_ville": "68170 Rixheim",
+ "maps_dest": "47.7565527,7.4149302",
+ "tel": "+33677308966",
+ "tel_affiche": "06 77 30 89 66",
+ "email": "vernhes.caroline@hotmail.fr",
+ "facebook": "https://www.facebook.com/profile.php?id=61557260515599",
+ "instagram": "https://www.instagram.com/d.i.ps.y/",
+ "note": "5,0",
+ "avis": 15,
+ "couleurs": {
+  "principale": "#2f4c4f",
+  "accent": "#e0843a"
+ },
+ "hero": "caroline-yorkshire",
+ "hero_alt": "Caroline Vernhes, souriante, tient un yorkshire sur la table de toilettage rouge du salon",
+ "hero_pos": "50% 45%",
+ "hero_legende": "Caroline, au salon.",
+ "accroche": "Toilettage pour chiens, rue du Furet à Rixheim",
+ "titre_lignes": [
+  "Dipsy"
+ ],
+ "slogan": "Toilettage, visites à domicile et promenades, avec Caroline.",
+ "offre_titre": "Ce que propose Dipsy",
+ "offre_intro": "Une micro-entreprise pour les chiens, sur rendez-vous :",
+ "offre": [
+  {
+   "titre": "Toilettage",
+   "texte": "Au salon, rue du Furet"
+  },
+  {
+   "titre": "Visites à domicile",
+   "texte": "Pendant vos absences"
+  },
+  {
+   "titre": "Promenades",
+   "texte": "Pour se dégourdir les pattes"
+  },
+  {
+   "titre": "Titulaire de l'ACACED chien",
+   "texte": "Et des notions pour le chat, le lapin et la poule"
+  }
+ ],
+ "photos": [
+  {
+   "img": "spitz-table",
+   "titre": "Sur la table",
+   "texte": "Un spitz au poil roux, bien brossé, prêt à repartir.",
+   "alt": "Un spitz au poil roux debout sur la table de toilettage rouge",
+   "pos": "50% 45%"
+  },
+  {
+   "img": "promenade",
+   "titre": "En promenade",
+   "texte": "Les sorties en laisse font partie des services.",
+   "alt": "Un chien au poil long noir et feu, en laisse, au soleil devant un mur blanc",
+   "pos": "50% 60%"
+  },
+  {
+   "img": "table-sechoir",
+   "titre": "Le matériel",
+   "texte": "Table élévatrice, potence et séchoir puissant.",
+   "alt": "La table de toilettage rouge, sa potence et le séchoir du salon",
+   "pos": "50% 50%"
+  }
+ ],
+ "bloc2": {
+  "titre": "Un hommage à mon chien",
+  "texte": "« Dipsy, qu'est-ce que c'est ? Un hommage à mon chien. » C'est ainsi que Caroline Vernhes présente sa micro-entreprise de Rixheim, consacrée aux chiens. Le salon a sa baignoire, sa table élévatrice et ses séchoirs. Pour un rendez-vous, appelez-la ; si elle ne répond pas, laissez-lui un message.",
+  "img": "salon",
+  "alt": "Le salon Dipsy : baignoire en inox, table de toilettage rouge et séchoirs"
+ },
+ "nav_labels": {
+  "produits": "Les services",
+  "maison": "Le salon"
+ },
+ "horaires": {
+  "lundi": [
+   "08:30-17:00"
+  ],
+  "mardi": [
+   "08:30-17:00"
+  ],
+  "mercredi": [
+   "08:30-17:00"
+  ],
+  "jeudi": [
+   "08:30-17:00"
+  ],
+  "vendredi": [
+   "08:30-17:00"
+  ],
+  "samedi": [
+   "08:00-12:00"
+  ],
+  "dimanche": []
+ }
+}
