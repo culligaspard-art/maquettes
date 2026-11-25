@@ -1,0 +1,112 @@
+{
+ "slug": "linstant-volupte",
+ "famille": "beaute",
+ "forme": "galet",
+ "polices": 1,
+ "nom": "L'instant Volupté",
+ "activite": "Head spa, drainage lymphatique et madérothérapie à Wittelsheim",
+ "description": "L'instant Volupté, au 1 rue des Frères Montgolfier à Wittelsheim : head spa, drainage lymphatique et madérothérapie, sur rendez-vous les lundis, mercredis, samedis et dimanches. Tarifs, cures et bons cadeaux.",
+ "ville": "Wittelsheim",
+ "adresse": "1 rue des Frères Montgolfier",
+ "cp_ville": "68310 Wittelsheim",
+ "maps_dest": "47.7883986,7.2255399",
+ "tel": "+33767854543",
+ "tel_affiche": "07 67 85 45 43",
+ "email": "charlene.longet@gmail.com",
+ "facebook": "https://www.facebook.com/profile.php?id=61569025095979",
+ "instagram": "https://www.instagram.com/linstant_volupte/",
+ "note": "5,0",
+ "avis": 19,
+ "couleurs": {
+  "principale": "#4c6343",
+  "accent": "#e39c78"
+ },
+ "hero": "cabine-guirlande",
+ "hero_alt": "La cabine de soin : la table et sa serviette, le bac du head spa éclairé de rose, une branche lumineuse au mur",
+ "hero_pos": "50% 40%",
+ "accroche": "Head spa et madérothérapie, 1 rue des Frères Montgolfier à Wittelsheim",
+ "titre_lignes": [
+  "L'instant",
+  "Volupté"
+ ],
+ "slogan": "Head spa, drainage lymphatique et madérothérapie. Une entrée indépendante, une seule praticienne, et un moment entièrement pour vous.",
+ "offre_titre": "Les soins",
+ "offre_intro": "Charlène vous reçoit seule, sur rendez-vous, les lundis, mercredis, samedis et dimanches.",
+ "offre_note": "Pour un rendez-vous, une cure ou un bon cadeau, appelez Charlène au",
+ "offre": [
+  {
+   "titre": "Head spa Découverte",
+   "texte": "Massage et gommage du cuir chevelu, shampoing adapté à votre type de cheveux.",
+   "prix": "50 €"
+  },
+  {
+   "titre": "Head spa Détente",
+   "texte": "Diagnostic capillaire, massage aux huiles essentielles, gommage, soin sous vapeur douce, massage de la nuque, des épaules et des bras, séchage avec un sérum.",
+   "prix": "90 €"
+  },
+  {
+   "titre": "Head spa Hors du Temps",
+   "texte": "La formule Détente, avec en plus un massage des mains et un soin du visage : gommage, nettoyage, hydratation.",
+   "prix": "120 €"
+  },
+  {
+   "titre": "Drainage lymphatique",
+   "texte": "Visage 50 €, jambes 70 €, corps entier 130 €.",
+   "prix": "dès 50 €"
+  },
+  {
+   "titre": "Madérothérapie",
+   "texte": "Le massage colombien aux outils en bois. Visage 50 €, bras 40 €, abdomen et taille 100 €, fessier 100 €, abdomen, taille et dos 140 €.",
+   "prix": "dès 40 €"
+  },
+  {
+   "titre": "Cures",
+   "texte": "Madérothérapie ou drainage lymphatique : 10 % de remise sur une cure de 5 séances, 15 % sur 10 séances."
+  },
+  {
+   "titre": "Bons cadeaux",
+   "texte": "Pour le soin ou le montant de votre choix, dans une petite enveloppe à retirer sur place ou en PDF. Valables un an."
+  }
+ ],
+ "galerie_titre": "La cabine",
+ "photos": [
+  {
+   "img": "outils-bois",
+   "alt": "Les outils en bois de la madérothérapie, dans deux paniers tressés"
+  },
+  {
+   "img": "cabine-guirlande",
+   "alt": "La cabine et sa branche lumineuse"
+  },
+  {
+   "img": "cabine",
+   "alt": "La cabine de massage, sa table et ses serviettes roses, sous la fenêtre"
+  },
+  {
+   "img": "fauteuil",
+   "alt": "Le coin d'accueil : un fauteuil blanc, une petite table verte et une plante"
+  }
+ ],
+ "bloc2": {
+  "titre": "Rue des Frères Montgolfier",
+  "texte": "L'instant Volupté est au 1 rue des Frères Montgolfier, à Wittelsheim : une entrée indépendante, une pièce décorée avec soin, et Charlène qui travaille seule. Chaque séance est une bulle de calme, que vous guidez selon vos envies.",
+  "img": "cabine"
+ },
+ "horaires": {
+  "lundi": [
+   "16:00-20:00"
+  ],
+  "mardi": [],
+  "mercredi": [
+   "16:30-20:00"
+  ],
+  "jeudi": [],
+  "vendredi": [],
+  "samedi": [
+   "13:30-18:00"
+  ],
+  "dimanche": [
+   "09:00-14:00"
+  ]
+ }
+}
