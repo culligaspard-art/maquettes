@@ -1,0 +1,67 @@
+{
+ "slug": "parlons-pains",
+ "famille": "patisserie",
+ "polices": 1,
+ "nom": "Parlons Pains",
+ "nom_plaque": "Parlons Pains",
+ "ruban": "maître artisan boulanger",
+ "activite": "Boulangerie, pâtisserie, viennoiserie",
+ "description": "Parlons Pains, maître artisan boulanger viennoisier au 11 rue du Maréchal Foch à Cernay : pains, viennoiseries, éclairs, Paris-Brest, tartelettes, torches aux marrons, galettes, salades composées et pièces montées sur commande.",
+ "ville": "Cernay",
+ "adresse": "11 rue du Maréchal Foch",
+ "cp_ville": "68700 Cernay",
+ "maps_dest": "47.8086036,7.1741811",
+ "tel": "+33389754671",
+ "tel_affiche": "03 89 75 46 71",
+ "email": "parlonspains@gmail.com",
+ "facebook": "https://www.facebook.com/profile.php?id=100086637606728",
+ "instagram": "https://www.instagram.com/parlons.pains/",
+ "note": "4,2",
+ "avis": 174,
+ "couleurs": {
+  "principale": "#a3202c",
+  "accent": "#b8692c"
+ },
+ "hero": "galette-feuilles",
+ "hero_alt": "Une galette dorée, rayée de feuilles à la pointe du couteau",
+ "accroche": "Boulangerie, pâtisserie à Cernay",
+ "titre_lignes": ["Parlons", "Pains"],
+ "slogan": "Maître artisan boulanger viennoisier, rue du Maréchal Foch.",
+ "offre_titre": "Au comptoir",
+ "offre_intro": "Du pain du matin au goûter, et ce qu'il faut pour vos fêtes.",
+ "offre": [
+  {"titre": "Pains et viennoiseries", "texte": "Comme notre petit pain praliné : un feuilletage doré et croustillant, une touche de praliné."},
+  {"titre": "Pâtisseries", "texte": "Éclairs, Paris-Brest, tartelettes au citron ou au chocolat."},
+  {"titre": "Torches aux marrons", "texte": "Nos incontournables de la saison."},
+  {"titre": "Galettes", "texte": "Rayées à la main, en feuilles ou en rosace."},
+  {"titre": "Salades composées", "texte": "Prêtes à emporter pour le midi."},
+  {"titre": "Pièces montées", "texte": "Pour vos baptêmes et vos fêtes, sur commande."}
+ ],
+ "photos": [
+  {"img": "galette-feuilles", "alt": "Une galette rayée en feuilles, dorée au four"},
+  {"img": "galette-myrtilles", "alt": "Une galette rayée en rosace, trois myrtilles au centre"},
+  {"img": "piece-montee", "alt": "Une pièce montée de baptême en nougatine, papillons roses et ourson en sucre"},
+  {"img": "salades", "alt": "Des salades composées en barquettes : crudités, œufs, maïs, jambon"},
+  {"img": "enseigne", "alt": "La boutique, son enseigne rouge et blanche « Maître artisan boulanger viennoisier »"},
+  {"img": "facade", "alt": "La façade de la boulangerie sous ses volets, rue du Maréchal Foch"}
+ ],
+ "bloc2": {
+  "titre": "Rue du Maréchal Foch",
+  "texte": "Parlons Pains est au 11 rue du Maréchal Foch, à Cernay : une enseigne rouge et blanche, « maître artisan boulanger viennoisier ». Ouvert dès 6 h en semaine et le dimanche matin, fermé le mercredi.",
+  "img": "enseigne"
+ },
+ "commande": {
+  "titre": "Pour vos commandes",
+  "texte": "Pièces montées, galettes, plateaux de salades pour vos fêtes et vos repas : appelez-nous au 03 89 75 46 71 ou écrivez-nous.",
+  "img": "piece-montee"
+ },
+ "horaires": {
+  "lundi": ["06:00-18:30"],
+  "mardi": ["06:00-18:30"],
+  "mercredi": [],
+  "jeudi": ["06:00-18:30"],
+  "vendredi": ["06:00-18:30"],
+  "samedi": ["06:00-16:00"],
+  "dimanche": ["07:00-12:30"]
+ }
+}
