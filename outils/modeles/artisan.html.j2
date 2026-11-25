@@ -54,6 +54,7 @@
 .i-plan svg{width:min(70vw,520px);height:auto;overflow:visible}
 .i-plan .t{fill:none;stroke:var(--encre);stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1;stroke-dashoffset:1;animation:trace 1s cubic-bezier(.65,0,.35,1) both}
 .i-plan .t2{stroke:var(--bouton);stroke-width:2.2;animation-delay:.45s}
+.i-plan .i-coup{stroke:var(--accent);stroke-width:46;stroke-linecap:butt;opacity:.9}
 .i-plan .cote{fill:none;stroke:var(--doux);stroke-width:1.2;stroke-dasharray:1;stroke-dashoffset:1;animation:trace .6s ease-out .9s both}
 .i-cartouche{border:3px solid var(--encre);padding:.5rem 1.2rem;font-family:var(--f-titre);font-weight:var(--titre-poids);text-transform:uppercase;font-size:clamp(1.4rem,4vw,2.6rem);color:var(--encre);opacity:0;transform:scale(1.25) rotate(-3deg);animation:tampon .35s cubic-bezier(.16,1,.3,1) 1.15s both;max-width:90vw;text-align:center;line-height:1.05}
 @keyframes trace{to{stroke-dashoffset:0}}
@@ -62,7 +63,14 @@
 [% endblock %]
 [% block intro %]
   <div class="i-plan">
-    [% if f.dessin|default("toit") == "toit" %]
+    [% if f.dessin == "peinture" %]
+    <svg viewBox="0 0 520 300" aria-hidden="true">
+      <path class="t" pathLength="1" d="M40 270 H480 V30 H40 Z"/>
+      <path class="t i-coup" pathLength="1" d="M70 100 H450 M70 165 H450 M70 230 H450"/>
+      <path class="t t2" pathLength="1" d="M455 60 H500 V110 H470 V150"/>
+      <path class="cote" pathLength="1" d="M40 288 H480 M40 282 V294 M480 282 V294"/>
+    </svg>
+    [% elif f.dessin|default("toit") == "toit" %]
     <svg viewBox="0 0 520 300" aria-hidden="true">
       <path class="t" pathLength="1" d="M20 280 H500 M60 280 V150 M460 280 V150 M30 160 L260 30 L490 160"/>
       <path class="t t2" pathLength="1" d="M260 30 V150 M60 150 H460 M160 150 L260 90 L360 150 M110 150 L260 62 L410 150"/>

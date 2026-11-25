@@ -1,0 +1,122 @@
+{
+ "slug": "quentin-peinture-renov",
+ "famille": "artisan",
+ "dessin": "peinture",
+ "nom": "Quentin Peinture & Rénov",
+ "activite": "Peintre en bâtiment",
+ "description": "Quentin Peinture & Rénov, peintre en bâtiment à Cernay : peinture intérieure, pose de revêtements muraux et de papier peint, pose de parquet stratifié. Réalisations en photos, contact et demande de devis.",
+ "ville": "Cernay",
+ "adresse": "72 rue d'Auvergne",
+ "cp_ville": "68700 Cernay",
+ "maps_dest": "47.7968493,7.1780246",
+ "tel": "+33665290602",
+ "tel_affiche": "06 65 29 06 02",
+ "email": "quentinpeintureetrenov@gmail.com",
+ "facebook": "https://www.facebook.com/profile.php?id=61579414569079",
+ "instagram": "https://www.instagram.com/quentinpeintureetrenov/",
+ "note": "5,0",
+ "avis": 10,
+ "couleurs": {
+  "principale": "#2b2d2f",
+  "accent": "#6cc04a"
+ },
+ "hero": "papier-peint",
+ "hero_alt": "Un papier peint panoramique aux branches fleuries blanches sur fond rose poudré, posé dans une montée d'escalier",
+ "hero_pos": "50% 40%",
+ "accroche": "Peintre en bâtiment à Cernay",
+ "titre_lignes": [
+  "Quentin",
+  "Peinture & Rénov"
+ ],
+ "slogan": "Transformez vos espaces avec style : peinture intérieure, revêtements muraux et parquet.",
+ "offre_titre": "Nos services",
+ "offre_intro": "Ce que nous faisons, d'après notre carte et nos chantiers.",
+ "offre": [
+  {
+   "titre": "Peinture intérieure",
+   "texte": "Murs, plafonds, sous-pentes, du blanc au mur de couleur."
+  },
+  {
+   "titre": "Revêtements muraux",
+   "texte": "Papier peint, panoramiques, murs à motifs."
+  },
+  {
+   "titre": "Parquet stratifié",
+   "texte": "Pose de sols stratifiés, plinthes comprises."
+  },
+  {
+   "titre": "Rénovation",
+   "texte": "Pièce par pièce, du salon à la cuisine."
+  }
+ ],
+ "galerie_titre": "Réalisations",
+ "galerie_intro": "Quelques chantiers, tous à Cernay et autour.",
+ "photos": [
+  {
+   "img": "mur-bleu",
+   "titre": "Mur bleu canard",
+   "alt": "Une chambre au mur du fond peint en bleu canard"
+  },
+  {
+   "img": "combles",
+   "titre": "Sous les combles",
+   "alt": "Une sous-pente peinte en bleu ciel, murs blancs, poutres en bois et sol stratifié clair"
+  },
+  {
+   "img": "salon-terracotta",
+   "titre": "Salon terracotta",
+   "alt": "Un salon aux murs vieux rose autour du poêle, portes en bois"
+  },
+  {
+   "img": "papier-peint",
+   "titre": "Panoramique fleuri",
+   "alt": "Un papier peint panoramique aux branches fleuries blanches sur fond rose poudré"
+  },
+  {
+   "img": "cuisine",
+   "titre": "Cuisine",
+   "alt": "Une cuisine gris anthracite et bois, faux plafond gris, murs blancs"
+  },
+  {
+   "img": "cuisine-fenetre",
+   "titre": "Faux plafond",
+   "alt": "La même cuisine vue vers la fenêtre, le faux plafond peint en gris"
+  }
+ ],
+ "zone": "Cernay et ses environs",
+ "bloc2": {
+  "titre": "Transformez vos espaces avec style",
+  "texte": "Quentin Ducrot est peintre en bâtiment à Cernay. Peinture intérieure, revêtements muraux et parquet stratifié : il vous accompagne pièce par pièce, et chaque chantier terminé est publié en photos sur sa page.",
+  "img": "combles",
+  "alt": "Une sous-pente peinte en bleu ciel sous les poutres",
+  "faits": [
+   {
+    "k": "5,0 / 5",
+    "v": "La note de nos clients sur Google."
+   },
+   {
+    "k": "Devis",
+    "v": "Sur rendez-vous, du lundi au vendredi."
+   }
+  ]
+ },
+ "horaires": {
+  "lundi": [
+   "08:00-18:00"
+  ],
+  "mardi": [
+   "08:00-18:00"
+  ],
+  "mercredi": [
+   "08:00-18:00"
+  ],
+  "jeudi": [
+   "08:00-18:00"
+  ],
+  "vendredi": [
+   "08:00-18:00"
+  ],
+  "samedi": [],
+  "dimanche": []
+ }
+}
