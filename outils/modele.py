@@ -30,6 +30,7 @@ FAMILLES = {
             [("titre", "marcellus", False, "normal", 400), ("texte", "mulish", True, "normal", None)],
             [("titre", "syne", True, "normal", None), ("texte", "inter-tight", True, "normal", None)],
             [("titre", "prata", False, "normal", 400), ("texte", "albert-sans", True, "normal", None)],
+            [("titre", "gilda-display", False, "normal", 400), ("texte", "manrope", True, "normal", None)],
         ],
     },
     "emporter": {

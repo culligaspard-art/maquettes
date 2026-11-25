@@ -1,0 +1,114 @@
+{
+ "slug": "beauty-and-cils",
+ "famille": "beaute",
+ "forme": "eventail",
+ "polices": 7,
+ "nom": "Beauty and Cils",
+ "activite": "Extensions de cils, rehaussement et Lash Botox à Cernay",
+ "description": "Beauty and Cils, au 12 rue des Alpes à Cernay : extensions de cils cil à cil, volume russe et mega volume, rehaussement, teinture et soin Lash Botox, par Margot. Tarifs, horaires et réservation en ligne.",
+ "ville": "Cernay",
+ "adresse": "12 rue des Alpes",
+ "cp_ville": "68700 Cernay",
+ "maps_dest": "47.811809,7.1842662",
+ "tel": "+33638600538",
+ "tel_affiche": "06 38 60 05 38",
+ "email": "beautyandcils@gmail.com",
+ "facebook": "https://www.facebook.com/profile.php?id=100034847244298",
+ "instagram": "https://www.instagram.com/beauty_and_cils/",
+ "resa_url": "https://www.planity.com/beauty-and-cils-68700-cernay",
+ "resa_label": "Prendre rendez-vous",
+ "note": "5,0",
+ "avis": 45,
+ "preuve_extra": "recommandé à 100 % sur Facebook",
+ "couleurs": {
+  "principale": "#7a4b4f",
+  "accent": "#d7a08f"
+ },
+ "hero": "volume-russe",
+ "hero_alt": "Un œil en volume russe, éventails de cils noirs très fournis",
+ "accroche": "Beauté du regard et art du cil, 12 rue des Alpes à Cernay",
+ "titre_lignes": [
+  "Beauty",
+  "and Cils"
+ ],
+ "slogan": "Extensions de cils, rehaussement et Lash Botox, par Margot.",
+ "offre_titre": "Les tarifs",
+ "offre_intro": "Nos prestations et leurs prix, tels qu'affichés sur notre réservation en ligne. Pour l'hygiène des cils, nous conseillons de ne pas enchaîner les remplissages et de préférer la dépose-repose.",
+ "offre": [
+  {
+   "titre": "Cil à cil",
+   "texte": "Remplissage de 36 à 61 €, selon le délai",
+   "prix": "66 €"
+  },
+  {
+   "titre": "Volume russe, 2D à 4D",
+   "texte": "Chaque éventail est fait à la main. Remplissage de 56 à 86 €",
+   "prix": "91 €"
+  },
+  {
+   "titre": "Mega volume, 5D et plus",
+   "texte": "Effet Kim K. Remplissage de 66 à 106 €",
+   "prix": "111 €"
+  },
+  {
+   "titre": "Soin Lash Botox",
+   "texte": "Fortifie et épaissit les cils, rehaussement et teinture inclus",
+   "prix": "81 €"
+  },
+  {
+   "titre": "Rehaussement de cils",
+   "texte": "Une courbure naturelle pour 6 à 12 semaines",
+   "prix": "51 €"
+  },
+  {
+   "titre": "Teinture de cils",
+   "texte": "L'effet mascara",
+   "prix": "16 €"
+  }
+ ],
+ "offre_note": "Dépose seule : 16 €. Une question ? Appelez-nous au",
+ "galerie_titre": "Le regard, cil par cil",
+ "photos": [
+  {
+   "img": "cils-profil",
+   "alt": "Des extensions de cils vues de profil, longues et recourbées"
+  },
+  {
+   "img": "volume-russe",
+   "alt": "Un volume russe très fourni sur un œil fermé"
+  },
+  {
+   "img": "cils-noisette",
+   "alt": "Des extensions de cils sur un œil noisette",
+   "pos": "50% 45%"
+  },
+  {
+   "img": "rehaussement-avant-apres",
+   "alt": "Un œil vert avant et après un rehaussement de cils"
+  },
+  {
+   "img": "cils-gris",
+   "alt": "Des extensions de cils sur un œil gris-bleu",
+   "pos": "55% 45%"
+  },
+  {
+   "img": "cils-naturels",
+   "alt": "Des extensions de cils discrètes sur un œil clair",
+   "pos": "55% 45%"
+  }
+ ],
+ "bloc2": {
+  "titre": "Rue des Alpes",
+  "texte": "Margot vous reçoit au 12 rue des Alpes, à Cernay : une cabine blanche, une étagère dorée et un fauteuil en velours rose. Réservez en ligne, 24 h sur 24, ou appelez-nous pour toute question.",
+  "img": "cabine"
+ },
+ "horaires": {
+  "lundi": ["10:00-18:00"],
+  "mardi": ["10:00-16:30"],
+  "mercredi": [],
+  "jeudi": ["10:00-18:00"],
+  "vendredi": ["10:00-18:00"],
+  "samedi": [],
+  "dimanche": []
+ }
+}

@@ -1,0 +1,366 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Beauty and Cils – Maquette de site</title>
+<meta name="description" content="Beauty and Cils, au 12 rue des Alpes à Cernay : extensions de cils cil à cil, volume russe et mega volume, rehaussement, teinture et soin Lash Botox, par Margot. Tarifs, horaires et réservation en ligne.">
+<meta name="theme-color" content="#F7F4F4">
+<script>
+  (function () {
+    var d = document.documentElement;
+    d.classList.add("js");
+    if (!window.matchMedia("(prefers-reduced-motion: reduce)").matches) d.classList.add("js-intro");
+  })();
+</script>
+<style>
+@font-face{font-family:"Gilda Display";font-style:normal;font-weight:400;font-display:swap;src:url({{font:titre}}) format("woff2")}
+@font-face{font-family:"Manrope";font-style:normal;font-weight:100 900;font-display:swap;src:url({{font:texte}}) format("woff2")}
+:root{
+  --principale:#7a4b4f;--bouton:#7a4b4f;--bouton-survol:#684043;
+  --accent:#d7a08f;--accent-encre:#261715;
+  --fond:#F7F4F4;--fond2:#ECE6E6;--encre:#261715;--doux:#695E5C;--trait:rgba(38,23,21,.16);
+  --sombre:#231716;--sur-sombre:#D1CCCC;--sur-sombre-doux:#A6A0A0;
+  --f-titre:"Gilda Display", Georgia, serif;
+  --f-texte:"Manrope", system-ui, sans-serif;
+--f-carte:var(--f-texte);  --titre-style:normal;--titre-poids:400;--rayon:.6rem;
+  --ease-out:cubic-bezier(.16,1,.3,1);--ease-in:cubic-bezier(.7,0,.84,0);
+}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%;scroll-behavior:smooth;scroll-padding-top:5rem}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+body{margin:0;background:var(--fond);color:var(--encre);font:400 1rem/1.6 var(--f-texte);overflow-x:hidden}
+img{display:block;max-width:100%}
+a{color:inherit}
+:focus-visible{outline:3px solid var(--bouton);outline-offset:3px;border-radius:4px}
+h1,h2,h3{font-family:var(--f-titre);font-style:var(--titre-style);font-weight:var(--titre-poids);line-height:1.1;margin:0}
+p{margin:0}
+.page{width:100%;max-width:1280px;margin-inline:auto;padding-inline:clamp(20px,5vw,56px)}
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+.demo{background:var(--sombre);color:var(--sur-sombre);font-size:.875rem;line-height:1.45;text-align:center;padding:.6rem 1rem}
+.demo strong{font-weight:500;color:#fff}
+.top{position:sticky;top:0;z-index:40;transition:background-color .2s ease,box-shadow .2s ease}
+.top.is-solid{background:color-mix(in srgb,var(--fond) 96%,transparent);box-shadow:0 1px 0 var(--trait)}
+.top__in{display:flex;align-items:center;gap:1.25rem;min-height:4.5rem}
+.brand{display:flex;align-items:center;gap:.7rem;text-decoration:none;margin-right:auto;min-height:44px;min-width:0}
+.brand img{width:3rem;height:3rem;object-fit:contain}
+.brand span{font-family:var(--f-titre);font-style:var(--titre-style);font-size:1.2rem;line-height:1.1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.nav{display:none;gap:1.6rem}
+.nav a{text-decoration:none;font-weight:500;padding:.6rem 0;border-bottom:2px solid transparent}
+.nav a:hover{border-bottom-color:var(--principale)}
+.top .btn{display:none}
+.menu-btn{flex:none;display:inline-grid;place-items:center;width:44px;height:44px;border:0;border-radius:50%;background:var(--encre);color:var(--fond);cursor:pointer}
+.menu-btn svg{width:22px;height:22px}
+.nav-panel{display:none;flex-direction:column;padding:.5rem clamp(20px,5vw,56px) 1.25rem;background:var(--fond);border-bottom:1px solid var(--trait)}
+.nav-panel.is-open{display:flex}
+.nav-panel a{padding:.85rem 0;text-decoration:none;font-weight:500;border-bottom:1px solid var(--trait)}
+@media (min-width:900px){.nav{display:flex}.top .btn{display:inline-flex}.menu-btn{display:none}.nav-panel,.nav-panel.is-open{display:none}}
+.btn{display:inline-flex;align-items:center;justify-content:center;gap:.55rem;min-height:48px;padding:.8rem 1.35rem;border-radius:var(--rayon);font:500 1rem/1.2 var(--f-texte);text-decoration:none;border:0;cursor:pointer;transition:background-color .15s ease,color .15s ease}
+.btn svg{width:1.15em;height:1.15em;flex:none}
+.btn--p{background:var(--bouton);color:#fff}
+.btn--p:hover{background:var(--bouton-survol)}
+.btn--t{box-shadow:inset 0 0 0 2px currentColor;background:transparent}
+.btn--t:hover{background:var(--encre);color:var(--fond);box-shadow:inset 0 0 0 2px var(--encre)}
+.actions{display:flex;flex-wrap:wrap;gap:.75rem}
+.status{display:none;align-items:center;gap:.6rem;font-weight:500;margin-bottom:1.5rem}
+.status.is-ready{display:inline-flex}
+.status__dot{flex:none;width:.7rem;height:.7rem;border-radius:50%;background:#C2413A}
+.status[data-open="1"] .status__dot{background:#2E9F62;box-shadow:0 0 0 .3rem rgba(46,159,98,.22)}
+.preuve{margin-top:1.5rem;font-size:.875rem;color:var(--doux)}
+.sec{padding:clamp(4rem,8vw,7rem) 0}
+.sec h2{font-size:clamp(2.3rem,3.2vw + 1rem,3.8rem)}
+.lead{color:var(--doux);max-width:54ch;margin-top:1rem;font-size:1.0625rem}
+.visite__grid{display:grid;gap:3rem}
+@media (min-width:900px){.visite__grid{grid-template-columns:1fr 1fr;gap:5rem}}
+.hours{width:100%;border-collapse:collapse;margin-top:1.75rem;font-size:1.0625rem}
+.hours th,.hours td{text-align:left;padding:.8rem .9rem;border-bottom:1px solid var(--trait);font-weight:400}
+.hours th{width:9.5rem}
+.hours td{font-variant-numeric:tabular-nums}
+.hours tr.is-today{background:var(--fond2)}
+.hours tr.is-today th,.hours tr.is-today td{font-weight:500}
+.contact-carte{margin-top:1.75rem;background:var(--fond2);border-radius:1rem;padding:clamp(1.5rem,4vw,2.5rem)}
+.contact-carte address{font-style:normal;font-size:1.25rem;line-height:1.45;margin-bottom:1rem}
+.contact-carte .lignes{margin-bottom:1.5rem;line-height:1.9}
+.contact-carte .lignes a{text-underline-offset:3px;overflow-wrap:anywhere}
+.foot{background:var(--sombre);color:var(--sur-sombre);padding:3.5rem 0 6rem}
+.foot__grid{display:grid;gap:1.75rem;align-items:start}
+@media (min-width:900px){.foot__grid{grid-template-columns:auto 1fr 1.2fr;gap:3rem;align-items:center}.foot{padding-bottom:3.5rem}}
+.foot__logo{width:5.5rem;height:5.5rem;object-fit:contain}
+.foot__nom{font-family:var(--f-titre);font-style:var(--titre-style);font-size:1.6rem;color:#fff}
+.foot strong{color:#fff;font-weight:500}
+.foot__liens{display:flex;flex-wrap:wrap;gap:1.25rem;margin-top:.6rem}
+.foot__liens a{display:inline-flex;align-items:center;min-height:44px;font-weight:500}
+.foot__demo{font-size:.875rem;color:var(--sur-sombre-doux);max-width:52ch}
+.mbar{position:fixed;left:0;right:0;bottom:0;z-index:45;display:flex;gap:.6rem;padding:.7rem clamp(12px,4vw,20px) calc(.7rem + env(safe-area-inset-bottom));background:color-mix(in srgb,var(--fond) 97%,transparent);box-shadow:0 -1px 0 var(--trait);transform:translateY(110%);transition:transform .2s var(--ease-out)}
+.mbar.is-on{transform:none}
+.mbar .btn{flex:1}
+@media (min-width:900px){.mbar{display:none}}
+.intro{display:none}
+.js-intro .intro{display:block;position:fixed;inset:0;z-index:100;cursor:pointer;overflow:hidden}
+.intro__skip{position:absolute;left:0;right:0;bottom:1.75rem;text-align:center;font-size:.875rem;z-index:5;animation:skipOut .2s ease-in 1.4s forwards}
+.intro__skip span{background:rgba(255,255,255,.92);color:#222;padding:.25rem .7rem;border-radius:.3rem}
+@keyframes skipOut{to{opacity:0}}
+.intro-skip .intro{opacity:0;pointer-events:none;transition:opacity .15s ease-in}
+.intro-skip .intro *{animation:none!important}
+@media (prefers-reduced-motion:reduce){.intro{display:none!important}}
+:root{--titre-style:normal;--titre-poids:500;--rayon:999px;
+  --ongle:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 160' preserveAspectRatio='none'%3E%3Cpath d='M50 0C74 6 100 42 100 84V128C100 146 80 160 50 160C20 160 0 146 0 128V84C0 42 26 6 50 0Z'/%3E%3C/svg%3E");
+  --amande:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 160' preserveAspectRatio='none'%3E%3Cpath d='M50 0C86 38 100 66 100 80C100 94 86 122 50 160C14 122 0 94 0 80C0 66 14 38 50 0Z'/%3E%3C/svg%3E");
+  --eventail:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 160' preserveAspectRatio='none'%3E%3Cpath d='M50 160L2 40C14 16 32 2 50 0C68 2 86 16 98 40Z'/%3E%3C/svg%3E");}
+.hero{background:linear-gradient(180deg,var(--fond2) 0%,var(--fond) 100%);margin-top:-4.5rem;padding-top:4.5rem;overflow:hidden}
+.hero__grid{display:grid;gap:1.75rem;padding-top:2.5rem;padding-bottom:3rem;align-items:center}
+@media (min-width:900px){.hero__grid{grid-template-columns:1.05fr 1fr;gap:3rem;min-height:min(86vh,760px)}}
+.hero__kicker{color:var(--doux);margin-bottom:1rem}
+.hero__title{font-size:clamp(3rem,9vw,6.8rem);line-height:.98;letter-spacing:-.02em}
+.hero__title .ln{display:block}
+.hero__title .ln + .ln{padding-left:.6em}
+.hero__tag{font-family:var(--f-titre);font-style:var(--titre-style);font-size:clamp(1.25rem,1.2vw + 1rem,1.6rem);line-height:1.3;color:var(--bouton);margin:1.25rem 0 1.5rem;max-width:30ch}
+.fan{position:relative;width:min(100%,560px);aspect-ratio:1.45/1;margin-inline:auto}
+@media (min-width:900px){.fan{aspect-ratio:1/1}}
+.fan figure{position:absolute;bottom:6%;left:50%;width:31%;margin:0;transform-origin:50% 120%;filter:drop-shadow(0 18px 24px rgba(0,0,0,.18))}
+@media (min-width:900px){.fan figure{width:36%;bottom:14%}}
+.forme-ongle .fan figure{aspect-ratio:5/8}
+.forme-amande .fan figure{aspect-ratio:5/8}
+.forme-eventail .fan figure{aspect-ratio:5/8}
+.forme-miroir .fan figure{aspect-ratio:3/4}
+.forme-cercle .fan figure{aspect-ratio:1/1;width:35%}
+@media (min-width:900px){.forme-cercle .fan figure{width:43%;bottom:18%}}
+.fan .f1{transform:translateX(-50%) rotate(-22deg) translateX(-62%)}
+.fan .f2{transform:translateX(-50%) translateY(-6%)}
+.fan .f3{transform:translateX(-50%) rotate(22deg) translateX(62%)}
+.forme{position:relative;width:100%;height:100%;overflow:hidden;background:var(--fond2)}
+.forme-ongle .forme{-webkit-mask:var(--ongle) center/100% 100% no-repeat;mask:var(--ongle) center/100% 100% no-repeat}
+.forme-amande .forme{-webkit-mask:var(--amande) center/100% 100% no-repeat;mask:var(--amande) center/100% 100% no-repeat}
+.forme-eventail .forme{-webkit-mask:var(--eventail) center/100% 100% no-repeat;mask:var(--eventail) center/100% 100% no-repeat}
+.forme-miroir .forme{border-radius:999px 999px 1.2rem 1.2rem}
+.forme-cercle .forme{border-radius:50%}
+.forme img{width:100%;height:100%;object-fit:cover}
+.forme::after{content:"";position:absolute;inset:0;background:linear-gradient(115deg,rgba(255,255,255,0) 30%,rgba(255,255,255,.35) 42%,rgba(255,255,255,0) 54%);pointer-events:none}
+.soins__grid{display:grid;gap:2.5rem}
+@media (min-width:900px){.soins__grid{grid-template-columns:1fr 1.4fr;gap:5rem}}
+.soins__list{list-style:none;margin:0;padding:0}
+.soins__list li{display:grid;grid-template-columns:1.1rem 1fr auto;gap:1.1rem;padding:1.5rem 0;border-top:1px solid var(--trait)}
+.soins__list li:last-child{border-bottom:1px solid var(--trait)}
+.soins__list li::before{content:"";width:1.1rem;height:1.75rem;margin-top:.2rem;background:var(--principale);-webkit-mask:var(--ongle) center/100% 100% no-repeat;mask:var(--ongle) center/100% 100% no-repeat}
+.soins__list li::before{-webkit-mask-image:var(--eventail);mask-image:var(--eventail)}
+.soins__list li:nth-child(3n+2)::before{background:var(--accent)}
+.soins__list li:nth-child(3n)::before{background:var(--encre)}
+.soins__list h3{font-size:1.55rem;margin-bottom:.3rem}
+.soins__list p{color:var(--doux)}
+.soins__prix{font-variant-numeric:tabular-nums;font-weight:500;white-space:nowrap;padding-top:.3rem}
+.soins__note{margin-top:1.75rem;font-weight:500}
+.soins__note a{color:var(--bouton);text-underline-offset:3px}
+.galerie{background:var(--fond2)}
+.galerie__head{display:grid;gap:1rem;margin-bottom:3rem}
+@media (min-width:900px){.galerie__head{grid-template-columns:1fr 1fr;align-items:end}}
+.rack{list-style:none;margin:0;padding:0 0 1rem;display:flex;gap:1rem;overflow-x:auto;scroll-snap-type:x mandatory}
+.rack li{flex:0 0 44%;scroll-snap-align:start}
+@media (min-width:640px){.rack li{flex-basis:28%}}
+@media (min-width:1000px){.rack{display:grid;grid-template-columns:repeat(auto-fit,minmax(0,1fr));overflow:visible;padding:0;gap:1.25rem}}
+.rack figure{margin:0}
+.forme-ongle .rack .forme{aspect-ratio:5/8;height:auto}
+.forme-amande .rack .forme{aspect-ratio:5/8;height:auto}
+.forme-eventail .rack .forme{aspect-ratio:5/8;height:auto}
+.forme-miroir .rack .forme{aspect-ratio:3/4;height:auto}
+.forme-cercle .rack .forme{aspect-ratio:1/1;height:auto}
+.rack .flacon{filter:drop-shadow(0 12px 16px rgba(0,0,0,.14));transition:transform .2s var(--ease-out)}
+@media (hover:hover){.rack li:hover .flacon{transform:translateY(-6px)}}
+.rack figcaption{margin-top:.9rem;font-size:.875rem;line-height:1.4;color:var(--doux);text-align:center}
+.rack figcaption strong{display:block;color:var(--encre);font-weight:500;font-size:1rem}
+.rack__hint{margin-top:.75rem;font-size:.875rem;color:var(--doux)}
+@media (min-width:1000px){.rack__hint{display:none}}
+.bloc2{background:var(--sombre);color:var(--sur-sombre)}
+.bloc2 h2{color:#fff}
+.bloc2 .lead{color:var(--sur-sombre-doux)}
+.bloc2__grid{display:grid;gap:2rem;align-items:center}
+@media (min-width:900px){.bloc2__grid{grid-template-columns:.9fr 1.4fr;gap:4rem}}
+.bloc2 img{width:100%;border-radius:1.25rem;aspect-ratio:16/10;object-fit:cover}
+/* intro : la forme se remplit de couleur, reflet, puis s'ouvre sur le site */
+.f-beaute .intro svg{width:100%;height:100%}
+.i-veil{position:absolute;inset:0;transform-origin:50% 50%;animation:veil .9s cubic-bezier(.7,0,.84,0) 1.7s both}
+.i-nail{position:absolute;inset:0;animation:fadeOut .3s ease-in 1.55s both}
+.i-outline{opacity:0;animation:fadeIn .25s ease-out .05s both}
+.i-lacquer{transform-box:fill-box;transform:translateY(100%);animation:lacquer .8s cubic-bezier(.65,0,.35,1) .25s both}
+.i-gloss{transform-box:fill-box;opacity:0;animation:gloss .55s ease-in-out .95s both}
+.i-mono{opacity:0;animation:fadeIn .4s ease-out 1.05s both}
+@keyframes fadeIn{to{opacity:1}}
+@keyframes fadeOut{to{opacity:0}}
+@keyframes lacquer{to{transform:translateY(0)}}
+@keyframes gloss{0%{transform:translateX(0);opacity:0}20%{opacity:.9}100%{transform:translateX(320%);opacity:0}}
+@keyframes veil{to{transform:scale(18)}}
+</style>
+</head>
+<body class="f-beaute">
+<div class="intro" id="intro" aria-hidden="true">
+  <svg class="i-veil" viewBox="0 0 1000 1000" preserveAspectRatio="xMidYMid slice">
+    <defs><mask id="trou" maskUnits="userSpaceOnUse" x="-3000" y="-3000" width="7000" height="7000">
+      <rect x="-3000" y="-3000" width="7000" height="7000" fill="#fff"/><path transform="translate(435 396) scale(1.3)" d="M50 160L2 40C14 16 32 2 50 0C68 2 86 16 98 40Z" fill="#000"/>
+    </mask></defs>
+    <rect x="-3000" y="-3000" width="7000" height="7000" fill="#ECE6E6" mask="url(#trou)"/>
+  </svg>
+  <svg class="i-nail" viewBox="0 0 1000 1000" preserveAspectRatio="xMidYMid slice">
+    <defs>
+      <clipPath id="clipf"><path transform="translate(435 396) scale(1.3)" d="M50 160L2 40C14 16 32 2 50 0C68 2 86 16 98 40Z"/></clipPath>
+      <linearGradient id="laque" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d7a08f"/><stop offset=".55" stop-color="#7a4b4f"/><stop offset="1" stop-color="#231716"/></linearGradient>
+      <linearGradient id="brille" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".85"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+    </defs>
+    <g clip-path="url(#clipf)">
+      <rect x="380" y="360" width="240" height="280" fill="#ECE6E6"/>
+      <rect class="i-lacquer" x="380" y="360" width="240" height="280" fill="url(#laque)"/>
+      <polygon class="i-gloss" points="395,360 425,360 385,640 355,640" fill="url(#brille)"/>
+    </g>
+    <path transform="translate(435 396) scale(1.3)" d="M50 160L2 40C14 16 32 2 50 0C68 2 86 16 98 40Z" class="i-outline" fill="none" stroke="#7a4b4f" stroke-width="1.6"/>
+  </svg>
+  <p class="intro__skip"><span>Cliquer pour passer</span></p>
+</div>
+<div class="demo" role="note"><strong>Maquette réalisée par Gaspard Culli</strong> pour Beauty and Cils. Ce site n'est pas encore en ligne.</div>
+<header class="top" id="top">
+  <div class="page top__in">
+    <a class="brand" href="#accueil"><span>Beauty and Cils</span></a>
+    <nav class="nav" aria-label="Navigation principale">
+<a href="#soins">Les soins</a><a href="#galerie">En images</a><a href="#horaires">Horaires et accès</a>    </nav>
+    <a class="btn btn--p" href="https://www.planity.com/beauty-and-cils-68700-cernay" target="_blank" rel="noopener">Prendre rendez-vous</a>
+    <button class="menu-btn" id="menu-btn" aria-expanded="false" aria-controls="nav-panel" aria-label="Ouvrir le menu">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><path d="M4 7h16M4 12h16M4 17h16"/></svg>
+    </button>
+  </div>
+  <nav class="nav-panel" id="nav-panel" aria-label="Menu">
+<a href="#soins">Les soins</a><a href="#galerie">En images</a><a href="#horaires">Horaires et accès</a><a href="tel:+33638600538">Appeler le 06 38 60 05 38</a>  </nav>
+</header>
+<main>
+  <section class="hero forme-eventail" id="accueil">
+    <div class="page hero__grid">
+      <div>
+        <p class="hero__kicker">Beauté du regard et art du cil, 12 rue des Alpes à Cernay</p>
+        <h1 class="hero__title"><span class="ln">Beauty</span><span class="ln">and Cils</span></h1>
+<p class="hero__tag">Extensions de cils, rehaussement et Lash Botox, par Margot.</p>        <p class="status" data-status><span class="status__dot"></span><span data-status-text></span></p>
+        <div class="actions">
+          <a class="btn btn--p" href="https://www.planity.com/beauty-and-cils-68700-cernay" target="_blank" rel="noopener">Prendre rendez-vous</a>
+<a class="btn btn--t" href="mailto:beautyandcils@gmail.com">Écrire un mail</a>        </div>
+<p class="preuve">Noté 5,0 sur 5 sur Google (45 avis), recommandé à 100 % sur Facebook.</p>      </div>
+      <div class="fan">
+        <figure class="f1"><div class="forme"><img src="{{img:cils-profil}}" alt="Des extensions de cils vues de profil, longues et recourbées"></div></figure>
+        <figure class="f3"><div class="forme"><img src="{{img:volume-russe}}" alt="Un volume russe très fourni sur un œil fermé"></div></figure>
+        <figure class="f2"><div class="forme"><img src="{{img:cils-noisette}}" alt="Des extensions de cils sur un œil noisette"></div></figure>
+      </div>
+    </div>
+  </section>
+  <section class="sec" id="soins">
+    <div class="page soins__grid">
+      <div>
+        <h2>Les tarifs</h2>
+<p class="lead">Nos prestations et leurs prix, tels qu&#39;affichés sur notre réservation en ligne. Pour l&#39;hygiène des cils, nous conseillons de ne pas enchaîner les remplissages et de préférer la dépose-repose.</p>      </div>
+      <div>
+        <ul class="soins__list">
+<li><div><h3>Cil à cil</h3><p>Remplissage de 36 à 61 €, selon le délai</p></div><span class="soins__prix">66 €</span></li><li><div><h3>Volume russe, 2D à 4D</h3><p>Chaque éventail est fait à la main. Remplissage de 56 à 86 €</p></div><span class="soins__prix">91 €</span></li><li><div><h3>Mega volume, 5D et plus</h3><p>Effet Kim K. Remplissage de 66 à 106 €</p></div><span class="soins__prix">111 €</span></li><li><div><h3>Soin Lash Botox</h3><p>Fortifie et épaissit les cils, rehaussement et teinture inclus</p></div><span class="soins__prix">81 €</span></li><li><div><h3>Rehaussement de cils</h3><p>Une courbure naturelle pour 6 à 12 semaines</p></div><span class="soins__prix">51 €</span></li><li><div><h3>Teinture de cils</h3><p>L&#39;effet mascara</p></div><span class="soins__prix">16 €</span></li>        </ul>
+        <p class="soins__note">Dépose seule : 16 €. Une question ? Appelez-nous au <a href="tel:+33638600538">06 38 60 05 38</a>.</p>
+      </div>
+    </div>
+  </section>
+  <section class="sec galerie forme-eventail" id="galerie">
+    <div class="page">
+      <div class="galerie__head">
+        <h2>Le regard, cil par cil</h2>
+      </div>
+      <ul class="rack">
+<li><figure><div class="flacon"><div class="forme"><img src="{{img:cils-profil}}" alt="Des extensions de cils vues de profil, longues et recourbées"></div></div></figure></li><li><figure><div class="flacon"><div class="forme"><img src="{{img:volume-russe}}" alt="Un volume russe très fourni sur un œil fermé"></div></div></figure></li><li><figure><div class="flacon"><div class="forme"><img src="{{img:cils-noisette}}" alt="Des extensions de cils sur un œil noisette" style="object-position:50% 45%"></div></div></figure></li><li><figure><div class="flacon"><div class="forme"><img src="{{img:rehaussement-avant-apres}}" alt="Un œil vert avant et après un rehaussement de cils"></div></div></figure></li><li><figure><div class="flacon"><div class="forme"><img src="{{img:cils-gris}}" alt="Des extensions de cils sur un œil gris-bleu" style="object-position:55% 45%"></div></div></figure></li><li><figure><div class="flacon"><div class="forme"><img src="{{img:cils-naturels}}" alt="Des extensions de cils discrètes sur un œil clair" style="object-position:55% 45%"></div></div></figure></li>      </ul>
+<p class="rack__hint">Faites glisser pour tout voir.</p>    </div>
+  </section>
+  <section class="sec bloc2">
+    <div class="page bloc2__grid">
+      <div><h2>Rue des Alpes</h2><p class="lead">Margot vous reçoit au 12 rue des Alpes, à Cernay : une cabine blanche, une étagère dorée et un fauteuil en velours rose. Réservez en ligne, 24 h sur 24, ou appelez-nous pour toute question.</p></div>
+<img src="{{img:cabine}}" alt="">    </div>
+  </section>
+  <section class="sec visite" id="horaires">
+    <div class="page visite__grid">
+      <div>
+        <h2>Horaires</h2>
+        <table class="hours">
+          {{hours}}
+        </table>
+      </div>
+      <div id="acces">
+        <h2>Nous trouver</h2>
+        <div class="contact-carte">
+          <address>12 rue des Alpes<br>68700 Cernay</address>
+          <p class="lignes"><a href="tel:+33638600538">06 38 60 05 38</a><br><a href="mailto:beautyandcils@gmail.com">beautyandcils@gmail.com</a></p>
+          <div class="actions">
+<a class="btn btn--p" href="tel:+33638600538">Appeler</a>            <a class="btn btn--t" href="https://www.google.com/maps/dir/?api=1&amp;destination=47.811809%2C7.1842662" target="_blank" rel="noopener">Calculer l'itinéraire</a>
+          </div>
+<p class="preuve">Noté 5,0 sur 5 sur Google, 45 avis.</p>        </div>
+      </div>
+    </div>
+  </section>
+</main>
+<footer class="foot">
+  <div class="page foot__grid">
+<p class="foot__nom">Beauty and Cils</p>    <div>
+      <p><strong>Beauty and Cils</strong><br>12 rue des Alpes, 68700 Cernay<br><a href="tel:+33638600538">06 38 60 05 38</a></p>
+      <div class="foot__liens">
+<a href="https://www.facebook.com/profile.php?id=100034847244298" target="_blank" rel="noopener">Facebook</a><a href="https://www.instagram.com/beauty_and_cils/" target="_blank" rel="noopener">Instagram</a>      </div>
+    </div>
+    <p class="foot__demo">Maquette réalisée par Gaspard Culli pour présenter un projet de site à Beauty and Cils. Photos issues des pages publiques de l'établissement. Ce site n'est pas encore en ligne.</p>
+  </div>
+</footer>
+<div class="mbar" id="mbar">
+  <a class="btn btn--p" href="https://www.planity.com/beauty-and-cils-68700-cernay" target="_blank" rel="noopener">Prendre rendez-vous</a>
+  <a class="btn btn--t" href="https://www.google.com/maps/dir/?api=1&amp;destination=47.811809%2C7.1842662" target="_blank" rel="noopener">Itinéraire</a>
+</div>
+<script>
+(function () {
+  var root = document.documentElement;
+  var reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+  var intro = document.getElementById("intro");
+  function skip() { root.classList.add("intro-skip"); setTimeout(function(){ intro.style.display = "none"; }, 200); }
+  if (root.classList.contains("js-intro")) {
+    intro.addEventListener("click", skip);
+    window.addEventListener("keydown", function once() { skip(); window.removeEventListener("keydown", once); });
+    setTimeout(function () { intro.style.display = "none"; }, 2700);
+  }
+  var H = {{hours_js}};
+  var JOURS = ["dimanche","lundi","mardi","mercredi","jeudi","vendredi","samedi"];
+  function m(s){var p=s.split(":");return (+p[0])*60+(+p[1]);}
+  function fh(s){if(s==="00:00"||s==="24:00")return "minuit";var p=s.split(":");return (+p[0])+"h"+(p[1]==="00"?"":p[1]);}
+  var now=new Date(), d=now.getDay(), t=now.getHours()*60+now.getMinutes();
+  var row=document.querySelector('.hours tr[data-day="'+d+'"]'); if(row) row.classList.add("is-today");
+  var label=null, open=false;
+  function sp(r){var s=m(r[0]),e=m(r[1]); if(e<=s) e+=1440; return [s,e];}
+  (H[d]||[]).forEach(function(r){ var x=sp(r); if(t>=x[0] && t<x[1]){open=true; label="Ouvert maintenant, jusqu'à "+fh(r[1]);} });
+  (H[(d+6)%7]||[]).forEach(function(r){ var x=sp(r); if(x[1]>1440 && t<x[1]-1440){open=true; label="Ouvert maintenant, jusqu'à "+fh(r[1]);} });
+  if(!open){
+    for(var i=0;i<8 && !label;i++){
+      var dd=(d+i)%7, slots=H[dd]||[];
+      for(var k=0;k<slots.length;k++){
+        if(i>0 || m(slots[k][0])>t){ label="Fermé pour l'instant, ouvre "+(i===0?"aujourd'hui":(i===1?"demain":JOURS[dd]))+" à "+fh(slots[k][0]); break; }
+      }
+    }
+  }
+  if(label){
+    document.querySelectorAll("[data-status]").forEach(function(el){
+      el.setAttribute("data-open", open?"1":"0");
+      el.querySelector("[data-status-text]").textContent=label;
+      el.classList.add("is-ready");
+    });
+  }
+  var mb=document.getElementById("menu-btn"), panel=document.getElementById("nav-panel");
+  function setMenu(o){ panel.classList.toggle("is-open",o); mb.setAttribute("aria-expanded",o?"true":"false"); mb.setAttribute("aria-label",o?"Fermer le menu":"Ouvrir le menu"); }
+  mb.addEventListener("click",function(){ setMenu(!panel.classList.contains("is-open")); });
+  panel.addEventListener("click",function(e){ if(e.target.closest("a")) setMenu(false); });
+  document.addEventListener("keydown",function(e){ if(e.key==="Escape" && panel.classList.contains("is-open")){ setMenu(false); mb.focus(); } });
+  var top=document.getElementById("top"), mbar=document.getElementById("mbar"), ticking=false;
+  var auDefil=[];
+  window.__auDefil=function(fn){auDefil.push(fn);};
+  function onScroll(){
+    var y=window.scrollY||0;
+    top.classList.toggle("is-solid", y > 40);
+    mbar.classList.toggle("is-on", y > window.innerHeight*0.7);
+    if(!reduce) auDefil.forEach(function(fn){fn(y);});
+    ticking=false;
+  }
+  window.addEventListener("scroll",function(){ if(!ticking){ ticking=true; requestAnimationFrame(onScroll);} },{passive:true});
+  onScroll();
+})();
+</script>
+</body>
+</html>

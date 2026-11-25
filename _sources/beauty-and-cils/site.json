@@ -1,0 +1,31 @@
+{
+ "fonts": [
+  {
+   "key": "titre",
+   "family": "gilda-display",
+   "weight": 400
+  },
+  {
+   "key": "texte",
+   "family": "manrope",
+   "variable": true
+  }
+ ],
+ "horaires": {
+  "lundi": [
+   "10:00-18:00"
+  ],
+  "mardi": [
+   "10:00-16:30"
+  ],
+  "mercredi": [],
+  "jeudi": [
+   "10:00-18:00"
+  ],
+  "vendredi": [
+   "10:00-18:00"
+  ],
+  "samedi": [],
+  "dimanche": []
+ }
+}
