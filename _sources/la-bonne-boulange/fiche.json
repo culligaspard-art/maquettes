@@ -1,0 +1,118 @@
+{
+ "slug": "la-bonne-boulange",
+ "famille": "patisserie",
+ "polices": 0,
+ "nom": "La Bonne Boulange",
+ "nom_plaque": "La Bonne Boulange",
+ "ruban": "boulangerie, pâtisserie, salon de thé",
+ "activite": "Boulangerie, pâtisserie, salon de thé",
+ "description": "La Bonne Boulange, boulangerie, pâtisserie et salon de thé au 25 rue de Reiningue à Wittelsheim : croissants, viennoiseries feuilletées, tartes aux fruits, macarons, number cakes et bûches de Noël. Horaires et accès.",
+ "ville": "Wittelsheim",
+ "adresse": "25 rue de Reiningue",
+ "cp_ville": "68310 Wittelsheim",
+ "maps_dest": "47.8042062,7.2372616",
+ "tel": "+33389550219",
+ "tel_affiche": "03 89 55 02 19",
+ "email": "labonneboulange@outlook.fr",
+ "facebook": "https://www.facebook.com/Boulangerie.Schaffner/",
+ "note": "4,4",
+ "avis": 222,
+ "couleurs": {
+  "principale": "#1f2a3c",
+  "accent": "#b8893e"
+ },
+ "hero": "croissants",
+ "hero_alt": "Une boîte de croissants dorés, le feuilletage bien visible",
+ "hero_pos": "50% 45%",
+ "accroche": "Boulangerie, pâtisserie et salon de thé à Wittelsheim",
+ "titre_lignes": [
+  "La Bonne",
+  "Boulange"
+ ],
+ "slogan": "Des croissants au feuilletage bien marqué, des tartes aux fruits rouges et un salon de thé, rue de Reiningue.",
+ "offre_titre": "En vitrine",
+ "offre_intro": "Du pain du matin aux gâteaux de fête, dès 6 h en semaine.",
+ "offre": [
+  {
+   "titre": "Pains et viennoiseries",
+   "texte": "Croissants, brioches tressées, kouglofs et feuilletés dorés au four."
+  },
+  {
+   "titre": "Pâtisseries",
+   "texte": "Tartes aux fruits rouges, gros macarons à l'abricot et à la vanille, entremets."
+  },
+  {
+   "titre": "Number cakes",
+   "texte": "Vos chiffres en biscuit, crème et fruits frais, pour les anniversaires."
+  },
+  {
+   "titre": "Bûches de Noël",
+   "texte": "Glacées, au chocolat, aux fruits rouges ou roulées à l'ancienne."
+  },
+  {
+   "titre": "Plat du jour",
+   "texte": "À l'ardoise devant la boutique."
+  },
+  {
+   "titre": "Salon de thé",
+   "texte": "Pour prendre le temps, sur place."
+  }
+ ],
+ "photos": [
+  {
+   "img": "vitrine",
+   "alt": "La vitrine : kouglofs, brioches tressées, tartes et viennoiseries"
+  },
+  {
+   "img": "tarte-fruits",
+   "alt": "Une tarte aux fruits rouges et à la chantilly, devant les entremets"
+  },
+  {
+   "img": "macarons",
+   "alt": "De gros macarons à l'abricot et à la crème vanille, avec la plaque en chocolat La Bonne Boulange"
+  },
+  {
+   "img": "feuilletes",
+   "alt": "Deux feuilletés dorés, les couches de pâte bien visibles"
+  },
+  {
+   "img": "number-cakes",
+   "alt": "Deux number cakes aux fraises et aux framboises, avec leurs bougies"
+  },
+  {
+   "img": "buches",
+   "alt": "Les bûches de Noël en vitrine : chocolat, fruits rouges et roulées"
+  }
+ ],
+ "bloc2": {
+  "titre": "Rue de Reiningue",
+  "texte": "La Bonne Boulange est au 25 rue de Reiningue, à Wittelsheim : une façade blanche, des stores anthracite, la boulangerie d'un côté et le salon de thé de l'autre. Ouvert dès 6 h du lundi au vendredi, et le samedi matin.",
+  "img": "facade"
+ },
+ "commande": {
+  "titre": "Pour vos commandes",
+  "texte": "Number cakes, bûches, gâteaux d'anniversaire et de fête : appelez-nous au 03 89 55 02 19 ou écrivez-nous.",
+  "img": "number-cakes"
+ },
+ "horaires": {
+  "lundi": [
+   "06:00-18:30"
+  ],
+  "mardi": [
+   "06:00-18:30"
+  ],
+  "mercredi": [
+   "06:00-18:30"
+  ],
+  "jeudi": [
+   "06:00-18:30"
+  ],
+  "vendredi": [
+   "06:00-18:30"
+  ],
+  "samedi": [
+   "06:30-13:00"
+  ],
+  "dimanche": []
+ }
+}
