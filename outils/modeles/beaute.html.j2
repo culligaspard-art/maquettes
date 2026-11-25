@@ -2,13 +2,15 @@
 [# Beauté : onglerie, institut, coiffure, barbier. Forme des visuels : ongle (onglerie), amande ou eventail (cils, sourcils), miroir ou cercle (le reste). #]
 [% set forme = f.forme|default("miroir") %]
 [% set ongle = "M50 0C74 6 100 42 100 84V128C100 146 80 160 50 160C20 160 0 146 0 128V84C0 42 26 6 50 0Z" %]
+[% set galet = "M50 4C80 4 98 30 98 72C98 120 80 156 48 156C18 156 2 124 2 80C2 34 22 4 50 4Z" %]
 [% set eventail = "M50 160L2 40C14 16 32 2 50 0C68 2 86 16 98 40Z" %]
 [% set amande = "M50 0C86 38 100 66 100 80C100 94 86 122 50 160C14 122 0 94 0 80C0 66 14 38 50 0Z" %]
 [% block css %]
 :root{--titre-style:[% if roles.titre in ("Bodoni Moda","Playfair Display","Cormorant Garamond") %]italic[% else %]normal[% endif %];--titre-poids:500;--rayon:999px;
   --ongle:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 160' preserveAspectRatio='none'%3E%3Cpath d='[[ ongle ]]'/%3E%3C/svg%3E");
   --amande:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 160' preserveAspectRatio='none'%3E%3Cpath d='[[ amande ]]'/%3E%3C/svg%3E");
-  --eventail:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 160' preserveAspectRatio='none'%3E%3Cpath d='[[ eventail ]]'/%3E%3C/svg%3E");}
+  --eventail:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 160' preserveAspectRatio='none'%3E%3Cpath d='[[ eventail ]]'/%3E%3C/svg%3E");
+  --galet:url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 160' preserveAspectRatio='none'%3E%3Cpath d='[[ galet ]]'/%3E%3C/svg%3E");}
 .hero{background:linear-gradient(180deg,var(--fond2) 0%,var(--fond) 100%);margin-top:-4.5rem;padding-top:4.5rem;overflow:hidden}
 .hero__grid{display:grid;gap:1.75rem;padding-top:2.5rem;padding-bottom:3rem;align-items:center}
 @media (min-width:900px){.hero__grid{grid-template-columns:1.05fr 1fr;gap:3rem;min-height:min(86vh,760px)}}
@@ -24,6 +26,7 @@
 .forme-ongle .fan figure{aspect-ratio:5/8}
 .forme-amande .fan figure{aspect-ratio:5/8}
 .forme-eventail .fan figure{aspect-ratio:5/8}
+.forme-galet .fan figure{aspect-ratio:5/7}
 .forme-miroir .fan figure{aspect-ratio:3/4}
 .forme-cercle .fan figure{aspect-ratio:1/1;width:35%}
 @media (min-width:900px){.forme-cercle .fan figure{width:43%;bottom:18%}}
@@ -34,6 +37,7 @@
 .forme-ongle .forme{-webkit-mask:var(--ongle) center/100% 100% no-repeat;mask:var(--ongle) center/100% 100% no-repeat}
 .forme-amande .forme{-webkit-mask:var(--amande) center/100% 100% no-repeat;mask:var(--amande) center/100% 100% no-repeat}
 .forme-eventail .forme{-webkit-mask:var(--eventail) center/100% 100% no-repeat;mask:var(--eventail) center/100% 100% no-repeat}
+.forme-galet .forme{-webkit-mask:var(--galet) center/100% 100% no-repeat;mask:var(--galet) center/100% 100% no-repeat}
 .forme-miroir .forme{border-radius:999px 999px 1.2rem 1.2rem}
 .forme-cercle .forme{border-radius:50%}
 .forme img{width:100%;height:100%;object-fit:cover}
@@ -46,6 +50,7 @@
 .soins__list li::before{content:"";width:1.1rem;height:1.75rem;margin-top:.2rem;background:var(--principale);-webkit-mask:var(--ongle) center/100% 100% no-repeat;mask:var(--ongle) center/100% 100% no-repeat}
 [% if forme == "amande" %].soins__list li::before{-webkit-mask-image:var(--amande);mask-image:var(--amande)}
 [% endif %][% if forme == "eventail" %].soins__list li::before{-webkit-mask-image:var(--eventail);mask-image:var(--eventail)}
+[% endif %][% if forme == "galet" %].soins__list li::before{-webkit-mask-image:var(--galet);mask-image:var(--galet)}
 [% endif %][% if forme == "cercle" %].soins__list li::before{width:1rem;height:1rem;margin-top:.5rem;border-radius:50%;-webkit-mask:none;mask:none}
 [% endif %].soins__list li:nth-child(3n+2)::before{background:var(--accent)}
 .soins__list li:nth-child(3n)::before{background:var(--encre)}
@@ -65,6 +70,7 @@
 .forme-ongle .rack .forme{aspect-ratio:5/8;height:auto}
 .forme-amande .rack .forme{aspect-ratio:5/8;height:auto}
 .forme-eventail .rack .forme{aspect-ratio:5/8;height:auto}
+.forme-galet .rack .forme{aspect-ratio:5/7;height:auto}
 .forme-miroir .rack .forme{aspect-ratio:3/4;height:auto}
 .forme-cercle .rack .forme{aspect-ratio:1/1;height:auto}
 .rack .flacon{filter:drop-shadow(0 12px 16px rgba(0,0,0,.14));transition:transform .2s var(--ease-out)}
@@ -93,7 +99,7 @@
 @keyframes gloss{0%{transform:translateX(0);opacity:0}20%{opacity:.9}100%{transform:translateX(320%);opacity:0}}
 @keyframes veil{to{transform:scale(18)}}
 [% endblock %]
-[% macro forme_svg(id) %][% if forme == "eventail" %]<path transform="translate(435 396) scale(1.3)" d="[[ eventail ]]"[% elif forme == "amande" %]<path transform="translate(435 396) scale(1.3)" d="[[ amande ]]"[% elif forme == "ongle" %]<path transform="translate(435 396) scale(1.3)" d="[[ ongle ]]"[% elif forme == "cercle" %]<circle cx="500" cy="500" r="112"[% else %]<ellipse cx="500" cy="500" rx="92" ry="120"[% endif %][% endmacro %]
+[% macro forme_svg(id) %][% if forme == "galet" %]<path transform="translate(435 396) scale(1.3)" d="[[ galet ]]"[% elif forme == "eventail" %]<path transform="translate(435 396) scale(1.3)" d="[[ eventail ]]"[% elif forme == "amande" %]<path transform="translate(435 396) scale(1.3)" d="[[ amande ]]"[% elif forme == "ongle" %]<path transform="translate(435 396) scale(1.3)" d="[[ ongle ]]"[% elif forme == "cercle" %]<circle cx="500" cy="500" r="112"[% else %]<ellipse cx="500" cy="500" rx="92" ry="120"[% endif %][% endmacro %]
 [% block intro %]
   <svg class="i-veil" viewBox="0 0 1000 1000" preserveAspectRatio="xMidYMid slice">
     <defs><mask id="trou" maskUnits="userSpaceOnUse" x="-3000" y="-3000" width="7000" height="7000">
