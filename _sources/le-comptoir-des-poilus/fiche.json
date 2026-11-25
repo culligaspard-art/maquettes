@@ -1,0 +1,118 @@
+{
+ "slug": "le-comptoir-des-poilus",
+ "famille": "commerce",
+ "nom": "Le Comptoir des Poilus",
+ "activite": "Toilettage canin et félin, éducation canine",
+ "description": "Le Comptoir des Poilus, au 1 rue Saint-Joseph à Cernay : toilettage canin et félin, éducation comportementaliste, friandises, alimentation naturelle et accessoires pour chiens. Sur rendez-vous, horaires et contact.",
+ "ville": "Cernay",
+ "adresse": "1 rue Saint-Joseph",
+ "cp_ville": "68700 Cernay",
+ "maps_dest": "47.8022734,7.1763374",
+ "tel": "+33633117178",
+ "tel_affiche": "06 33 11 71 78",
+ "email": "lecomptoirdespoilus@hotmail.com",
+ "facebook": "https://www.facebook.com/Le.comptoir.des.poilus/",
+ "note": "4,9",
+ "avis": 71,
+ "preuve_extra": "recommandé à 100 % sur Facebook",
+ "couleurs": {
+  "principale": "#3d5a78",
+  "accent": "#d8433b"
+ },
+ "hero": "caniche",
+ "hero_alt": "Un caniche abricot tout juste toiletté, deux petites couettes, sur la table du salon devant un tableau de chiens multicolores",
+ "hero_pos": "40% 45%",
+ "hero_legende": "Au 1 rue Saint-Joseph, sur rendez-vous.",
+ "accroche": "Toilettage canin et félin à Cernay",
+ "titre_lignes": [
+  "Le Comptoir",
+  "des Poilus"
+ ],
+ "slogan": "Toilettage des chiens et des chats, éducation canine, et une petite boutique pour vos compagnons.",
+ "offre_titre": "Au salon",
+ "offre_intro": "Manon s'occupe de vos chiens et de vos chats, sur rendez-vous :",
+ "offre": [
+  {
+   "titre": "Toilettage canin",
+   "texte": "Bain, coupe, tonte, du bichon au spitz"
+  },
+  {
+   "titre": "Toilettage félin",
+   "texte": "Les chats aussi, poils longs compris"
+  },
+  {
+   "titre": "Éducation comportementaliste",
+   "texte": "Sans matériel coercitif, sur terrain clos ou en balade"
+  },
+  {
+   "titre": "Prévention des morsures",
+   "texte": "Interventions dans les écoles et les entreprises"
+  },
+  {
+   "titre": "Fleurs de Bach",
+   "texte": "Pour aider vos animaux à gérer leurs émotions"
+  },
+  {
+   "titre": "La boutique",
+   "texte": "Friandises, alimentation naturelle et accessoires"
+  }
+ ],
+ "photos": [
+  {
+   "img": "bichon",
+   "titre": "Bichon",
+   "texte": "Une tête bien ronde, tout en douceur.",
+   "alt": "Un bichon blanc à la tête toute ronde, sur la table de toilettage"
+  },
+  {
+   "img": "cavalier",
+   "titre": "Cavalier King Charles",
+   "texte": "Les oreilles démêlées, la robe brillante.",
+   "alt": "Un cavalier king charles blanc et feu sur la table de toilettage"
+  },
+  {
+   "img": "chat",
+   "titre": "Les chats aussi",
+   "texte": "Poils longs, démêlés en douceur.",
+   "alt": "Un chat blanc et crème aux poils longs, allongé sur la table de toilettage"
+  },
+  {
+   "img": "spitz",
+   "titre": "Spitz",
+   "texte": "Du crème au noir, en boule de poils.",
+   "alt": "Un spitz crème debout et un spitz noir couché dans un panier gris tout doux"
+  },
+  {
+   "img": "chocolat",
+   "titre": "Avant, après",
+   "texte": "La tonte du jour, encore sur la table.",
+   "alt": "Un petit chien chocolat tout juste tondu, ses poils coupés tout autour de lui sur la table"
+  }
+ ],
+ "bloc2": {
+  "titre": "Manon",
+  "texte": "Passionnée par les animaux depuis toujours, Manon s'est formée au toilettage canin et félin, puis à l'éducation et au comportement du chien. Depuis l'été 2022, elle vous reçoit dans son salon, au 1 rue Saint-Joseph à Cernay. Elle propose aussi des cours d'éducation sur terrain clos ou au bord de la Thur, et une petite boutique de friandises et d'alimentation naturelle.",
+  "img": "duo"
+ },
+ "horaires": {
+  "lundi": [
+   "08:00-11:00",
+   "14:00-17:00"
+  ],
+  "mardi": [
+   "08:00-11:00",
+   "14:00-17:00"
+  ],
+  "mercredi": [
+   "09:00-12:00",
+   "13:00-17:30"
+  ],
+  "jeudi": [
+   "08:00-11:00",
+   "14:00-17:00"
+  ],
+  "vendredi": [],
+  "samedi": [],
+  "dimanche": []
+ }
+}
