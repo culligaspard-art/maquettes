@@ -1,0 +1,115 @@
+{
+ "slug": "zenitude-coiffure",
+ "famille": "beaute",
+ "forme": "cercle",
+ "polices": 3,
+ "nom": "Zen’itude Coiffure",
+ "activite": "Salon de coiffure et institut capillaire à Cernay",
+ "description": "Zen’itude Coiffure, salon de coiffure et institut capillaire au 5 rue Traversière à Cernay : coupes femme, homme et enfant, colorations, balayages, soins du cheveu, barbe. Réservation en ligne, horaires et contact.",
+ "ville": "Cernay",
+ "adresse": "5 rue Traversière",
+ "cp_ville": "68700 Cernay",
+ "maps_dest": "47.8090356,7.1741257",
+ "tel": "+33389391751",
+ "tel_affiche": "03 89 39 17 51",
+ "email": "ugo.s@orange.fr",
+ "facebook": "https://www.facebook.com/Kathiasother",
+ "resa_url": "https://reservationcoiffeur.fr/kathiasother/coiffeur-zenitude-cernay-cernay-cernay-68700-coiffure-mixte",
+ "resa_label": "Prendre rendez-vous",
+ "note": "4,6",
+ "avis": 65,
+ "preuve_extra": "recommandé à 100 % sur Facebook",
+ "couleurs": {
+  "principale": "#46303a",
+  "accent": "#b8924a"
+ },
+ "hero": "salon",
+ "hero_alt": "Le salon : fauteuils taupe, coiffeuses noires, petits bouddhas dorés et suspensions dorées",
+ "accroche": "Coiffure et institut capillaire, derrière l'église de Cernay",
+ "titre_lignes": [
+  "Zen’itude",
+  "Coiffure"
+ ],
+ "slogan": "Coupes femme, homme et enfant, couleurs, balayages et soins du cheveu.",
+ "offre_titre": "Au salon",
+ "offre_intro": "Quelques prestations et leurs tarifs, tels qu'affichés sur notre page de réservation en ligne.",
+ "offre": [
+  {
+   "titre": "Brushing femme",
+   "texte": "Cheveux courts, mi-longs ou longs",
+   "prix": "25 à 33 €"
+  },
+  {
+   "titre": "Décoloration et ombré hair",
+   "texte": "Des cheveux courts aux cheveux très longs",
+   "prix": "37 à 78 €"
+  },
+  {
+   "titre": "Soin Nébula",
+   "texte": "Vapeur nébulisée aux ultrasons, pour la brillance du cheveu",
+   "prix": "35 €"
+  },
+  {
+   "titre": "Soin botox capillaire",
+   "texte": "Cheveux courts, mi-longs ou longs",
+   "prix": "90 à 150 €"
+  },
+  {
+   "titre": "Barbe",
+   "texte": "Taille, ou taille et rasage",
+   "prix": "13 à 27 €"
+  },
+  {
+   "titre": "Rasage du crâne",
+   "texte": "Au rasoir, avec une serviette chaude",
+   "prix": "30 €"
+  },
+  {
+   "titre": "Coupe enfant",
+   "texte": "Garçon ou fille, de 2 à 5 ans",
+   "prix": "14 à 19 €"
+  }
+ ],
+ "offre_note": "Toutes nos prestations sont sur la réservation en ligne. Une question ? Appelez-nous au",
+ "galerie_titre": "Le salon",
+ "photos": [
+  {
+   "img": "bacs-vip",
+   "alt": "Le coin VIP : deux bacs de lavage en cuir, entre un mur de lattes de bois et l'étagère des couleurs"
+  },
+  {
+   "img": "salon",
+   "alt": "Les fauteuils taupe face aux coiffeuses noires et aux petits bouddhas dorés"
+  },
+  {
+   "img": "vitrine-soir",
+   "alt": "Le salon le soir, vu à travers la vitrine sous la pluie"
+  },
+  {
+   "img": "salon-jour",
+   "alt": "Le salon en journée : l'accueil, le masque de bouddha et les suspensions dorées"
+  },
+  {
+   "img": "bacs-lumiere",
+   "alt": "Les bacs du coin VIP éclairés en bleu et violet"
+  },
+  {
+   "img": "vip-lounge",
+   "alt": "La plaque « VIP Lounge » à la couronne dorée, sur le mur en lattes de bois"
+  }
+ ],
+ "bloc2": {
+  "titre": "Rue Traversière",
+  "texte": "Plus de vingt ans de métier : Kathia et son équipe vous reçoivent 5 rue Traversière, derrière l'église. Un salon climatisé, des suspensions dorées, des bouddhas sur les coiffeuses et, au fond, le coin VIP. La gamme Vitality's, utilisée au salon, est en vente sur place, et la carte de fidélité offre 20 % de remise après dix passages.",
+  "img": "panorama"
+ },
+ "horaires": {
+  "lundi": ["13:30-17:00"],
+  "mardi": ["08:30-18:00"],
+  "mercredi": ["09:00-12:00"],
+  "jeudi": ["08:30-18:00"],
+  "vendredi": ["08:30-18:00"],
+  "samedi": ["08:00-15:00"],
+  "dimanche": []
+ }
+}
