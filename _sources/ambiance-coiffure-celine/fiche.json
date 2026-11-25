@@ -1,0 +1,96 @@
+{
+ "slug": "ambiance-coiffure-celine",
+ "famille": "beaute",
+ "forme": "miroir",
+ "polices": 2,
+ "nom": "Ambiance coiffure Céline",
+ "activite": "Salon de coiffure à Kingersheim",
+ "description": "Ambiance coiffure Céline, salon de coiffure au 69 rue de Hirschau à Kingersheim : coupes, couleurs, mèches et balayages, ondulations, et un bar à ongles. Sur rendez-vous. Horaires et contact.",
+ "ville": "Kingersheim",
+ "adresse": "69 rue de Hirschau",
+ "cp_ville": "68260 Kingersheim",
+ "maps_dest": "47.7940717,7.336892",
+ "tel": "+33650881165",
+ "tel_affiche": "06 50 88 11 65",
+ "email": "ambiancecoiffure.celine@gmail.com",
+ "facebook": "https://www.facebook.com/am.coif/",
+ "instagram": "https://www.instagram.com/ambiancecoiffure.celine/",
+ "note": "5,0",
+ "avis": 13,
+ "preuve_extra": "recommandé à 96 % sur Facebook",
+ "couleurs": {
+  "principale": "#2b2724",
+  "accent": "#b07d45"
+ },
+ "hero": "ondulations",
+ "hero_alt": "Des cheveux blond cendré ondulés, devant le mur en bois et le miroir rond du salon",
+ "hero_pos": "50% 35%",
+ "accroche": "Salon de coiffure, 69 rue de Hirschau à Kingersheim",
+ "titre_lignes": [
+  "Ambiance",
+  "coiffure Céline"
+ ],
+ "slogan": "Coupes, couleurs et balayages, sur rendez-vous.",
+ "offre_titre": "Au salon",
+ "offre_intro": "Sur rendez-vous, du lundi au samedi sauf le mercredi.",
+ "offre": [
+  {
+   "titre": "Coupe et coiffage",
+   "texte": "Brushing, ondulations, lissage"
+  },
+  {
+   "titre": "Couleur",
+   "texte": "Coloration, mèches, blond cendré"
+  },
+  {
+   "titre": "Balayage et ombré",
+   "texte": "Du brun au caramel, en dégradé"
+  },
+  {
+   "titre": "Bar à ongles",
+   "texte": "Vernis semi-permanent, paillettes, déco"
+  }
+ ],
+ "offre_note": "Pour les tarifs et les disponibilités, appelez Céline au",
+ "galerie_titre": "Au fil des rendez-vous",
+ "photos": [
+  {
+   "img": "balayage",
+   "alt": "Un balayage du brun au blond caramel sur cheveux longs ondulés"
+  },
+  {
+   "img": "meches",
+   "alt": "Des mèches blondes sur un carré plongeant"
+  },
+  {
+   "img": "ondulations",
+   "alt": "Des ondulations blond cendré devant le mur en bois"
+  },
+  {
+   "img": "ongles-paillettes",
+   "alt": "Des ongles prune pailletés, un ongle doré"
+  },
+  {
+   "img": "ongles-roses",
+   "alt": "Des ongles rose vif décorés de petits carrés noirs"
+  },
+  {
+   "img": "bar-a-ongles",
+   "alt": "Le bar à ongles : étagères en bois chargées de vernis et un tableau lumineux « #Bar à ongles ! »"
+  }
+ ],
+ "bloc2": {
+  "titre": "Rue de Hirschau",
+  "texte": "Un mur en lattes de bois, des miroirs ronds cerclés de noir et deux fauteuils : le salon de Céline, à Kingersheim. Au fond, le bar à ongles et ses étagères de vernis. Sur rendez-vous : appelez-la pour tout renseignement.",
+  "img": "salon"
+ },
+ "horaires": {
+  "lundi": ["08:30-17:00"],
+  "mardi": ["08:30-17:00"],
+  "mercredi": [],
+  "jeudi": ["08:30-17:00"],
+  "vendredi": ["09:00-19:00"],
+  "samedi": ["08:30-14:00"],
+  "dimanche": []
+ }
+}
