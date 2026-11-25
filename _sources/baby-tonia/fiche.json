@@ -1,0 +1,139 @@
+{
+ "slug": "baby-tonia",
+ "famille": "beaute",
+ "forme": "ongle",
+ "polices": 5,
+ "nom": "Baby Tonia",
+ "activite": "Prothésiste ongulaire et maquilleuse à Wittelsheim",
+ "description": "Baby Tonia, au 224 rue de Reiningue à Wittelsheim : poses de gel, nail art, vernis semi-permanent, manucure femme et homme, maquillage de jour, de soirée et de mariée. Sur rendez-vous, tous les jours.",
+ "ville": "Wittelsheim",
+ "adresse": "224 rue de Reiningue",
+ "cp_ville": "68310 Wittelsheim",
+ "maps_dest": "47.7797758,7.2241291",
+ "email": "babytonia.68@gmail.com",
+ "resa_url": "https://www.planity.com/baby-tonia-68310-wittelsheim",
+ "resa_label": "Prendre rendez-vous",
+ "facebook": "https://www.facebook.com/104217929131861/",
+ "instagram": "https://www.instagram.com/babytonia/",
+ "note": "4,8",
+ "avis": 16,
+ "couleurs": {
+  "principale": "#7d1a35",
+  "accent": "#c9a24a"
+ },
+ "hero": "leopard",
+ "hero_alt": "Des ongles longs en amande, nude à motifs léopard et french dorée à rayures",
+ "hero_pos": "50% 50%",
+ "accroche": "Ongles et maquillage, 224 rue de Reiningue à Wittelsheim",
+ "titre_lignes": [
+  "Baby",
+  "Tonia"
+ ],
+ "slogan": "Gel, nail art et maquillage, dans un cadre chic et glamour. Tonia vous reçoit tous les jours, sur rendez-vous.",
+ "offre_titre": "Les prestations",
+ "offre_intro": "Les ongles, du vernis semi-permanent au nail art, et le maquillage, du jour au grand jour.",
+ "offre_note": "Pour une question ou une prestation sur mesure, écrivez à Tonia :",
+ "offre": [
+  {
+   "titre": "Pose complète gel",
+   "texte": "Environ 2 h.",
+   "prix": "50 €"
+  },
+  {
+   "titre": "Remplissage",
+   "texte": "Toutes les 3 à 4 semaines.",
+   "prix": "40 €"
+  },
+  {
+   "titre": "Gainage ongles naturels",
+   "texte": "Pour renforcer vos ongles.",
+   "prix": "35 €"
+  },
+  {
+   "titre": "Vernis semi-permanent",
+   "texte": "Environ 1 h.",
+   "prix": "30 €"
+  },
+  {
+   "titre": "Ongles extrêmes",
+   "texte": "Les très longues poses, environ 3 h.",
+   "prix": "65 à 95 €"
+  },
+  {
+   "titre": "Nail art",
+   "texte": "Simple 2 € l'ongle, complexe 5 € l'ongle, french 8 €, babyboomer 10 €.",
+   "prix": "dès 2 €"
+  },
+  {
+   "titre": "Manucure",
+   "texte": "Femme 20 €, homme 25 €.",
+   "prix": "dès 20 €"
+  },
+  {
+   "titre": "Maquillage",
+   "texte": "Flash 25 €, jour 35 €, soirée 50 €.",
+   "prix": "dès 25 €"
+  },
+  {
+   "titre": "Maquillage de mariée",
+   "texte": "L'essai et le jour J.",
+   "prix": "120 €"
+  }
+ ],
+ "galerie_titre": "En images",
+ "photos": [
+  {
+   "img": "rouge-dentelle",
+   "alt": "Des ongles stiletto rouges pailletés, aux bords ondulés comme de la dentelle"
+  },
+  {
+   "img": "citron-bleu",
+   "alt": "Des ongles blancs à pois bleus, fleurs jaunes et bijoux dorés"
+  },
+  {
+   "img": "pois",
+   "alt": "Des ongles en amande noirs à pois blancs et french à pois"
+  },
+  {
+   "img": "framboise",
+   "alt": "Des ongles longs couleur framboise, brillants et nacrés"
+  },
+  {
+   "img": "automne",
+   "alt": "Des ongles ambrés aux paillettes et aux feuilles d'automne, devant l'anneau lumineux"
+  },
+  {
+   "img": "fard-argent",
+   "alt": "Un maquillage des yeux au fard argenté irisé"
+  }
+ ],
+ "bloc2": {
+  "titre": "Rue de Reiningue",
+  "texte": "Tonia vous reçoit au 224 rue de Reiningue, à Wittelsheim, du lundi au dimanche, sur rendez-vous. L'entrée est dans un petit chemin : c'est la maison aux balcons verts.",
+  "img": "citron-bleu"
+ },
+ "horaires": {
+  "lundi": [
+   "08:00-19:00"
+  ],
+  "mardi": [
+   "08:00-19:00"
+  ],
+  "mercredi": [
+   "08:00-19:00"
+  ],
+  "jeudi": [
+   "08:00-19:00"
+  ],
+  "vendredi": [
+   "08:00-19:00"
+  ],
+  "samedi": [
+   "09:00-18:00"
+  ],
+  "dimanche": [
+   "09:00-12:00",
+   "15:00-18:00"
+  ]
+ }
+}
