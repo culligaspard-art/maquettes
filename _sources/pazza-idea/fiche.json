@@ -1,0 +1,144 @@
+{
+ "slug": "pazza-idea",
+ "famille": "restaurant",
+ "polices": 5,
+ "nom": "Pazza Idea",
+ "activite": "Restaurant italien, pizzeria",
+ "description": "Pazza Idea, restaurant italien au 18 rue du Maréchal Joffre à Guebwiller : pizzas à la Mozzarella Fior di Latte, pâtes fraîches, viandes et poisson. Sur place, en terrasse ou à emporter. Carte et horaires.",
+ "ville": "Guebwiller",
+ "adresse": "18 rue du Maréchal Joffre",
+ "cp_ville": "68500 Guebwiller",
+ "maps_dest": "47.9074843,7.2101807",
+ "tel": "+33389378929",
+ "tel_affiche": "03 89 37 89 29",
+ "email": "pazza.idea.guebwiller@gmail.com",
+ "facebook": "https://www.facebook.com/PazzaIdeaResto/",
+ "note": "4,6",
+ "avis": 569,
+ "couleurs": {
+  "principale": "#0f3f4c",
+  "accent": "#b0305a"
+ },
+ "hero": "salle-mer",
+ "hero_alt": "La salle de Pazza Idea : fauteuils blancs, tables en bois clair et une fresque de mer turquoise et de rochers blancs sur tout le mur",
+ "hero_pos": "62% 50%",
+ "accroche": "Restaurant italien, 18 rue du Maréchal Joffre à Guebwiller",
+ "titre_lignes": [
+  "Pazza Idea"
+ ],
+ "slogan": "Des pizzas à la Mozzarella Fior di Latte, des pâtes fraîches italiennes, et la mer sur tout un mur de la salle.",
+ "offre_titre": "La carte",
+ "offre_intro": "Un extrait de notre carte. Pour garantir la qualité de nos assiettes, la composition des plats n'est pas modifiée.",
+ "offre": [
+  {
+   "titre": "La Margherita",
+   "texte": "Sauce tomate, Mozzarella Fior di Latte et basilic.",
+   "prix": "12,00 €"
+  },
+  {
+   "titre": "La Boscaiola",
+   "texte": "Base blanche, Mozzarella Fior di Latte, saucisse au fenouil, cèpes et caciocavallo.",
+   "prix": "16,00 €"
+  },
+  {
+   "titre": "La Napoli",
+   "texte": "Base blanche, Mozzarella Fior di Latte, anchois, tomates cerises rôties, olives, câpres et basilic.",
+   "prix": "14,00 €"
+  },
+  {
+   "titre": "La Victoria",
+   "texte": "Base blanche, Mozzarella Fior di Latte, gambas, courgettes, Saint-Jacques et tomates cerises.",
+   "prix": "20,00 €"
+  },
+  {
+   "titre": "Les Orecchiettes di Nonna Maria",
+   "texte": "Pâtes fraîches italiennes, sauce tomate, boulettes de viande de bœuf et fromage de chèvre râpé.",
+   "prix": "19,00 €"
+  },
+  {
+   "titre": "Les Raviolis au sanglier",
+   "texte": "Farcis au sanglier, guanciale, cèpes et mousse de Pecorino Romano.",
+   "prix": "24,00 €"
+  },
+  {
+   "titre": "Les Spaghettis Vongole",
+   "texte": "Ail, huile d'olive, persil, tomates cerises, basilic et vongoles.",
+   "prix": "26,00 €"
+  },
+  {
+   "titre": "Le Pluma ibérique",
+   "texte": "Grillé, pommes de terre au four.",
+   "prix": "28,00 €"
+  },
+  {
+   "titre": "Les Filets de dorade royale",
+   "texte": "Gratinés, chapelure maison, salade verte et légumes.",
+   "prix": "32,00 €"
+  }
+ ],
+ "encart": {
+  "titre": "Sur place ou à emporter",
+  "texte": "Nous vous accueillons en salle ou en terrasse, avec un accès pour les personnes à mobilité réduite. Nos plats se commandent aussi à emporter au 03 89 37 89 29."
+ },
+ "photos": [
+  {
+   "img": "pizza-crudo",
+   "alt": "Une pizza garnie de jambon cru, de burrata et de pesto, sur une assiette en grès bleu"
+  },
+  {
+   "img": "comptoir",
+   "alt": "Le comptoir en lames de bois, ses tabourets et le bar"
+  },
+  {
+   "img": "tagliatelles",
+   "alt": "Des pâtes fraîches à la sauce tomate, servies sur une ardoise"
+  },
+  {
+   "img": "deux-pizzas",
+   "alt": "Deux pizzas sur la table, l'une à la roquette, l'autre à la mortadelle et à la burrata"
+  },
+  {
+   "img": "planche",
+   "alt": "Une planche de charcuteries et de fromages italiens"
+  },
+  {
+   "img": "pizza-mer",
+   "alt": "Une pizza aux gambas, Saint-Jacques, courgettes et artichauts"
+  },
+  {
+   "img": "pizza-arancini",
+   "alt": "Une pizza garnie à la table et deux arancini sur sauce tomate"
+  }
+ ],
+ "bloc2": {
+  "titre": "La salle",
+  "texte": "Au 18 rue du Maréchal Joffre, à Guebwiller : des fauteuils blancs, des tables en bois clair, un comptoir en lames de bois, et sur tout un mur une fresque de mer turquoise et de rochers blancs. Une terrasse aux beaux jours.",
+  "img": "comptoir",
+  "alt": "Le comptoir de Pazza Idea"
+ },
+ "horaires": {
+  "lundi": [],
+  "mardi": [
+   "12:00-14:00",
+   "19:00-22:00"
+  ],
+  "mercredi": [
+   "12:00-14:00",
+   "19:00-22:00"
+  ],
+  "jeudi": [
+   "12:00-14:00",
+   "19:00-22:00"
+  ],
+  "vendredi": [
+   "12:00-14:00",
+   "19:00-22:30"
+  ],
+  "samedi": [
+   "19:00-22:30"
+  ],
+  "dimanche": [
+   "12:00-14:30"
+  ]
+ }
+}
