@@ -1,0 +1,144 @@
+{
+ "slug": "chez-hugo-nguyen",
+ "famille": "restaurant",
+ "polices": 9,
+ "nom": "Chez Hugo Nguyen",
+ "activite": "Restaurant vietnamien",
+ "description": "Chez Hugo Nguyen, restaurant vietnamien au 12 route d'Issenheim à Guebwiller : nems, beignets de crevettes, raviolis vapeur, salades de bœuf et de crevettes, bánh bao. Sur place ou à emporter. Carte et horaires.",
+ "ville": "Guebwiller",
+ "adresse": "12 route d'Issenheim",
+ "cp_ville": "68500 Guebwiller",
+ "maps_dest": "47.9030423,7.2260455",
+ "tel": "+33980658170",
+ "tel_affiche": "09 80 65 81 70",
+ "email": "dmi379@yahoo.fr",
+ "facebook": "https://www.facebook.com/p/HUGO-nguyen-restaurant-100054573529364/",
+ "note": "4,5",
+ "avis": 161,
+ "couleurs": {
+  "principale": "#1c1813",
+  "accent": "#c9922f"
+ },
+ "hero": "bo-bun",
+ "hero_alt": "Deux bols de vermicelles au bœuf sauté, nems, menthe fraîche et carottes, prêts à emporter",
+ "hero_pos": "45% 50%",
+ "accroche": "Restaurant vietnamien, 12 route d'Issenheim à Guebwiller",
+ "titre_lignes": [
+  "Chez Hugo",
+  "Nguyen"
+ ],
+ "slogan": "Nems, raviolis vapeur, salades de bœuf à la menthe et aux cacahuètes, bánh bao. Sur place ou à emporter.",
+ "offre_titre": "La carte",
+ "offre_intro": "Un extrait de notre carte : les entrées, les salades, les garnitures et les desserts.",
+ "offre": [
+  {
+   "titre": "Nems",
+   "texte": "Poulet, légumes ou crevettes. Quatre pièces, ou six pièces à 5,90 €.",
+   "prix": "4,00 €"
+  },
+  {
+   "titre": "Samoussas",
+   "texte": "Quatre pièces, ou six pièces à 5,90 €.",
+   "prix": "4,00 €"
+  },
+  {
+   "titre": "Beignets de crevettes",
+   "texte": "Quatre pièces, ou six pièces à 6,90 €.",
+   "prix": "5,00 €"
+  },
+  {
+   "titre": "Raviolis vapeur",
+   "texte": "Quatre pièces, ou six pièces à 6,90 €.",
+   "prix": "5,00 €"
+  },
+  {
+   "titre": "Salade de bœuf",
+   "texte": "Oignons frits, chou blanc, carottes, cacahuètes, menthe et bœuf.",
+   "prix": "8,90 €"
+  },
+  {
+   "titre": "Salade de crevettes",
+   "texte": "Crevettes, chou blanc, oignons frits, carottes, cacahuètes et menthe.",
+   "prix": "9,90 €"
+  },
+  {
+   "titre": "Bánh bao",
+   "texte": "Porc ou poulet, oignons frits, bambou et champignons noirs. La pièce.",
+   "prix": "3,00 €"
+  },
+  {
+   "titre": "Pâtes au bœuf, au poulet ou aux crevettes",
+   "texte": "Ou riz cantonais et pâtes aux légumes à 3,50 €.",
+   "prix": "5,00 €"
+  },
+  {
+   "titre": "Boules de coco ou de sésame",
+   "texte": "Farine de riz gluant, noix de coco râpée ou sésame. Quatre boules de coco, trois de sésame.",
+   "prix": "5,00 €"
+  }
+ ],
+ "encart": {
+  "titre": "Sur place ou à emporter",
+  "texte": "Tous nos plats se commandent à emporter, en barquettes et en bols, avec la sauce et les cacahuètes à part. Appelez-nous au 09 80 65 81 70."
+ },
+ "photos": [
+  {
+   "img": "salade-boeuf",
+   "alt": "Une salade de bœuf aux carottes, à la menthe et aux cacahuètes, avec ses chips de crevettes"
+  },
+  {
+   "img": "comptoir",
+   "alt": "Le comptoir en bois clair, ses tabourets blancs et ses suspensions en métal"
+  },
+  {
+   "img": "bo-bun-nouilles",
+   "alt": "Deux bols de vermicelles au bœuf et deux barquettes de pâtes sautées aux légumes"
+  },
+  {
+   "img": "facade",
+   "alt": "L'entrée du restaurant, route d'Issenheim, avec ses lauriers en pots roses et ses géraniums"
+  },
+  {
+   "img": "bols-boeuf",
+   "alt": "Deux bols de bœuf sauté aux oignons frits et à la menthe, avec la sauce et les cacahuètes à part"
+  },
+  {
+   "img": "comptoir-2",
+   "alt": "La salle claire et le comptoir avec la machine à café"
+  }
+ ],
+ "bloc2": {
+  "titre": "Le restaurant",
+  "texte": "Au 12 route d'Issenheim, à Guebwiller : une salle claire, un comptoir en bois clair avec ses tabourets, et une entrée de plain-pied avec une rampe. Nos plats se dégustent sur place ou s'emportent.",
+  "img": "comptoir",
+  "alt": "Le comptoir de Chez Hugo Nguyen"
+ },
+ "horaires": {
+  "lundi": [
+   "11:45-14:30",
+   "18:00-22:00"
+  ],
+  "mardi": [
+   "18:00-22:00"
+  ],
+  "mercredi": [
+   "11:45-14:30",
+   "18:00-22:00"
+  ],
+  "jeudi": [
+   "18:00-22:00"
+  ],
+  "vendredi": [
+   "11:45-14:30",
+   "18:00-22:00"
+  ],
+  "samedi": [
+   "11:45-14:30",
+   "18:00-22:00"
+  ],
+  "dimanche": [
+   "12:00-14:30",
+   "18:00-22:00"
+  ]
+ }
+}
