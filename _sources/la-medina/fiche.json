@@ -1,0 +1,119 @@
+{
+ "slug": "la-medina",
+ "famille": "commerce",
+ "nom": "Boucherie La Médina",
+ "activite": "Boucherie halal, traiteur",
+ "description": "Boucherie Traiteur La Médina, le comptoir des viandes halal au 8 avenue Albert Schweitzer à Cernay : viande de race limousine, volaille, merguez, brochettes, et un service traiteur pour vos réceptions. Ouvert du mardi au samedi.",
+ "ville": "Cernay",
+ "adresse": "8 avenue Albert Schweitzer",
+ "cp_ville": "68700 Cernay",
+ "maps_dest": "47.8071947,7.1787347",
+ "tel": "+33389743922",
+ "tel_affiche": "03 89 74 39 22",
+ "email": "boucherielamedina@gmail.com",
+ "facebook": "https://www.facebook.com/profile.php?id=100054223910727",
+ "note": "4,5",
+ "avis": 73,
+ "couleurs": {
+  "principale": "#c8202a",
+  "accent": "#e8a93a"
+ },
+ "hero": "devanture",
+ "hero_alt": "La devanture noire de la Boucherie Traiteur La Médina, le soir : son enseigne rouge, le chameau et les palmiers du comptoir des viandes halal, et la vitrine « Traiteur, cuisine traditionnelle marocaine »",
+ "hero_pos": "60% 50%",
+ "hero_legende": "Au 8 avenue Albert Schweitzer, du mardi au samedi.",
+ "accroche": "Boucherie halal et traiteur à Cernay",
+ "titre_lignes": [
+  "Boucherie",
+  "La Médina"
+ ],
+ "slogan": "Le comptoir des viandes halal, et un traiteur de cuisine traditionnelle marocaine.",
+ "offre_titre": "Au comptoir",
+ "offre_intro": "Viandes halal, découpées et préparées sur place :",
+ "offre": [
+  {
+   "titre": "Bœuf",
+   "texte": "Viande de race limousine"
+  },
+  {
+   "titre": "Agneau",
+   "texte": "Côtelettes, gigot, à la coupe"
+  },
+  {
+   "titre": "Volaille",
+   "texte": "Poulet entier, cuisses, filets"
+  },
+  {
+   "titre": "Merguez et saucisses",
+   "texte": "Au comptoir chaque jour"
+  },
+  {
+   "titre": "Brochettes et marinades",
+   "texte": "Prêtes à griller"
+  },
+  {
+   "titre": "Traiteur",
+   "texte": "Cuisine traditionnelle marocaine : tajines, couscous, buffets, sur commande"
+  }
+ ],
+ "photos": [
+  {
+   "img": "vitrine",
+   "titre": "La vitrine",
+   "texte": "Bœuf, agneau, merguez, brochettes et volaille.",
+   "alt": "La vitrine réfrigérée : côtes, gigots, merguez, brochettes, volaille, et l'affiche « viande de race limousine »"
+  },
+  {
+   "img": "tajine-couscous",
+   "titre": "Tajine et couscous",
+   "texte": "Pour vos repas de fête, aux pruneaux et aux amandes.",
+   "alt": "Un tajine aux pruneaux et sésame et un couscous aux raisins et amandes, en plats de service"
+  },
+  {
+   "img": "tajine-figues",
+   "titre": "Tajine aux figues",
+   "texte": "Avec ses légumes, pour un buffet.",
+   "alt": "Un tajine aux figues, pruneaux, amandes et œufs, à côté d'un plat de carottes et haricots verts"
+  },
+  {
+   "img": "buffet-canapes",
+   "titre": "Buffets",
+   "texte": "Canapés et mini-bretzels garnis.",
+   "alt": "Des plateaux de canapés : mini-bretzels, poivrons grillés, mousses de poisson"
+  },
+  {
+   "img": "verrines",
+   "titre": "Verrines",
+   "texte": "Crevettes, velouté, petits blinis.",
+   "alt": "Des verrines de velouté aux crevettes et des blinis garnis, sur un plateau d'argent"
+  }
+ ],
+ "bloc2": {
+  "titre": "Le comptoir des viandes halal",
+  "texte": "Au 8 avenue Albert Schweitzer, à Cernay, la Médina vous accueille du mardi au samedi. Au comptoir, la viande halal à la coupe. Et pour vos réceptions, le traiteur de cuisine traditionnelle marocaine : tajines, couscous, buffets froids et verrines, sur commande.",
+  "img": "comptoir"
+ },
+ "horaires": {
+  "lundi": [],
+  "mardi": [
+   "09:00-12:00",
+   "14:00-19:00"
+  ],
+  "mercredi": [
+   "09:00-12:00",
+   "14:00-19:00"
+  ],
+  "jeudi": [
+   "09:00-12:00",
+   "14:00-19:00"
+  ],
+  "vendredi": [
+   "09:00-12:00",
+   "14:30-19:00"
+  ],
+  "samedi": [
+   "09:00-18:00"
+  ],
+  "dimanche": []
+ }
+}
