@@ -1,0 +1,156 @@
+{
+ "slug": "chez-yaki",
+ "famille": "restaurant",
+ "nom": "Chez Yaki",
+ "activite": "Restaurant, couscous et grillades",
+ "description": "Chez Yaki, restaurant familial au 250 rue de Bâle à Riedisheim depuis 2006 : couscous, grillades, pizzas. Sur place, en terrasse ou à emporter. Carte des grillades, horaires et accès.",
+ "ville": "Riedisheim",
+ "adresse": "250 rue de Bâle",
+ "cp_ville": "68400 Riedisheim",
+ "maps_dest": "47.7557579,7.3766963",
+ "tel": "+33389649720",
+ "tel_affiche": "03 89 64 97 20",
+ "email": "chezyakimm@gmail.com",
+ "note": "4,4",
+ "avis": 613,
+ "couleurs": {
+  "principale": "#3f4a1f",
+  "accent": "#c8642a"
+ },
+ "hero": "plateau-grillades",
+ "hero_alt": "Un plateau de grillades : brochettes d'agneau et de poulet, merguez, adana, frites et sauce blanche",
+ "hero_pos": "50% 62%",
+ "accroche": "Restaurant familial, rue de Bâle à Riedisheim",
+ "titre_lignes": [
+  "Chez Yaki"
+ ],
+ "slogan": "Couscous, grillades et pizzas, depuis 2006. Sur place, en terrasse ou à emporter.",
+ "offre_titre": "Les grillades",
+ "offre_intro": "Servies avec leurs accompagnements et une salade variée.",
+ "offre": [
+  {
+   "titre": "Grillade du Chef",
+   "texte": "Merguez, boulette, brochette d'agneau et de poulet, aile de poulet.",
+   "prix": "27,90 €"
+  },
+  {
+   "titre": "Grillade mixte",
+   "texte": "Brochette de poulet et d'agneau, adana, merguez.",
+   "prix": "25,90 €"
+  },
+  {
+   "titre": "Grillade 3 viandes",
+   "texte": "Merguez, brochette d'agneau et brochette de poulet.",
+   "prix": "23,90 €"
+  },
+  {
+   "titre": "Côtelettes d'agneau",
+   "texte": "Trois côtelettes d'agneau.",
+   "prix": "24,90 €"
+  },
+  {
+   "titre": "Brochettes d'agneau",
+   "texte": "Deux brochettes d'agneau.",
+   "prix": "21,90 €"
+  },
+  {
+   "titre": "Adana",
+   "texte": "Deux brochettes de viande hachée.",
+   "prix": "17,90 €"
+  },
+  {
+   "titre": "Köfte",
+   "texte": "Cinq boulettes de viande hachée.",
+   "prix": "16,90 €"
+  },
+  {
+   "titre": "Faux-filet de bœuf",
+   "texte": "Sauce au poivre vert ou beurre maître d'hôtel.",
+   "prix": "27,90 €"
+  },
+  {
+   "titre": "Iskender",
+   "texte": "Méchoui de veau, yaourt et sauce tomate.",
+   "prix": "20,90 €"
+  },
+  {
+   "titre": "Döner kebab",
+   "texte": "Méchoui de veau.",
+   "prix": "17,50 €"
+  }
+ ],
+ "encart": {
+  "titre": "Couscous et pizzas",
+  "texte": "Spécialistes du couscous et des grillades, nous proposons aussi une sélection de pizzas. Sur place, en terrasse ou à emporter : appelez le 03 89 64 97 20."
+ },
+ "photos": [
+  {
+   "img": "cotelettes",
+   "alt": "Trois côtelettes d'agneau, légumes sautés, boulgour et sauce blanche"
+  },
+  {
+   "img": "adana",
+   "alt": "Deux brochettes d'adana, légumes sautés et boulgour"
+  },
+  {
+   "img": "adana-sauce",
+   "alt": "Des brochettes de viande hachée nappées de sauce tomate et de yaourt, légumes et boulgour"
+  },
+  {
+   "img": "salade",
+   "alt": "Une salade de tomates, concombre, feta et olives noires"
+  },
+  {
+   "img": "dessert",
+   "alt": "Un dessert au cacao avec sa gaufrette, chantilly et filet de caramel"
+  },
+  {
+   "img": "salle",
+   "alt": "La salle de Chez Yaki : nappes vertes, rideaux verts et tableaux colorés"
+  }
+ ],
+ "bloc2": {
+  "titre": "Depuis 2006",
+  "texte": "Un restaurant familial rue de Bâle : une salle aux nappes vertes et aux tableaux colorés, et une terrasse fleurie aux beaux jours. Des plats préparés avec des ingrédients frais et des recettes traditionnelles transmises avec passion.",
+  "img": "terrasse",
+  "alt": "La terrasse de Chez Yaki, tables et chaises tressées, jardinières fleuries",
+  "faits": [
+   {
+    "k": "Midi et soir",
+    "v": "Du mardi au dimanche, de 11 h 30 à 14 h et à partir de 18 h."
+   },
+   {
+    "k": "Fermé le lundi",
+    "v": "Terrasse, parking et vente à emporter."
+   }
+  ]
+ },
+ "resa_url": null,
+ "horaires": {
+  "lundi": [],
+  "mardi": [
+   "11:30-14:00",
+   "18:00-22:00"
+  ],
+  "mercredi": [
+   "11:30-14:00",
+   "18:00-22:00"
+  ],
+  "jeudi": [
+   "11:30-14:00",
+   "18:00-22:00"
+  ],
+  "vendredi": [
+   "11:30-14:00",
+   "18:00-22:00"
+  ],
+  "samedi": [
+   "11:30-14:00",
+   "18:00-22:00"
+  ],
+  "dimanche": [
+   "11:30-14:00",
+   "18:00-21:00"
+  ]
+ }
+}
