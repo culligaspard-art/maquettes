@@ -1,0 +1,115 @@
+{
+ "slug": "le-petit-wintz",
+ "famille": "restaurant",
+ "polices": 6,
+ "nom": "Le petit Wint'z",
+ "activite": "Restaurant, café, du petit déjeuner au dîner",
+ "description": "Le petit Wint'z, au 39 rue Clemenceau à Wintzenheim : petits déjeuners dès 9h30, burgers, baguettes gratinées, plat du jour, wraps et pâtes gratinées le midi, crêpes à la pâte maison l'après-midi. Ouvert jusqu'à 22h, terrasse et vente à emporter.",
+ "ville": "Wintzenheim",
+ "adresse": "39 rue Clemenceau",
+ "cp_ville": "68920 Wintzenheim",
+ "maps_dest": "48.072773,7.2901897",
+ "tel": "+33986742315",
+ "tel_affiche": "09 86 74 23 15",
+ "email": "haydar.sertdag@sfr.fr",
+ "note": "4,6",
+ "avis": 243,
+ "couleurs": {
+  "principale": "#b8232b",
+  "accent": "#e2a957"
+ },
+ "hero": "salle-soir",
+ "hero_alt": "La salle le soir : chaises rouges, suspensions en corde, mur de pierre et le nom du petit Wint'z sur la vitrine",
+ "hero_pos": "50% 50%",
+ "accroche": "Restaurant et café, 39 rue Clemenceau à Wintzenheim",
+ "titre_lignes": [
+  "Le petit",
+  "Wint'z"
+ ],
+ "slogan": "Du petit déjeuner jusqu'à 22 heures, Cindy et Haydar vous accueillent dans un cadre chaleureux et original.",
+ "offre_titre": "Toute la journée",
+ "offre_intro": "De 9h30 à 22h, du lundi au samedi. Sur place, en terrasse ou à emporter.",
+ "offre": [
+  {
+   "titre": "Le petit déjeuner",
+   "texte": "Dès 9h30, pour bien commencer la journée."
+  },
+  {
+   "titre": "Les burgers",
+   "texte": "Servis sur la planche, avec leurs frites."
+  },
+  {
+   "titre": "Les baguettes gratinées",
+   "texte": "Gratinées au four, à partager ou non."
+  },
+  {
+   "titre": "Le plat du jour",
+   "texte": "Une suggestion différente chaque midi."
+  },
+  {
+   "titre": "Les wraps et les pâtes gratinées",
+   "texte": "Pour le déjeuner, sur place ou à emporter."
+  },
+  {
+   "titre": "Les crêpes",
+   "texte": "L'après-midi, avec notre pâte maison."
+  }
+ ],
+ "encart": {
+  "titre": "Une pause l'après-midi",
+  "texte": "Entre le déjeuner et le soir, arrêtez-vous pour une crêpe à la pâte maison. La salle reste ouverte jusqu'à 22 heures."
+ },
+ "photos": [
+  {
+   "img": "burger",
+   "alt": "Un burger double steak et cheddar sur une planche en bois, avec son panier de frites"
+  },
+  {
+   "img": "wraps",
+   "alt": "Deux wraps grillés sur des planches en bois, avec leurs frites"
+  },
+  {
+   "img": "baguettes",
+   "alt": "Deux baguettes gratinées au fromage, oignon rouge et lardons, sur une planche"
+  },
+  {
+   "img": "poulet",
+   "alt": "Une escalope de poulet grillée aux herbes, frites, salade et sauce"
+  },
+  {
+   "img": "comptoir",
+   "alt": "Le comptoir et sa vitrine, le tonneau en guise de mange-debout et le mur de pierre"
+  },
+  {
+   "img": "salle",
+   "alt": "La salle aux chaises rouges, vue depuis l'entrée"
+  }
+ ],
+ "bloc2": {
+  "titre": "Rue Clemenceau",
+  "texte": "Des chaises rouges, un mur de pierre, un tonneau en mange-debout et des suspensions en corde : la salle du petit Wint'z, au 39 rue Clemenceau, avec sa terrasse et son parking.",
+  "img": "comptoir",
+  "alt": "Le comptoir du petit Wint'z"
+ },
+ "horaires": {
+  "lundi": [
+   "09:30-22:00"
+  ],
+  "mardi": [
+   "09:30-22:00"
+  ],
+  "mercredi": [
+   "09:30-22:00"
+  ],
+  "jeudi": [
+   "09:30-22:00"
+  ],
+  "vendredi": [
+   "09:30-22:00"
+  ],
+  "samedi": [
+   "09:30-22:00"
+  ],
+  "dimanche": []
+ }
+}
