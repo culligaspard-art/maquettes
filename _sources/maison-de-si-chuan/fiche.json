@@ -1,0 +1,119 @@
+{
+ "slug": "maison-de-si-chuan",
+ "famille": "restaurant",
+ "polices": 8,
+ "nom": "Maison de Si Chuan",
+ "activite": "Restaurant chinois",
+ "description": "Maison de Si Chuan, restaurant chinois au 157 rue de la République à Pfastatt : menu du midi à 13,80 €, poissons entiers, crevettes sautées, terrasse. Horaires et réservation.",
+ "ville": "Pfastatt",
+ "adresse": "157 rue de la République",
+ "cp_ville": "68120 Pfastatt",
+ "maps_dest": "47.7661021,7.3006175",
+ "tel": "+33981768890",
+ "tel_affiche": "09 81 76 88 90",
+ "email": "maisondesichuan@gmail.com",
+ "facebook": "https://www.facebook.com/maisondesichuan/",
+ "note": "4,3",
+ "avis": 96,
+ "couleurs": {
+  "principale": "#0d5a50",
+  "accent": "#d9a21b"
+ },
+ "hero": "poisson-vapeur",
+ "hero_alt": "Un poisson entier à la vapeur, ciboule, coriandre et piment rouge, sur un plat ovale au liseré vert",
+ "hero_pos": "50% 50%",
+ "accroche": "Restaurant chinois, 157 rue de la République à Pfastatt",
+ "titre_lignes": [
+  "Maison",
+  "de Si Chuan"
+ ],
+ "slogan": "Poissons entiers, crevettes sautées et menu du midi. Dans la salle ou sous les parasols de la terrasse.",
+ "offre_titre": "Le menu du midi",
+ "offre_intro": "13,80 € : une entrée, un plat et un dessert au choix. Les plats sont accompagnés de riz ou de nouilles.",
+ "offre": [
+  {
+   "titre": "Entrée au choix",
+   "texte": "3 nems et salade, salade au poulet, ou 2 nems, 2 raviolis frits et salade."
+  },
+  {
+   "titre": "Bœuf aux oignons ou bœuf piquant",
+   "texte": "Plat au choix, avec riz ou nouilles."
+  },
+  {
+   "titre": "Poulet aigre-doux",
+   "texte": "Plat au choix, avec riz ou nouilles."
+  },
+  {
+   "titre": "Crevettes aigre-douce ou sauce piquante",
+   "texte": "Plat au choix, avec riz ou nouilles."
+  },
+  {
+   "titre": "Dessert au choix",
+   "texte": "Litchis, nougat chinois ou une boule de glace."
+  }
+ ],
+ "offre_note": "Le menu entier : 13,80 €.",
+ "encart": {
+  "titre": "Nos poissons entiers",
+  "texte": "Frit et nappé de sauce aigre-douce aux poivrons, ou cuit à la vapeur avec ciboule, coriandre et piment : nos poissons arrivent entiers sur la table."
+ },
+ "photos": [
+  {
+   "img": "poisson-aigre-doux",
+   "alt": "Un poisson entier frit, sauce aigre-douce aux poivrons, concombre et coriandre"
+  },
+  {
+   "img": "crevettes",
+   "alt": "Des crevettes sautées aux poivrons verts et rouges, oignon et coriandre"
+  },
+  {
+   "img": "poisson-frit",
+   "alt": "Un poisson frit nappé de sauce, julienne de carotte, piment et ciboule"
+  },
+  {
+   "img": "potiron",
+   "alt": "Des quartiers de potiron rôtis, tomates cerises et coriandre"
+  },
+  {
+   "img": "terrasse",
+   "alt": "La terrasse, ses parasols rouges et ses jardinières de fleurs"
+  },
+  {
+   "img": "facade",
+   "alt": "La façade du restaurant éclairée le soir, enseigne et lanternes rouges"
+  }
+ ],
+ "bloc2": {
+  "titre": "Rue de la République",
+  "texte": "Notre maison est au 157 rue de la République, à Pfastatt : la façade s'éclaire le soir, et la terrasse ouvre aux beaux jours sous les parasols rouges.",
+  "img": "facade",
+  "alt": "La façade de Maison de Si Chuan le soir"
+ },
+ "horaires": {
+  "lundi": [],
+  "mardi": [
+   "11:30-14:00",
+   "18:00-21:30"
+  ],
+  "mercredi": [
+   "11:30-14:00",
+   "18:00-21:30"
+  ],
+  "jeudi": [
+   "11:30-14:00",
+   "18:00-21:30"
+  ],
+  "vendredi": [
+   "11:30-14:00",
+   "18:00-21:30"
+  ],
+  "samedi": [
+   "11:30-14:00",
+   "18:00-21:30"
+  ],
+  "dimanche": [
+   "11:30-14:00",
+   "18:00-21:00"
+  ]
+ }
+}
