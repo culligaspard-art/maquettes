@@ -1,0 +1,198 @@
+{
+ "slug": "cappadoce-ensisheim",
+ "famille": "emporter",
+ "polices": 5,
+ "nom": "Cappadoce",
+ "activite": "Kebab, grill, pide et pizza",
+ "description": "Restaurant Cappadoce, 2 faubourg Saint-Martin à Ensisheim : döner kebab au pain fait maison, lahmacun, pide, pizzas, grillades. Sur place, à emporter, terrasse et parking.",
+ "ville": "Ensisheim",
+ "adresse": "2 faubourg Saint-Martin",
+ "cp_ville": "68190 Ensisheim",
+ "maps_dest": "47.8657824,7.3566213",
+ "tel": "+33389811703",
+ "tel_affiche": "03 89 81 17 03",
+ "email": "bozkiracdaniel@hotmail.fr",
+ "note": "4,8",
+ "avis": 333,
+ "couleurs": {
+  "principale": "#8c2a1c",
+  "accent": "#e8a33a"
+ },
+ "hero": "doner",
+ "hero_alt": "La broche de döner qui dore devant les résistances du grill",
+ "hero_pos": "50% 40%",
+ "accroche": "Kebab, grill, pide et pizza, 2 faubourg Saint-Martin à Ensisheim",
+ "titre_lignes": [
+  "Cappadoce"
+ ],
+ "slogan": "Le döner au pain fait maison, le lahmacun, la pide sortie du four et les pizzas : sur place, en terrasse ou à emporter.",
+ "offre_titre": "La carte",
+ "offre_intro": "Un extrait de notre carte. Le pain du döner et le lahmacun sont faits maison.",
+ "offre_groupes": [
+  {
+   "titre": "Les sandwichs",
+   "items": [
+    {
+     "titre": "Döner kebab",
+     "texte": "Dans notre pain fait maison.",
+     "prix": "8 €"
+    },
+    {
+     "titre": "Maxi döner kebab",
+     "texte": "",
+     "prix": "12,50 €"
+    },
+    {
+     "titre": "Döner feta frites",
+     "texte": "",
+     "prix": "9,50 €"
+    },
+    {
+     "titre": "Yufka kebab ou escalope",
+     "texte": "La galette roulée.",
+     "prix": "9 €"
+    },
+    {
+     "titre": "Lahmacun",
+     "texte": "Fait maison.",
+     "prix": "7 €"
+    },
+    {
+     "titre": "Lahmacun garni",
+     "texte": "Viande au choix et crudités.",
+     "prix": "9 €"
+    },
+    {
+     "titre": "Sandwich végétarien",
+     "texte": "",
+     "prix": "6 €"
+    }
+   ]
+  },
+  {
+   "titre": "Les pizzas",
+   "items": [
+    {
+     "titre": "Margherita",
+     "texte": "",
+     "prix": "11,50 €"
+    },
+    {
+     "titre": "Thon",
+     "texte": "",
+     "prix": "12,50 €"
+    },
+    {
+     "titre": "Sucuk",
+     "texte": "La saucisse turque.",
+     "prix": "12,50 €"
+    },
+    {
+     "titre": "4 fromages",
+     "texte": "Avec roquefort et feta.",
+     "prix": "12,50 €"
+    },
+    {
+     "titre": "Merguez",
+     "texte": "Avec un œuf.",
+     "prix": "13,50 €"
+    },
+    {
+     "titre": "Kebab",
+     "texte": "",
+     "prix": "14,50 €"
+    },
+    {
+     "titre": "Cappadoce",
+     "texte": "Viande kebab, champignons.",
+     "prix": "16,50 €"
+    }
+   ]
+  }
+ ],
+ "notes": [
+  {
+   "k": "Sur place",
+   "v": "salle, terrasse, parking, wi-fi"
+  },
+  {
+   "k": "Paiement",
+   "v": "carte, sans contact, espèces, tickets restaurant"
+  }
+ ],
+ "moment": {
+  "titre": "Sortis du four",
+  "intro": "Au grill et au four, chez Cappadoce :",
+  "items": [
+   {
+    "img": "pide",
+    "titre": "La pide",
+    "texte": "Fromage fondu et épinards, sur sa planche.",
+    "alt": "Une pide au fromage et aux épinards, coupée en parts sur une planche en bois"
+   },
+   {
+    "img": "pizza-kebab",
+    "titre": "La pizza kebab",
+    "texte": "Viande kebab, olives, poivrons, champignons.",
+    "alt": "Une pizza à la viande kebab, aux olives noires et aux poivrons verts, dans son carton"
+   },
+   {
+    "img": "escalope",
+    "titre": "L'escalope",
+    "texte": "En sauce aux champignons, avec des frites.",
+    "alt": "Des morceaux d'escalope en sauce crème aux champignons, et des frites"
+   }
+  ]
+ },
+ "photos": [
+  {
+   "img": "pizza",
+   "alt": "Une pizza aux champignons, olives et poivrons dans son carton"
+  },
+  {
+   "img": "burger",
+   "alt": "Un burger au cheddar et ses frites dans une barquette à emporter"
+  }
+ ],
+ "commande_intro": "Par téléphone : vous passez la prendre au 2 faubourg Saint-Martin, ou vous mangez sur place.",
+ "etapes": [
+  {
+   "titre": "Choisissez",
+   "texte": "Un döner, une pide, une pizza : la carte est ci-dessus."
+  },
+  {
+   "titre": "Appelez",
+   "texte": "Au 03 89 81 17 03, aux heures d'ouverture."
+  },
+  {
+   "titre": "Passez la prendre",
+   "texte": "Au 2 faubourg Saint-Martin, avec un parking juste devant."
+  }
+ ],
+ "horaires": {
+  "lundi": [
+   "11:30-13:45",
+   "17:30-22:00"
+  ],
+  "mardi": [],
+  "mercredi": [
+   "11:30-13:45",
+   "17:30-22:00"
+  ],
+  "jeudi": [
+   "11:30-13:45",
+   "17:30-22:00"
+  ],
+  "vendredi": [
+   "11:30-13:45",
+   "17:30-22:00"
+  ],
+  "samedi": [
+   "11:30-13:45",
+   "17:30-22:00"
+  ],
+  "dimanche": [
+   "17:30-22:00"
+  ]
+ }
+}
