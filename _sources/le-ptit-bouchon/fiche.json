@@ -1,0 +1,114 @@
+{
+ "slug": "le-ptit-bouchon",
+ "famille": "restaurant",
+ "polices": 0,
+ "nom": "Le P'tit Bouchon",
+ "activite": "Restaurant traditionnel",
+ "description": "Le P'tit Bouchon, restaurant traditionnel au 327 avenue d'Altkirch à Brunstatt : escargots d'Alsace, tartare, entrecôte, fondue, suggestion du jour à l'ardoise. Sur place, terrasse couverte et à emporter.",
+ "ville": "Brunstatt-Didenheim",
+ "adresse": "327 avenue d'Altkirch",
+ "cp_ville": "68350 Brunstatt-Didenheim",
+ "maps_dest": "47.7200255,7.3178206",
+ "tel": "+33757455381",
+ "tel_affiche": "07 57 45 53 81",
+ "email": "vuoso.sonia@gmail.com",
+ "facebook": "https://www.facebook.com/leptitbouchonbrunstatt/",
+ "note": "4,5",
+ "avis": 307,
+ "couleurs": {
+  "principale": "#2c4a3b",
+  "accent": "#c3302b"
+ },
+ "hero": "terrasse",
+ "hero_alt": "La terrasse couverte du P'tit Bouchon le soir : guirlandes, lanternes, peau de vache au mur et nappes à carreaux verts",
+ "hero_pos": "50% 55%",
+ "accroche": "Restaurant traditionnel, 327 avenue d'Altkirch à Brunstatt",
+ "titre_lignes": [
+  "Le P'tit",
+  "Bouchon"
+ ],
+ "slogan": "Une cuisine de tradition, des nappes à carreaux et des guirlandes sous la tonnelle. La suggestion du jour est à l'ardoise.",
+ "offre_titre": "Les entrées",
+ "offre_intro": "Un extrait de notre carte. Pour la suggestion du jour, regardez l'ardoise ou appelez-nous.",
+ "offre": [
+  {
+   "titre": "Suggestion du jour",
+   "texte": "À l'ardoise, selon le marché.",
+   "prix": ""
+  },
+  {
+   "titre": "Escargots d'Alsace, la demi-douzaine",
+   "texte": "",
+   "prix": "7,50 €"
+  },
+  {
+   "titre": "Escargots d'Alsace, la douzaine",
+   "texte": "",
+   "prix": "14 €"
+  },
+  {
+   "titre": "Terrine du moment",
+   "texte": "",
+   "prix": "7,50 €"
+  },
+  {
+   "titre": "Cocktail de crevettes",
+   "texte": "",
+   "prix": "12,90 €"
+  }
+ ],
+ "encart": {
+  "titre": "Et ensuite",
+  "texte": "Tartare préparé à l'assiette, entrecôte et son beurre aux herbes, jarret nappé de sauce, fondue au caquelon : nos plats changent avec les saisons."
+ },
+ "photos": [
+  {
+   "img": "tartare",
+   "alt": "Un tartare avec son jaune d'œuf, anchois, câpres, oignon, piments et salade verte"
+  },
+  {
+   "img": "entrecote",
+   "alt": "Une entrecôte grillée, deux rondelles de beurre aux herbes, tomates confites et jeunes pousses"
+  },
+  {
+   "img": "jarret",
+   "alt": "Des jarrets nappés de sauce, persil plat, sur des assiettes jaunes et bleues"
+  },
+  {
+   "img": "rosti-choucroute",
+   "alt": "Des galettes de pommes de terre en étage, fromage fondu, lard et tomate, avec de la choucroute"
+  },
+  {
+   "img": "salle",
+   "alt": "La salle le soir : tables rondes, nappes à carreaux, ardoise des vins et guirlandes"
+  }
+ ],
+ "bloc2": {
+  "titre": "Avenue d'Altkirch",
+  "texte": "Sous la tonnelle, les guirlandes s'allument le soir : peau de vache au mur, couronnes de bois, chaises sculptées et nappes à carreaux verts. On y mange sur place, ou on passe prendre son plat à emporter.",
+  "img": "salle",
+  "alt": "La salle du P'tit Bouchon et l'ardoise des vins"
+ },
+ "horaires": {
+  "lundi": [
+   "11:30-15:00"
+  ],
+  "mardi": [
+   "11:30-15:00"
+  ],
+  "mercredi": [
+   "11:30-15:00"
+  ],
+  "jeudi": [
+   "11:30-15:00"
+  ],
+  "vendredi": [
+   "11:30-15:00",
+   "19:00-22:00"
+  ],
+  "samedi": [
+   "11:30-15:00"
+  ],
+  "dimanche": []
+ }
+}

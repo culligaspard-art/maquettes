@@ -1,0 +1,36 @@
+{
+ "fonts": [
+  {
+   "key": "titre",
+   "family": "fraunces",
+   "variable": true
+  },
+  {
+   "key": "texte",
+   "family": "work-sans",
+   "variable": true
+  }
+ ],
+ "horaires": {
+  "lundi": [
+   "11:30-15:00"
+  ],
+  "mardi": [
+   "11:30-15:00"
+  ],
+  "mercredi": [
+   "11:30-15:00"
+  ],
+  "jeudi": [
+   "11:30-15:00"
+  ],
+  "vendredi": [
+   "11:30-15:00",
+   "19:00-22:00"
+  ],
+  "samedi": [
+   "11:30-15:00"
+  ],
+  "dimanche": []
+ }
+}
