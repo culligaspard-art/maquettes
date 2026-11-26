@@ -1,0 +1,129 @@
+{
+ "slug": "miiks-nails",
+ "famille": "beaute",
+ "forme": "ongle",
+ "polices": 7,
+ "nom": "Miik's nails",
+ "activite": "Styliste ongulaire",
+ "description": "Miik's nails, styliste ongulaire au 18b rue du Hohnack à Wintzenheim-Logelbach : vernis semi-permanent, gel et acrygel, capsules, chablon, nail art, pieds. Sur rendez-vous, tarifs affichés.",
+ "ville": "Wintzenheim",
+ "adresse": "18b rue du Hohnack",
+ "cp_ville": "68124 Wintzenheim-Logelbach",
+ "maps_dest": "48.0880376,7.3133939",
+ "tel": "+33771153577",
+ "tel_affiche": "07 71 15 35 77",
+ "email": "monica__68@hotmail.fr",
+ "facebook": "https://www.facebook.com/people/Miiks-nails/100085382053586/",
+ "note": "4,8",
+ "avis": 37,
+ "couleurs": {
+  "principale": "#7e2a3a",
+  "accent": "#e9c3bd"
+ },
+ "hero": "cerises",
+ "hero_alt": "Des ongles longs bordeaux et nude, cerises peintes à la main, effet écaille et petits clous dorés",
+ "hero_pos": "50% 40%",
+ "accroche": "Styliste ongulaire, 18b rue du Hohnack à Logelbach",
+ "titre_lignes": [
+  "Miik's",
+  "nails"
+ ],
+ "slogan": "Vernis semi-permanent, gel et nail art peint à la main. Prestations sur rendez-vous.",
+ "offre_titre": "Les tarifs",
+ "offre_intro": "Mains et pieds, sur rendez-vous au 07 71 15 35 77.",
+ "offre": [
+  {
+   "titre": "Vernis semi-permanent",
+   "texte": "Pose classique. Renforcé : 30 €. Dépose et pose : 25 €.",
+   "prix": "20 €"
+  },
+  {
+   "titre": "Pose de gel ou acrygel",
+   "texte": "Sur ongles naturels.",
+   "prix": "40 €"
+  },
+  {
+   "titre": "Pose complète capsules",
+   "texte": "Gel ou acrygel. Au chablon : 45 €.",
+   "prix": "42 €"
+  },
+  {
+   "titre": "Remplissage",
+   "texte": "Gel ou acrygel.",
+   "prix": "35 €"
+  },
+  {
+   "titre": "Ongles rongés",
+   "texte": "Pose complète adaptée.",
+   "prix": "50 €"
+  },
+  {
+   "titre": "French, baby-boomer ou glitter",
+   "texte": "En supplément de la pose. Changement de forme : 5 € aussi.",
+   "prix": "+5 €"
+  },
+  {
+   "titre": "Nail art simple",
+   "texte": "Deux ongles. Quatre ongles : 8 €. Strass, paillettes et stickers de 0,50 € à 2 €.",
+   "prix": "4 €"
+  },
+  {
+   "titre": "Pieds",
+   "texte": "Bain, cuticules et vernis semi-permanent.",
+   "prix": "30 €"
+  }
+ ],
+ "offre_note": "Dépose gel ou acrygel : 15 €. Ongle cassé : 2 €. Couleur : 3 €.",
+ "photos": [
+  {
+   "img": "coeurs",
+   "alt": "Des cœurs pastel cernés de noir et des french rouges, façon bande dessinée"
+  },
+  {
+   "img": "turquoise",
+   "alt": "Des amandes vert d'eau : paillettes, french, motifs et strass"
+  },
+  {
+   "img": "etoiles",
+   "alt": "Des amandes nude semées d'étoiles argentées et de strass"
+  },
+  {
+   "img": "fleurs-sechees",
+   "alt": "Des ongles nude avec fleurs séchées turquoise et feuille d'argent"
+  },
+  {
+   "img": "nude-ombre",
+   "alt": "Une pose ombrée rose et blanc, forme ballerine"
+  },
+  {
+   "img": "cerises",
+   "alt": "Des cerises peintes et un effet écaille bordeaux"
+  }
+ ],
+ "bloc2": {
+  "titre": "Rue du Hohnack",
+  "texte": "Monique vous reçoit au 18b rue du Hohnack, à Logelbach, sur rendez-vous : du vernis semi-permanent au nail art peint à la main, pour les mains comme pour les pieds.",
+  "img": "turquoise",
+  "alt": "Une pose vert d'eau aux motifs pailletés"
+ },
+ "horaires": {
+  "lundi": [
+   "09:00-16:00"
+  ],
+  "mardi": [
+   "09:00-18:00"
+  ],
+  "mercredi": [
+   "09:00-12:00",
+   "14:00-18:00"
+  ],
+  "jeudi": [],
+  "vendredi": [
+   "09:00-18:00"
+  ],
+  "samedi": [
+   "09:00-16:00"
+  ],
+  "dimanche": []
+ }
+}
