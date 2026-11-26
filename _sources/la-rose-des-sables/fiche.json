@@ -1,0 +1,126 @@
+{
+ "slug": "la-rose-des-sables",
+ "famille": "restaurant",
+ "polices": 1,
+ "nom": "La Rose des Sables",
+ "activite": "Restaurant, couscous et spécialités kabyles",
+ "description": "La Rose des Sables, restaurant au 63 rue de la République à Pfastatt : couscous, tâasbante, tripes à l'orientale, brochettes et grillades, thé à la menthe. Cuisine faite maison, terrasse, à emporter. Carte et horaires.",
+ "ville": "Pfastatt",
+ "adresse": "63 rue de la République",
+ "cp_ville": "68120 Pfastatt",
+ "maps_dest": "47.76694,7.312842",
+ "tel": "+33389508705",
+ "tel_affiche": "03 89 50 87 05",
+ "email": "la-rose-des-sables-sarl@hotmail.com",
+ "note": "4,6",
+ "avis": 128,
+ "couleurs": {
+  "principale": "#7a2418",
+  "accent": "#e3a23b"
+ },
+ "hero": "couscous-table",
+ "hero_alt": "Sur la nappe rayée, un plat de semoule, le bouillon de légumes, le poulet et l'agneau, les pois chiches et les raisins secs",
+ "hero_pos": "50% 50%",
+ "accroche": "Restaurant, 63 rue de la République à Pfastatt",
+ "titre_lignes": [
+  "La Rose",
+  "des Sables"
+ ],
+ "slogan": "Couscous, tâasbante, brochettes et tripes à l'orientale. Une cuisine faite maison, et le thé à la menthe pour finir.",
+ "offre_titre": "La carte",
+ "offre_intro": "Un extrait de notre carte. Nos grillades sont servies avec salade, crudités et frites au choix.",
+ "offre": [
+  {
+   "titre": "Tâasbante poulet, merguez ou bœuf",
+   "texte": "La recette kabyle de boulettes de semoule en sauce rouge à la coriandre et à la menthe fraîche, avec légumes. Sur commande, à partir de 4 personnes.",
+   "prix": "15 €"
+  },
+  {
+   "titre": "Tâasbante agneau ou veau",
+   "texte": "Avec un morceau de ragoût d'épaule ou des brochettes.",
+   "prix": "16 €"
+  },
+  {
+   "titre": "Tâasbante royale",
+   "texte": "Poulet, ragoût d'agneau, une brochette au choix et une merguez.",
+   "prix": "22 €"
+  },
+  {
+   "titre": "3 brochettes de gigot d'agneau",
+   "texte": "Salade, crudités, frites au choix.",
+   "prix": "16 €"
+  },
+  {
+   "titre": "2 escalopes de poulet",
+   "texte": "Salade, crudités, frites au choix.",
+   "prix": "14 €"
+  },
+  {
+   "titre": "Mixed grill",
+   "texte": "Une brochette d'agneau ou d'abats, une merguez, une escalope de poulet et un steak haché.",
+   "prix": "18 €"
+  },
+  {
+   "titre": "Tripes à l'orientale",
+   "texte": "Une suggestion du chef.",
+   "prix": "15 €"
+  },
+  {
+   "titre": "Tête de veau vinaigrette maison",
+   "texte": "Avec crudités, salade, frites ou pommes de terre vapeur.",
+   "prix": "18 €"
+  }
+ ],
+ "encart": {
+  "titre": "Le couscous",
+  "texte": "Semoule, bouillon de légumes, pois chiches, poulet, agneau et merguez : notre couscous se partage à table, et se commande aussi à emporter au 03 89 50 87 05."
+ },
+ "photos": [
+  {
+   "img": "assiette-couscous",
+   "alt": "Une assiette de couscous : cuisse de poulet, agneau, merguez, courgette, carottes et pois chiches"
+  },
+  {
+   "img": "salle",
+   "alt": "La salle dressée, tables en bois clair, assiettes bleues peintes et serviettes noires"
+  },
+  {
+   "img": "the-menthe",
+   "alt": "Le thé à la menthe, servi dans un verre ciselé avec la théière en métal argenté"
+  },
+  {
+   "img": "couscous-table",
+   "alt": "Le couscous servi à table, sur la nappe rayée rouge et orange"
+  }
+ ],
+ "bloc2": {
+  "titre": "Rue de la République",
+  "texte": "La Rose des Sables est au 63 rue de la République, à Pfastatt : une salle aux assiettes bleues peintes, des tables en bois clair, et une terrasse aux beaux jours. Nos cuisiniers préparent tout sur place, et le service à emporter est disponible.",
+  "img": "salle",
+  "alt": "La salle de La Rose des Sables"
+ },
+ "horaires": {
+  "lundi": [],
+  "mardi": [],
+  "mercredi": [
+   "11:30-15:00",
+   "19:00-22:00"
+  ],
+  "jeudi": [
+   "11:30-15:00",
+   "19:00-22:00"
+  ],
+  "vendredi": [
+   "11:30-15:00",
+   "19:00-23:00"
+  ],
+  "samedi": [
+   "11:30-14:00",
+   "19:00-23:00"
+  ],
+  "dimanche": [
+   "11:30-15:00",
+   "19:00-22:00"
+  ]
+ }
+}
