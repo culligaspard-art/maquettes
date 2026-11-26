@@ -1,0 +1,135 @@
+{
+ "slug": "le-point-couture",
+ "famille": "commerce",
+ "polices": 5,
+ "nom": "Le Point Couture",
+ "activite": "Mercerie",
+ "description": "Le Point Couture, mercerie au 53 rue de la 1ère Armée à Thann : laines et pelotes, fils DMC et Gütermann, boutons, rubans, petit matériel de couture, broderie et machines à coudre.",
+ "ville": "Thann",
+ "adresse": "53 rue de la 1ère Armée",
+ "cp_ville": "68800 Thann",
+ "maps_dest": "47.8120298,7.0996465",
+ "tel": "+33389378943",
+ "tel_affiche": "03 89 37 89 43",
+ "email": "le-point-couture@orange.fr",
+ "note": "4,6",
+ "avis": 14,
+ "couleurs": {
+  "principale": "#7a1a24",
+  "accent": "#c9a14a"
+ },
+ "nav_labels": {
+  "produits": "En rayon",
+  "maison": "La boutique"
+ },
+ "hero": "boutique",
+ "hero_alt": "La boutique : le mur de mercerie à gauche, le comptoir et les casiers de laines à droite",
+ "hero_pos": "50% 50%",
+ "hero_legende": "Au 53 rue de la 1ère Armée, à Thann.",
+ "accroche": "Mercerie, 53 rue de la 1ère Armée à Thann",
+ "titre_lignes": [
+  "Le Point",
+  "Couture"
+ ],
+ "slogan": "Laines, fils, boutons et rubans : tout ce qu'il faut pour vos projets de couture, de tricot et de broderie.",
+ "offre_titre": "En rayon",
+ "offre_intro": "Pour vos projets et vos besoins en couture, nous vous accueillons du mardi au samedi.",
+ "offre": [
+  {
+   "titre": "Laines et pelotes",
+   "texte": "Des casiers du sol au plafond, du blanc au bleu nuit, et les laines Phildar."
+  },
+  {
+   "titre": "Fils à broder et à coudre",
+   "texte": "Les écheveaux DMC et les bobines Gütermann, mats ou pailletés."
+  },
+  {
+   "titre": "Boutons",
+   "texte": "Rangés sur leurs bobines : métal, nacre, verre, et même des cœurs."
+  },
+  {
+   "titre": "Rubans",
+   "texte": "De toutes les couleurs, sur leurs dérouleurs."
+  },
+  {
+   "titre": "Mercerie",
+   "texte": "Aiguilles, épingles et petit matériel, accrochés au mur."
+  },
+  {
+   "titre": "Broderie et canevas",
+   "texte": "Des modèles à broder, dès la porte d'entrée."
+  },
+  {
+   "titre": "Machines à coudre",
+   "texte": "En vitrine et en boutique."
+  }
+ ],
+ "photos": [
+  {
+   "img": "laines",
+   "titre": "Les laines",
+   "texte": "Une couleur par casier.",
+   "alt": "Le mur de laines : pelotes rangées par couleur dans des casiers en bois"
+  },
+  {
+   "img": "boutons",
+   "titre": "Les boutons",
+   "texte": "Chaque modèle sur sa bobine.",
+   "alt": "Des boutons de toutes formes montés sur leurs bobines : métal doré, cœur rouge, nacre"
+  },
+  {
+   "img": "fils",
+   "titre": "Les fils",
+   "texte": "DMC et Gütermann.",
+   "alt": "Des écheveaux DMC rose et bleu pâle et des bobines Gütermann pailletées"
+  },
+  {
+   "img": "rubans",
+   "titre": "Les rubans",
+   "texte": "Sur leurs dérouleurs.",
+   "alt": "Des rouleaux de rubans de couleur alignés sur des dérouleurs"
+  },
+  {
+   "img": "gilet",
+   "titre": "Un gilet",
+   "texte": "Rayé, col et poignets multicolores.",
+   "alt": "Un gilet tricoté à rayures marine, col et poignets rayés de couleurs vives, boutons en cœur"
+  },
+  {
+   "img": "machine",
+   "titre": "La machine",
+   "texte": "Une Veritas, devant un plaid au crochet.",
+   "alt": "Une machine à coudre Veritas rouge et blanche devant un plaid au crochet multicolore"
+  }
+ ],
+ "bloc2": {
+  "titre": "Rue de la 1ère Armée",
+  "texte": "L'enseigne dorée, la vitrine rouge garnie de pelotes et de machines : Le Point Couture est au 53 rue de la 1ère Armée, au centre de Thann. Ouvert du mardi au samedi, le matin et l'après-midi.",
+  "img": "facade",
+  "alt": "La façade de la mercerie, enseigne Le Point Couture en lettres dorées"
+ },
+ "horaires": {
+  "lundi": [],
+  "mardi": [
+   "09:30-12:00",
+   "14:00-18:00"
+  ],
+  "mercredi": [
+   "09:30-12:00",
+   "14:00-18:00"
+  ],
+  "jeudi": [
+   "09:30-12:00",
+   "14:00-18:00"
+  ],
+  "vendredi": [
+   "09:30-12:00",
+   "14:00-18:00"
+  ],
+  "samedi": [
+   "09:30-12:00",
+   "14:00-16:00"
+  ],
+  "dimanche": []
+ }
+}
