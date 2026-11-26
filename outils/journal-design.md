@@ -131,3 +131,4 @@ Une ligne par maquette. Avant chaque nouveau site, relire les 10 dernières lign
 | 2026-11-26 | Ô'Minéraux (Huningue) | Minéraux et bien-être | Young Serif / Instrument Sans | violet améthyste, or de l'arbre de vie, store violet | Modèle commerce |
 | 2026-11-26 | Cappadoce (Ensisheim) | Kebab, grill, pide, pizza | Bowlby One / Archivo | rouge brique et ambre du grill | Modèle emporter ; hero : la broche de döner devant les résistances |
 | 2026-11-26 | Le Kellian (Ensisheim) | Restaurant, grillades, pizzas, tartes flambées | Bebas Neue / Barlow | rouge brique et moutarde de leur carte, braises | Modèle restaurant ; photos de l'onglet « Plats et boissons » (auteur non vérifié, à remplacer) |
+| 2026-11-26 | Sole del Sud (Soultz-Haut-Rhin) | Épicerie fine italienne, pizzas, traiteur | Libre Caslon Display / Public Sans | bleu de leur vitrine, orange de leur logo soleil | Modèle restaurant sans braises ; hero : leur pizza en étoile |

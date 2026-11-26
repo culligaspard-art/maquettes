@@ -1,0 +1,149 @@
+{
+ "slug": "sole-del-sud",
+ "famille": "restaurant",
+ "polices": 10,
+ "braises": false,
+ "nom": "Sole del Sud",
+ "activite": "Épicerie fine italienne, pizzas et traiteur",
+ "description": "Sole del Sud, épicerie fine italienne au 17 rue de la Marne à Soultz-Haut-Rhin : pizzas artisanales, arancini, panini, pâtes, charcuteries, fromages, vins et coffrets cadeaux. Sur place ou à emporter.",
+ "ville": "Soultz-Haut-Rhin",
+ "adresse": "17 rue de la Marne",
+ "cp_ville": "68360 Soultz-Haut-Rhin",
+ "maps_dest": "47.8879673,7.230957",
+ "tel": "+33365675871",
+ "tel_affiche": "03 65 67 58 71",
+ "email": "soledelsud46@gmail.com",
+ "facebook": "https://www.facebook.com/profile.php?id=61569152632587",
+ "note": "4,7",
+ "avis": 25,
+ "couleurs": {
+  "principale": "#1f3f7a",
+  "accent": "#f08a24"
+ },
+ "initiales": "S",
+ "hero": "pizza-etoile",
+ "hero_alt": "Une pizza en étoile au jambon cru, à la burrata, à la roquette et aux tomates cerises jaunes et rouges",
+ "hero_pos": "50% 50%",
+ "accroche": "Épicerie fine italienne, 17 rue de la Marne à Soultz",
+ "titre_lignes": [
+  "Sole",
+  "del Sud"
+ ],
+ "slogan": "Pizzas artisanales, charcuteries, fromages, pâtes et vins d'Italie : sur place ou à emporter, chaudes ou mi-cuites.",
+ "offre_titre": "Nos pizzas",
+ "offre_intro": "Artisanales, gourmandes et faites avec passion. Sur place ou à emporter, chaudes ou mi-cuites.",
+ "offre": [
+  {
+   "titre": "Margherita",
+   "texte": "Tomate, mozzarella, olives.",
+   "prix": "10 €"
+  },
+  {
+   "titre": "Inferno",
+   "texte": "Salami piquant, piment.",
+   "prix": "11,50 €"
+  },
+  {
+   "titre": "4 Formaggi",
+   "texte": "",
+   "prix": "11,50 €"
+  },
+  {
+   "titre": "Norma",
+   "texte": "Aubergines, jambon cuit, grana.",
+   "prix": "12,50 €"
+  },
+  {
+   "titre": "Napoli",
+   "texte": "Anchois, câpres, olives.",
+   "prix": "12,50 €"
+  },
+  {
+   "titre": "Vesuviana",
+   "texte": "Salami piquant, poivrons, champignons, oignons.",
+   "prix": "13,50 €"
+  },
+  {
+   "titre": "Mediterranea",
+   "texte": "Légumes grillés.",
+   "prix": "13,50 €"
+  },
+  {
+   "titre": "Italiana",
+   "texte": "Jambon cru, roquette, grana.",
+   "prix": "14,50 €"
+  },
+  {
+   "titre": "Salmone",
+   "texte": "Crème, mozzarella, saumon, oignons, câpres, persil.",
+   "prix": "15,50 €"
+  },
+  {
+   "titre": "Sole del Sud",
+   "texte": "Mozzarella, salsiccia, tomates cerises, pesto.",
+   "prix": "15,50 €"
+  }
+ ],
+ "encart": {
+  "titre": "L'épicerie",
+  "texte": "Charcuteries à la coupe, fromages, pâtes fraîches, vins et boissons d'Italie, plats du traiteur et coffrets cadeaux à composer."
+ },
+ "photos": [
+  {
+   "img": "pizza-pesto",
+   "alt": "Une pizza au pesto, au jambon cru grillé, aux tomates séchées et à la ricotta"
+  },
+  {
+   "img": "arancini",
+   "alt": "Des arancini dorés, deux ouverts sur la viande hachée et les petits pois"
+  },
+  {
+   "img": "planche",
+   "alt": "Une planche de charcuteries italiennes et de fromage en dés, avec un petit drapeau italien"
+  },
+  {
+   "img": "panini",
+   "alt": "Trois panini au jambon, à la roquette, à la tomate et au fromage"
+  },
+  {
+   "img": "vitrine",
+   "alt": "La vitrine bleue : arancini, panini, pizzas en parts, et l'ardoise des pizzas au mur"
+  },
+  {
+   "img": "coffrets",
+   "alt": "Deux coffrets cadeaux Sole del Sud : vin des Pouilles, biscuits, condiments"
+  }
+ ],
+ "bloc2": {
+  "titre": "Rue de la Marne",
+  "texte": "Sole del Sud est au 17 rue de la Marne, à Soultz : un store vert, quelques tables dehors, et à l'intérieur la charcuterie à la coupe, la vitrine du traiteur et l'ardoise des pizzas. Andrea Vulcano vous accueille du lundi au samedi.",
+  "img": "facade",
+  "alt": "La façade de Sole del Sud, son store vert et ses tables"
+ },
+ "horaires": {
+  "lundi": [
+   "10:00-14:00"
+  ],
+  "mardi": [
+   "10:00-13:00",
+   "15:00-19:00"
+  ],
+  "mercredi": [
+   "10:00-13:00",
+   "15:00-19:00"
+  ],
+  "jeudi": [
+   "10:00-13:00",
+   "15:00-19:00"
+  ],
+  "vendredi": [
+   "10:00-13:00",
+   "15:00-19:30"
+  ],
+  "samedi": [
+   "10:00-13:00",
+   "15:00-19:30"
+  ],
+  "dimanche": []
+ }
+}
