@@ -1,0 +1,94 @@
+{
+ "slug": "toutouchic-truck",
+ "famille": "commerce",
+ "polices": 0,
+ "nom": "Toutouchic'truck",
+ "activite": "Toiletteuse à domicile, chiens et chats",
+ "description": "Toutouchic'truck, toiletteuse à domicile pour chiens et chats à Pfastatt : elle se déplace devant chez vous avec son camping-car aménagé. Du lundi au vendredi, sur rendez-vous par téléphone.",
+ "ville": "Pfastatt",
+ "adresse": "11 rue Transversale",
+ "cp_ville": "68120 Pfastatt",
+ "maps_dest": "47.7661461,7.3120244",
+ "tel": "+33675084149",
+ "tel_affiche": "06 75 08 41 49",
+ "email": "claudy.pierrat@sfr.fr",
+ "facebook": "https://www.facebook.com/toutouchictruck/",
+ "note": "4,8",
+ "avis": 23,
+ "couleurs": {
+  "principale": "#6a3d8f",
+  "accent": "#2aa39a"
+ },
+ "hero": "epagneul",
+ "hero_alt": "Un épagneul noir et blanc assis sur la table de toilettage violette, dans le camping-car",
+ "hero_pos": "50% 2%",
+ "hero_legende": "Tout beau, tout propre, dans le camping-car.",
+ "accroche": "Toiletteuse à domicile, au départ de Pfastatt",
+ "titre_lignes": [
+  "Toutouchic'truck"
+ ],
+ "slogan": "Pour vos chiens et vos chats : je me déplace devant chez vous avec mon camping-car aménagé.",
+ "offre_titre": "Le toilettage",
+ "offre_intro": "Du lundi au vendredi, sur rendez-vous :",
+ "offre": [
+  {
+   "titre": "Devant chez vous",
+   "texte": "Le camping-car se gare à votre porte : pas de trajet, pas d'attente au salon."
+  },
+  {
+   "titre": "Chiens et chats",
+   "texte": "Petits et grands chiens, et les chats aussi."
+  },
+  {
+   "titre": "Bain, séchage et brossage",
+   "texte": "Dans le camping-car aménagé, sur la table de toilettage."
+  },
+  {
+   "titre": "Un premier toilettage",
+   "texte": "Pour les chiots qui découvrent la table, en douceur."
+  }
+ ],
+ "photos": [
+  {
+   "img": "samoyede",
+   "alt": "Un samoyède blanc sur la table de toilettage"
+  },
+  {
+   "img": "cocker",
+   "alt": "Un cocker roux au poil soyeux, après son toilettage"
+  },
+  {
+   "img": "epagneul",
+   "alt": "Un épagneul noir et blanc assis sur la table de toilettage violette, dans le camping-car"
+  }
+ ],
+ "bloc2": {
+  "titre": "Le camping-car",
+  "texte": "Tout est à bord : la table de toilettage, la baignoire, l'eau chaude et les serviettes. Je viens jusqu'à vous, et votre animal reste près de chez lui.",
+  "img": "samoyede",
+  "alt": "Un samoyède sur la table de toilettage, dans le camping-car aménagé"
+ },
+ "nav_labels": {
+  "produits": "Le toilettage",
+  "maison": "Le camping-car"
+ },
+ "horaires": {
+  "lundi": [
+   "08:30-19:00"
+  ],
+  "mardi": [
+   "08:30-19:00"
+  ],
+  "mercredi": [
+   "08:30-19:00"
+  ],
+  "jeudi": [
+   "08:30-19:00"
+  ],
+  "vendredi": [
+   "08:30-19:00"
+  ],
+  "samedi": [],
+  "dimanche": []
+ }
+}
