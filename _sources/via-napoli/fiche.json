@@ -1,0 +1,134 @@
+{
+ "slug": "via-napoli",
+ "famille": "emporter",
+ "polices": 6,
+ "nom": "Via Napoli",
+ "activite": "Food truck, pizzas napolitaines au feu de bois",
+ "description": "Via Napoli, food truck de pizzas napolitaines cuites au feu de bois dans un four à dôme à 450°. Le soir de 18h à 21h30 : Thann (parking du Bungert) lundi, vendredi et samedi, Steinbach mardi, Wattwiller mercredi, Bitschwiller-lès-Thann jeudi.",
+ "ville": "Thann",
+ "adresse": "Parking du Bungert",
+ "cp_ville": "68800 Thann",
+ "maps_dest": "47.8112275,7.1048325",
+ "tel": "+33749663900",
+ "tel_affiche": "07 49 66 39 00",
+ "email": "vianapolifoodtruck@gmail.com",
+ "note": "4,9",
+ "avis": 77,
+ "couleurs": {
+  "principale": "#1f6b35",
+  "accent": "#d98a3c"
+ },
+ "hero": "camion",
+ "hero_alt": "Le camion vert de Via Napoli, volet ouvert sur le four à dôme en mosaïque et les suspensions cuivrées",
+ "hero_pos": "50% 40%",
+ "accroche": "Pizzas napolitaines au feu de bois, autour de Thann",
+ "titre_lignes": [
+  "Via",
+  "Napoli"
+ ],
+ "slogan": "La pizza napolitaine dans toute son authenticité, cuite au feu de bois dans notre four à dôme chauffé à 450°.",
+ "offre_titre": "Les pizzas du moment",
+ "offre_intro": "Nos pizzas du moment, et les étapes du camion, chaque soir de 18h à 21h30.",
+ "offre": [
+  {
+   "titre": "The Full Monty",
+   "texte": "Crème de haricots blancs à la tomate, mozzarella fior di latte, bacon, saucisses, œuf, tomates rôties, champignons bruns, cubes de toasts, ciboulette, sauce brune."
+  },
+  {
+   "titre": "L'Inferno Normanno",
+   "texte": "Tomates italiennes, mozzarella fior di latte, camembert AOP au lait cru, nduja, spianata, miel pimenté."
+  },
+  {
+   "titre": "La Normanno Tartufo",
+   "texte": "Crème de céleri-rave rôti, mozzarella fior di latte, camembert AOP au lait cru, mortadelle italienne à la truffe d'été, éclats de noisettes torréfiées, ciboulette, poivre noir."
+  }
+ ],
+ "notes": [
+  {
+   "k": "Lundi, vendredi et samedi",
+   "v": "Thann, parking du Bungert"
+  },
+  {
+   "k": "Mardi",
+   "v": "Steinbach, 19 Grand rue"
+  },
+  {
+   "k": "Mercredi",
+   "v": "Wattwiller, place des Tilleuls"
+  },
+  {
+   "k": "Jeudi",
+   "v": "Bitschwiller-lès-Thann, salle des fêtes"
+  }
+ ],
+ "moment": {
+  "titre": "Sorties du four",
+  "intro": "Nos classiques, la pâte gonflée et tachetée par le feu :",
+  "items": [
+   {
+    "img": "margarita",
+    "titre": "La Margarita",
+    "texte": "Tomate, mozzarella fondue et basilic frais.",
+    "alt": "Une Margarita, sauce tomate, mozzarella fondue et feuilles de basilic"
+   },
+   {
+    "img": "dolce-mozza",
+    "titre": "La Dolce Mozza",
+    "texte": "Avec sa burrata entière au centre.",
+    "alt": "Une pizza au jambon cru, copeaux de parmesan, tomates cerises, amandes et burrata"
+   },
+   {
+    "img": "diavola",
+    "titre": "La Diavola",
+    "texte": "Pour ceux qui aiment le piquant.",
+    "alt": "Une Diavola, salami épicé, piments verts et olives noires"
+   }
+  ]
+ },
+ "photos": [
+  {
+   "img": "napoletana",
+   "alt": "Une Napoletana aux anchois, câpres et olives noires"
+  },
+  {
+   "img": "four",
+   "alt": "Le four à dôme en mosaïque sous les suspensions cuivrées du camion"
+  }
+ ],
+ "commande_intro": "Appelez pour réserver vos pizzas, puis retrouvez le camion à l'étape du soir.",
+ "etapes": [
+  {
+   "titre": "Choisissez",
+   "texte": "Les classiques ou les pizzas du moment."
+  },
+  {
+   "titre": "Appelez",
+   "texte": "Au 07 49 66 39 00, à partir de 18h."
+  },
+  {
+   "titre": "Retrouvez le camion",
+   "texte": "Thann lundi, vendredi et samedi ; Steinbach mardi ; Wattwiller mercredi ; Bitschwiller-lès-Thann jeudi."
+  }
+ ],
+ "horaires": {
+  "lundi": [
+   "18:00-21:30"
+  ],
+  "mardi": [
+   "18:00-21:30"
+  ],
+  "mercredi": [
+   "18:00-21:30"
+  ],
+  "jeudi": [
+   "18:00-21:30"
+  ],
+  "vendredi": [
+   "18:00-21:30"
+  ],
+  "samedi": [
+   "18:00-21:30"
+  ],
+  "dimanche": []
+ }
+}

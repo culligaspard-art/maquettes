@@ -1,0 +1,35 @@
+{
+ "fonts": [
+  {
+   "key": "titre",
+   "family": "titan-one",
+   "weight": 400
+  },
+  {
+   "key": "texte",
+   "family": "figtree",
+   "variable": true
+  }
+ ],
+ "horaires": {
+  "lundi": [
+   "18:00-21:30"
+  ],
+  "mardi": [
+   "18:00-21:30"
+  ],
+  "mercredi": [
+   "18:00-21:30"
+  ],
+  "jeudi": [
+   "18:00-21:30"
+  ],
+  "vendredi": [
+   "18:00-21:30"
+  ],
+  "samedi": [
+   "18:00-21:30"
+  ],
+  "dimanche": []
+ }
+}
