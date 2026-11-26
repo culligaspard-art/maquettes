@@ -1,0 +1,134 @@
+{
+ "slug": "o-mineraux",
+ "famille": "commerce",
+ "polices": 4,
+ "nom": "Ô'Minéraux",
+ "activite": "Minéraux et bien-être",
+ "description": "Ô'Minéraux, boutique de minéraux et bien-être au 2 rue de la Gare à Huningue : pierres roulées et brutes, géodes, bracelets et pendentifs en pierres, bijoux, encens, bougies, livres et idées cadeaux.",
+ "ville": "Huningue",
+ "adresse": "2 rue de la Gare",
+ "cp_ville": "68330 Huningue",
+ "maps_dest": "47.5938922,7.5820532",
+ "tel": "+33389893185",
+ "tel_affiche": "03 89 89 31 85",
+ "email": "valerie.lucattini@orange.fr",
+ "facebook": "https://www.facebook.com/valerie.OMineraux",
+ "note": "4,9",
+ "avis": 58,
+ "couleurs": {
+  "principale": "#3b2c4c",
+  "accent": "#c39a4a"
+ },
+ "nav_labels": {
+  "produits": "En boutique",
+  "maison": "La boutique"
+ },
+ "hero": "fauteuil",
+ "hero_alt": "Le coin du fauteuil fleuri, sous le lampadaire à franges, devant l'arbre de vie doré et le présentoir de géodes",
+ "hero_pos": "50% 50%",
+ "hero_legende": "Au 2 rue de la Gare, à Huningue.",
+ "accroche": "Minéraux et bien-être, 2 rue de la Gare à Huningue",
+ "titre_lignes": [
+  "Ô'Minéraux"
+ ],
+ "slogan": "De la petite pierre roulée à la grande géode, en passant par les bracelets et les pendentifs : Valérie vous accueille parmi ses minéraux.",
+ "offre_titre": "En boutique",
+ "offre_intro": "Les minéraux essentiels, et de nombreuses idées cadeaux autour des pierres.",
+ "offre": [
+  {
+   "titre": "Pierres roulées et brutes",
+   "texte": "De la petite pierre à la grosse : améthyste, labradorite, angélite, la pierre des anges."
+  },
+  {
+   "titre": "Géodes",
+   "texte": "Des géodes d'améthyste, ouvertes sur leurs cristaux violets."
+  },
+  {
+   "titre": "Bracelets en pierres",
+   "texte": "Tout un mur de bracelets, chacun avec le nom de sa pierre."
+  },
+  {
+   "titre": "Bijoux",
+   "texte": "Bagues, pendentifs et boucles d'oreilles, montés de pierres de toutes les couleurs."
+  },
+  {
+   "titre": "Encens et bougies",
+   "texte": "Encens, bougies, diffuseurs d'huile essentielle."
+  },
+  {
+   "titre": "Livres et ésotérisme",
+   "texte": "Des livres, des cartes et des tentures de chakras."
+  },
+  {
+   "titre": "Idées cadeaux",
+   "texte": "Arbres de vie, attrape-rêves, anges et coffrets."
+  }
+ ],
+ "photos": [
+  {
+   "img": "bracelets",
+   "titre": "Les bracelets",
+   "texte": "Une pierre par réglette.",
+   "alt": "Un grand mur blanc couvert de bracelets en pierres de toutes les couleurs, chacun sur sa réglette"
+  },
+  {
+   "img": "etageres",
+   "titre": "Les géodes",
+   "texte": "Améthyste et pierres polies.",
+   "alt": "Des étagères en bois : une grande géode d'améthyste, des pierres polies noires, des livres et des flacons"
+  },
+  {
+   "img": "bijoux",
+   "titre": "Les bijoux",
+   "texte": "Bagues et boucles d'oreilles.",
+   "alt": "L'allée des bijoux : des présentoirs blancs de bagues et de boucles d'oreilles en pierres"
+  },
+  {
+   "img": "encens",
+   "titre": "Les encens",
+   "texte": "Bougies, cartes, chakras.",
+   "alt": "Des étagères d'encens, de bougies et de cartes, une tenture des chakras"
+  },
+  {
+   "img": "plantes",
+   "titre": "Le coin des plantes",
+   "texte": "Un miroir en rotin, une malle ancienne.",
+   "alt": "Un coin de la boutique : plantes vertes, miroir en rotin, malle ancienne et ange blanc"
+  },
+  {
+   "img": "vitrine-nuit",
+   "titre": "La vitrine",
+   "texte": "Le soir, rue de la Gare.",
+   "alt": "La vitrine éclairée le soir : un lustre à franges, du bois flotté, l'arbre de vie en métal"
+  }
+ ],
+ "bloc2": {
+  "titre": "Rue de la Gare",
+  "texte": "Ô'Minéraux est au 2 rue de la Gare, à Huningue : une enseigne couleur ardoise, une vitrine où l'on lit « Minéraux et bien-être », et à l'intérieur, Valérie Lucattini et ses pierres. Ouvert du mardi au vendredi, et le samedi matin.",
+  "img": "facade-nuit",
+  "alt": "La façade d'Ô'Minéraux le soir, enseigne et vitrine éclairée"
+ },
+ "horaires": {
+  "lundi": [],
+  "mardi": [
+   "09:30-12:00",
+   "13:00-18:00"
+  ],
+  "mercredi": [
+   "09:30-12:00",
+   "13:00-18:00"
+  ],
+  "jeudi": [
+   "09:30-12:00",
+   "13:00-18:00"
+  ],
+  "vendredi": [
+   "09:30-12:00",
+   "13:00-18:00"
+  ],
+  "samedi": [
+   "09:30-12:00"
+  ],
+  "dimanche": []
+ }
+}
