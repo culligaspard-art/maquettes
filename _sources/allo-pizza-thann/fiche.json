@@ -1,0 +1,224 @@
+{
+ "slug": "allo-pizza-thann",
+ "famille": "emporter",
+ "polices": 4,
+ "nom": "Allo Pizza",
+ "activite": "Pizzeria napolitaine, à emporter et en livraison",
+ "description": "Allo Pizza, 5 rue Gerthoffer à Thann : pizzas napolitaines (pâte reposée 24 à 48 h, mozzarella fior di latte), pâtes, lasagnes, panuzzo. À emporter et en livraison autour de Thann, tous les jours midi et soir.",
+ "ville": "Thann",
+ "adresse": "5 rue Gerthoffer",
+ "cp_ville": "68800 Thann",
+ "maps_dest": "47.8112669,7.100996",
+ "tel": "+33389742528",
+ "tel_affiche": "03 89 74 25 28",
+ "email": "sas.kam688@gmail.com",
+ "facebook": "https://www.facebook.com/Allopizza68/",
+ "note": "4,1",
+ "avis": 138,
+ "couleurs": {
+  "principale": "#1d6b3a",
+  "accent": "#d8352a"
+ },
+ "hero": "margarita",
+ "hero_alt": "Une Margarita napolitaine aux tomates cerises et au basilic frais, la croûte gonflée et tachetée",
+ "hero_pos": "50% 60%",
+ "accroche": "Pizzeria napolitaine, 5 rue Gerthoffer à Thann",
+ "titre_lignes": [
+  "Allo",
+  "Pizza"
+ ],
+ "slogan": "Une pâte qui repose lentement 24 à 48 heures, dans le respect du savoir-faire napolitain, et la mozzarella fior di latte. À emporter ou livrée chez vous.",
+ "offre_titre": "La carte",
+ "offre_intro": "Chaque pizza existe en sénior (31 cm) et en méga (40 cm).",
+ "offre_groupes": [
+  {
+   "titre": "Les classiques",
+   "items": [
+    {
+     "titre": "Margarita",
+     "texte": "Sauce tomate, mozzarella fior di latte.",
+     "prix": "10 € / 15 €"
+    },
+    {
+     "titre": "Reine",
+     "texte": "Champignons, jambon, œuf.",
+     "prix": "13 € / 20 €"
+    },
+    {
+     "titre": "Napolitaine",
+     "texte": "Anchois, câpres, olives.",
+     "prix": "13 € / 20 €"
+    },
+    {
+     "titre": "Orientale",
+     "texte": "Merguez, poivrons sautés, olives, œuf.",
+     "prix": "13 € / 20 €"
+    },
+    {
+     "titre": "Calzone soufflée",
+     "texte": "Jambon, champignons, œuf, ou thon, viande hachée ou poulet.",
+     "prix": "13 € / 20 €"
+    }
+   ]
+  },
+  {
+   "titre": "Les fromagères",
+   "items": [
+    {
+     "titre": "4 Fromages",
+     "texte": "Chèvre, bleu, raclette, parmesan.",
+     "prix": "13 € / 21 €"
+    },
+    {
+     "titre": "Tartiflette",
+     "texte": "Crème, pommes de terre, lardons de veau, reblochon, oignons rouges.",
+     "prix": "13 € / 21 €"
+    },
+    {
+     "titre": "Chèvre miel",
+     "texte": "Crème, chèvre, miel, lardons de veau.",
+     "prix": "13 € / 21 €"
+    }
+   ]
+  },
+  {
+   "titre": "Signatures et spéciales",
+   "items": [
+    {
+     "titre": "Du Chef",
+     "texte": "Jambon, chorizo, artichaut, œuf.",
+     "prix": "13 € / 20 €"
+    },
+    {
+     "titre": "Gorfa",
+     "texte": "Crème, viande hachée, chèvre ou raclette, oignons rouges.",
+     "prix": "13 € / 20 €"
+    },
+    {
+     "titre": "Norvégienne",
+     "texte": "Crème, saumon fumé.",
+     "prix": "15 € / 22 €"
+    },
+    {
+     "titre": "Fruits de mer",
+     "texte": "Cocktail de fruits de mer, persillade.",
+     "prix": "15 € / 22 €"
+    }
+   ]
+  },
+  {
+   "titre": "Et aussi",
+   "items": [
+    {
+     "titre": "Pâtes",
+     "texte": "Spaghetti ou coquillettes : bolognaise, fermière, merguez ou potanesca.",
+     "prix": "12,50 €"
+    },
+    {
+     "titre": "Lasagnes",
+     "texte": "Recette bolognaise traditionnelle.",
+     "prix": "14 €"
+    },
+    {
+     "titre": "Panuzzo napolitain",
+     "texte": "Sandwich chaud en pâte à pizza, roquette, tomates cerise, oignons rouges, une viande et une sauce au choix.",
+     "prix": "12 €"
+    },
+    {
+     "titre": "Tiramisu ou tarte au Daim",
+     "texte": "Cheesecake : 6 €.",
+     "prix": "4 €"
+    }
+   ]
+  }
+ ],
+ "notes": [
+  {
+   "k": "Livraison",
+   "v": "Thann, Vieux-Thann, Cernay, Steinbach, Leimbach, Roderen, Aspach, Bitschwiller, Willer-sur-Thur, Moosch"
+  },
+  {
+   "k": "Paiement",
+   "v": "carte, espèces, tickets restaurant"
+  }
+ ],
+ "moment": {
+  "titre": "Sorties du four",
+  "intro": "La croûte gonflée, tachetée par la cuisson :",
+  "items": [
+   {
+    "img": "napolitaine",
+    "titre": "La Napolitaine",
+    "texte": "Anchois, câpres, olives et basilic.",
+    "alt": "Une Napolitaine aux anchois, câpres, olives noires et basilic"
+   },
+   {
+    "img": "fromagere",
+    "titre": "Les fromagères",
+    "texte": "Crème, fior di latte et fromages fondus.",
+    "alt": "Une pizza fromagère à la crème, fromages fondus et origan"
+   },
+   {
+    "img": "hawaienne",
+    "titre": "L'Hawaïenne",
+    "texte": "Jambon et ananas, sur fior di latte.",
+    "alt": "Une Hawaïenne au jambon et à l'ananas"
+   }
+  ]
+ },
+ "photos": [
+  {
+   "img": "viande-hachee",
+   "alt": "Une pizza à la viande hachée, fromage et oignons rouges, dans son carton"
+  },
+  {
+   "img": "duo-cartons",
+   "alt": "Deux pizzas dans leurs cartons, prêtes à emporter"
+  }
+ ],
+ "commande_intro": "Par téléphone : vous passez la prendre au 5 rue Gerthoffer, ou on vous la livre.",
+ "etapes": [
+  {
+   "titre": "Choisissez",
+   "texte": "Une pizza sénior ou méga, des pâtes, un panuzzo : toute la carte est ci-dessus."
+  },
+  {
+   "titre": "Appelez",
+   "texte": "Au 03 89 74 25 28, de 10h30 à 14h30 et de 17h30 à 22h30."
+  },
+  {
+   "titre": "À emporter ou livrée",
+   "texte": "Passez la prendre rue Gerthoffer, ou faites-vous livrer autour de Thann."
+  }
+ ],
+ "horaires": {
+  "lundi": [
+   "10:30-14:30",
+   "17:30-22:30"
+  ],
+  "mardi": [
+   "10:30-14:30",
+   "17:30-22:30"
+  ],
+  "mercredi": [
+   "10:30-14:30",
+   "17:30-22:30"
+  ],
+  "jeudi": [
+   "10:30-14:30",
+   "17:30-22:30"
+  ],
+  "vendredi": [
+   "10:30-14:30",
+   "17:30-22:30"
+  ],
+  "samedi": [
+   "10:30-14:30",
+   "17:30-22:30"
+  ],
+  "dimanche": [
+   "10:30-14:30",
+   "17:30-22:30"
+  ]
+ }
+}
