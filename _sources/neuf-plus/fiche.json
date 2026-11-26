@@ -1,0 +1,132 @@
+{
+ "slug": "neuf-plus",
+ "famille": "restaurant",
+ "polices": 2,
+ "nom": "Neuf Plus",
+ "activite": "Restaurant asiatique, spécialités chinoises",
+ "description": "Neuf Plus, restaurant asiatique au 4 rue des Cigognes à Thann : spécialités chinoises, plat du jour à 9,50 €, menu du chef à 12,50 €, nems, raviolis vapeur, porc laqué au miel. Sur place, en terrasse ou à emporter.",
+ "ville": "Thann",
+ "adresse": "4 rue des Cigognes",
+ "cp_ville": "68800 Thann",
+ "maps_dest": "47.8127045,7.0990619",
+ "tel": "+33389381307",
+ "tel_affiche": "03 89 38 13 07",
+ "email": "neufplus68800@gmail.com",
+ "facebook": "https://www.facebook.com/p/NEUF-PLUS-100065069196145/",
+ "note": "4,9",
+ "avis": 207,
+ "couleurs": {
+  "principale": "#b3202c",
+  "accent": "#e7b33c"
+ },
+ "hero": "porc-laque",
+ "hero_alt": "Du porc laqué au miel tranché sur salade, avec des nouilles sautées, brocoli, carottes et concombre",
+ "hero_pos": "50% 60%",
+ "accroche": "Restaurant asiatique, 4 rue des Cigognes à Thann",
+ "titre_lignes": [
+  "Neuf",
+  "Plus"
+ ],
+ "slogan": "Des spécialités chinoises, un plat du jour à 9,50 € et un menu du chef à 12,50 €. Sur place, en terrasse ou à emporter.",
+ "offre_titre": "La carte",
+ "offre_intro": "Plat du jour à 9,50 € (plat et accompagnement). Menu du chef à 12,50 € (entrée, plat et accompagnement).",
+ "offre": [
+  {
+   "titre": "Nems, samoussas ou beignets de crevettes",
+   "texte": "Quatre pièces. Aussi : raviolis ou bouchées vapeur, beignets de calamars, salade chinoise ou thaïlandaise.",
+   "prix": "4,50 €"
+  },
+  {
+   "titre": "Porc laqué au miel",
+   "texte": "",
+   "prix": "8 €"
+  },
+  {
+   "titre": "Bœuf au saté",
+   "texte": "Ou à la sauce huître, ou à la thaïlandaise.",
+   "prix": "8 €"
+  },
+  {
+   "titre": "Poulet au curry",
+   "texte": "Ou à la thaïlandaise, ou à l'ananas.",
+   "prix": "8 €"
+  },
+  {
+   "titre": "Crevettes sauce aigre-douce",
+   "texte": "Ou à la thaïlandaise, ou au curry. Porc frit sauce aigre-douce : même prix.",
+   "prix": "8 €"
+  },
+  {
+   "titre": "Riz cantonais ou quatre saisons",
+   "texte": "Nouilles ou vermicelles sautés : 5 €.",
+   "prix": "4,50 €"
+  },
+  {
+   "titre": "Beignet ananas ou banane",
+   "texte": "Ou nougat chinois. Arbouse ou litchis au sirop : 4,50 €.",
+   "prix": "2,50 €"
+  }
+ ],
+ "encart": {
+  "titre": "Le menu du chef",
+  "texte": "Une entrée, un plat et son accompagnement, pour 12,50 €. Ou le plat du jour avec son accompagnement, pour 9,50 €."
+ },
+ "photos": [
+  {
+   "img": "raviolis",
+   "alt": "Des raviolis vapeur à la pâte verte, avec leur sauce soja"
+  },
+  {
+   "img": "aigre-douce",
+   "alt": "Des crevettes sauce aigre-douce aux poivrons, avec riz et légumes"
+  },
+  {
+   "img": "nouilles",
+   "alt": "Des nouilles sautées, courgette, brocoli et carotte"
+  },
+  {
+   "img": "salle",
+   "alt": "La salle aux murs verts, plaques émaillées et chaises en suède"
+  },
+  {
+   "img": "entree",
+   "alt": "L'entrée, ses rideaux peints de cerisiers en fleurs et ses tables dressées"
+  },
+  {
+   "img": "vitrine",
+   "alt": "Le coin vitrine : lanterne rouge, panda en peluche et maquettes de pagodes"
+  }
+ ],
+ "bloc2": {
+  "titre": "Rue des Cigognes",
+  "texte": "Au 4 rue des Cigognes, la salle aux murs verts et aux plaques émaillées, les rideaux de cerisiers en fleurs à l'entrée, la lanterne rouge et le panda de la vitrine. Et la terrasse aux beaux jours.",
+  "img": "entree",
+  "alt": "L'entrée de Neuf Plus et ses rideaux de cerisiers"
+ },
+ "horaires": {
+  "lundi": [
+   "12:00-14:00",
+   "19:00-20:30"
+  ],
+  "mardi": [
+   "12:00-14:00",
+   "19:00-20:30"
+  ],
+  "mercredi": [],
+  "jeudi": [
+   "12:00-14:00",
+   "19:00-21:00"
+  ],
+  "vendredi": [
+   "12:00-14:00",
+   "19:00-21:00"
+  ],
+  "samedi": [
+   "12:00-14:00",
+   "19:00-21:00"
+  ],
+  "dimanche": [
+   "12:00-14:30"
+  ]
+ }
+}
