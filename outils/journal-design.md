@@ -130,3 +130,4 @@ Une ligne par maquette. Avant chaque nouveau site, relire les 10 dernières lign
 | 2026-11-26 | The Red Fox (Huningue) | Bar à bières, pub | Pirata One / Lora | vert sapin des murs et de la carte, orange du renard-houblon de leur logo | Modèle restaurant sans braises ; hero : leur petite scène |
 | 2026-11-26 | Ô'Minéraux (Huningue) | Minéraux et bien-être | Young Serif / Instrument Sans | violet améthyste, or de l'arbre de vie, store violet | Modèle commerce |
 | 2026-11-26 | Cappadoce (Ensisheim) | Kebab, grill, pide, pizza | Bowlby One / Archivo | rouge brique et ambre du grill | Modèle emporter ; hero : la broche de döner devant les résistances |
+| 2026-11-26 | Le Kellian (Ensisheim) | Restaurant, grillades, pizzas, tartes flambées | Bebas Neue / Barlow | rouge brique et moutarde de leur carte, braises | Modèle restaurant ; photos de l'onglet « Plats et boissons » (auteur non vérifié, à remplacer) |

@@ -1,0 +1,142 @@
+{
+ "slug": "le-kellian",
+ "famille": "restaurant",
+ "polices": 4,
+ "nom": "Le Kellian",
+ "activite": "Restaurant, grillades, pizzas et tartes flambées",
+ "description": "Le Kellian, restaurant au 2 place Clemenceau à Ensisheim : grillades (adana, köfte, côtelettes d'agneau), kebab, pizzas, tartes flambées, cordons bleus et spécialités au four. Terrasse, à emporter.",
+ "ville": "Ensisheim",
+ "adresse": "2 place Clemenceau",
+ "cp_ville": "68190 Ensisheim",
+ "maps_dest": "47.8662543,7.3560201",
+ "tel": "+33389283751",
+ "tel_affiche": "03 89 28 37 51",
+ "email": "caferbey@hotmail.fr",
+ "note": "4,4",
+ "avis": 310,
+ "couleurs": {
+  "principale": "#7a1f1a",
+  "accent": "#e2a93b"
+ },
+ "initiales": "K",
+ "hero": "adana",
+ "hero_alt": "Deux brochettes d'adana grillées, un piment vert grillé, des frites et une salade",
+ "hero_pos": "50% 55%",
+ "accroche": "Restaurant, 2 place Clemenceau à Ensisheim",
+ "titre_lignes": [
+  "Le Kellian"
+ ],
+ "slogan": "Grillades, pizzas et tartes flambées : une cuisine faite maison, une terrasse aux beaux jours, et tout se commande à emporter.",
+ "offre_titre": "La carte",
+ "offre_intro": "Un extrait de notre carte. Nos viandes sont servies avec frites, blé ou crudités.",
+ "offre": [
+  {
+   "titre": "Le Kellian",
+   "texte": "L'assiette mixte de grillades : adana, köfte, côtelette d'agneau et kebab.",
+   "prix": "18,50 €"
+  },
+  {
+   "titre": "Adana",
+   "texte": "Bœuf haché assaisonné, légèrement épicé, grillé en brochette.",
+   "prix": "14 €"
+  },
+  {
+   "titre": "Köfte",
+   "texte": "Boulettes de bœuf haché assaisonnées.",
+   "prix": "14 €"
+  },
+  {
+   "titre": "Côtelettes d'agneau",
+   "texte": "",
+   "prix": "16,50 €"
+  },
+  {
+   "titre": "Gratin de kebab",
+   "texte": "Veau et dinde, sauce tomate, emmental et mozzarella gratinés au four.",
+   "prix": "15,50 €"
+  },
+  {
+   "titre": "Cordon bleu de veau",
+   "texte": "Escalope de veau panée, jambon, emmental.",
+   "prix": "17 €"
+  },
+  {
+   "titre": "Pizza La Turque",
+   "texte": "Sauce tomate, mozzarella, sucuk, poivron, champignons, œuf.",
+   "prix": "12 €"
+  },
+  {
+   "titre": "Tarte flambée munster",
+   "texte": "Oignons, lardons, cumin, munster, crème.",
+   "prix": "10 €"
+  },
+  {
+   "titre": "Borek",
+   "texte": "Roulé farci au fromage, à la feta et au persil, avec crudités.",
+   "prix": "8 €"
+  }
+ ],
+ "encart": {
+  "titre": "Menu sur assiette",
+  "texte": "Le plat du midi et le café pour 11 €. Et pour les enfants, le menu Bambino à 9 € : cordon bleu de dinde ou assiette de kebab, une boisson et une boule de glace."
+ },
+ "photos": [
+  {
+   "img": "kofte",
+   "alt": "Des assiettes de köfte grillées, frites, salade et piment grillé, prêtes à servir"
+  },
+  {
+   "img": "cotelettes",
+   "alt": "Des côtelettes d'agneau sur la plancha de la cuisine"
+  },
+  {
+   "img": "pide-salle",
+   "alt": "Une pide au fromage gratiné sur sa planche, dans la salle"
+  },
+  {
+   "img": "pizzas",
+   "alt": "Deux pizzas aux champignons et aux poivrons"
+  },
+  {
+   "img": "pizza-papillon",
+   "alt": "Une pizza en forme de papillon, au maïs, aux olives et aux oignons"
+  },
+  {
+   "img": "doner",
+   "alt": "La broche de kebab qui dore dans le grill vertical"
+  }
+ ],
+ "bloc2": {
+  "titre": "Place Clemenceau",
+  "texte": "Le Kellian est au 2 place Clemenceau, au centre d'Ensisheim : une salle aux banquettes et aux tables en bois, une terrasse aux beaux jours, et tout à emporter. Ouvert du mardi au dimanche, midi et soir.",
+  "img": "pide-salle",
+  "alt": "La salle du Kellian, derrière une pide au fromage"
+ },
+ "horaires": {
+  "lundi": [],
+  "mardi": [
+   "10:00-14:00",
+   "16:00-22:00"
+  ],
+  "mercredi": [
+   "10:00-14:00",
+   "16:00-22:00"
+  ],
+  "jeudi": [
+   "10:00-14:00",
+   "16:00-22:00"
+  ],
+  "vendredi": [
+   "10:00-14:00",
+   "16:00-22:00"
+  ],
+  "samedi": [
+   "10:00-14:00",
+   "16:00-22:00"
+  ],
+  "dimanche": [
+   "10:00-14:00",
+   "16:00-22:00"
+  ]
+ }
+}
