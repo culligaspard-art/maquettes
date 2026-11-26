@@ -1,0 +1,157 @@
+{
+ "slug": "le-triomphe",
+ "famille": "emporter",
+ "polices": 3,
+ "nom": "Le Triomphe",
+ "activite": "Restauration rapide : kebab, sandwichs, burgers, pizzas, tartes flambées",
+ "description": "Le Triomphe, restauration rapide au 12 rue Clemenceau à Wintzenheim : kebab, sandwichs, burgers, pizzas et tartes flambées, cuisine halal. Sur place en terrasse, à emporter ou en livraison. Fermé le lundi.",
+ "ville": "Wintzenheim",
+ "adresse": "12 rue Clemenceau",
+ "cp_ville": "68920 Wintzenheim",
+ "maps_dest": "48.0725561,7.292072",
+ "tel": "+33767291934",
+ "tel_affiche": "07 67 29 19 34",
+ "email": "letriomphe@gmx.fr",
+ "note": "4,3",
+ "avis": 145,
+ "couleurs": {
+  "principale": "#d9534a",
+  "accent": "#f6c81b"
+ },
+ "hero": "assiette",
+ "hero_alt": "Une assiette de kebab roulé nappé de sauce blanche, frites, salade, maïs et olives",
+ "hero_pos": "50% 45%",
+ "accroche": "Restauration rapide, 12 rue Clemenceau à Wintzenheim",
+ "titre_lignes": [
+  "Le",
+  "Triomphe"
+ ],
+ "slogan": "Kebab, sandwichs, burgers, pizzas et tartes flambées. Sur place en terrasse, à emporter ou en livraison.",
+ "offre_titre": "La carte",
+ "offre_intro": "Pour la carte complète et les prix, appelez-nous.",
+ "offre": [
+  {
+   "titre": "Kebab",
+   "texte": "En sandwich, ou en assiette avec frites, salade et sauce blanche."
+  },
+  {
+   "titre": "Sandwichs",
+   "texte": "Dans la baguette grillée, avec ses frites."
+  },
+  {
+   "titre": "Burgers",
+   "texte": "Dont le Biggy burger rösti, bacon et raclette."
+  },
+  {
+   "titre": "Double crock",
+   "texte": "Trois tranches grillées, steak, fromage et crudités."
+  },
+  {
+   "titre": "Pizzas",
+   "texte": "Pâte fine, garnie et gratinée au four."
+  },
+  {
+   "titre": "Tartes flambées",
+   "texte": "Annoncées sur notre enseigne, avec les sandwichs."
+  }
+ ],
+ "photos": [
+  {
+   "img": "pizza",
+   "alt": "Une pizza à pâte fine, viande, poivrons et olives noires, sur une planche en bois"
+  },
+  {
+   "img": "burgers",
+   "alt": "Quatre burgers au fromage fondu alignés sur une planche"
+  },
+  {
+   "img": "sandwich",
+   "alt": "Un sandwich au poulet épicé dans une baguette grillée, avec ses frites"
+  },
+  {
+   "img": "facade",
+   "alt": "La façade rose du Triomphe, sa terrasse et ses chaises jaunes"
+  }
+ ],
+ "bloc2": {
+  "titre": "Rue Clemenceau",
+  "texte": "Au 12 rue Clemenceau, la façade rose, la terrasse et les chaises jaunes. Nous vous servons sur place, à emporter ou en livraison, tous les jours sauf le lundi.",
+  "img": "facade",
+  "alt": "La façade et la terrasse du Triomphe"
+ },
+ "horaires": {
+  "lundi": [],
+  "mardi": [
+   "11:30-14:00",
+   "18:00-22:00"
+  ],
+  "mercredi": [
+   "11:30-14:00",
+   "18:00-22:00"
+  ],
+  "jeudi": [
+   "11:30-14:00",
+   "18:00-22:00"
+  ],
+  "vendredi": [
+   "11:30-14:00",
+   "18:00-22:00"
+  ],
+  "samedi": [
+   "11:00-14:00",
+   "17:00-22:00"
+  ],
+  "dimanche": [
+   "11:00-22:00"
+  ]
+ },
+ "notes": [
+  {
+   "k": "Viande",
+   "v": "halal"
+  },
+  {
+   "k": "Sur place",
+   "v": "en terrasse, à emporter ou en livraison"
+  }
+ ],
+ "moment": {
+  "titre": "Tout chaud",
+  "intro": "Quelques-unes de nos spécialités :",
+  "items": [
+   {
+    "img": "pizza",
+    "titre": "Les pizzas",
+    "texte": "Pâte fine, viande, poivrons et olives.",
+    "alt": "Une pizza à pâte fine, viande, poivrons et olives noires"
+   },
+   {
+    "img": "burgers",
+    "titre": "Les burgers",
+    "texte": "Steak, fromage fondu, crudités.",
+    "alt": "Des burgers au fromage fondu sur une planche"
+   },
+   {
+    "img": "sandwich",
+    "titre": "Les sandwichs",
+    "texte": "Dans la baguette grillée, avec ses frites.",
+    "alt": "Un sandwich au poulet épicé dans une baguette grillée"
+   }
+  ]
+ },
+ "commande_intro": "Par téléphone, puis vous passez la chercher, ou vous mangez sur place.",
+ "etapes": [
+  {
+   "titre": "Choisissez",
+   "texte": "Kebab, sandwich, burger, pizza ou tarte flambée : la carte est ci-dessus."
+  },
+  {
+   "titre": "Appelez",
+   "texte": "Au 07 67 29 19 34, aux heures d'ouverture."
+  },
+  {
+   "titre": "Passez la chercher",
+   "texte": "Au 12 rue Clemenceau, à Wintzenheim. Ou faites-vous livrer."
+  }
+ ]
+}
