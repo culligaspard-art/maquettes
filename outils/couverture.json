@@ -1,6 +1,6 @@
 {
   "explication": "Curseur de la tournée sur outils/villes.json (communes de 5 000 à 100 000 habitants : Haut-Rhin, Bas-Rhin, puis les autres départements dans l'ordre, chacun de la plus grande à la plus petite). Ne pas modifier à la main : utiliser python3 outils/zone.py.",
-  "index": 13,
+  "index": 17,
   "familles_faites": [],
   "villes_terminees": [
     "68|Colmar",
@@ -15,7 +15,11 @@
     "68|Wittelsheim",
     "68|Pfastatt",
     "68|Brunstatt-Didenheim",
-    "68|Wintzenheim"
+    "68|Wintzenheim",
+    "68|Thann",
+    "68|Huningue",
+    "68|Ensisheim",
+    "68|Soultz-Haut-Rhin"
   ],
   "communes_deja_vues_hors_liste": [
     "Sundhoffen",
