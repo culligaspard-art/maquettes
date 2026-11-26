@@ -1,0 +1,118 @@
+{
+ "slug": "ms-elec",
+ "famille": "artisan",
+ "dessin": "schema",
+ "polices": 0,
+ "nom": "MS'Elec'",
+ "activite": "Électricien",
+ "description": "MS'Elec', électricien à Thann (91 rue Kléber) : installation, rénovation et dépannage électrique, tableaux électriques, éclairage intérieur et extérieur, portiers vidéo.",
+ "ville": "Thann",
+ "adresse": "91 rue Kléber",
+ "cp_ville": "68800 Thann",
+ "maps_dest": "47.8013608,7.1022842",
+ "tel": "+33613870970",
+ "tel_affiche": "06 13 87 09 70",
+ "email": "martin.sturm@hotmail.fr",
+ "facebook": "https://www.facebook.com/ms.elec.68",
+ "note": "5,0",
+ "avis": 30,
+ "preuve_extra": "et recommandé à 100 % sur Facebook",
+ "couleurs": {
+  "principale": "#0aa6c4",
+  "accent": "#0b1a3a"
+ },
+ "logo": "logo",
+ "hero": "interieurs",
+ "hero_alt": "Trois intérieurs éclairés par MS'Elec' : une chambre avec applique, un salon avec cheminée et spots, un couloir aux spots encastrés",
+ "hero_pos": "50% 50%",
+ "hero_legende": "Éclairage intérieur posé par MS'Elec'.",
+ "accroche": "Électricien à Thann",
+ "titre_lignes": [
+  "MS'Elec'"
+ ],
+ "slogan": "Installation, rénovation, panne ? Votre partenaire dans tous vos travaux d'ordre électrique.",
+ "offre_titre": "Nos services",
+ "offre_intro": "Installation, rénovation et dépannage, du lundi au samedi.",
+ "offre": [
+  {
+   "titre": "Installation",
+   "texte": "L'électricité d'une maison neuve, des gaines au tableau."
+  },
+  {
+   "titre": "Rénovation",
+   "texte": "Un ancien tableau remplacé par un tableau neuf, propre et repéré."
+  },
+  {
+   "titre": "Dépannage",
+   "texte": "Une panne ? Appelez le 06 13 87 09 70."
+  },
+  {
+   "titre": "Éclairage",
+   "texte": "Spots encastrés, appliques, éclairage de terrasse."
+  },
+  {
+   "titre": "Portier vidéo",
+   "texte": "Platine de rue et écran intérieur."
+  }
+ ],
+ "galerie_titre": "Réalisations",
+ "galerie_intro": "Quelques chantiers, photographiés par MS'Elec'.",
+ "photos": [
+  {
+   "img": "avant-apres",
+   "titre": "Tableau : avant, après",
+   "alt": "Avant : des fils emmêlés au-dessus d'un vieux tableau. Après : un tableau neuf en trois rangées, chaque disjoncteur repéré"
+  },
+  {
+   "img": "tableau",
+   "titre": "Tableau neuf",
+   "alt": "Un tableau électrique neuf à trois rangées posé à côté de l'ancien disjoncteur, sur un mur en parpaing"
+  },
+  {
+   "img": "gaines",
+   "titre": "Gaines au sol",
+   "alt": "Des faisceaux de gaines bleues et grises fixés au sol d'une maison en construction"
+  },
+  {
+   "img": "ossature",
+   "titre": "Maison neuve",
+   "alt": "Une pièce en construction : isolant, ossature métallique et câbles en attente avant le placo"
+  },
+  {
+   "img": "terrasse",
+   "titre": "Terrasse",
+   "alt": "Une terrasse sous un store, éclairée par des appliques murales et des bornes"
+  },
+  {
+   "img": "portier",
+   "titre": "Portier vidéo",
+   "alt": "Une platine de rue Philips au portail et son écran intérieur qui montre la rue"
+  }
+ ],
+ "zone": "MS'Elec' est installé au 91 rue Kléber, à Thann. Ouvert du lundi au samedi, de 8 h à 18 h.",
+ "bloc2": {
+  "titre": "Rue Kléber, à Thann"
+ },
+ "devis_texte": "Une installation, une rénovation ou une panne ? Décrivez votre projet par téléphone ou par mail : nous vous rappelons pour fixer un rendez-vous.",
+ "horaires": {
+  "lundi": [
+   "08:00-18:00"
+  ],
+  "mardi": [
+   "08:00-18:00"
+  ],
+  "mercredi": [
+   "08:00-18:00"
+  ],
+  "jeudi": [
+   "08:00-18:00"
+  ],
+  "vendredi": [
+   "08:00-18:00"
+  ],
+  "samedi": [
+   "08:00-18:00"
+  ],
+  "dimanche": []
+ }
+}
