@@ -1,0 +1,128 @@
+{
+ "slug": "histoire-d-une-pause",
+ "famille": "patisserie",
+ "polices": 2,
+ "nom": "L'histoire d'une pause",
+ "nom_plaque": "L'histoire d'une pause",
+ "ruban": "pâtisserie, salon de thé",
+ "activite": "Pâtisserie, petits déjeuners et plats du jour",
+ "description": "L'histoire d'une pause, pâtisserie et salon de thé au 19 rue de la 1ère Armée à Thann : éclairs, tartelettes aux fraises, dômes, panna cotta, petits déjeuners, tartines, sandwichs, salades et plats du jour.",
+ "ville": "Thann",
+ "adresse": "19 rue de la 1ère Armée",
+ "cp_ville": "68800 Thann",
+ "maps_dest": "47.811472,7.1008133",
+ "tel": "+33369076284",
+ "tel_affiche": "03 69 07 62 84",
+ "email": "mylenefelbinger@gmail.com",
+ "note": "4,8",
+ "avis": 120,
+ "couleurs": {
+  "principale": "#3b2a24",
+  "accent": "#d97a5b"
+ },
+ "hero": "vitrine-fraises",
+ "hero_alt": "La vitrine : dômes rouges, tartelettes aux fraises, mousses au praliné et éclairs au chocolat",
+ "hero_pos": "50% 50%",
+ "accroche": "Pâtisserie et salon de thé, 19 rue de la 1ère Armée à Thann",
+ "titre_lignes": [
+  "L'histoire",
+  "d'une pause"
+ ],
+ "slogan": "Pâtisseries, petits déjeuners et plats du jour : une pause gourmande au cœur de Thann.",
+ "offre_titre": "En vitrine",
+ "offre_intro": "Éclairs à 2 € ; tartelettes aux fraises ou au citron, dômes, mousses au praliné et panna cotta à 3 €.",
+ "offre": [
+  {
+   "titre": "Éclair",
+   "texte": "Au chocolat ou au café.",
+   "prix": "2 €"
+  },
+  {
+   "titre": "Tartelette aux fraises",
+   "texte": "Ou au citron.",
+   "prix": "3 €"
+  },
+  {
+   "titre": "Dôme fraise",
+   "texte": "Glaçage rouge brillant.",
+   "prix": "3 €"
+  },
+  {
+   "titre": "Mousse praliné",
+   "texte": "",
+   "prix": "3 €"
+  },
+  {
+   "titre": "Trois chocolats ou Capitol",
+   "texte": "",
+   "prix": "3 €"
+  },
+  {
+   "titre": "Panna cotta",
+   "texte": "Aux fruits rouges.",
+   "prix": "3 €"
+  },
+  {
+   "titre": "Salade de fruits",
+   "texte": "",
+   "prix": "3 €"
+  }
+ ],
+ "commande": {
+  "titre": "Petits déjeuners et plats du jour",
+  "texte": "Le matin, viennoiseries, crêpes et café. Le midi, tartines, sandwichs, quiches, salades et le plat du jour, sur place ou à emporter."
+ },
+ "photos": [
+  {
+   "img": "eclairs",
+   "alt": "Des éclairs au chocolat et au café, alignés dans leurs caissettes"
+  },
+  {
+   "img": "vitrine",
+   "alt": "La vitrine : macarons, tartelettes citron, panna cotta, entremets et éclairs"
+  },
+  {
+   "img": "vitrine-fruits",
+   "alt": "Tartelettes aux fruits rouges et entremets au chocolat en vitrine"
+  },
+  {
+   "img": "tartine",
+   "alt": "Une tartine grillée à l'avocat, au jambon cru et à la burrata"
+  },
+  {
+   "img": "sandwichs",
+   "alt": "La vitrine salée : croque-monsieur, quiches, sandwichs, paninis et salades"
+  },
+  {
+   "img": "salade",
+   "alt": "Une salade de pâtes à la tomate et à la mozzarella"
+  }
+ ],
+ "bloc2": {
+  "titre": "Rue de la 1ère Armée",
+  "texte": "Au cœur de Thann, la pâtisserie et le salon de thé se partagent une salle claire sous les poutres anciennes : la vitrine sucrée d'un côté, la vitrine salée de l'autre.",
+  "img": "vitrine",
+  "alt": "La vitrine de L'histoire d'une pause"
+ },
+ "horaires": {
+  "lundi": [],
+  "mardi": [
+   "07:00-18:00"
+  ],
+  "mercredi": [
+   "07:00-18:00"
+  ],
+  "jeudi": [
+   "07:00-18:00"
+  ],
+  "vendredi": [
+   "07:00-18:00"
+  ],
+  "samedi": [
+   "07:00-18:00"
+  ],
+  "dimanche": [
+   "14:00-18:00"
+  ]
+ }
+}
