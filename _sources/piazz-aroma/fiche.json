@@ -1,0 +1,141 @@
+{
+ "slug": "piazz-aroma",
+ "famille": "restaurant",
+ "polices": 5,
+ "braises": false,
+ "nom": "Piazz'Aroma",
+ "activite": "Alimentation italienne et traiteur",
+ "description": "Piazz'Aroma, alimentation italienne à Lutterbach (Cité de l'Habitat, rue de Thann) : pizzas, arancini, panzerotti, lasagnes, charcuteries et fromages à la coupe, antipasti, vins. Pour particuliers et professionnels.",
+ "ville": "Lutterbach",
+ "adresse": "Cité de l'Habitat, rue de Thann",
+ "cp_ville": "68460 Lutterbach",
+ "maps_dest": "47.7623299,7.2650722",
+ "tel": "+33368333713",
+ "tel_affiche": "03 68 33 37 13",
+ "email": "lebollicine1968@gmail.com",
+ "note": "5,0",
+ "avis": 46,
+ "couleurs": {
+  "principale": "#7a2e24",
+  "accent": "#3f8a52"
+ },
+ "initiales": "PA",
+ "hero": "pizza",
+ "hero_alt": "Une pizza margherita en barquette, la mozzarella fondue et les feuilles de basilic frais",
+ "hero_pos": "50% 50%",
+ "accroche": "Alimentation italienne, Cité de l'Habitat à Lutterbach",
+ "titre_lignes": [
+  "Piazz'",
+  "Aroma"
+ ],
+ "slogan": "L'Italie gourmande proche de chez vous : pizzas, arancini, plats du traiteur, charcuteries et fromages à la coupe.",
+ "offre_titre": "La carte du traiteur",
+ "offre_intro": "Notre carte d'automne, à emporter. Les pizzas sont à la mozzarella fior di latte.",
+ "offre": [
+  {
+   "titre": "Margherita",
+   "texte": "Tomates confites, sauce tomate basilic, mozzarella fior di latte.",
+   "prix": "10 €"
+  },
+  {
+   "titre": "Diavola",
+   "texte": "Poivrons grillés, spianata piquante.",
+   "prix": "11 €"
+  },
+  {
+   "titre": "Lazio",
+   "texte": "Base blanche, porchetta aux herbes, pommes de terre, taleggio.",
+   "prix": "12 €"
+  },
+  {
+   "titre": "Bologna",
+   "texte": "Mortadelle, tomates cerises confites, pesto de pistache, grana, burrata.",
+   "prix": "12 €"
+  },
+  {
+   "titre": "Tartufo",
+   "texte": "Base blanche, morilles, crème de truffe noire, jambon cuit à la truffe.",
+   "prix": "13 €"
+  },
+  {
+   "titre": "Lasagne",
+   "texte": "Traditionnelle, au bœuf et à la béchamel.",
+   "prix": "9,50 €"
+  },
+  {
+   "titre": "Pâtes au pesto",
+   "texte": "Pesto maison, burrata et pignons de pin.",
+   "prix": "9,50 €"
+  },
+  {
+   "titre": "Arancini",
+   "texte": "À la pièce, dès le jeudi.",
+   "prix": "4,50 €"
+  },
+  {
+   "titre": "Pagnote apéritives",
+   "texte": "12 mini-boules de pizza farcies, à commander 48 h avant.",
+   "prix": "12,90 €"
+  },
+  {
+   "titre": "Tiramisù ou panna cotta",
+   "texte": "",
+   "prix": "3,90 €"
+  }
+ ],
+ "encart": {
+  "titre": "À la coupe",
+  "texte": "Charcuteries fines et fromages, 5 sortes par personne, 6,90 € chacun. Raclette à l'italienne 11,90 €, raclette mixte au taleggio et à la scamorza fumée 13,90 €."
+ },
+ "photos": [
+  {
+   "img": "arancini",
+   "alt": "Dix arancini dorés sur un plateau"
+  },
+  {
+   "img": "planche",
+   "alt": "Un plateau de charcuteries et de fromages italiens, chaque fromage étiqueté : taleggio, pecorino, parmesan 30 mois"
+  },
+  {
+   "img": "puccia",
+   "alt": "Des pizzas pliées garnies de jambon cru, de roquette, de burrata et de tomates cerises jaunes"
+  },
+  {
+   "img": "antipasti",
+   "alt": "Un plateau d'antipasti : olives, courgettes grillées, poivrons, artichauts, tomates confites, petits piments farcis, oignons"
+  },
+  {
+   "img": "pizza",
+   "alt": "Une pizza margherita au basilic frais"
+  },
+  {
+   "img": "facade",
+   "alt": "La façade de Piazz'Aroma, en bardage bois rouge, et son drapeau « Ouvert »"
+  }
+ ],
+ "bloc2": {
+  "titre": "Cité de l'Habitat",
+  "texte": "Piazz'Aroma est à la Cité de l'Habitat, à Lutterbach : une grande façade en bois rouge, et à l'intérieur l'alimentation italienne, pour les particuliers comme pour les professionnels. Ouvert du mardi au vendredi de 10 h à 19 h, et le samedi de 9 h à 15 h.",
+  "img": "facade",
+  "alt": "La façade de Piazz'Aroma"
+ },
+ "horaires": {
+  "lundi": [],
+  "mardi": [
+   "10:00-19:00"
+  ],
+  "mercredi": [
+   "10:00-19:00"
+  ],
+  "jeudi": [
+   "10:00-19:00"
+  ],
+  "vendredi": [
+   "10:00-19:00"
+  ],
+  "samedi": [
+   "09:00-15:00"
+  ],
+  "dimanche": []
+ }
+}
