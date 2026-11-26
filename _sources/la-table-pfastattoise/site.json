@@ -1,0 +1,36 @@
+{
+ "fonts": [
+  {
+   "key": "titre",
+   "family": "grenze-gotisch",
+   "weight": 600
+  },
+  {
+   "key": "texte",
+   "family": "schibsted-grotesk",
+   "variable": true
+  }
+ ],
+ "horaires": {
+  "lundi": [],
+  "mardi": [
+   "11:45-14:00"
+  ],
+  "mercredi": [
+   "11:45-14:00",
+   "19:00-22:00"
+  ],
+  "jeudi": [
+   "11:45-14:00"
+  ],
+  "vendredi": [
+   "11:45-14:00",
+   "19:00-22:00"
+  ],
+  "samedi": [
+   "11:45-14:00",
+   "19:00-22:00"
+  ],
+  "dimanche": []
+ }
+}

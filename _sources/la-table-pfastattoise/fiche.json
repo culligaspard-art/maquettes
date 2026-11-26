@@ -1,0 +1,117 @@
+{
+ "slug": "la-table-pfastattoise",
+ "famille": "restaurant",
+ "polices": 3,
+ "nom": "La Table Pfastattoise",
+ "activite": "Restaurant, traiteur et brasseur",
+ "description": "La Table Pfastattoise, restaurant, traiteur et brasseur au 18 rue de Richwiller à Pfastatt : plats faits maison, spécialités alsaciennes, menu du jour sur place, à emporter ou en livraison, et notre bière La Pfastattoise.",
+ "ville": "Pfastatt",
+ "adresse": "18 rue de Richwiller",
+ "cp_ville": "68120 Pfastatt",
+ "maps_dest": "47.769661,7.304617",
+ "tel": "+33389558184",
+ "tel_affiche": "03 89 55 81 84",
+ "email": "senn-daniel@orange.fr",
+ "facebook": "https://www.facebook.com/p/La-Table-Pfastattoise-100063069708567/",
+ "note": "4,6",
+ "avis": 126,
+ "couleurs": {
+  "principale": "#b01826",
+  "accent": "#e2b25c"
+ },
+ "hero": "salle",
+ "hero_alt": "La salle de La Table Pfastattoise : nappes à carreaux rouges, boiseries, le bar et les ardoises",
+ "hero_pos": "50% 55%",
+ "accroche": "Restaurant, traiteur et brasseur, 18 rue de Richwiller à Pfastatt",
+ "titre_lignes": [
+  "La Table",
+  "Pfastattoise"
+ ],
+ "slogan": "Des plats faits maison, des spécialités alsaciennes et notre bière, La Pfastattoise. Le menu du jour est à l'ardoise.",
+ "offre_titre": "À notre table",
+ "offre_intro": "Le menu du jour, nos classiques et le service traiteur. Pour la carte du moment, appelez-nous.",
+ "offre": [
+  {
+   "titre": "Le menu du jour",
+   "texte": "Écrit chaque jour à l'ardoise, devant la porte. Sur place, à emporter ou en livraison."
+  },
+  {
+   "titre": "Spécialités alsaciennes",
+   "texte": "Des plats de chez nous, faits maison."
+  },
+  {
+   "titre": "Cordon bleu, côte de bœuf",
+   "texte": "Nos classiques à la carte, avec leurs garnitures."
+  },
+  {
+   "titre": "La planche",
+   "texte": "Charcuteries, fromages et cornichons, sur la planche en bois."
+  },
+  {
+   "titre": "Traiteur",
+   "texte": "Buffet froid ou chaud, plats ou menu à la demande."
+  },
+  {
+   "titre": "La Pfastattoise",
+   "texte": "Notre bière : blanche, blonde, ambrée ou au crémant. En pression sur place, en bouteille à emporter."
+  }
+ ],
+ "encart": {
+  "titre": "Réserver",
+  "texte": "Une table pour ce midi, un plat à emporter ou un buffet : appelez-nous au 03 89 55 81 84."
+ },
+ "photos": [
+  {
+   "img": "cordon-bleu",
+   "alt": "Un cordon bleu doré, sauce crémeuse aux champignons, pâtes gratinées et salade"
+  },
+  {
+   "img": "pot-au-feu",
+   "alt": "Une assiette de viande de bœuf avec son os à moelle, carottes râpées, chou rouge, céleri et cornichon"
+  },
+  {
+   "img": "planche",
+   "alt": "Une planche en bois de charcuteries, fromages et cornichons"
+  },
+  {
+   "img": "assiette-soir",
+   "alt": "Une assiette dressée avec une sauce au vin rouge et du persil frais"
+  },
+  {
+   "img": "facade",
+   "alt": "La vitrine de La Table Pfastattoise, les géraniums et l'ardoise du menu du jour"
+  },
+  {
+   "img": "terrasse",
+   "alt": "Une table de la terrasse guinguette, nappe à carreaux rouges devant le mur de verdure"
+  }
+ ],
+ "bloc2": {
+  "titre": "La terrasse guinguette",
+  "texte": "En été, nous ouvrons notre terrasse guinguette : nappes à carreaux rouges, fauteuils et un mur de verdure. À l'intérieur, la salle garde ses boiseries, son bar et ses ardoises.",
+  "img": "terrasse",
+  "alt": "La terrasse guinguette de La Table Pfastattoise"
+ },
+ "horaires": {
+  "lundi": [],
+  "mardi": [
+   "11:45-14:00"
+  ],
+  "mercredi": [
+   "11:45-14:00",
+   "19:00-22:00"
+  ],
+  "jeudi": [
+   "11:45-14:00"
+  ],
+  "vendredi": [
+   "11:45-14:00",
+   "19:00-22:00"
+  ],
+  "samedi": [
+   "11:45-14:00",
+   "19:00-22:00"
+  ],
+  "dimanche": []
+ }
+}
