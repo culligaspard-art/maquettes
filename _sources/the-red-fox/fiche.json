@@ -1,0 +1,119 @@
+{
+ "slug": "the-red-fox",
+ "famille": "restaurant",
+ "polices": 7,
+ "braises": false,
+ "nom": "The Red Fox",
+ "activite": "Bar à bières, pub",
+ "description": "The Red Fox, bar à bières au 1 place Abbatucci à Huningue : bières à la pression, finger food, billard et fléchettes, sports sur grand écran et concerts. Horaires et accès.",
+ "ville": "Huningue",
+ "adresse": "1 place Abbatucci",
+ "cp_ville": "68330 Huningue",
+ "maps_dest": "47.5917538,7.584045",
+ "tel": "+33389676376",
+ "tel_affiche": "03 89 67 63 76",
+ "email": "theredfoxpub@gmail.com",
+ "facebook": "https://www.facebook.com/TheRedFoxHuningue/",
+ "note": "4,6",
+ "avis": 243,
+ "preuve_extra": "et recommandé à 92 % sur Facebook",
+ "couleurs": {
+  "principale": "#1d3a32",
+  "accent": "#d8742f"
+ },
+ "initiales": "RF",
+ "hero": "scene",
+ "hero_alt": "La petite scène du Red Fox : batterie, amplis Marshall, tapis, mur en bois et maillots accrochés",
+ "hero_pos": "50% 55%",
+ "accroche": "Bar à bières, 1 place Abbatucci à Huningue",
+ "titre_lignes": [
+  "The Red",
+  "Fox"
+ ],
+ "slogan": "Bières, finger food, billard et fléchettes, sports et concerts, du mardi au dimanche à partir de 17 h 30.",
+ "offre_titre": "Au bar",
+ "offre_intro": "Ce qui vous attend place Abbatucci.",
+ "offre": [
+  {
+   "titre": "Les bières",
+   "texte": "Guinness, Meteor, Sainte Cru, et la Meteor de Noël, ambrée, aux saveurs d'orange et d'épices."
+  },
+  {
+   "titre": "Finger food",
+   "texte": "Des planches de charcuterie et de fromages à partager : jambon cru, saucisson, comté, bleu aux noix."
+  },
+  {
+   "titre": "Cocktails",
+   "texte": "Rouges, à la menthe fraîche, servis au verre à pied."
+  },
+  {
+   "titre": "Billard et fléchettes",
+   "texte": "Deux billards dans la salle du fond, et la cible au mur."
+  },
+  {
+   "titre": "Sports",
+   "texte": "Les matchs sur grand écran, sous les maillots du XV de France et du handball de Village-Neuf."
+  },
+  {
+   "titre": "Live music",
+   "texte": "Des concerts sur la petite scène, comme By the Way, le tribute aux Red Hot Chili Peppers."
+  }
+ ],
+ "encart": {
+  "titre": "Pool & darts",
+  "texte": "Deux tables de billard et des fléchettes, dans la salle aux murs vert sapin. Venez entre amis."
+ },
+ "photos": [
+  {
+   "img": "planche",
+   "alt": "Une planche de jambon cru, saucisson, comté, bleu aux noix et tomates cerises, devant la carte du Red Fox"
+  },
+  {
+   "img": "meteor-noel",
+   "alt": "Une Meteor de Noël ambrée dans son verre à pied, entre deux bougies rouges"
+  },
+  {
+   "img": "concert",
+   "alt": "Un concert de By the Way sur la scène du Red Fox, sous les lumières violettes"
+  },
+  {
+   "img": "billards",
+   "alt": "La salle du fond : deux billards au tapis vert devant un mur vert sapin"
+  },
+  {
+   "img": "cocktails",
+   "alt": "Deux cocktails rouges à la menthe et au concombre, sur un plateau"
+  },
+  {
+   "img": "facade",
+   "alt": "La vitrine du Red Fox le soir : néons, Guinness, Meteor et Sainte Cru sur les vitres"
+  }
+ ],
+ "bloc2": {
+  "titre": "Place Abbatucci",
+  "texte": "The Red Fox est au 1 place Abbatucci, au centre de Huningue : une vitrine aux néons, un comptoir, une petite scène, et une salle du fond pour le billard. Ouvert du mardi au dimanche à partir de 17 h 30, tard le week-end.",
+  "img": "facade",
+  "alt": "La façade du Red Fox le soir"
+ },
+ "horaires": {
+  "lundi": [],
+  "mardi": [
+   "17:30-00:00"
+  ],
+  "mercredi": [
+   "17:30-00:00"
+  ],
+  "jeudi": [
+   "17:30-01:00"
+  ],
+  "vendredi": [
+   "17:30-01:30"
+  ],
+  "samedi": [
+   "17:30-01:30"
+  ],
+  "dimanche": [
+   "18:00-00:00"
+  ]
+ }
+}

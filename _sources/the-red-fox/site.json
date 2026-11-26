@@ -1,0 +1,35 @@
+{
+ "fonts": [
+  {
+   "key": "titre",
+   "family": "pirata-one",
+   "weight": 400
+  },
+  {
+   "key": "texte",
+   "family": "lora",
+   "variable": true
+  }
+ ],
+ "horaires": {
+  "lundi": [],
+  "mardi": [
+   "17:30-00:00"
+  ],
+  "mercredi": [
+   "17:30-00:00"
+  ],
+  "jeudi": [
+   "17:30-01:00"
+  ],
+  "vendredi": [
+   "17:30-01:30"
+  ],
+  "samedi": [
+   "17:30-01:30"
+  ],
+  "dimanche": [
+   "18:00-00:00"
+  ]
+ }
+}

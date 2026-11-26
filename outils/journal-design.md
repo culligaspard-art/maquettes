@@ -127,3 +127,4 @@ Une ligne par maquette. Avant chaque nouveau site, relire les 10 dernières lign
 | 2026-11-26 | L'histoire d'une pause (Thann) | patisserie | Gloock / Parisienne / Outfit | ovale doré, arche photo vitrine, damier chocolat-terracotta |
 | 2026-11-26 | Le Point Couture (Thann) | commerce (mercerie) | Cinzel / Nunito Sans | rouge de la vitrine, or de l'enseigne à empattements, store rayé | Modèle commerce |
 | 2026-11-26 | MS'Elec' (Thann) | Électricien | Big Shoulders Display / Manrope | turquoise et bleu nuit du logo MS'Elec', papier millimétré | Modèle artisan, nouveau dessin « schema » : un schéma électrique (interrupteur, lampe, prise, terre) se trace, le nom est tamponné |
+| 2026-11-26 | The Red Fox (Huningue) | Bar à bières, pub | Pirata One / Lora | vert sapin des murs et de la carte, orange du renard-houblon de leur logo | Modèle restaurant sans braises ; hero : leur petite scène |
