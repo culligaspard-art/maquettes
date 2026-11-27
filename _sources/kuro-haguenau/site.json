@@ -1,0 +1,35 @@
+{
+ "fonts": [
+  {
+   "key": "titre",
+   "family": "shippori-mincho",
+   "weight": 600
+  },
+  {
+   "key": "texte",
+   "family": "albert-sans",
+   "variable": true
+  }
+ ],
+ "horaires": {
+  "lundi": [
+   "10:00-20:00"
+  ],
+  "mardi": [
+   "10:00-20:00"
+  ],
+  "mercredi": [
+   "10:00-20:00"
+  ],
+  "jeudi": [
+   "10:00-20:00"
+  ],
+  "vendredi": [
+   "10:00-20:00"
+  ],
+  "samedi": [
+   "10:00-20:00"
+  ],
+  "dimanche": []
+ }
+}

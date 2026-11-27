@@ -70,6 +70,7 @@ FAMILLES = {
             [("titre", "abril-fatface", False, "normal", 400), ("texte", "source-sans-3", True, "normal", None)],
             [("titre", "gloock", False, "normal", 400), ("texte", "manrope", True, "normal", None)],
             [("titre", "libre-caslon-display", False, "normal", 400), ("texte", "public-sans", True, "normal", None)],
+            [("titre", "shippori-mincho", False, "normal", 600), ("texte", "albert-sans", True, "normal", None)],
         ],
     },
     "artisan": {

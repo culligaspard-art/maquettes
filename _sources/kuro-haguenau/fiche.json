@@ -1,0 +1,49 @@
+{
+ "slug": "kuro-haguenau",
+ "famille": "restaurant",
+ "braises": false,
+ "polices": 11,
+ "nom": "KURO",
+ "activite": "Restaurant japonais",
+ "description": "KURO, restaurant japonais au 39 avenue du Professeur René Leriche à Haguenau : sushi, makis, california rolls et poke bowls, à emporter ou sur place, du lundi au samedi de 10 h à 20 h.",
+ "ville": "Haguenau",
+ "adresse": "39 avenue du Professeur René Leriche",
+ "cp_ville": "67500 Haguenau",
+ "maps_dest": "48.7985577,7.7812837",
+ "tel": "+33962181348",
+ "tel_affiche": "09 62 18 13 48",
+ "email": "kurohaguenau@gmail.com",
+ "resa_url": null,
+ "note": "4,8",
+ "avis": 25,
+ "couleurs": {"principale": "#1b1b1d", "accent": "#a24a33"},
+ "initiales": "K",
+ "hero": "salle",
+ "hero_alt": "La salle de KURO : tables couleur brique, chaises noires, lames de bois et grandes baies vitrées",
+ "hero_pos": "50% 50%",
+ "accroche": "Restaurant japonais, avenue du Professeur René Leriche à Haguenau",
+ "titre_lignes": ["KURO"],
+ "slogan": "Sushi, makis, california rolls et poke bowls, préparés frais. À emporter ou sur place, du lundi au samedi de 10 h à 20 h.",
+ "offre_titre": "Notre carte",
+ "offre_intro": "Une cuisine japonaise fraîche, à emporter ou à déguster sur place. Vous commandez en quelques clics et vous récupérez votre commande sans attente.",
+ "offre": [
+  {"titre": "Sushi et makis", "texte": "Des rolls nappés de saumon, relevés d'épices, de sésame noir et de jeunes pousses.", "prix": ""},
+  {"titre": "California rolls", "texte": "Et les autres spécialités japonaises de notre carte.", "prix": ""},
+  {"titre": "Rolls croustillants", "texte": "Panés et dorés, garnis de tartare de saumon, ciboulette et sésame.", "prix": ""},
+  {"titre": "Poke bowls", "texte": "À emporter ou à déguster sur place.", "prix": ""},
+  {"titre": "Épicerie japonaise", "texte": "Quelques produits pour cuisiner japonais chez vous.", "prix": ""}
+ ],
+ "encart": {"titre": "Vingt places sur place", "texte": "Pas de service à table : vous commandez, vous récupérez votre plateau, et vous pouvez le déguster dans notre salle. Nous sommes sur le parking E.Leclerc."},
+ "photos": [
+  {"img": "rolls-saumon", "alt": "Des rolls nappés de saumon, épices, sésame noir et jeunes pousses"},
+  {"img": "rolls-croustillants", "alt": "Des rolls croustillants garnis de tartare de saumon et ciboulette, dans leur barquette"},
+  {"img": "rolls-kokeshi", "alt": "Une rangée de rolls au saumon devant une poupée kokeshi"},
+  {"img": "salle-haute", "alt": "La salle sous son plafond noir, le panneau aux grues et les baies vitrées"},
+  {"img": "facade", "alt": "La façade vitrée de KURO : sushi, poke bowl, épicerie, du lundi au samedi de 10 h à 20 h"}
+ ],
+ "bloc2": {"titre": "Kuro, le noir", "texte": "Notre nom s'écrit 黒 : le noir, en japonais. Une salle sombre et lumineuse à la fois, avec ses lames de bois, ses tables couleur brique et ses grandes baies vitrées, pour un repas japonais rapide, à Haguenau, Schweighouse-sur-Moder, Bischwiller ou dans les environs.", "img": "salle-haute", "alt": "La salle de KURO"},
+ "horaires": {
+  "lundi": ["10:00-20:00"], "mardi": ["10:00-20:00"], "mercredi": ["10:00-20:00"], "jeudi": ["10:00-20:00"],
+  "vendredi": ["10:00-20:00"], "samedi": ["10:00-20:00"], "dimanche": []
+ }
+}
