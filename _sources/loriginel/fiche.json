@@ -1,0 +1,132 @@
+{
+ "slug": "loriginel",
+ "famille": "restaurant",
+ "braises": false,
+ "nom": "L'Origine'L",
+ "activite": "Restaurant et bar",
+ "description": "L'Origine'L, restaurant-bar au 22 route de Strasbourg à Haguenau depuis 2019 : une cuisine de cheffe, des suggestions de saison, une terrasse ombragée avec paillotes, à emporter et fêtes privées.",
+ "ville": "Haguenau",
+ "adresse": "22 route de Strasbourg",
+ "cp_ville": "67500 Haguenau",
+ "maps_dest": "48.8088909,7.7791431",
+ "tel": "+33390592476",
+ "tel_affiche": "03 90 59 24 76",
+ "email": "loriginel67@gmail.com",
+ "resa_url": null,
+ "note": "4,7",
+ "avis": 363,
+ "couleurs": {
+  "principale": "#1f5f6e",
+  "accent": "#d6336c"
+ },
+ "initiales": "O",
+ "logo": "logo",
+ "hero": "assiette-mer",
+ "hero_alt": "Une assiette de la mer : pavé de saumon, gambas, couteaux grillés, poisson blanc et pommes de terre",
+ "hero_pos": "50% 50%",
+ "accroche": "Restaurant et bar, route de Strasbourg à Haguenau",
+ "titre_lignes": [
+  "L'Origine'L"
+ ],
+ "slogan": "Depuis janvier 2019, la Cheffe vous propose une cuisine à son image, des plats et des desserts préparés avec amour.",
+ "offre_titre": "La maison",
+ "offre_intro": "Nous avons régulièrement des suggestions de saison. Vous pouvez aussi commander à emporter.",
+ "offre": [
+  {
+   "titre": "Une cuisine de cheffe",
+   "texte": "Des plats et des desserts préparés avec amour, et des suggestions qui changent avec les saisons.",
+   "prix": ""
+  },
+  {
+   "titre": "À emporter",
+   "texte": "Commandez par téléphone et passez chercher votre repas.",
+   "prix": ""
+  },
+  {
+   "titre": "Fêtes privées",
+   "texte": "Mariage, anniversaire, EVJF, EVG, communion : contactez-nous.",
+   "prix": ""
+  },
+  {
+   "titre": "La 2e salle",
+   "texte": "Elle accueille de 14 à 16 personnes et peut être privatisée.",
+   "prix": ""
+  },
+  {
+   "titre": "Menu de Noël pour les groupes",
+   "texte": "À partir de 12 personnes, sur réservation uniquement.",
+   "prix": ""
+  },
+  {
+   "titre": "Commandes de fin d'année",
+   "texte": "Foie gras, nougat salé, cannelés : bon de commande à déposer au restaurant.",
+   "prix": ""
+  }
+ ],
+ "encart": {
+  "titre": "Pratique",
+  "texte": "À 600 m de la gare et à 200 m d'un parking public. Nos salles sont climatisées, et vos animaux de compagnie sont les bienvenus."
+ },
+ "photos": [
+  {
+   "img": "burrata",
+   "alt": "Une assiette de burrata, jambon cru, tomates, carottes et roquette"
+  },
+  {
+   "img": "salle",
+   "alt": "La salle principale au mur bleu canard en relief hexagonal, appliques dorées"
+  },
+  {
+   "img": "paillotes",
+   "alt": "Les paillotes de la terrasse, les bananiers et le mur rouge"
+  },
+  {
+   "img": "dessert",
+   "alt": "Une boule chocolat sur un coulis de fruits de la passion, dans une assiette en ardoise"
+  },
+  {
+   "img": "terrasse",
+   "alt": "La grande terrasse ombragée sous les parasols"
+  },
+  {
+   "img": "assiette-mer",
+   "alt": "L'assiette de la mer"
+  }
+ ],
+ "bloc2": {
+  "titre": "Une terrasse et ses paillotes",
+  "texte": "Une grande terrasse ombragée vous accueille en été, avec ses paillotes au bord du gazon. À l'intérieur, la salle principale et une deuxième salle de 14 à 16 places.",
+  "img": "paillotes",
+  "alt": "Les paillotes de L'Origine'L"
+ },
+ "horaires": {
+  "lundi": [
+   "11:45-14:00"
+  ],
+  "mardi": [
+   "11:45-14:00",
+   "18:45-21:30"
+  ],
+  "mercredi": [
+   "11:45-14:00",
+   "18:45-21:30"
+  ],
+  "jeudi": [
+   "11:45-14:00",
+   "18:45-21:30"
+  ],
+  "vendredi": [
+   "11:45-14:00",
+   "18:45-22:30"
+  ],
+  "samedi": [
+   "18:45-22:30"
+  ],
+  "dimanche": []
+ },
+ "polices": 9,
+ "nav_labels": {
+  "carte": "La maison"
+ },
+ "bouton_offre": "Découvrir la maison"
+}
