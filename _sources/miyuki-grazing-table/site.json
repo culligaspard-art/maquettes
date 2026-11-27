@@ -1,0 +1,35 @@
+{
+ "fonts": [
+  {
+   "key": "titre",
+   "family": "marcellus",
+   "weight": 400
+  },
+  {
+   "key": "texte",
+   "family": "figtree",
+   "variable": true
+  }
+ ],
+ "horaires": {
+  "lundi": [
+   "08:30-19:00"
+  ],
+  "mardi": [
+   "08:30-19:00"
+  ],
+  "mercredi": [
+   "08:30-19:00"
+  ],
+  "jeudi": [
+   "08:30-19:00"
+  ],
+  "vendredi": [
+   "08:30-19:00"
+  ],
+  "samedi": [
+   "08:30-19:00"
+  ],
+  "dimanche": []
+ }
+}

@@ -1,0 +1,125 @@
+{
+ "slug": "miyuki-grazing-table",
+ "famille": "restaurant",
+ "braises": false,
+ "polices": 5,
+ "nom": "Miyuki Grazing Table",
+ "activite": "Traiteur, tables et box gourmandes",
+ "description": "Miyuki Grazing Table, traiteur à Lingolsheim : tables et box gourmandes de charcuteries, fromages, dips maison, fruits et légumes, pour vos soirées, fêtes de famille, pauses en entreprise et mariages. Livraison.",
+ "ville": "Lingolsheim",
+ "adresse": "6 allée Marie Laurencin",
+ "cp_ville": "67380 Lingolsheim",
+ "maps_dest": "48.5590366,7.6990961",
+ "tel": "+33601772918",
+ "tel_affiche": "06 01 77 29 18",
+ "email": "miyuki.traiteur67@gmail.com",
+ "resa_url": null,
+ "note": "5,0",
+ "avis": 38,
+ "couleurs": {
+  "principale": "#3b2430",
+  "accent": "#b5641b"
+ },
+ "initiales": "M",
+ "hero": "box-ronde-haut",
+ "hero_alt": "Une box ronde garnie de charcuteries, fromages, figues, raisins, framboises et crackers",
+ "hero_pos": "50% 55%",
+ "accroche": "Traiteur, tables et box gourmandes à Lingolsheim",
+ "titre_lignes": [
+  "Miyuki",
+  "Grazing Table"
+ ],
+ "slogan": "Des tables et des box gourmandes à partager, composées comme de véritables tableaux, pour vos soirées, vos fêtes et vos pauses en entreprise.",
+ "nav_labels": {
+  "carte": "Nos box",
+  "lieu": "Le grazing",
+  "horaires": "Horaires et contact"
+ },
+ "bouton_offre": "Voir nos box",
+ "offre_titre": "Box et tables festives",
+ "offre_intro": "Le grazing vient d'Australie : on picore, on partage, et vous n'avez rien à faire. Chaque box et chaque table se compose selon vos envies.",
+ "offre": [
+  {
+   "titre": "Charcuteries et fromages",
+   "texte": "Une sélection, avec des créations maison.",
+   "prix": ""
+  },
+  {
+   "titre": "Dips maison",
+   "texte": "Houmous et tapenades préparés par nos soins.",
+   "prix": ""
+  },
+  {
+   "titre": "Produits de la mer",
+   "texte": "",
+   "prix": ""
+  },
+  {
+   "titre": "Fruits et légumes",
+   "texte": "En abondance, avec les fruits secs.",
+   "prix": ""
+  },
+  {
+   "titre": "Pains et crackers",
+   "texte": "Et le beurre pour les accompagner.",
+   "prix": ""
+  }
+ ],
+ "encart": {
+  "titre": "Soirées, fêtes, mariages, entreprises",
+  "texte": "Une soirée entre amis, un événement familial, une réception de mariage ou une pause en entreprise : nous proposons buffets, service traiteur et livraison. Très réactifs, nous nous adaptons à vos demandes."
+ },
+ "photos": [
+  {
+   "img": "plateau-fleurs",
+   "alt": "Un plateau de charcuteries en roses, rosaces de tête de moine, chou-fleur orange et fleurs comestibles"
+  },
+  {
+   "img": "box-truffe",
+   "alt": "Une box avec un fromage à la truffe, des figues, des framboises et du jambon"
+  },
+  {
+   "img": "buffet",
+   "alt": "Une grande table de grazing dressée dans des bureaux pour une pause en entreprise"
+  },
+  {
+   "img": "box-fraises",
+   "alt": "Une box festive de fraises, raisins, framboises et une bouteille de crémant"
+  },
+  {
+   "img": "cornets",
+   "alt": "Des cornets et des verrines gourmandes présentés sur un buffet fleuri"
+  },
+  {
+   "img": "box-ronde",
+   "alt": "Une box ronde de charcuteries, fromages, fruits et crackers"
+  }
+ ],
+ "bloc2": {
+  "titre": "Convivialité, plaisir et partage",
+  "texte": "Peu connu en France, le grazing transforme une table ou une box en tableau coloré et unique. On s'installe autour, on picore, on partage : c'est notre mot d'ordre.",
+  "img": "plateau-fleurs",
+  "alt": "Un plateau Miyuki"
+ },
+ "horaires": {
+  "lundi": [
+   "08:30-19:00"
+  ],
+  "mardi": [
+   "08:30-19:00"
+  ],
+  "mercredi": [
+   "08:30-19:00"
+  ],
+  "jeudi": [
+   "08:30-19:00"
+  ],
+  "vendredi": [
+   "08:30-19:00"
+  ],
+  "samedi": [
+   "08:30-19:00"
+  ],
+  "dimanche": []
+ }
+}
