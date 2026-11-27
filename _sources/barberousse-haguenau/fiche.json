@@ -1,0 +1,132 @@
+{
+ "slug": "barberousse-haguenau",
+ "famille": "restaurant",
+ "braises": false,
+ "polices": 2,
+ "nom": "Barberousse",
+ "activite": "Restaurant et pizzeria",
+ "description": "Le Restaurant Barberousse, restaurant-pizzeria au 8 place Barberousse à Haguenau : cuisine française et italienne, pizzas, pâtes, burgers, poissons, terrasse sous la vigne vierge, à emporter.",
+ "ville": "Haguenau",
+ "adresse": "8 place Barberousse",
+ "cp_ville": "67500 Haguenau",
+ "maps_dest": "48.8170041,7.788774",
+ "tel": "+33388733109",
+ "tel_affiche": "03 88 73 31 09",
+ "email": "amezair@yahoo.com",
+ "resa_url": null,
+ "note": "4,2",
+ "avis": 1049,
+ "couleurs": {
+  "principale": "#232d35",
+  "accent": "#b0553c"
+ },
+ "initiales": "B",
+ "hero": "terrasse",
+ "hero_alt": "La terrasse du Barberousse sous la vigne vierge, le tonneau fleuri et les parasols",
+ "hero_pos": "50% 55%",
+ "accroche": "Restaurant et pizzeria, place Barberousse à Haguenau",
+ "titre_lignes": [
+  "Barberousse"
+ ],
+ "slogan": "Une cuisine maison française et italienne : pizzas, pâtes, burgers et poissons, en salle ou sur la terrasse.",
+ "offre_titre": "Les formules",
+ "offre_intro": "Notre menu du jour, et nos pizzas en demi-pizza avec une salade. Prix relevés sur notre carte des formules.",
+ "offre": [
+  {
+   "titre": "Menu du jour, entrée et plat",
+   "texte": "",
+   "prix": "11 €"
+  },
+  {
+   "titre": "Menu du jour, plat et dessert",
+   "texte": "",
+   "prix": "11 €"
+  },
+  {
+   "titre": "Menu du jour, entrée, plat et dessert",
+   "texte": "",
+   "prix": "14 €"
+  },
+  {
+   "titre": "Formule demi-pizza et salade",
+   "texte": "Napolitaine, Paysanne, Forestière, 4 Saisons, 4 Fromages, Catalane, Flam's… avec une salade de tomates, bergère, niçoise ou de crudités.",
+   "prix": "15,90 €"
+  },
+  {
+   "titre": "Menu affaires",
+   "texte": "Pavé de saumon ou pièce du boucher, avec frites ou légumes.",
+   "prix": "14,90 €"
+  },
+  {
+   "titre": "Menu Bambino",
+   "texte": "Pizza jambon, pâtes bolognaise ou carbonara, et deux boules de glace.",
+   "prix": "8,90 €"
+  }
+ ],
+ "encart": {
+  "titre": "Sur place ou à emporter",
+  "texte": "Notre service à emporter vous permet de savourer nos plats chez vous. Vous organisez un événement ? Contactez-nous."
+ },
+ "photos": [
+  {
+   "img": "pizza-couronne",
+   "alt": "Une pizza en couronne au jambon cru, roquette et copeaux de parmesan, avec un burger et des frites"
+  },
+  {
+   "img": "salle-fresque",
+   "alt": "La salle aux colonnes dorées sculptées et au plafond peint"
+  },
+  {
+   "img": "salade-gambas",
+   "alt": "Une salade de gambas grillées, roquette, parmesan et orange"
+  },
+  {
+   "img": "pergola",
+   "alt": "La terrasse couverte sous la pergola et les palmiers"
+  },
+  {
+   "img": "salle-banquettes",
+   "alt": "La salle aux banquettes capitonnées, le soir"
+  },
+  {
+   "img": "terrasse",
+   "alt": "La terrasse sous la vigne vierge"
+  }
+ ],
+ "bloc2": {
+  "titre": "Place Barberousse",
+  "texte": "En salle, des colonnes dorées sculptées et un plafond peint ; dehors, une terrasse sous la vigne vierge et une pergola. Ouvert tous les jours, midi et soir.",
+  "img": "salle-fresque",
+  "alt": "La salle du Barberousse"
+ },
+ "horaires": {
+  "lundi": [
+   "11:30-14:00",
+   "18:30-22:00"
+  ],
+  "mardi": [
+   "11:30-14:30",
+   "18:30-22:00"
+  ],
+  "mercredi": [
+   "11:30-14:30",
+   "18:30-22:00"
+  ],
+  "jeudi": [
+   "11:30-14:00",
+   "18:30-22:00"
+  ],
+  "vendredi": [
+   "11:30-14:30",
+   "18:30-22:00"
+  ],
+  "samedi": [
+   "11:30-14:00",
+   "18:30-22:00"
+  ],
+  "dimanche": [
+   "11:30-14:00",
+   "18:30-22:00"
+  ]
+ }
+}
