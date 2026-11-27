@@ -1,0 +1,38 @@
+{
+ "fonts": [
+  {
+   "key": "titre",
+   "family": "libre-caslon-display",
+   "weight": 400
+  },
+  {
+   "key": "texte",
+   "family": "public-sans",
+   "variable": true
+  }
+ ],
+ "horaires": {
+  "lundi": [
+   "11:45-13:30"
+  ],
+  "mardi": [
+   "11:45-13:30",
+   "18:30-21:30"
+  ],
+  "mercredi": [],
+  "jeudi": [
+   "11:45-13:30",
+   "18:30-21:30"
+  ],
+  "vendredi": [
+   "11:45-14:00",
+   "18:30-22:30"
+  ],
+  "samedi": [
+   "18:30-22:30"
+  ],
+  "dimanche": [
+   "18:00-20:45"
+  ]
+ }
+}
