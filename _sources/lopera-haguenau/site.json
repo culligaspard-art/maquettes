@@ -1,0 +1,39 @@
+{
+ "fonts": [
+  {
+   "key": "titre",
+   "family": "abril-fatface",
+   "weight": 400
+  },
+  {
+   "key": "texte",
+   "family": "source-sans-3",
+   "variable": true
+  }
+ ],
+ "horaires": {
+  "lundi": [],
+  "mardi": [
+   "12:00-14:00",
+   "18:30-22:30"
+  ],
+  "mercredi": [
+   "12:00-14:00",
+   "18:30-22:30"
+  ],
+  "jeudi": [
+   "12:00-14:00",
+   "18:30-23:00"
+  ],
+  "vendredi": [
+   "12:00-14:00",
+   "18:30-24:00"
+  ],
+  "samedi": [
+   "18:30-24:00"
+  ],
+  "dimanche": [
+   "18:00-22:30"
+  ]
+ }
+}
