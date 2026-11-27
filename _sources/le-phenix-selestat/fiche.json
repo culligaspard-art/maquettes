@@ -1,0 +1,52 @@
+{
+ "slug": "le-phenix-selestat",
+ "famille": "restaurant",
+ "braises": false,
+ "polices": 1,
+ "nom": "Le Phénix",
+ "activite": "Restaurant chinois",
+ "description": "Le Phénix, restaurant chinois au 3 place du Marché aux Choux à Sélestat : dim sum maison, woks, canard laqué, à emporter et événements privés.",
+ "ville": "Sélestat",
+ "adresse": "3 place du Marché aux Choux",
+ "cp_ville": "67600 Sélestat",
+ "maps_dest": "48.2593239,7.4572528",
+ "tel": "+33388922171",
+ "tel_affiche": "03 88 92 21 71",
+ "email": "phenix.selestat@outlook.com",
+ "resa_url": null,
+ "note": "4,4",
+ "avis": 190,
+ "couleurs": {"principale": "#2a1714", "accent": "#a5332a"},
+ "initiales": "P",
+ "hero": "dim-sum",
+ "hero_alt": "Un panier vapeur en bambou garni de dim sum",
+ "hero_pos": "50% 50%",
+ "accroche": "Restaurant chinois, place du Marché aux Choux à Sélestat",
+ "titre_lignes": ["Le Phénix"],
+ "slogan": "La cuisine asiatique rencontre la tradition chinoise : dim sum maison, soupes parfumées et woks, en salle ou à emporter.",
+ "offre_titre": "Notre carte",
+ "offre_intro": "Inspiré par la culture culinaire chinoise, notre menu propose des spécialités variées.",
+ "offre": [
+  {"titre": "Dim sum maison", "texte": "Servis dans leur panier vapeur en bambou.", "prix": ""},
+  {"titre": "Soupes parfumées", "texte": "", "prix": ""},
+  {"titre": "Woks", "texte": "Comme nos crevettes sautées aux courgettes.", "prix": ""},
+  {"titre": "Canard laqué", "texte": "Servi tranché, avec ses crêpes, sa sauce et ses cébettes.", "prix": ""},
+  {"titre": "Entrées croustillantes", "texte": "Beignets de crevettes, samoussas, sauce aigre-douce.", "prix": ""},
+  {"titre": "Plats végétariens", "texte": "Préparés avec soin, pour les allergies et les régimes.", "prix": ""}
+ ],
+ "encart": {"titre": "À emporter et événements", "texte": "Vous pouvez commander à emporter, et nous accueillons vos événements privés. Parking à proximité."},
+ "photos": [
+  {"img": "canard", "alt": "Du canard laqué tranché avec ses crêpes, sa sauce et ses cébettes"},
+  {"img": "crevettes", "alt": "Des crevettes sautées aux courgettes"},
+  {"img": "saucisse", "alt": "De la saucisse laquée tranchée sur salade, avec un petit pain vapeur"},
+  {"img": "fritures", "alt": "Beignets de crevettes et samoussa, sauce aigre-douce et pousses de soja"},
+  {"img": "salade-poulet", "alt": "Une salade de poulet effiloché aux pousses de soja"},
+  {"img": "dim-sum", "alt": "Des dim sum dans leur panier vapeur"}
+ ],
+ "bloc2": {"titre": "Un voyage à travers l'Asie", "texte": "Dans une ambiance élégante, au cœur de Sélestat, chaque plat raconte une histoire. Pour un moment intime ou entre amis, à midi comme le soir.", "img": "canard", "alt": "Le canard laqué du Phénix"},
+ "horaires": {
+  "lundi": [], "mardi": [],
+  "mercredi": ["12:00-14:30", "19:00-22:30"], "jeudi": ["12:00-14:30", "19:00-22:30"],
+  "vendredi": ["12:00-14:30", "19:00-22:30"], "samedi": ["12:00-14:30", "19:00-22:30"], "dimanche": ["12:00-14:30", "19:00-22:30"]
+ }
+}
