@@ -1,0 +1,146 @@
+{
+ "slug": "au-farfadet",
+ "famille": "restaurant",
+ "braises": false,
+ "nom": "Au Farfadet",
+ "activite": "Crêperie alsacienne",
+ "description": "Au Farfadet, crêperie alsacienne au 48 Grand Rue à Sausheim : galettes de sarrasin, crêpes, salades, terrasse, vente à emporter. Réservation en ligne.",
+ "ville": "Sausheim",
+ "adresse": "48 Grand Rue",
+ "cp_ville": "68390 Sausheim",
+ "maps_dest": "47.7890988,7.3697359",
+ "tel": "+33650922941",
+ "tel_affiche": "06 50 92 29 41",
+ "email": "aufarfadet@gmail.com",
+ "resa_url": "https://bookings.zenchef.com/results?rid=364665&pid=1001",
+ "facebook": "https://www.facebook.com/creperie.aufarfadet",
+ "note": "4,5",
+ "avis": 622,
+ "couleurs": {
+  "principale": "#7a2231",
+  "accent": "#e09a86"
+ },
+ "initiales": "AF",
+ "hero": "galette-burrata",
+ "hero_alt": "Une galette de sarrasin dorée, garnie de burrata, de pesto, de tomates cerises et de roquette",
+ "hero_pos": "50% 55%",
+ "accroche": "Crêperie alsacienne, Grand Rue à Sausheim",
+ "titre_lignes": [
+  "Au",
+  "Farfadet"
+ ],
+ "slogan": "Le goût de la Bretagne, la générosité de l'Alsace : galettes de sarrasin, crêpes, et une cuisine faite maison.",
+ "offre_titre": "Galettes et crêpes",
+ "offre_intro": "Toutes nos galettes salées sont accompagnées d'une petite salade composée.",
+ "offre": [
+  {
+   "titre": "La classique",
+   "texte": "Jambon, fromage, crème fraîche.",
+   "prix": "11,50 €"
+  },
+  {
+   "titre": "La forestière",
+   "texte": "Jambon, champignons frais, fromage, crème fraîche.",
+   "prix": "11,50 €"
+  },
+  {
+   "titre": "La complète",
+   "texte": "Jambon, champignons frais, œuf, mozzarella râpée, crème fraîche.",
+   "prix": "13 €"
+  },
+  {
+   "titre": "La crepzza",
+   "texte": "Jambon, champignons frais, œuf, fromage, sauce tomate.",
+   "prix": "13 €"
+  },
+  {
+   "titre": "La seguin",
+   "texte": "Jambon, chèvre, crème fraîche.",
+   "prix": "13 €"
+  },
+  {
+   "titre": "La 3 fromages",
+   "texte": "Au choix : munster, reblochon, chèvre, raclette, bleu, mozzarella râpée.",
+   "prix": "13,50 €"
+  },
+  {
+   "titre": "L'alsacienne",
+   "texte": "Munster, lardons, pommes de terre, oignons, crème fraîche.",
+   "prix": "14 €"
+  },
+  {
+   "titre": "La montagnarde",
+   "texte": "Reblochon, lardons, pommes de terre, oignons, crème fraîche.",
+   "prix": "14 €"
+  },
+  {
+   "titre": "La bressane",
+   "texte": "Poulet, bleu, crème fraîche.",
+   "prix": "14 €"
+  },
+  {
+   "titre": "La Baltique",
+   "texte": "Saumon fumé, crème fraîche, citron.",
+   "prix": "14,90 €"
+  }
+ ],
+ "encart": {
+  "titre": "Grande ou petite faim",
+  "texte": "L'Extrême : la galette en taille XXL, 6,50 € de plus que la galette de base. La petite faim : la galette en taille mini, 2,50 € de moins. Et des salades composées, de la Chlorophylle à la Maxi."
+ },
+ "photos": [
+  {
+   "img": "galette-salade",
+   "alt": "Une galette complète au jambon, pliée, servie avec une salade frisée"
+  },
+  {
+   "img": "galette-magret",
+   "alt": "Une galette ouverte au magret de canard fumé et aux champignons persillés"
+  },
+  {
+   "img": "crepe-chocolat",
+   "alt": "Des crêpes au chocolat, chantilly et boule de glace vanille"
+  },
+  {
+   "img": "terrasse",
+   "alt": "La maison à colombages rose et sa terrasse sous l'auvent « Au Farfadet »"
+  },
+  {
+   "img": "facade",
+   "alt": "La façade à colombages et la banderole « Crêperie Alsacienne »"
+  },
+  {
+   "img": "galette-burrata",
+   "alt": "Une galette à la burrata et au pesto"
+  }
+ ],
+ "bloc2": {
+  "titre": "Grand Rue, à Sausheim",
+  "texte": "Une maison à colombages rose sur la Grand Rue de Sausheim, et sa terrasse sous l'auvent. Notre cuisine est traditionnelle, faite maison avec des produits frais et de saison. Vente à emporter aux heures de service.",
+  "img": "terrasse",
+  "alt": "La terrasse d'Au Farfadet"
+ },
+ "horaires": {
+  "lundi": [],
+  "mardi": [
+   "11:45-14:00"
+  ],
+  "mercredi": [
+   "11:45-14:00",
+   "18:45-21:30"
+  ],
+  "jeudi": [
+   "11:45-14:00",
+   "18:45-21:30"
+  ],
+  "vendredi": [
+   "11:45-14:00",
+   "18:45-22:30"
+  ],
+  "samedi": [
+   "11:45-14:00",
+   "18:45-22:30"
+  ],
+  "dimanche": []
+ }
+}
