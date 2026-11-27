@@ -1,0 +1,51 @@
+{
+ "slug": "brasserie-lalsace-selestat",
+ "famille": "restaurant",
+ "braises": false,
+ "polices": 6,
+ "nom": "Brasserie l'Alsace",
+ "activite": "Brasserie",
+ "description": "La Brasserie l'Alsace, place de la Victoire au centre de Sélestat : burgers, salades, tartes flambées, planchettes et desserts, service de boissons en continu, 7 jours sur 7.",
+ "ville": "Sélestat",
+ "adresse": "6 place de la Victoire",
+ "cp_ville": "67600 Sélestat",
+ "maps_dest": "48.2586813,7.4519603",
+ "tel": "+33686661877",
+ "tel_affiche": "06 86 66 18 77",
+ "email": "philippe-bleger@hotmail.fr",
+ "resa_url": null,
+ "note": "4,0",
+ "avis": 559,
+ "couleurs": {"principale": "#2b2421", "accent": "#b4541f"},
+ "initiales": "A",
+ "hero": "salle-burger",
+ "hero_alt": "Une salade de chèvre chaud et un burger devant la salle aux banquettes orange et au plafond végétal",
+ "hero_pos": "50% 45%",
+ "accroche": "Brasserie, place de la Victoire à Sélestat",
+ "titre_lignes": ["Brasserie", "l'Alsace"],
+ "slogan": "Au centre de Sélestat : petite restauration et service de boissons en continu, 7 jours sur 7.",
+ "offre_titre": "Notre carte",
+ "offre_intro": "Un bol de salade offert sur demande. Les tartes flambées sont servies le soir et tout le week-end.",
+ "offre": [
+  {"titre": "Plat du jour", "texte": "", "prix": "11,90 €"},
+  {"titre": "Le burger de l'Alsace", "texte": "Au munster. Aussi en classique au cheddar, ou savoyard au fromage à raclette.", "prix": "14,90 €"},
+  {"titre": "Spaetzle au poulet", "texte": "À la crème de champignons, façon risotto.", "prix": "13,90 €"},
+  {"titre": "Salade alsacienne", "texte": "Cervelas, tomate, gruyère, salade verte. Aussi César ou chèvre chaud.", "prix": "11,90 €"},
+  {"titre": "Planchette mixte", "texte": "Assortiment de charcuteries et de fromages.", "prix": "10,90 €"},
+  {"titre": "Tarte flambée", "texte": "Gratinée 9,60 €, munster, chèvre miel ou forestière 10,60 €. Le soir et le week-end.", "prix": "8,60 €"},
+  {"titre": "Desserts", "texte": "Framboisier, Edelweiss, Cécilia, Paris-Brest ou fondant au chocolat.", "prix": "7 €"}
+ ],
+ "encart": {"titre": "En continu, de 8 h à 1 h", "texte": "Un café le matin, un plat à midi, une tarte flambée le soir, un verre le soir : la brasserie reste ouverte toute la journée, tous les jours."},
+ "photos": [
+  {"img": "tartelettes", "alt": "Des tartelettes aux fraises poudrées de sucre sur des assiettes noires"},
+  {"img": "salade", "alt": "Une salade au jambon cru, mozzarella, pêche et crème de balsamique"},
+  {"img": "planchette", "alt": "Une planchette de chorizo, salami, comté et brie sur une planche en bois"},
+  {"img": "banquettes", "alt": "Les banquettes orange capitonnées sous le plafond végétal et ses guirlandes"},
+  {"img": "salle", "alt": "La salle, ses chaises en velours, ses suspensions et le bar en vieux bois"}
+ ],
+ "bloc2": {"titre": "Place de la Victoire", "texte": "Des banquettes orange capitonnées, un plafond végétal piqué de guirlandes, un bar en vieux bois : notre brasserie au centre de Sélestat.", "img": "banquettes", "alt": "La salle de la Brasserie l'Alsace"},
+ "horaires": {
+  "lundi": ["09:00-01:00"], "mardi": ["08:00-01:00"], "mercredi": ["08:00-01:00"], "jeudi": ["08:00-01:00"],
+  "vendredi": ["08:00-01:00"], "samedi": ["09:00-01:00"], "dimanche": ["09:00-01:00"]
+ }
+}
