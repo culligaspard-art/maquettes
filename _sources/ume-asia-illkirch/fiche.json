@@ -1,0 +1,47 @@
+{
+ "slug": "ume-asia-illkirch",
+ "famille": "restaurant",
+ "braises": false,
+ "polices": 4,
+ "nom": "U'Me Asia",
+ "activite": "Traiteur asiatique",
+ "description": "U'Me Asia, traiteur asiatique au 6 avenue de Strasbourg à Illkirch-Graffenstaden : plats chauds en vitrine, sushi et makis, sur place ou à emporter, du lundi au samedi.",
+ "ville": "Illkirch-Graffenstaden",
+ "adresse": "6 avenue de Strasbourg",
+ "cp_ville": "67400 Illkirch-Graffenstaden",
+ "maps_dest": "48.545238,7.7404197",
+ "tel": "+33388603173",
+ "tel_affiche": "03 88 60 31 73",
+ "email": "ume_asia@yahoo.fr",
+ "resa_url": null,
+ "note": "4,6",
+ "avis": 347,
+ "couleurs": {"principale": "#1d2a1a", "accent": "#3d8a2c"},
+ "initiales": "U",
+ "hero": "comptoir",
+ "hero_alt": "La grande vitrine de plats chauds de U'Me Asia, sous les suspensions en bambou",
+ "hero_pos": "40% 55%",
+ "accroche": "Traiteur asiatique, avenue de Strasbourg à Illkirch-Graffenstaden",
+ "titre_lignes": ["U'Me Asia"],
+ "slogan": "Une vitrine de plats chauds, des sushi et des makis préparés chaque jour : à emporter ou à déguster sur place, du lundi au samedi.",
+ "offre_titre": "En vitrine",
+ "offre_intro": "Vous choisissez au comptoir, nous préparons votre barquette.",
+ "offre": [
+  {"titre": "Les plats chauds", "texte": "Une longue vitrine de plats asiatiques, à composer selon vos envies.", "prix": ""},
+  {"titre": "Les sushi", "texte": "Au saumon, alignés sur leurs plateaux.", "prix": ""},
+  {"titre": "Les makis et california", "texte": "Au sésame, au concombre, au saumon et à l'avocat.", "prix": ""},
+  {"titre": "Les plateaux", "texte": "Sushi et rolls assortis, avec gingembre et wasabi.", "prix": ""}
+ ],
+ "encart": {"titre": "Sur place ou à emporter", "texte": "Quelques tables vous attendent dans la salle. Paiement par carte, sans contact, tickets restaurant et chèques vacances. Salle climatisée et accessible."},
+ "photos": [
+  {"img": "plateau", "alt": "Un plateau de sushi au saumon et de rolls à l'avocat et au sésame"},
+  {"img": "sushis", "alt": "Des plateaux de sushi au saumon et de makis le long de la vitrine"},
+  {"img": "barquettes", "alt": "Des barquettes de california rolls prêtes à emporter"},
+  {"img": "facade", "alt": "La devanture de U'Me Asia et son panda vert"}
+ ],
+ "bloc2": {"titre": "Notre comptoir", "texte": "Des murs vert tilleul, des lattes de bois, des suspensions en bambou et une grande vitrine éclairée : notre panda vert vous accueille du lundi au samedi.", "img": "facade", "alt": "La devanture de U'Me Asia"},
+ "horaires": {
+  "lundi": ["09:30-20:30"], "mardi": ["09:30-20:30"], "mercredi": ["09:30-20:30"], "jeudi": ["09:30-20:30"],
+  "vendredi": ["09:30-20:30"], "samedi": ["09:30-20:30"], "dimanche": []
+ }
+}

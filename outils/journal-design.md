@@ -141,3 +141,4 @@ Une ligne par maquette. Avant chaque nouveau site, relire les 10 dernières lign
 | 2026-11-27 | L'Opera (Haguenau) | Restaurant-pizzeria | Abril Fatface / Source Sans 3 | noir de la mosaïque du four, bronze doré de leurs lettres | Modèle restaurant sans braises ; hero : le four à bois en mosaïque à leur nom |
 | 2026-11-27 | KURO (Haguenau) | Restaurant japonais, sushi à emporter | Shippori Mincho / Albert Sans | noir (kuro, leur nom), brique de leurs tables | Modèle restaurant sans braises ; nouvelle police de titre ajoutée (n° 11) ; hero : la salle et ses baies vitrées |
 | 2026-11-27 | Le Phénix (Sélestat) | Restaurant chinois | Young Serif / Karla | rouge laque et brun sombre | Modèle restaurant sans braises ; hero : le panier vapeur de dim sum |
+| 2026-11-27 | U'Me Asia (Illkirch) | Traiteur asiatique, sushi | Bebas Neue / Barlow | vert tilleul de leurs murs et de leur panda | Modèle restaurant sans braises ; hero : la vitrine de plats chauds |
